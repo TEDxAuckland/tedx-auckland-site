@@ -1,7 +1,15 @@
-{{> navigation }}
-{{> hero }}
-{{> speakers }}
-{{> talks }}
-{{> upcoming-events }}
-{{> what-about-us }}
-{{> footer }}
+<div class="grid-container fluid">
+  <div class="grid-x grid-margin-x">
+    <div class="cell small-3">cell</div>
+    <div class="cell small-6">cell
+      {{> navigation }}
+      {{> hero }}
+      {{> speakers }}
+      {{> talks }}
+      {{> upcoming-events }}
+      {{> what-about-us }}
+      {{> footer }}
+    </div>
+    <div class="cell small-3">cell</div>
+  </div>
+</div>
