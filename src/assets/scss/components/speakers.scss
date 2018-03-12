@@ -1,3 +1,54 @@
+$speaker-caption-height: 3em;
+
 .speakers {
-  background: $ted-bg-grey;
+  background-color: $ted-bg-black;
+  background: url('/assets/img/bg-swirl.png') no-repeat top;
+  background-size: cover;
+}
+
+.speakers-title {
+  font-size: 7em;
+  transform: translate(-0.45em, 0.47em);
+  font-weight: bold;
+}
+
+.speaker-card {
+  border: 0.5px solid black;
+  position: relative;
+  &:hover {
+    .speaker-image {
+      filter: grayscale(0%);
+    }
+    .speaker-caption {
+      background-color: $ted-primary;
+      font-weight: bold;
+    }
+  }
+}
+
+.speaker-image {
+  filter: grayscale(100%);
+  transition: filter 0.2s ease-out;
+
+}
+
+.speaker-caption {
+  width: 100%;
+  height: $speaker-caption-height;
+  background: rgba(19,19,19,0.6);
+  display: flex;
+  align-items: center;
+  line-height: normal;
+  font-family: 'Source Code Pro', monospace;
+  text-transform: uppercase;
+  padding: 0em 40% 0 1em;
+  position: absolute;
+  bottom: 0;
+  transition: all 0.2s ease-out;
+
+  &--active {
+    background-color: $ted-primary;
+    font-weight: bold;
+  }
+
 }
