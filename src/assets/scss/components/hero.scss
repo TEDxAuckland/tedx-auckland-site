@@ -1,18 +1,29 @@
+$hero-height: 85vh;
+
 .hero {
 
 }
 
-.slider-image-1 {
-  background-size: cover;
-  max-height: 30em;
+.hero-slide {
+  min-height: $hero-height;
+  width: 100%;
 }
 
-.slider-image-2 {
-  background-size: cover;
-  max-height: 30em;
+.hero-slide__content {
+  height: $hero-height;
 }
 
-.slider-image-3 {
+.hero-background-image-1 {
+  background: url('/assets/img/hero/hero-slider-1.jpg') no-repeat center;
   background-size: cover;
-  max-height: 30em;
+}
+
+.hero-background-image-2 {
+  background: url('/assets/img/hero/hero-slider-2.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.hero-background-image-3 {
+  background: url('/assets/img/hero/hero-slider-3.jpg') no-repeat center;
+  background-size: cover;
 }
