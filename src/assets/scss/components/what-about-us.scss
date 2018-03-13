@@ -1,3 +1,29 @@
 .what-about-us {
   background: $ted-bg-grey;
+  color: $ted-text-white;
+}
+
+.red {
+  color: $ted-primary
+}
+
+p.justify {
+  text-align: justify;
+}
+
+.flickr-imgs img {
+  width: 96%;
+  height: 96%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+
+div.vertical-line {
+  width: 1px;
+  height: 100%;
+  border-left: thick solid $ted-text-white;
+}
+
+.centred-line {
+  margin: 0 auto;
 }
