@@ -1,0 +1,32 @@
+---
+---
+
+$hero-height: 65vh;
+
+.hero {
+
+}
+
+.hero-slide {
+  min-height: $hero-height;
+  width: 100%;
+}
+
+.hero-slide__content {
+  height: $hero-height;
+}
+
+.hero-background-image-1 {
+  background: url('/assets/images/hero/hero-slider-1.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.hero-background-image-2 {
+  background: url('/assets/images/hero/hero-slider-2.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.hero-background-image-3 {
+  background: url('/assets/images/hero/hero-slider-3.jpg') no-repeat center;
+  background-size: cover;
+}
