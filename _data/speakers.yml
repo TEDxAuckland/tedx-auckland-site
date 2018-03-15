@@ -1,5 +1,5 @@
 - name: Emeline Paat Dahlstrom
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
   video: youtube
   bio: >
     Emeline Paat-Dahlstrom is a space entrepreneur. Originally from the
@@ -21,7 +21,7 @@
     - twitter
     - youtube
 - name: Alexander MacDonald
-  image: /assets/img/speaker-2.jpg
+  image: /assets/images/speaker-2.jpg
   video: youtube
   bio: >
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -39,18 +39,18 @@
     - myspace
     - twitter
 - name: speaker 3
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
 - name: speaker 4
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
 - name: speaker 5
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
 - name: speaker 6
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
 - name: speaker 7
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
 - name: speaker 8
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
 - name: speaker 9
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg
 - name: speaker 10
-  image: /assets/img/speaker-1.jpg
+  image: /assets/images/speaker-1.jpg

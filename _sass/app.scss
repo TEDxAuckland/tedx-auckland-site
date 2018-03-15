@@ -5,7 +5,7 @@
 @import 'sass-variables';
 @import 'settings';
 @import 'foundation';
-@import 'motion-ui';
+// @import 'motion-ui';
 
 @import 'shared';
 @import 'components/navigation';
@@ -58,8 +58,7 @@
 @include foundation-visibility-classes;
 // @include foundation-float-classes;
 @include foundation-flex-classes;
-
 // @include foundation-prototype-classes;
 
-@include motion-ui-transitions;
-@include motion-ui-animations;
+// @include motion-ui-transitions;
+// @include motion-ui-animations;
