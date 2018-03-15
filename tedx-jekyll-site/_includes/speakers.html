@@ -6,18 +6,18 @@
     <div class="grid-container">
 
       <div class="grid-x small-up-2 medium-up-3 large-up-4">
-        {{#each speakers as |speaker|}}
+        {% for speaker in site.data.speakers %}
           <div class="speaker-cell cell">
 
             <div class="speaker-card">
               <img class="speaker-image" src="{{speaker.image}}" alt="">
-              <div class="speaker-caption {{#if @first}} speaker-caption--active {{/if}}">
-                <span>{{speaker.name}} - {{@index}}</span>
+              <div class="speaker-caption {% if @forloop.first %} speaker-caption--active {% endif %}">
+                <span>{{ speaker.name }} -- {{ forloop.index }}</span>
               </div>
             </div>
 
           </div>
-        {{/each}}
+        {% endfor %}
       </div>
 
     </div>
