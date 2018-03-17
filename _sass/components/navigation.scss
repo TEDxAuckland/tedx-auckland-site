@@ -6,3 +6,18 @@
   color: white;
   font-family: helvetica;
 }
+
+.name {
+  height: 60px;
+  background-color: $ted-red;
+  font-weight: bold;
+  text-align: right;
+  line-height: 60px;
+}
+
+.next-event {
+  height: 60px;
+  background-color: $ted-grey-black;
+  font-weight: bold;
+  line-height: 60px;
+}
