@@ -4,14 +4,20 @@
 
 .logo {
   line-height: 4em;
-  text-align: center;
   display: inline-block;
   padding: 5px;
+  color: white;
+  @include breakpoint(small down) {
+    text-align: center;
+  }
 }
 
 .follow {
-  text-align: center;
+  text-align: right;
   font-weight: 900;
+  @include breakpoint(small down) {
+    text-align: center;
+  }
 }
 
 .text {
