@@ -8,18 +8,23 @@
     <title>Tedx Auckland</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <script defer src="/assets/js/fontawesome-all.js"></script>
-
   </head>
 
   <body>
 
-  {{ content }}
+    {{ content }}
 
-    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="/node_modules/foundation-sites/dist/js/foundation.min.js"></script>
+    <script src="/assets/js/vendor/jquery.min.js"></script>
+    <script src="/assets/js/vendor/foundation.min.js"></script>
+    {% if jekyll.environment == "development" %}
+      <script src="/assets/js/vendor/vue.js"></script>
+    {% else %}
+      <script src="/assets/js/vendor/vue.min.js"></script>
+    {% endif %}
     <script>
       $(document).foundation();
     </script>
+    <script src="assets/js/speakers-grid.js"></script>
 
   </body>
 
