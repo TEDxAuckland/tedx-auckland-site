@@ -14,6 +14,7 @@ $speaker-caption-height: 3em;
   border: 0.5px solid black;
   position: relative;
   &:hover {
+    border-bottom: none;
     .speaker-image {
       filter: grayscale(0%);
     }
@@ -27,7 +28,6 @@ $speaker-caption-height: 3em;
 .speaker-image {
   filter: grayscale(100%);
   transition: filter 0.2s ease-out;
-
 }
 
 .speaker-caption {
@@ -49,4 +49,37 @@ $speaker-caption-height: 3em;
     font-weight: bold;
   }
 
+}
+
+// weird selectors to get the specificity right
+.speakers {
+  .speaker-info {
+    &.cell {
+      background: $ted-bg-grey-darker;
+      border-top: 0.2em solid $ted-primary;
+      width: 100%;
+      padding-top: 4em;
+      padding-bottom: 4em;
+    }
+  }
+}
+
+.speaker-info__video {
+}
+
+.speaker-info__heading {
+  font-family: 'Source Code Pro', monospace;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  font-weight: bold;
+  width: 50%;
+  border-left: 0.6em solid $ted-primary;
+  padding-top: 0.2em;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
 }
