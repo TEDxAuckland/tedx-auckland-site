@@ -7,7 +7,7 @@
         <div class="speaker-card" @click="toggleActiveSpeaker(index)">
           <img class="speaker-image" :src="speaker.image" alt="">
           <div class="speaker-caption" :class="{ 'speaker-caption--active': speakerActive(index) }">
-            <span>{{ speaker.name }} -- {{ index }}</span>
+            <span>{{ speaker.name }}</span>
           </div>
         </div>
       </div>
@@ -19,7 +19,13 @@
             <div class="grid-x grid-padding-x">
 
               <div class="cell small-12 medium-6">
-                <img class="speaker-info__video" src="http://placehold.it/600x400" />
+                <div class="expanded-image">
+                  <img class="speaker-info__video" :src="activeSpeaker.expandedImage" />
+                  <div class="expanded-image-caption" :class="{ 'speaker-caption--active': speakerActive(index) }">
+                    <span class="caption-icon"><i class="fab fa-youtube fa-2x"></i></span>
+                    <span>{{ activeSpeaker.expandedImageCaption }}</span>
+                  </div>
+                </div>
               </div>
 
               <div class="cell small-12 medium-6">

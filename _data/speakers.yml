@@ -1,5 +1,8 @@
 - name: Emeline Paat Dahlstrom
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My philosophy for a happy life Sam Berns | TEDxMidAtlantic
   video: youtube
   bio: >
     Emeline Paat-Dahlstrom is a space entrepreneur. Originally from the
@@ -16,12 +19,16 @@
   links:
     - http://internationalspace.com/
     - http://spacebase.co/
-  social_media:
+  socialMedia:
     - whatsapp
     - twitter
     - youtube
+
 - name: Alexander MacDonald
-  image: /assets/images/speaker-2.jpg
+  image: /assets/images/speakers/speaker-2.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
   video: youtube
   bio: >
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -35,11 +42,15 @@
   links:
     - http://example.com/
     - http://other.co/
-  social_media:
+  socialMedia:
     - myspace
     - twitter
+
 - name: speaker 3
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
   video: youtube
   bio: >
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -53,11 +64,15 @@
   links:
     - http://example.com/
     - http://other.co/
-  social_media:
+  socialMedia:
     - myspace
     - twitter
+
 - name: speaker 4
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
   video: youtube
   bio: >
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -71,18 +86,42 @@
   links:
     - http://example.com/
     - http://other.co/
-  social_media:
+  socialMedia:
     - myspace
     - twitter
+
 - name: speaker 5
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+
 - name: speaker 6
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+
 - name: speaker 7
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+
 - name: speaker 8
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+
 - name: speaker 9
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+
 - name: speaker 10
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem

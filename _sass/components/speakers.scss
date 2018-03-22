@@ -83,3 +83,26 @@ $speaker-caption-height: 3em;
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
   opacity: 0;
 }
+
+.expanded-image {
+  position: relative;
+}
+
+.caption-icon {
+  color: $ted-primary;
+  margin-right: 0.5em;
+}
+
+.expanded-image-caption {
+  width: 100%;
+  height: $speaker-caption-height;
+  background: rgba(19,19,19,0.8);
+  display: flex;
+  align-items: center;
+  line-height: normal;
+  font-family: 'Source Code Pro', monospace;
+  text-transform: uppercase;
+  padding: 0em 20% 0 0.5em;
+  position: absolute;
+  bottom: 0;
+}
