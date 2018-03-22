@@ -1,5 +1,8 @@
 - name: Emeline Paat Dahlstrom
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My philosophy for a happy life Sam Berns | TEDxMidAtlantic
   video: youtube
   bio: >
     Emeline Paat-Dahlstrom is a space entrepreneur. Originally from the
@@ -16,12 +19,21 @@
   links:
     - http://internationalspace.com/
     - http://spacebase.co/
-  social_media:
-    - whatsapp
-    - twitter
-    - youtube
+  socialMedia:
+    - brand: whatsapp
+      url: 0211234567
+    - brand: twitter
+      url: https://twitter.com/epaatdahlstrom
+    - brand: youtube
+      url: https://youtube.com
+    - brand: facebook
+      url: https://facebook.com
+
 - name: Alexander MacDonald
-  image: /assets/images/speaker-2.jpg
+  image: /assets/images/speakers/speaker-2.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
   video: youtube
   bio: >
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -35,22 +47,218 @@
   links:
     - http://example.com/
     - http://other.co/
-  social_media:
-    - myspace
-    - twitter
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: youtube
+      url: https://www.youtube.com/user/TEDxAuckland
+    - brand: instagram
+      url: https://instagram.com
+
 - name: speaker 3
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: vimeo
+      url: https://vimeo.com
+
 - name: speaker 4
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: linkedin
+      url: https://www.linkedin.com
+
 - name: speaker 5
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: youtube
+      url: https://www.youtube.com/user/TEDxAuckland
+
 - name: speaker 6
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: youtube
+      url: https://www.youtube.com/user/TEDxAuckland
+
 - name: speaker 7
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: youtube
+      url: https://www.youtube.com/user/TEDxAuckland
+
 - name: speaker 8
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: youtube
+      url: https://www.youtube.com/user/TEDxAuckland
+
 - name: speaker 9
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: youtube
+      url: https://www.youtube.com/user/TEDxAuckland
+
 - name: speaker 10
-  image: /assets/images/speaker-1.jpg
+  image: /assets/images/speakers/speaker-1.jpg
+  expandedImage: /assets/images/speakers/speaker-1-expanded.png
+  expandedImageCaption: >
+    My Lorem ipsum dolor | TEDxLorem
+  video: youtube
+  bio: >
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur.
+
+    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+    deserunt mollit anim id est laborum.
+  links:
+    - http://example.com/
+    - http://other.co/
+  socialMedia:
+    - brand: twitter
+      url: https://twitter.com/TEDxAuckland
+    - brand: facebook
+      url: https://www.facebook.com/TEDxAuckland
+    - brand: youtube
+      url: https://www.youtube.com/user/TEDxAuckland
