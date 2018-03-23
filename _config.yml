@@ -18,28 +18,23 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 markdown: kramdown
 
 # Sass settings
-# sass:
-#   sass_dir: assets/sass
 sass:
   add_charset: true
   style: :compressed
   load_paths:
     - _sass
-    - node_modules/foundation-sites/scss
+    - _sass/vendor/foundation/scss
 
 # Build settings
 exclude:
-  - package.json
-  - readme.md
   - CNAME
   - Gemfile
   - Gemfile.lock
+  - package.json
   - yarn.lock
-# exclude:
-  # - package.json
-  # - README.md
-  # - CNAME
-  # - assets/sass
+  - yarn-error.log
+  - node_modules
+  - readme.md
 
 # Plugin settings
 plugin_dir:
