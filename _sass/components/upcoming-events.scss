@@ -3,3 +3,29 @@
   background-size: cover;
   min-height: 70vh;
 }
+
+.event-info {
+  display: inline-block;
+  .event-info-box {
+    background-color: white;
+    width: 35em;
+    height: 40em;
+    padding-left: 5em;
+  }
+}
+
+.session-info {
+  display: inline-block;
+}
+
+.event-date {
+  padding: 0% 5% 0% 5%;
+  display: inline;
+  background-color: $ted-red;
+  font-size: 1.5em;
+}
+
+.event-session-text {
+  font-family: monospace;
+  font-size: 1.25em;
+}
