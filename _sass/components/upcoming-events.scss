@@ -1,18 +1,49 @@
 .upcoming-events {
   background: url('/assets/images/bg-upcoming-events.jpg') no-repeat top;
   background-size: cover;
-  min-height: 70vh;
+  min-height: 100vh;
+}
+
+.grid-x {
+  padding-top: 5%;
 }
 
 .event-info {
   display: inline-block;
   .event-info-box {
+    font-family: monospace;
+    font-size: 1.25em;
     background-color: white;
+    color: black;
     width: 35em;
     height: 40em;
-    padding-left: 5em;
+  }
+  .tedx-youth-intro {
+    text-align: right;
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+  }
+  .padded-text {
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+  }
+  .bold-red {
+    color: $ted-red;
+    font-size: 1.5em;
+    font-weight: 800;
+  }
+  .event-info-buy {
+    text-align: right;
   }
 }
+
+
+div.horizontal-line {
+  width: 1px;
+  width: 95%;
+  border-left: solid $ted-bg-black;
+}
+
 
 .session-info {
   display: inline-block;
