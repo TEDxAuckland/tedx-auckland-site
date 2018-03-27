@@ -3,3 +3,77 @@
   background-size: cover;
   min-height: 70vh;
 }
+
+.grid-x {
+  padding-top: 5%;
+}
+
+.event-info {
+  display: inline-block;
+  .event-info-box {
+    font-family: monospace;
+    font-size: 1.25em;
+    background-color: white;
+    color: black;
+    // width: 35em;
+    // height: 40em;
+    margin: 0 2em;
+  }
+  .tedx-youth-intro {
+    text-align: right;
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+  }
+  .padded-text {
+    padding-left: 1.25em;
+    padding-right: 1.25em;
+  }
+  .bold-red {
+    color: $ted-red;
+    font-size: 1.5em;
+    font-weight: 800;
+  }
+  .event-info-buy {
+    text-align: right;
+  }
+}
+
+.tedx-title {
+  color: $ted-red;
+  // font-size: 2em;
+  font-family: sans-serif;
+  font-weight: 1200;
+  position: relative;
+  z-index:100;
+}
+
+.youth-title {
+  color: $ted-light-grey;
+  // font-size: 10em;
+  font-family: sans-serif;
+  position: relative;
+}
+
+
+div.horizontal-line {
+  width: 1px;
+  width: 95%;
+  border-left: solid $ted-bg-black;
+}
+
+
+.session-info {
+  display: inline-block;
+}
+
+.event-date {
+  padding: 0% 5% 0% 5%;
+  display: inline;
+  background-color: $ted-red;
+  font-size: 1.5em;
+}
+
+.event-session-text {
+  font-family: monospace;
+  font-size: 1.25em;
+}
