@@ -1,7 +1,7 @@
 .upcoming-events {
   background: url('/assets/images/bg-upcoming-events.jpg') no-repeat top;
   background-size: cover;
-  min-height: 100vh;
+  min-height: 70vh;
 }
 
 .grid-x {
@@ -15,8 +15,9 @@
     font-size: 1.25em;
     background-color: white;
     color: black;
-    width: 35em;
-    height: 40em;
+    // width: 35em;
+    // height: 40em;
+    margin: 0 2em;
   }
   .tedx-youth-intro {
     text-align: right;
@@ -35,6 +36,22 @@
   .event-info-buy {
     text-align: right;
   }
+}
+
+.tedx-title {
+  color: $ted-red;
+  // font-size: 2em;
+  font-family: sans-serif;
+  font-weight: 1200;
+  position: relative;
+  z-index:100;
+}
+
+.youth-title {
+  color: $ted-light-grey;
+  // font-size: 10em;
+  font-family: sans-serif;
+  position: relative;
 }
 
 
