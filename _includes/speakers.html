@@ -3,11 +3,11 @@
 
   <div class="grid-container">
     <div class="grid-x">
-      <div class="cell large-9">
+      <div class="cell small-12 large-auto small-order-2 large-order-1">
         <h1 class="section-heading-small heading-position-speakers editable">TEDx Youth 2018 Speakers</h1>
       </div>
 
-      <div class="cell large-3 speakers-pagination">
+      <div class="cell small-12 large-shrink speakers-pagination">
         <span
           v-show="previousPageActive"
           @click="previousPage"
@@ -47,7 +47,7 @@
                 <div class="expanded-image-cell cell small-12 medium-6">
                   <div class="expanded-image">
                     <img class="speaker-info__video" :src="activeSpeaker.expandedImage" />
-                    <div class="expanded-image-caption" :class="{ 'speaker-card__caption--active': speakerActive(index) }">
+                    <div class="expanded-image-caption">
                       <span class="caption-icon"><i class="fab fa-youtube fa-2x"></i></span>
                       <span>{{ activeSpeaker.expandedImageCaption }}</span>
                     </div>
@@ -60,7 +60,7 @@
                     {{ activeSpeaker.name }}
                   </h2>
 
-                  <div v-html="activeSpeaker.content"></div>
+                  <div v-html="activeSpeaker.content" class="speaker-info__content"></div>
 
                   <div class="grid-x grid-padding-x">
 
