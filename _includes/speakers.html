@@ -1,9 +1,124 @@
-<section id="speakers" data-magellan-target="speakers" class="speakers">
+<section id="speakersGrid" class="speakers">
+{% raw %}
+
   <div class="grid-container">
+    <div class="grid-x">
+      <div class="cell large-9">
+        <h1 class="section-heading-small heading-position-speakers editable">TEDx Youth 2018 Speakers</h1>
+      </div>
 
-    <h1 class="section-heading-small heading-position-speakers">Tedx Youth 2018 speakers</h1>
+      <div class="cell large-3 speakers-pagination">
+        <span
+          v-show="previousPageActive"
+          @click="previousPage"
+          class="speakers-pagination__text speakers-pagination__text--left">
+          <i class="fas fa-angle-left"></i>
+          <span>previous</span>
+        </span>
 
-    {% include speakers-grid.html %}
+        <span
+          v-show="nextPageActive"
+          @click="nextPage"
+          class="speakers-pagination__text speakers-pagination__text--right">
+          <span>next</span>
+          <i class="fas fa-angle-right fa-2x"></i>
+        </span>
+      </div>
+    </div>
 
+    <div class="grid-x small-up-2 medium-up-3 large-up-4">
+      <template v-for="(speaker, index) in currentPageSpeakers">
+
+        <div class="speaker-cell cell">
+          <div class="speaker-card" @click="toggleActiveSpeaker(index)">
+            <img class="speaker-card__image" :src="speaker.image" alt="">
+            <div class="speaker-card__caption" :class="{ 'speaker-card__caption--active': speakerActive(index) }">
+              <span>{{ speaker.name }}</span>
+            </div>
+          </div>
+        </div>
+
+        <transition name="fade">
+          <template v-if="expandingPreviewVisible(index)">
+
+            <div class="speaker-info cell">
+              <div class="grid-x grid-padding-x">
+
+                <div class="expanded-image-cell cell small-12 medium-6">
+                  <div class="expanded-image">
+                    <img class="speaker-info__video" :src="activeSpeaker.expandedImage" />
+                    <div class="expanded-image-caption" :class="{ 'speaker-card__caption--active': speakerActive(index) }">
+                      <span class="caption-icon"><i class="fab fa-youtube fa-2x"></i></span>
+                      <span>{{ activeSpeaker.expandedImageCaption }}</span>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="cell small-12 medium-6">
+
+                  <h2 class="speaker-info__heading speaker-info__heading--main">
+                    {{ activeSpeaker.name }}
+                  </h2>
+
+                  <div v-html="activeSpeaker.content"></div>
+
+                  <div class="grid-x grid-padding-x">
+
+                    <div class="cell medium-6">
+                      <div class="social-cell">
+
+                        <h2 class="speaker-info__heading">Links</h2>
+
+                        <ul class="speaker-info__links">
+                          <li v-for="link in activeSpeaker.links">
+                            <a :href="link">{{ link }}</a>
+                          </li>
+                        </ul>
+
+                      </div>
+                    </div>
+
+                    <div class="cell medium-6">
+                      <div class="social-cell">
+                        <h2 class="speaker-info__heading">Social Media</h2>
+
+                        <ul class="menu">
+                          <li v-for="social in activeSpeaker.socialMedia">
+                            <a v-show="social.brand === 'youtube'" :href="social.url" target="_blank">
+                              <i class="fab fa-youtube fa-2x"></i>
+                            </a>
+                            <a v-show="social.brand === 'facebook'" :href="social.url" target="_blank">
+                              <i class="fab fa-facebook fa-2x"></i>
+                            </a>
+                            <a v-show="social.brand === 'whatsapp'" :href="social.url" target="_blank">
+                              <i class="fab fa-whatsapp fa-2x"></i>
+                            </a>
+                            <a v-show="social.brand === 'twitter'" :href="social.url" target="_blank">
+                              <i class="fab fa-twitter fa-2x"></i>
+                            </a>
+                            <a v-show="social.brand === 'instagram'" :href="social.url" target="_blank">
+                              <i class="fab fa-instagram fa-2x"></i>
+                            </a>
+                            <a v-show="social.brand === 'vimeo'" :href="social.url" target="_blank">
+                              <i class="fab fa-vimeo fa-2x"></i>
+                            </a>
+                            <a v-show="social.brand === 'linkedin'" :href="social.url" target="_blank">
+                              <i class="fab fa-linkedin fa-2x"></i>
+                            </a>
+                          </li>
+                        </ul>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </template>
+        </transition>
+      </template>
+    </div>
   </div>
+
+{% endraw %}
 </section>
