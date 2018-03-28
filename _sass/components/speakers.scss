@@ -1,36 +1,48 @@
 $speaker-caption-height: 3em;
+@import 'speakers-pagination';
 
 .speakers {
   background-color: $ted-bg-black;
   background: url('/assets/images/bg-swirl.png') no-repeat top;
   background-size: cover;
+  padding-top: 2em;
+  margin-top: 4em;
+  padding-bottom: 8em;
 }
 
 .heading-position-speakers {
-  transform: translate(-0.44em, 0.48em);
+  transform: translate(-0.44em, 0.54em);
+
+  @include breakpoint(medium down) {
+    transform: translate(0, 0.54em);
+  }
+
 }
 
 .speaker-card {
   border: 0.5px solid black;
   position: relative;
+  transition: filter 0.2s ease-out;
+  cursor: pointer;
+
   &:hover {
     border-bottom: none;
-    .speaker-image {
+    .speaker-card__image {
       filter: grayscale(0%);
     }
-    .speaker-caption {
+
+    .speaker-card__caption {
       background-color: $ted-primary;
       font-weight: bold;
     }
   }
 }
 
-.speaker-image {
+.speaker-card__image {
   filter: grayscale(100%);
-  transition: filter 0.2s ease-out;
 }
 
-.speaker-caption {
+.speaker-card__caption {
   width: 100%;
   height: $speaker-caption-height;
   background: rgba(19,19,19,0.6);
@@ -48,7 +60,6 @@ $speaker-caption-height: 3em;
     background-color: $ted-primary;
     font-weight: bold;
   }
-
 }
 
 // weird selectors to get the specificity right
@@ -74,10 +85,21 @@ $speaker-caption-height: 3em;
 .speaker-info__heading--main {
   border-left: 0.6em solid $ted-primary;
   width: 50%;
+
+  @include breakpoint(small only) {
+    margin: 1.5em 0 1em 0;
+    width: 70%;
+  }
 }
 
 .speaker-info__heading--social {
   border-left: 0.2em solid white;
+}
+
+.speaker-info__content {
+  @include breakpoint(small only) {
+    margin-bottom: 2em;
+  }
 }
 
 .fade-enter-active, .fade-leave-active {
@@ -109,10 +131,15 @@ $speaker-caption-height: 3em;
   align-items: center;
   line-height: normal;
   font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
   text-transform: uppercase;
   padding: 0em 20% 0 0.5em;
   position: absolute;
   bottom: 0;
+
+  @include breakpoint(small only) {
+    padding: 0em 0 0 0.5em;
+  }
 }
 
 .social-cell {

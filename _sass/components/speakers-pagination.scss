@@ -1,0 +1,35 @@
+.speakers-pagination {
+  font-size: 1.5em;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  order: 2;
+  @include breakpoint(medium down) {
+    order: 1;
+  }
+}
+
+.speakers-pagination__text {
+  margin: 0 0.2em;
+  display: inline-flex;
+  align-items: center;
+  transition: transform 0.2s ease-out,
+              color 0.2s ease-out;
+  cursor: pointer;
+
+  &--left:hover {
+    color: $ted-primary;
+    transform: scale(1.1) translateX(-0.2em);
+  }
+
+  &--right:hover {
+    color: $ted-primary;
+    transform: scale(1.1) translateX(0.2em);
+  }
+
+  svg {
+    margin: 0 0.1em;
+    font-size: 1.6em;
+    transform: translateY(0.05em);
+  }
+}
