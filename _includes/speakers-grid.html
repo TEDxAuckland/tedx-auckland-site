@@ -1,3 +1,7 @@
+<script>
+  console.log({{ site.speakers | jsonify }})
+</script>
+
 <div id="speakersGrid" class="grid-container">
 {% raw %}
   <div class="grid-x small-up-2 medium-up-3 large-up-4">
@@ -32,7 +36,7 @@
                 <h2 class="speaker-info__heading speaker-info__heading--main">
                   {{ activeSpeaker.name }}
                 </h2>
-                <p>{{ activeSpeaker.bio }}</p>
+                <div v-html="activeSpeaker.content"></div>
 
                 <div class="grid-x grid-padding-x">
 

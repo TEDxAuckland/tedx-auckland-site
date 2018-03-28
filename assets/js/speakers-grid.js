@@ -1,20 +1,20 @@
 ---
 ---
-var speakersJson = {{ site.data.speakers | jsonify }}
-var screenSizes = {
-  "small": 2,
-  "medium": 3,
-  "large": 4,
-  "xlarge": 4,
-  "xxlarge": 4
-}
+var speakersJson = {{ site.speakers | jsonify }}
 
 var app = new Vue({
   el: '#speakersGrid',
 
   data: {
     speakers: speakersJson,
-    activeIndex: null
+    activeIndex: null,
+    screenSizes: {
+      "small": 2,
+      "medium": 3,
+      "large": 4,
+      "xlarge": 4,
+      "xxlarge": 4
+    }
   },
 
   computed: {
@@ -30,7 +30,7 @@ var app = new Vue({
     expandingPreviewIndex: function() {
       var screenSize = Foundation.MediaQuery.current;
       var index = this.activeIndex + 1;
-      var columns = screenSizes[screenSize];
+      var columns = this.screenSizes[screenSize];
       var row = Math.ceil(index / columns);
       var numRows = Math.ceil(this.speakers.length / columns);
       var previewIndex = row * columns - 1;
