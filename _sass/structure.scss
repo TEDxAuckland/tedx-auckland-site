@@ -7,6 +7,8 @@ body {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
+	line-height: 1.75;
+	scroll-behavior: smooth;
 }
 
 .container {
@@ -38,6 +40,11 @@ section {
 			position: absolute;
 			bottom: 100%;
 			overflow: hidden;
+		}
+
+		// force content into foreground for sizing
+		.overhang-heading-foreground:after {
+			content: "\00a0";
 		}
 	}
 }
