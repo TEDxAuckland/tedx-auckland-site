@@ -13,30 +13,15 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
+permalink: pretty
 
 # Markdown settings
 markdown: kramdown
-
-# Sass settings
-sass:
-  add_charset: true
-  style: :compressed
-  load_paths:
-    - _sass
-    - _sass/vendor/foundation/scss
 
 # Build settings
 exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
-  - package.json
-  - yarn.lock
-  - yarn-error.log
-  - node_modules
   - readme.md
 
-# Plugin settings
-plugin_dir:
-  - jekyll-feed
-  - jekyll-sitemap

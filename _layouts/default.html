@@ -1,41 +1,71 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: page.lang | default: 'en' }}">
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Tedx Auckland</title>
 
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tedx Auckland</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    <script defer src="/assets/js/fontawesome-all.js"></script>
-  </head>
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="/assets/css/rebuild.css">
+	</head>
 
-  <body>
+	<body>
+		<nav>
+			<div class="container">
+				<h1><a href="/"><img src="/assets/images/logo.png" width="250" height="150" /></a></h1>
 
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-    </script>
+				<ul>
+					<li><a href="/#speakers" class="link">Speakers</a></li>
+					<li><a href="/#events" class="link">Events</a></li>
+					<li><a href="/#talks" class="link">Talks</a></li>
+					<li><a href="/#about" class="link">About</a></li>
+					<li><a href="/#contact" class="link">Contact</a></li>
+					<li><a href="https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0" target="_blank" class="button">Buy Ticket</a></li>
+				</ul>
+			</div>
+		</nav>
 
-  {{ content }}
+		<header>
+			<div class="container">
+				<h1>Ideas worth spreading</h1>
+				<p>Checkout our amazing TEDxUTSC talks from the past 5 years</p>
 
-    <script src="/assets/js/vendor/jquery.min.js"></script>
-    <script src="/assets/js/vendor/foundation.min.js"></script>
-    {% if jekyll.environment == "development" %}
-      <script src="/assets/js/vendor/vue.js"></script>
-    {% else %}
-      <script src="/assets/js/vendor/vue.min.js"></script>
-    {% endif %}
-    <script>
-      $(document).foundation();
-    </script>
-    <script src="assets/js/speakers-grid.js"></script>
+				<p><a class="button">All past speakers</a></p>
+			</div>
+		</header>
 
-  </body>
+		<section class="youth-callout">
+			<div class="youth-callout-header">
+				#TEDxYouthAuckland
+			</div>
+			<div class="youth-callout-header-details">
+				TEDXYOUTH@Auckland 2018 | FRIDAY MAY 4TH, 2018 | AOTEA SQUARE
+			</div>
+		</section>
 
+		{{ content }}
+
+		<footer>
+			<div class="container">
+				<div class="logos">
+					<img src="/assets/images/logo.png" width="250" height="150" />
+				</div>
+
+				<div class="social">
+					<strong>Follow us</strong>
+
+					<div class="social-links">
+						<a href="https://www.facebook.com/TEDxAuckland/" target="_blank">Facebook</a>
+						<a href="https://www.instagram.com/tedxauckland/" target="_blank">Instagram</a>
+						<a href="https://twitter.com/tedxauckland" target="_blank">Twitter</a>
+						<a href="https://www.youtube.com/user/TEDxAuckland" target="_blank">Youtube</a>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		{% include scripts.html %}
+	</body>
 </html>
