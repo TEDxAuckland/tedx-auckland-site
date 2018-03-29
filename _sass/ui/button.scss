@@ -1,0 +1,18 @@
+.button {
+	display: inline-block;
+	padding: 12px 18px;
+	text-transform: uppercase;
+	border: 2px solid $brand-color;
+	background: $brand-color;
+	color: #fff;
+	border-radius: 4px;
+	font-size: 1.2rem;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: 400;
+
+	&.button-outline {
+		border: 2px solid #fff;
+		background: #222;
+	}
+}

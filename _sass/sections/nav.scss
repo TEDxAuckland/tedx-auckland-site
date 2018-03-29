@@ -1,0 +1,40 @@
+nav {
+	.container {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	h1 {
+		width: 300px;
+		margin: 0;
+
+		a {
+			padding: 20px 10px;
+		}
+	}
+
+	ul {
+		margin: 0;
+		padding: 0;
+		display: flex;
+	}
+
+	li {
+		display: flex;
+		align-items: center;
+	}
+
+	a {
+		display: block;
+		padding: 20px 20px;
+		text-transform: uppercase;
+
+		font-weight: bold;
+		color: #fff;
+		text-decoration: none;
+	}
+
+	.button {
+		margin-left: 10px;
+	}
+}

@@ -2,7 +2,20 @@
 ---
 
 @charset 'utf-8';
-@import 'button';
-@import 'youth-callout';
-@import 'header';
-@import 'footer';
+
+$brand-color: #ed3624;
+
+// General
+@import 'vendor/normalize';
+@import 'structure';
+
+// Elements
+@import 'ui/button';
+@import 'ui/mailchimp';
+
+// Sections
+@import 'sections/nav';
+@import 'sections/header';
+@import 'sections/youth-callout';
+@import 'sections/about';
+@import 'sections/footer';
