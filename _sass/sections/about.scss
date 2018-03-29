@@ -1,3 +1,14 @@
 section.about {
-	background: grey;
+	background: #444;
+}
+
+.about-container {
+	display: flex;
+	margin: 0 -20px;
+
+	.about-details,
+	.about-social {
+		flex: 1 1 400px;
+		margin: 20px;
+	}
 }

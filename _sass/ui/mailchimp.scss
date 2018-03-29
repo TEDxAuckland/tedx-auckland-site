@@ -1,40 +1,25 @@
-/* MailChimp Form Embed Code - Slim - 12/15/2015 v10.7 */
-#mc_embed_signup {
-	div#mce-responses {
-		float: left;
-		top: -1.4em;
-		padding: 0 0.5em;
-		overflow: hidden;
-		width: 90%;
-		margin: 0 5%;
-		clear: both;
-	}
+.mailchimp-form-content {
+	display: flex;
 
-	div.response {
-		margin: 1em 0;
-		padding: 1em 0.5em 0.5em 0;
-		font-weight: bold;
-		float: left;
-		top: -1.5em;
-		z-index: 1;
-		width: 80%;
-	}
-
-	#mce-error-response {
+	label {
 		display: none;
 	}
 
-	#mce-success-response {
-		color: #529214;
-		display: none;
+	input {
+		flex: 1;
+		align-items: flex-start;
+		justify-content: space-between;
 	}
 
-	label.error {
+	input[type="email"] {
 		display: block;
-		float: none;
-		width: auto;
-		margin-left: 1.05em;
-		text-align: left;
-		padding: 0.5em 0;
+		padding: 15px;
+		width: 100%;
+		border: 0;
+		border-radius: 4px;
+		margin: 0;
+		box-sizing: border-box;
+		font-size: 1.2rem;
+		margin-right: 10px;
 	}
 }

@@ -1,0 +1,17 @@
+.fb-page {
+	blockquote {
+		background: rgba(255,255,255,0.1);
+		height: 500px;
+		max-width: 500px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 0;
+		align-items: center;
+
+		a {
+			color: #fff;
+			text-decoration: none;
+		}
+	}
+}
