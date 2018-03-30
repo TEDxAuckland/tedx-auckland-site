@@ -52,4 +52,12 @@ section {
 h4 {
 	border-bottom: 4px solid $brand-color;
 	font-size: 1.6rem;
+	margin: 2rem 0 1.5rem;
+}
+
+.date-badge {
+	background: $brand-color;
+	display: inline-block;
+	padding: 10px 20px;
+	font-weight: bold;
 }
