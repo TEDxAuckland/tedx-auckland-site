@@ -4,7 +4,7 @@ section.about {
 
 .about-container {
 	display: flex;
-	margin: 0 -20px;
+	flex-wrap: wrap;
 
 	.about-details,
 	.about-social {

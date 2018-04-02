@@ -24,12 +24,12 @@ body {
 }
 
 section {
-	padding: 0 0 40px;
+	padding: 40px 0;
 	min-height: 300px;
 
 	h3 {
 		font-size: 5rem;
-		margin: 50px 0 10px 0;
+		margin: 0 0 10px 0;
 	}
 
 	.overhang-heading {
@@ -72,4 +72,5 @@ h4 {
 
 strong {
 	color: $brand-color;
+	font-weight: bold;
 }

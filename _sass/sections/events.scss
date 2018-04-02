@@ -16,7 +16,7 @@ section.events {
 
 .event-container {
 	display: flex;
-	margin: 80px -10px;
+	padding: 80px 0;
 	position: relative;
 	z-index: 1;
 	justify-content: center;
@@ -35,7 +35,7 @@ section.events {
 	}
 
 	.event-callout {
-		text-align: right;
+		text-align: left;
 		background: #fff;
 		border-left: 10px solid $brand-color;
 		color: #222;
