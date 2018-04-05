@@ -43,3 +43,13 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+
+
+comments:
+  short_title: Used in smaller spaces
+  start_date: When does the event start?
+  end_date: When does the event end?
+  speakers: Select your speakers. To add more update the speakers in explore
+  flikr_gallery: The url to the flikr gallery. Leave blank if N/A.
+  youtube_playlist: The url to the youtube playlist. Leave blank if N/A.
+  ticket_url: Where can people buy tickets. Leave blank if N/A.
