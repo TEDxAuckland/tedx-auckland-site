@@ -25,3 +25,11 @@ exclude:
   - Gemfile.lock
   - readme.md
 
+collections:
+  events:
+    name: Events
+    output: true
+  speakers:
+    name: Speakers
+    _hide_content: true
+    output: false
