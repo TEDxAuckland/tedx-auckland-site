@@ -45,7 +45,7 @@ jekyll-archives:
     category: '/category/:name/'
 
 
-comments:
+_comments:
   short_title: Used in smaller spaces
   start_date: When does the event start?
   end_date: When does the event end?
