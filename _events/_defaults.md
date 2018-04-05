@@ -1,6 +1,8 @@
 ---
 title: TedX Auckland
 short_title: 2018
+hero_image:
+badge_image:
 tagline:
 start_date:
 end_date:
