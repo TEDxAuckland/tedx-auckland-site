@@ -1,0 +1,29 @@
+---
+layout: header
+---
+
+<section id="post" class="post">
+	<div class="container">
+    {{ content }}
+
+		{% if page.alturl %}
+			<p>Go to <a href="{{ page.alturl }}">{{ page.alturl }}</a></p>
+
+			<p>{{ page.altauthor }}</p>
+		{% endif %}
+
+		{% if page.author %}
+			<p>By {{ page.author.first_name }} {{ page.author.last_name }} {{ page.author.display_name }}</p>
+			<p>{{ page.author.email }}</p>
+		{% endif %}
+
+		<nav class="post_navigation">
+		  {% if page.previous.url %}
+		    <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+		  {% endif %}
+		  {% if page.next.url %}
+		    <a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+		  {% endif %}
+		</nav>
+	</div>
+</section>

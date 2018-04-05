@@ -33,3 +33,13 @@ collections:
     name: Speakers
     _hide_content: true
     output: false
+
+jekyll-archives:
+  enabled: []
+  layout: 'page'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

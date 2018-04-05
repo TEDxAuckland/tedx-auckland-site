@@ -9,10 +9,8 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.5)
-    fastercsv (1.5.5)
     ffi (1.9.23)
     forwardable-extended (2.6.0)
-    hpricot (0.8.6)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -29,12 +27,10 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.1)
+      jekyll (>= 2.4)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
-    jekyll-import (0.14.0)
-      fastercsv
-      jekyll (>= 1.4)
-      nokogiri
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
@@ -48,9 +44,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
-    mini_portile2 (2.3.0)
-    nokogiri (1.8.2)
-      mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.2)
@@ -70,10 +63,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  hpricot
-  jekyll
+  jekyll (= 3.7.3)
+  jekyll-archives
   jekyll-feed
-  jekyll-import
   jekyll-sitemap
 
 BUNDLED WITH
