@@ -1,7 +1,7 @@
 ---
 name: Georgia Lala
 email:
-image: '2018'
+image: /uploads/gerorgia-lala-1200x1200.jpg
 description_markdown: >-
   *entrepreneur* / *student* / *environmentalist*<br>Georgia is trying to change
   the way we look at sustainability. Her award winning research into the
