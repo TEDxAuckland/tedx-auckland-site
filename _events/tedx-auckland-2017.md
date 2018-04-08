@@ -6,7 +6,7 @@ hero_image: /uploads/flipside-banner.jpg
 badge_image:
 start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
-address: '89 Quay Street, Queens Wharf, Auckland 1010'
+address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 speakers:
 flikr_gallery: >-
   https://www.flickr.com/photos/tedxauckland/albums/72157666367306513,
