@@ -1,7 +1,7 @@
 ---
 title: TEDxAuckland 2016
 short_title: 2016
-tagline:
+tagline: flipside
 start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
 address: '89 Quay Street, Queens Wharf, Auckland 1010'
