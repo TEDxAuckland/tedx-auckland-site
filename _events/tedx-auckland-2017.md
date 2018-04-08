@@ -1,5 +1,5 @@
 ---
-title: TedX Auckland 2017
+title: TEDxAuckland 2017
 short_title: 2018
 tagline:
 start_date:
@@ -11,4 +11,4 @@ youtube_playlist:
 ticket_url: 'https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0'
 ---
 
-Enter your description here...
+Enter your description here…
