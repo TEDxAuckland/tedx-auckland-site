@@ -1,6 +1,6 @@
 ---
 name: Cameron Sims
-email:
+email: hello@plantculture.nz
 image: /uploads/export-1-2.jpg
 description_markdown: >-
   Cameron Sims believes the simple ingredient hemp, is the key to changing the
