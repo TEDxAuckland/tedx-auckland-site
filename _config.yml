@@ -17,6 +17,7 @@ permalink: pretty
 
 # Markdown settings
 markdown: kramdown
+timezone: Pacific/Auckland
 
 # Build settings
 exclude:
