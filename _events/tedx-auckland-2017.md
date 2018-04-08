@@ -26,4 +26,8 @@ Our Theme this year is:&nbsp;*flipside*
 
 The event featured ideas and talks from amazing people changing the world. We’ll be matching the diversity of ideas with an equally diverse audience, you!
 
-TEDxAuckland 2016:&nbsp;*flipside*&nbsp;will feature two days of talks, events, activities and social time. This year we’re in a smaller venue than previous years in order to provide the hosting, break out spaces and food and beverage side you deserve.
+TEDxAuckland 2016:&nbsp;*flipside*&nbsp;featured talks over two days, events, activities and social time. Shed 10 the venue provided the perfect space for hosting, break out spaces and food and beverage side you deserve.
+
+See the 2016 FoodStory Video below.
+
+[https://www.youtube.com/watch?v=J0s-ob4FGcg](https://www.youtube.com/watch?v=J0s-ob4FGcg)
