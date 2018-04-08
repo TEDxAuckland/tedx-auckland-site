@@ -1,6 +1,6 @@
 ---
 title: TEDxAuckland 2017
-short_title: 2018
+short_title: 2017
 tagline:
 start_date:
 end_date:
