@@ -22,6 +22,9 @@ speakers:
   - grace-clapham--solonia-teodros
   - jess-holly-bates
   - samuel-gibson
+  - georgia-lala
+  - richard-aston
+  - pani-farvid
 flikr_gallery: >-
   https://www.flickr.com/photos/tedxauckland/albums/72157666367306513,
   https://www.flickr.com/photos/tedxauckland/albums/72157668777484451
