@@ -29,6 +29,7 @@ speakers:
   - minnie-barragwanath
   - richard-little
   - david-harvey
+  - matt-shirtcliffe
   - keith-ng
   - rory-steyn
   - modern-māori-quartet
