@@ -19,6 +19,9 @@ speakers:
   - toby-carr
   - james-bergin
   - vaughan-rowsell
+  - grace-clapham--solonia-teodros
+  - jess-holly-bates
+  - samuel-gibson
 flikr_gallery: >-
   https://www.flickr.com/photos/tedxauckland/albums/72157666367306513,
   https://www.flickr.com/photos/tedxauckland/albums/72157668777484451
