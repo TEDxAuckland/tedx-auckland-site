@@ -1,16 +1,20 @@
 ---
 title: TEDxAuckland 2015
-short_title: 2018
-hero_image:
+short_title: 2015
+hero_image: /uploads/2015banner2.png
 badge_image:
 tagline:
-start_date:
-end_date:
-address: '50 Mayoral Dr, Auckland, New Zealand'
+start_date: 2015-05-02 00:00:00 +1200
+end_date: 2015-05-02 00:00:00 +1200
+address: '98 Beaumont St, Freemans Bay, Auckland 1010'
 speakers:
-flikr_gallery:
-youtube_playlist:
-ticket_url: 'https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0'
+flikr_gallery: >-
+  https://www.flickr.com/photos/tedxauckland/albums/72157654429408953,
+  https://www.flickr.com/photos/tedxauckland/albums/72157653020465246,
+  https://www.flickr.com/photos/tedxauckland/albums/72157651989131684,
+  https://www.flickr.com/photos/tedxauckland/albums/72157653487162285
+youtube_playlist: 'https://youtu.be/sScmj1Tnlj4'
+ticket_url:
 ---
 
-Enter your description here...
+Enter your description here…
