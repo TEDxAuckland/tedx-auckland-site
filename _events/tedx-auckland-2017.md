@@ -25,6 +25,13 @@ speakers:
   - georgia-lala
   - richard-aston
   - pani-farvid
+  - sharad-paul
+  - minnie-barragwanath
+  - richard-little
+  - david-harvey
+  - keith-ng
+  - rory-steyn
+  - modern-māori-quartet
 flikr_gallery: >-
   https://www.flickr.com/photos/tedxauckland/albums/72157666367306513,
   https://www.flickr.com/photos/tedxauckland/albums/72157668777484451
