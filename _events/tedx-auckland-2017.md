@@ -8,6 +8,17 @@ start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 speakers:
+  - barbara-breen
+  - ian-mccrae
+  - lizzie-marvelly
+  - jayne-bailey
+  - cori-gonzalez-macuer
+  - adrien-taylor
+  - mike-moka
+  - anna-coddington
+  - toby-carr
+  - james-bergin
+  - vaughan-rowsell
 flikr_gallery: >-
   https://www.flickr.com/photos/tedxauckland/albums/72157666367306513,
   https://www.flickr.com/photos/tedxauckland/albums/72157668777484451
@@ -17,7 +28,7 @@ ticket_url:
 
 2016 TEDxAuckland was a little different. We curated ideas for a global audience; global in their diversity, expertise and residence. Say hello to TEDxAuckland 2016!
 
-Our Theme this year is:&nbsp;*flipside*
+Our Theme this year is: *flipside*
 
 * The perspective you get from seeing an old problem in a new way.
 * Turning hierarchies on their head and putting ideas ahead of ideology.
@@ -26,7 +37,7 @@ Our Theme this year is:&nbsp;*flipside*
 
 The event featured ideas and talks from amazing people changing the world. We’ll be matching the diversity of ideas with an equally diverse audience, you!
 
-TEDxAuckland 2016:&nbsp;*flipside*&nbsp;featured talks over two days, events, activities and social time. Shed 10 the venue provided the perfect space for hosting, break out spaces and food and beverage side you deserve.
+TEDxAuckland 2016: *flipside* featured talks over two days, events, activities and social time. Shed 10 the venue provided the perfect space for hosting, break out spaces and food and beverage side you deserve.
 
 See the 2016 FoodStory Video below.
 
