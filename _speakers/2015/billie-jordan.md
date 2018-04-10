@@ -1,7 +1,7 @@
 ---
 name: Billie Jordan
 email:
-image: '2018'
+image: /uploads/billie-jordan-fw75.jpg
 description_markdown: >-
   After narrowly surviving New Zealand’s deadliest earthquake in Christchurch in
   2011, Billie Jordan felt there was more to life than working as a
