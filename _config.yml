@@ -56,6 +56,11 @@ defaults:
       type: "speakers"
     values:
       layout: "speaker"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
 
 _comments:
   short_title: Used in smaller spaces

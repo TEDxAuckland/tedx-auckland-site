@@ -1,0 +1,87 @@
+---
+layout: default
+---
+
+<header class="hero" style="background-image: url({{ page.hero_image }})">
+	<div class="container">
+		<div class="header-details">
+			<h2>{{ page.title }}</h2>
+			<p>{{ page.tagline }}</p>
+
+			<p><a href="#more" class="button button-outline">Learn More</a></p>
+		</div>
+	</div>
+</header>
+
+<section id="more">
+	<div class="container">
+		<h3>Description</h3>
+
+		{{ content }}
+
+		{% if page.short_title %}
+			<h4>short_title</h4>
+			<p>{{ page.short_title }}</p>
+		{% endif %}
+
+		{% if page.tagline %}
+			<h4>tagline</h4>
+			<p>{{ page.tagline }}</p>
+		{% endif %}
+
+		{% if page.badge_image %}
+			<h4>badge_image</h4>
+			<p>{{ page.badge_image }}</p>
+		{% endif %}
+
+		{% if page.start_date %}
+			<h4>start_date</h4>
+			<p>{{ page.start_date }}</p>
+		{% endif %}
+
+		{% if page.end_date %}
+			<h4>end_date</h4>
+			<p>{{ page.end_date }}</p>
+		{% endif %}
+
+		{% if page.address %}
+			<h4>address</h4>
+			<p>{{ page.address }}</p>
+		{% endif %}
+		</div>
+</section>
+
+<section id="speakers">
+	<div class="container">
+		<h3>Speakers</h3>
+
+		<ul>
+			{% for speaker in page.speakers %}
+				<li>{{ speaker }}</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+
+
+<section id="gallery">
+	<div class="container">
+		<h3>Gallery</h3>
+
+		<ul>
+			{% for flikr_gallery in page.flikr_galleries %}
+				<li>{{ flikr_gallery }}</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+
+{% if page.youtube_playlist %}
+	<section id="talks">
+		<div class="container">
+			<h3>Talks</h3>
+
+			<p>Load from <a href="{{ page.youtube_playlist }}">{{ page.youtube_playlist }}</a></p>
+		</div>
+	</section>
+{% endif %}
