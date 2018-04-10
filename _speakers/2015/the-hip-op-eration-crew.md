@@ -1,7 +1,7 @@
 ---
 name: The Hip Op-eration Crew
 email:
-image: '2018'
+image:
 description_markdown: >-
   The Hip Op-eration Crew started as a flash mob initially in response to
   society’s outcasting of elderly people. What grew from there was an amazing

@@ -1,7 +1,7 @@
 ---
 name: Robyn Paterson
 email:
-image: '2018'
+image:
 description_markdown: >-
   Robyn Paterson is a highly respected director in the New Zealand film and
   television industry. She has worked across a wide range of projects and

@@ -1,7 +1,7 @@
 ---
 name: Rebecca Wadey
 email:
-image: '2018'
+image:
 description_markdown: >-
   Rebecca Wadey is a writer, fashion PR specialist, cancer survivor, mother and
   business founder. Since her diagnosis of breast cancer at 26, Rebecca has

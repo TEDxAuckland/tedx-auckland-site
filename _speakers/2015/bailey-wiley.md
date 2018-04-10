@@ -1,7 +1,7 @@
 ---
 name: Bailey Wiley
 email:
-image: '2018'
+image:
 description_markdown: >-
   Few artists come new to the game with such a fearless and complete approach to
   music. Bailey Wiley filters neo-soul classicism through modern, righteous and

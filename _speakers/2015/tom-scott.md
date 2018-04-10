@@ -1,7 +1,7 @@
 ---
 name: Tom Scott
 email:
-image: '2018'
+image:
 description_markdown: >-
   Tom Scott (ONZM) is an award winning political columnist, editorial
   cartoonist, documentary maker and dramatist. Six collections of his satirical

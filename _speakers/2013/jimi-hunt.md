@@ -1,7 +1,7 @@
 ---
 name: Jimi Hunt
 email:
-image: '2018'
+image:
 description_markdown: >-
   Jimi Hunt is founder of the depression charity Live More Awesome, author of A
   Bit Mental and the only person silly enough to lilo the Waikato River. A

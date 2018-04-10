@@ -1,7 +1,7 @@
 ---
 name: Sarah Longbottom
 email:
-image: '2018'
+image:
 description_markdown: >-
   Sarah Longbottom is Creative Director of the Nga Rangatahi Toa Creative Arts
   Iniatiative in South Auckland, a mentoring and transition programme that

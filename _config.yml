@@ -33,7 +33,7 @@ collections:
   speakers:
     name: Speakers
     _hide_content: true
-    output: false
+    output: true
 
 jekyll-archives:
   enabled: []
@@ -45,6 +45,12 @@ jekyll-archives:
     tag: '/tag/:name/'
     category: '/category/:name/'
 
+defaults:
+  - scope:
+      path: ""
+      type: "speakers"
+    values:
+      layout: "speaker"
 
 _comments:
   short_title: Used in smaller spaces

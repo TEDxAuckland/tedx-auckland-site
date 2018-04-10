@@ -1,7 +1,7 @@
 ---
 name: Welby Ings
 email:
-image: '2018'
+image:
 description_markdown: >-
   Welby Ings is an award winning designer, filmmaker and playwright, with his
   short film ‘Boy’ short listed for the 2006 Academy Awards. An elected Fellow

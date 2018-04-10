@@ -1,7 +1,7 @@
 ---
 name: Sophie Tamati
 email:
-image: '2018'
+image:
 description_markdown: >-
   Sophie Tauwehe Tamati is an award-winning educational entrepreneur and senior
   lecturer at the University of Auckland. Passionate about education, Sophie

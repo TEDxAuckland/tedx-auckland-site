@@ -1,7 +1,7 @@
 ---
 name: David Trubridge
 email:
-image: '2018'
+image:
 description_markdown: >-
   David is an internationally renowned furniture and lighting designer. After
   settling on New Zealand following a five year yacht voyage with his family,

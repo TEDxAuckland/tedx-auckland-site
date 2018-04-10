@@ -1,7 +1,7 @@
 ---
 name: Sir Bob Harvey
 email:
-image: '2018'
+image:
 description_markdown: >-
   Sir Bob Harvey is the Chairman of Waterfront Auckland, has served 6 terms as
   Mayor of the city of Waitakere, and was awarded, with six international

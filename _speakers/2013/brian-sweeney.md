@@ -1,7 +1,7 @@
 ---
 name: Brian Sweeney
 email:
-image: '2018'
+image:
 description_markdown: >-
   Brian Sweeney is the New York-based Chairman of SweeneyVesty, a global
   corporate communications company founded in Wellington in 1987 with Jane

@@ -1,7 +1,7 @@
 ---
 name: Urzila Carlson
 email:
-image: '2018'
+image:
 description_markdown: >-
   Natural, cheeky and straight-up South African-born, New Zealand-based, Urzila
   Carlson, took to the stage for the first time in 2008, and has since racked up

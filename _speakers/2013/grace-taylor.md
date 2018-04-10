@@ -1,7 +1,7 @@
 ---
 name: Grace Taylor
 email:
-image: '2018'
+image:
 description_markdown: >-
   Grace Taylor is a spoken word poet, teaching artist and youth development
   worker. She believes in the empowerment of words, in particular through

@@ -1,7 +1,7 @@
 ---
 name: Matt Stone
 email:
-image: '2018'
+image:
 description_markdown: >-
   Arguably one of the hottest chefs on the Australian dining scene, it’s not
   rare for foodie fans of Matt’s to book tables 3-months in advance at

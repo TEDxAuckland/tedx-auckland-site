@@ -1,7 +1,7 @@
 ---
 name: Sorceress Soundsystem
 email:
-image: '2018'
+image:
 description_markdown: >-
   A futuristically classic sound in a distinctive blend of funky drum rhythms
   and soulful synthesizers – that is how you can explain the diverse music mix

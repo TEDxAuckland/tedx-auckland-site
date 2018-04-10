@@ -1,7 +1,7 @@
 ---
 name:
 email:
-image: 2018
+image: 
 description_markdown:
 website_url:
 twitter:

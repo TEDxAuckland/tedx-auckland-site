@@ -1,7 +1,7 @@
 ---
 name: Dale Pfeifer
 email:
-image: '2018'
+image:
 description_markdown: >-
   Dale is changing the way we connect online. Her #donate software, developed to
   make giving easy on social media, is unleashing the next generation of

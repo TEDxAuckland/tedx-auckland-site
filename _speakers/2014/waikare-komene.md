@@ -1,7 +1,7 @@
 ---
 name: Waikare Komene
 email:
-image: '2018'
+image:
 description_markdown: >-
   Waikare Komene is a young professional from Otara who is passionate about
   empowering communities from the grassroots up. Waikare is a qualified

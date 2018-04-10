@@ -1,7 +1,7 @@
 ---
 name: Rebecca Mills
 email:
-image: '2018'
+image:
 description_markdown: >-
   Working with some of the most inspiring and influential business leaders of
   our generation, Rebecca is a top sustainability strategist who works with the

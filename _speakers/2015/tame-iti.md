@@ -1,7 +1,7 @@
 ---
 name: Tame Iti
 email:
-image: '2018'
+image:
 description_markdown: >-
   Tame Iti (Ngai Tuhoe / Waikato / Te Arawa)<br>Tame Iti is known as many
   things… Activist, Artist, Terrorist and Cyclist. Literally wearing his Tuhoe

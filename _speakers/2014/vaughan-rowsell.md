@@ -1,7 +1,7 @@
 ---
 name: Vaughan Rowsell
 email:
-image: '2018'
+image:
 description_markdown: >-
   *entrepreneur* / *weirdo* / *technologist*<br>Vaughan is the Founder of Vend,
   a cloud based retail software for small to medium retailers worldwide. The

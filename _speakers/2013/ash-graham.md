@@ -1,7 +1,7 @@
 ---
 name: Ash Graham
 email:
-image: '2018'
+image:
 description_markdown: >-
   Ash didn’t choose music, it chose him, and lucky for us it did. His songs show
   a maturity that is quite beyond his 18 years. His new EP Sixth Street Soul

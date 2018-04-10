@@ -1,7 +1,7 @@
 ---
 name: Luke Nola
 email:
-image: '2018'
+image:
 description_markdown: >-
   Adman-turned-filmmaker Luke Nola is founder of Luke Nola & Friends, an
   Auckland-based production company that creates and produces award-winning
