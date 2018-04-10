@@ -25,11 +25,11 @@ speakers:
   - sorceress-soundsystem
   - tame-iti
   - max-cryer
-flikr_gallery: >-
-  https://www.flickr.com/photos/tedxauckland/albums/72157654429408953,
-  https://www.flickr.com/photos/tedxauckland/albums/72157653020465246,
-  https://www.flickr.com/photos/tedxauckland/albums/72157651989131684,
-  https://www.flickr.com/photos/tedxauckland/albums/72157653487162285
+flikr_galleries:
+  - https://www.flickr.com/photos/tedxauckland/albums/72157654429408953
+  - https://www.flickr.com/photos/tedxauckland/albums/72157653020465246
+  - https://www.flickr.com/photos/tedxauckland/albums/72157651989131684
+  - https://www.flickr.com/photos/tedxauckland/albums/72157653487162285
 youtube_playlist: 'https://youtu.be/sScmj1Tnlj4'
 ticket_url:
 ---

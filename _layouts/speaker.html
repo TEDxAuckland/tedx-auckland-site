@@ -2,13 +2,48 @@
 layout: default
 ---
 
-<header>
+<section>
 	<div class="container">
-		<div class="header-details">
-			<h2>{{ page.title }}</h2>
-			<p>{{ post.date | date_to_long_string }}</p>
-		</div>
-	</div>
-</header>
+		<h3>{{ page.name }}</h3>
+    {{ page.description_markdown | markdownify }}
 
-{{ content }}
+		{% if page.image %}
+			<img src="{{ page.image }}" alt="A picture of {{ page.name }}">
+		{% endif %}
+
+		<h4>Links</h4>
+		<ul>
+			{% if page.email %}
+				<li>email = {{ page.email }}</li>
+			{% endif %}
+
+			{% if page.website_url %}
+				<li>website_url = {{ page.website_url }}</li>
+			{% endif %}
+
+			{% if page.medium_url %}
+				<li>website_url = {{ page.website_url }}</li>
+			{% endif %}
+
+			{% if page.twitter %}
+				<li>twitter = {{ page.twitter }}</li>
+			{% endif %}
+
+			{% if page.facebook %}
+				<li>facebook = {{ page.facebook }}</li>
+			{% endif %}
+
+			{% if page.google_plus %}
+				<li>google_plus = {{ page.google_plus }}</li>
+			{% endif %}
+
+			{% if page.github_username %}
+				<li>github_username = {{ page.github_username }}</li>
+			{% endif %}
+
+			{% if page.instagram %}
+				<li>instagram = {{ page.instagram }}</li>
+			{% endif %}
+		</ul>
+	</div>
+</section>

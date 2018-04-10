@@ -19,6 +19,11 @@ permalink: pretty
 markdown: kramdown
 timezone: Pacific/Auckland
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-archives
+
 # Build settings
 exclude:
   - CNAME

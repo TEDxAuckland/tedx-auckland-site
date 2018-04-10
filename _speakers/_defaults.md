@@ -1,9 +1,10 @@
 ---
 name:
 email:
-image: 
+image:
 description_markdown:
 website_url:
+medium_url:
 twitter:
 facebook:
 google_plus:
