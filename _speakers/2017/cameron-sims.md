@@ -1,7 +1,7 @@
 ---
 name: Cameron Sims
 email:
-image: /uploads/export-1-2.jpg
+image: /uploads/cameron-sims.jpg
 description_markdown: >-
   Cameron Sims believes the simple ingredient hemp, is the key to changing the
   world and helping humanity become more sustainable. As a Kiwi raised on a
