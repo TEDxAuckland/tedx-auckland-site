@@ -18,6 +18,13 @@ speakers:
   - 2014/rebecca-mills
   - 2014/catherine-bell
   - 2014/john-boone
+  - 2014/riley-elliott
+  - 2014/richard-easther
+  - 2014/david-downs--jon-bridges
+  - 2014/vaughan-rowsell
+  - 2014/sarah-longbottom
+  - 2014/rebecca-wadey
+  - 2014/waikare-komene
 flikr_galleries:
   -
 youtube_playlist: 'https://youtu.be/NLO9kk5TTwk'
