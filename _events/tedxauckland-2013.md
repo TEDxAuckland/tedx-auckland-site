@@ -6,7 +6,7 @@ badge_image:
 tagline: convergemerge
 start_date: 2013-08-03 00:00:00 +1200
 end_date: 2013-08-03 00:00:00 +1200
-address: '50 Mayoral Dr, Auckland 1010, New Zealand'
+address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
 speakers:
   - 2013/jimi-hunt
   - 2013/lillian-grace
