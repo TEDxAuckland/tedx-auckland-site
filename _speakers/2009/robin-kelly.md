@@ -5,7 +5,7 @@ image:
 description_markdown:
 website_url: 'http://www.robinkelly.co.nz/'
 medium_url:
-twitter:
+twitter: 'https://twitter.com/RobinJLKelly'
 facebook:
 google_plus:
 github_username:
