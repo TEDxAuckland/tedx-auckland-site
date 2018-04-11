@@ -6,7 +6,7 @@ badge_image:
 tagline:
 start_date: 2017-12-01 00:00:00 +1300
 end_date: 2017-12-02 00:00:00 +1300
-address: '50 Mayoral Dr, Auckland 1010, New Zealand'
+address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
 speakers:
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157690330288051'
