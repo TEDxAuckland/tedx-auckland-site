@@ -28,10 +28,12 @@ The Program
 
 The Festival opens at 3pm Friday for registrations and activations. The first talks start at 5.00pm through to 7pm.
 
-The Friday night Burger Banquet is made by: Tiger Burger /&nbsp;Wise Boys /&nbsp;Judge Bao /&nbsp;Ralphs /&nbsp;Bird on a wire
+The Friday night Burger Banquet is made by: Tiger Burger / Wise Boys / Judge Bao / Ralphs / Bird on a wire
 
 On Saturday the Festival opens at 9.30am with the first talks beginning at 10am.<br>Lunch on Saturday is made by Eat My Lunch, thanks to Fonterra.
 
 The talks will conclude around 5pm on Saturday. Those attending the sold out VIP SocialDinner will jump on a bus (provided) for a 5 course dinner produced by some amazing local chefs. Matched with local beer and wine.
 
 Those keen to kick on are invited to join TEDx crew, speakers and friends at Sweat Shop Brew Kitchen, Sale St, Freemans Bay after 9pm.
+
+![](blob:https://app.cloudcannon.com/10c6d209-efa5-40da-87a8-104853135c3a)
