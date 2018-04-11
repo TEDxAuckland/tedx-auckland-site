@@ -6,7 +6,7 @@ badge_image:
 tagline: Ascending
 start_date: 2014-08-16 00:00:00 +1200
 end_date: 2014-08-16 00:00:00 +1200
-address:
+address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
 speakers:
   - 2014/luke-nola
   - 2014/muskan-devta
