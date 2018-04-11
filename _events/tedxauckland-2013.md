@@ -9,7 +9,9 @@ end_date: 2013-08-03 00:00:00 +1200
 address: '50 Mayoral Dr, Auckland 1010, New Zealand'
 speakers:
 flikr_galleries:
-  -
+  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656765142439'
+  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656607912019'
+  - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143953353'
 youtube_playlist:
 ticket_url: 'https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0'
 ---
