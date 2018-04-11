@@ -15,7 +15,7 @@ flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157690330728971'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157664411957938'
 youtube_playlist:
-ticket_url: 'https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0'
+ticket_url:
 ---
 
 Enter your description here…
