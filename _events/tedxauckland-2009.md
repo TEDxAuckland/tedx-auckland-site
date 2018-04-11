@@ -10,7 +10,7 @@ address: '50 Mayoral Dr, Auckland, New Zealand'
 speakers:
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641137766674'
-youtube_playlist:
+youtube_playlist: 'https://youtu.be/cKugJk7rKW0'
 ticket_url:
 ---
 
