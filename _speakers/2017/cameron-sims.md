@@ -1,6 +1,6 @@
 ---
 name: Cameron Sims
-email: hello@plantculture.nz
+email:
 image: /uploads/export-1-2.jpg
 description_markdown: >-
   Cameron Sims believes the simple ingredient hemp, is the key to changing the
@@ -16,10 +16,10 @@ description_markdown: >-
   yoga and people.
 website_url: 'https://www.plantculture.nz/'
 twitter:
-facebook:
+facebook: 'https://www.facebook.com/plantculture.nz/'
 google_plus:
 github_username:
-instagram:
+instagram: 'https://www.instagram.com/cam.sims/'
 ---
 
 Enter your description here...
