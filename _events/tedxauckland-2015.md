@@ -6,7 +6,7 @@ badge_image:
 tagline:
 start_date: 2015-05-02 00:00:00 +1200
 end_date: 2015-05-02 00:00:00 +1200
-address: 'Victory Convention Centre, 98 Beaumont St, Freemans Bay, Auckland 1010'
+address: 'Victory Convention Centre, 98 Beaumont Street, Auckland Central, Auckland 1010'
 speakers:
   - 2015/siouxsie-wiles
   - 2015/grant-schofield
