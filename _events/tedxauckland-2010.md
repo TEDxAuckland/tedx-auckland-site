@@ -3,7 +3,7 @@ title: TEDxAuckland 2010
 short_title: 2010
 hero_image:
 badge_image:
-tagline:
+tagline: Ideas Worth Doing
 start_date: 2010-09-26 00:00:00 +1200
 end_date: 2010-09-26 00:00:00 +1200
 address: 'Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620'
