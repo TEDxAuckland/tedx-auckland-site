@@ -11,6 +11,9 @@ speakers:
   - 2012/michelle-dickinson
   - 2012/andrew-patterson
   - 2012/david-krofcheck
+  - 2012/assil-russell
+  - 2012/pip-hall
+  - 2012/paul-wood
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641139177714'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143525304'
