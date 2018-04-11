@@ -24,7 +24,7 @@ TEDxAuckland is an Ideas Festival. Get ready to be inspired and challenged by lo
 
 Food and drink during the event is included in your Multi-Day Pass and on Saturday evening, once the talks are done, another experience awaits VIP ticket holders.
 
-The Program
+**The Program**
 
 The Festival opens at 3pm Friday for registrations and activations. The first talks start at 5.00pm through to 7pm.
 
@@ -36,4 +36,4 @@ The talks will conclude around 5pm on Saturday. Those attending the sold out VIP
 
 Those keen to kick on are invited to join TEDx crew, speakers and friends at Sweat Shop Brew Kitchen, Sale St, Freemans Bay after 9pm.
 
-![](blob:https://app.cloudcannon.com/10c6d209-efa5-40da-87a8-104853135c3a)
+![](/uploads/tedxakl-2017-schedule-1.png)
