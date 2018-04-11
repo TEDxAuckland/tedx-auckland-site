@@ -1,7 +1,7 @@
 ---
 name: Anna Faber
 email:
-image:
+image: /uploads/anna-faber.jpg
 description_markdown: >-
   Anna Faber is a Master’s student at The University of Auckland researching the
   interaction between the US and Asia within a film context. In particular, her
