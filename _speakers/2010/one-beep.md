@@ -3,9 +3,9 @@ name: One Beep
 email:
 image:
 description_markdown:
-website_url:
+website_url: 'http://onebeep.org/'
 medium_url:
-twitter:
+twitter: 'https://twitter.com/VinnyLohan'
 facebook:
 google_plus:
 github_username:
