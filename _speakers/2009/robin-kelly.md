@@ -3,7 +3,7 @@ name: Robin Kelly
 email:
 image:
 description_markdown:
-website_url:
+website_url: 'http://www.robinkelly.co.nz/'
 medium_url:
 twitter:
 facebook:
