@@ -5,7 +5,7 @@ image:
 description_markdown:
 website_url:
 medium_url:
-twitter:
+twitter: 'https://twitter.com/divyadhar'
 facebook:
 google_plus:
 github_username:
