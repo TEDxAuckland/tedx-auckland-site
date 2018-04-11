@@ -21,6 +21,9 @@ speakers:
   - 2013/ash-graham
   - 2013/brian-sweeney
   - 2013/sophie-tamati
+  - 2013/welby-ings
+  - 2013/robyn-paterson
+  - 2013/dale-williams
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157656765142439'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157656607912019'
