@@ -19,6 +19,9 @@ speakers:
   - 2015/the-hip-op-eration-crew
   - 2015/dale-pfeifer
   - 2015/janette-searle
+  - 2015/sir-bob-harvey
+  - 2015/tame-iti
+  - 2015/max-cryer
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157653020465246'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157654429408953'
