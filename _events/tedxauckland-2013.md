@@ -1,7 +1,7 @@
 ---
 title: TEDxAuckland 2013
 short_title: 2013
-hero_image:
+hero_image: /uploads/20130803-tedx-georgias-high-77.jpg
 badge_image:
 tagline:
 start_date: 2013-08-03 00:00:00 +1200
