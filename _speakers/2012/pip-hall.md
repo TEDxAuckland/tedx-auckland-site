@@ -11,7 +11,7 @@ description_markdown: >-
   producer and actor.
 website_url: 'http://www.piphall.co.nz/'
 medium_url:
-twitter:
+twitter: 'https://twitter.com/misspiphall'
 facebook:
 google_plus:
 github_username:
