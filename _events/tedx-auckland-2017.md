@@ -1,5 +1,5 @@
 ---
-title: '2016'
+title: TEDxAuckland 2016
 short_title: 2016
 tagline: flipside
 hero_image: /uploads/flipside-banner.jpg
@@ -17,7 +17,7 @@ ticket_url:
 
 2016 TEDxAuckland was a little different. We curated ideas for a global audience; global in their diversity, expertise and residence. Say hello to TEDxAuckland 2016!
 
-Our Theme this year is: *flipside*
+Our Theme this year is:&nbsp;*flipside*
 
 * The perspective you get from seeing an old problem in a new way.
 * Turning hierarchies on their head and putting ideas ahead of ideology.
@@ -26,7 +26,7 @@ Our Theme this year is: *flipside*
 
 The event featured ideas and talks from amazing people changing the world. We’ll be matching the diversity of ideas with an equally diverse audience, you!
 
-TEDxAuckland 2016: *flipside* featured talks over two days, events, activities and social time. Shed 10 the venue provided the perfect space for hosting, break out spaces and food and beverage side you deserve.
+TEDxAuckland 2016:&nbsp;*flipside*&nbsp;featured talks over two days, events, activities and social time. Shed 10 the venue provided the perfect space for hosting, break out spaces and food and beverage side you deserve.
 
 See the 2016 FoodStory Video below.
 
