@@ -17,6 +17,10 @@ speakers:
   - 2013/joseph-michael
   - 2013/helen-clark
   - 2013/robert-oliver
+  - 2013/richard-faull
+  - 2013/ash-graham
+  - 2013/brian-sweeney
+  - 2013/sophie-tamati
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157656765142439'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157656607912019'
