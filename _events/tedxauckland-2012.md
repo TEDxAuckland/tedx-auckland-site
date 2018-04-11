@@ -14,6 +14,12 @@ speakers:
   - 2012/assil-russell
   - 2012/pip-hall
   - 2012/paul-wood
+  - 2012/john-windsor
+  - 2012/alistair-knott
+  - 2012/sam-hunt
+  - 2012/emma-rogan
+  - 2012/aakash-polra--jade-tan
+  - 2012/sean-gourley
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641139177714'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143525304'
