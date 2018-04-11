@@ -23,7 +23,7 @@ description_markdown: >-
   physical arts and believes that they are intrinsically tied to reclaiming
   autonomy, reconnecting to your ancestors and changing the world around you.
 website_url:
-medium_url:
+medium_url: 'http://vimeo.com/jahrager'
 twitter: 'https://twitter.com/JAHRAGER'
 facebook:
 google_plus:
