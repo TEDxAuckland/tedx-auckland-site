@@ -9,6 +9,8 @@ end_date: 2012-10-06 00:00:00 +1300
 address: '50 Mayoral Dr, Auckland 1010, New Zealand'
 speakers:
   - 2012/michelle-dickinson
+  - 2012/andrew-patterson
+  - 2012/david-krofcheck
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641139177714'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143525304'
