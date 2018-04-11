@@ -1,5 +1,5 @@
 ---
-title: TEDxAuckland 2016
+title: '2016'
 short_title: 2016
 tagline: flipside
 hero_image: /uploads/flipside-banner.jpg
@@ -8,34 +8,9 @@ start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 speakers:
-  - barbara-breen
-  - ian-mccrae
-  - lizzie-marvelly
-  - jayne-bailey
-  - cori-gonzalez-macuer
-  - adrien-taylor
-  - mike-moka
-  - anna-coddington
-  - toby-carr
-  - james-bergin
-  - vaughan-rowsell
-  - grace-clapham--solonia-teodros
-  - jess-holly-bates
-  - samuel-gibson
-  - georgia-lala
-  - richard-aston
-  - pani-farvid
-  - sharad-paul
-  - minnie-barragwanath
-  - richard-little
-  - david-harvey
-  - matt-shirtcliffe
-  - keith-ng
-  - rory-steyn
-  - modern-māori-quartet
 flikr_galleries:
- - https://www.flickr.com/photos/tedxauckland/albums/72157666367306513
- - https://www.flickr.com/photos/tedxauckland/albums/72157668777484451
+  - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
+  - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'
 youtube_playlist: 'https://youtu.be/J0s-ob4FGcg'
 ticket_url:
 ---
