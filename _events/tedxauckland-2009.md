@@ -1,12 +1,12 @@
 ---
 title: TEDxAuckland 2009
-short_title: 2018
+short_title: 2009
 hero_image:
 badge_image:
 tagline:
-start_date:
-end_date:
-address: '50 Mayoral Dr, Auckland, New Zealand'
+start_date: 2009-11-05 00:00:00 +1300
+end_date: 2009-11-05 00:00:00 +1300
+address:
 speakers:
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641137766674'
