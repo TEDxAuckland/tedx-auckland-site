@@ -6,7 +6,9 @@ badge_image:
 tagline: Ascending
 start_date: 2014-08-16 00:00:00 +1200
 end_date: 2014-08-16 00:00:00 +1200
-address: '50 Mayoral Dr, Auckland 1010, New Zealand'
+address: >-
+  Westlake Boys High School, 30 Forrest Hill Rd, Forrest Hill, Westlake,
+  Auckland 0620
 speakers:
   - 2014/luke-nola
   - 2014/muskan-devta
