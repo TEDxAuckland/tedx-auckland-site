@@ -20,6 +20,11 @@ speakers:
   - 2012/emma-rogan
   - 2012/aakash-polra--jade-tan
   - 2012/sean-gourley
+  - 2012/philip-patston
+  - 2012/victoria-spackman
+  - 2012/matthew-simmons
+  - 2012/paul-cameron
+  - 2012/peter-young
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641139177714'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143525304'
