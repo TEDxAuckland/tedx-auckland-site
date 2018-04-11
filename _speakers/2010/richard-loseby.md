@@ -17,7 +17,7 @@ description_markdown: >-
 website_url: 'https://www.rloseby.com/'
 medium_url:
 twitter: 'https://twitter.com/RichardLoseby'
-facebook:
+facebook: 'https://www.facebook.com/losebybooks/'
 google_plus:
 github_username:
 instagram:
