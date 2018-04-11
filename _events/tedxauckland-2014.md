@@ -13,6 +13,11 @@ speakers:
   - 2014/urzila-carlson
   - 2014/mike-allsop
   - 2014/rachel-callander
+  - 2014/vivien-maidaborn
+  - 2014/matt-stone
+  - 2014/rebecca-mills
+  - 2014/catherine-bell
+  - 2014/john-boone
 flikr_galleries:
   -
 youtube_playlist: 'https://youtu.be/NLO9kk5TTwk'
