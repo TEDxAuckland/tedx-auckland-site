@@ -1,0 +1,62 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Your awesome title
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+permalink: pretty
+
+# Markdown settings
+markdown: kramdown
+timezone: Pacific/Auckland
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-autoprefixer
+
+# Build settings
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - readme.md
+
+collections:
+  events:
+    name: Events
+    output: true
+  speakers:
+    name: Speakers
+    _hide_content: true
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "speakers"
+    values:
+      layout: "speaker"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+
+_comments:
+  short_title: Used in smaller spaces
+  start_date: When does the event start?
+  end_date: When does the event end?
+  speakers: To add more options add speakers in explore
+  flikr_gallery: The url to the flikr gallery. Leave blank if N/A.
+  youtube_playlist: The url to the youtube playlist. Leave blank if N/A.
+  ticket_url: Where can people buy tickets. Leave blank if N/A.

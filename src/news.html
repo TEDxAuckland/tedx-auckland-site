@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+<h3>News</h3>
+{% for post in site.posts limit: 10 %}
+  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  <p><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></p>
+
+	{{ post.content | strip_html | truncate: 200 }}
+{% endfor %}
+
+<p><a href="/news/archive">Go to archive</a></p>
