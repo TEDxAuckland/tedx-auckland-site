@@ -1,0 +1,76 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	background: #222;
+	color: #fff;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 1.75;
+	scroll-behavior: smooth;
+}
+
+.container {
+	width: 98%;
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+.form-container {
+	width: 98%;
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+section {
+	padding: 40px 0;
+	min-height: 300px;
+
+	h3 {
+		font-size: 5rem;
+		margin: 0 0 10px 0;
+	}
+
+	.overhang-heading {
+		position: relative;
+		line-height: 1;
+		margin-top: 0;
+
+		&.overhang-heading-effect-only {
+			margin-top: 160px;
+		}
+
+		.overhang-heading-background {
+			height: 80%;
+			display: block;
+			position: absolute;
+			bottom: 100%;
+			overflow: hidden;
+		}
+
+		// force content into foreground for sizing
+		.overhang-heading-foreground:after {
+			content: "\00a0";
+		}
+	}
+}
+
+h4 {
+	border-bottom: 4px solid $brand-color;
+	font-size: 1.6rem;
+	margin: 2rem 0 1.5rem;
+}
+
+.date-badge {
+	background: $brand-color;
+	display: inline-block;
+	padding: 10px 20px;
+	font-weight: bold;
+	margin: 0;
+}
+
+strong {
+	color: $brand-color;
+	font-weight: bold;
+}

@@ -1,11 +1,23 @@
 {
-  "name": "tedx-jekyll-site",
+  "name": "tedx-auckland-site",
   "version": "1.0.0",
-  "main": "index.html",
-  "license": "MIT",
-  "private": true,
-  "dependencies": {
-    "foundation-sites": "^6.4.4-rc1",
-    "vue": "^2.5.16"
+  "description": "TEDxAuckland site built in Jekyll & CloudCannon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TEDxAuckland/tedx-auckland-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TEDxAuckland/tedx-auckland-site/issues"
+  },
+  "homepage": "https://github.com/TEDxAuckland/tedx-auckland-site#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "cloudcannon-suite": "git+ssh://git@github.com/CloudCannon/cloudcannon-suite.git"
   }
 }

@@ -1,0 +1,21 @@
+.youth-callout {
+	display: flex;
+	font-size: 1.2rem;
+
+	.youth-callout-header,
+	.youth-callout-header-details {
+		padding: 20px;
+	}
+
+	.youth-callout-header {
+		flex: 1;
+		background: $brand-color;
+		text-align: right;
+		font-weight: 400;
+	}
+
+	.youth-callout-header-details {
+		flex: 2;
+		background: #111;
+	}
+}

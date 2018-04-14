@@ -1,0 +1,14 @@
+section.about {
+	background: #444;
+}
+
+.about-container {
+	display: flex;
+	flex-wrap: wrap;
+
+	.about-details,
+	.about-social {
+		flex: 1 1 400px;
+		margin: 20px;
+	}
+}

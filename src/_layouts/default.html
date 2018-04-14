@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Tedx Auckland</title>
+
+		<meta name="theme-color" content="#E62B1E" />
+		<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+		<meta name="HandheldFriendly" content="True" />
+		<meta name="MobileOptimized" content="320" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="apple-mobile-web-app-title" content="TED Auckland" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+		<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+		<meta name="application-name" content="TED Auckland" />
+		<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+		<meta name="msapplication-TileColor" content="#000000" />
+		<meta http-equiv="cleartype" content="on" />
+
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,700" rel="stylesheet">
+		<link rel="stylesheet" href="/assets/css/main.css">
+	</head>
+
+	<body>
+		<nav>
+			<div class="container">
+				<h1><a href="/"><img src="/assets/images/logo.png" width="279" height="51" alt="Tedx Auckland" /></a></h1>
+
+				<ul>
+					<li><a href="/events/">Events</a></li>
+					<li><a href="/speakers/">Speakers</a></li>
+					<li><a href="/news/">News</a></li>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/contact/">Contact</a></li>
+				</ul>
+			</div>
+		</nav>
+
+		{{ content }}
+
+		<footer>
+			<div class="container">
+				<div class="logos">
+					<a href="/"><img src="/assets/images/logo.png" width="279" height="51" alt="Tedx Auckland" /></a></h1>
+				</div>
+
+				<ul class="social-links">
+					<li>Follow us</li>
+					<li>
+						<a href="https://www.facebook.com/TEDxAuckland/" target="_blank">
+							{% include embed/social-icon.html icon="Facebook" %}
+						</a>
+					</li>
+					<li>
+						<a href="https://www.instagram.com/tedxauckland/" target="_blank">
+							{% include embed/social-icon.html icon="Instagram" %}
+						</a>
+					</li>
+					<li>
+						<a href="https://twitter.com/tedxauckland" target="_blank">
+							{% include embed/social-icon.html icon="Twitter" %}
+						</a>
+					</li>
+					<li>
+						<a href="https://www.youtube.com/user/TEDxAuckland" target="_blank">
+							{% include embed/social-icon.html icon="YouTube" %}
+						</a>
+					</li>
+				</ul>
+			</div>
+		</footer>
+	</body>
+</html>

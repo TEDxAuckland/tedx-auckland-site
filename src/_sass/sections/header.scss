@@ -1,0 +1,29 @@
+header {
+	background: grey url(/assets/images/hero/hero-slider-1.jpg) right center;
+	background-size: cover;
+	color: #fff;
+	padding: 120px 0;
+	text-shadow: 1px 1px 10px #000;
+
+	h2 {
+		font-size: 6.5rem;
+		margin: 0;
+		text-transform: lowercase;
+		line-height: 1;
+	}
+
+	p {
+		font-size: 1.6rem;
+		max-width: 500px;
+		line-height: 1.4;
+	}
+
+	.header-details {
+		max-width: 650px;
+		width: 100%;
+		background: rgba(0,0,0,0.5);
+		padding: 40px;
+		margin: 0 -30px;
+		border-radius: 4px;
+	}
+}

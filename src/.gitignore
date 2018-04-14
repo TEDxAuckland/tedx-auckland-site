@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+npm-debug.log
+bower_components
+*.swp
+yarn-error.log
+
+.sass-cache
+.jekyll-metadata
+_site
