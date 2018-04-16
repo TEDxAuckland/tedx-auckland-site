@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'http://www.samuelgibson.co.nz/'
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=7nokY97BRS4'
 github_username:
 instagram:
 ---
