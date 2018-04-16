@@ -1,6 +1,6 @@
 ---
 name: Barbara Breen
-email: barbara.breen@aut.ac.nz
+email:
 image: /uploads/barbara-breen-1200x1200.jpg
 description_markdown: >-
   *conservationist* / *geographer* / *social ecologist*<br>Barbara is a senior
@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'https://www.aut.ac.nz/profiles/barbara-bollard-breen'
 twitter: 'https://twitter.com/BarbaraBreen1'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=irtsSSek1k8'
 github_username:
 instagram:
 ---
