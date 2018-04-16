@@ -23,7 +23,7 @@ description_markdown: >-
 website_url: 'http://modernmaoriquartet.nz/'
 twitter: 'https://twitter.com/ModernMaoriQ'
 facebook: 'https://www.facebook.com/ModernMaoriQuartet'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=cQO3kPM3YRE'
 github_username:
 instagram: 'https://www.instagram.com/modernmaoriquartet/'
 ---
