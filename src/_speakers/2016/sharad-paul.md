@@ -18,8 +18,8 @@ description_markdown: >-
   Foundation.
 website_url: 'https://www.drsharadpaul.com/'
 twitter: 'https://twitter.com/DrSharadPaul'
-facebook:
-youtube_video:
+facebook: 'https://www.facebook.com/drsharadpaul/'
+youtube_video: 'https://www.youtube.com/watch?v=8v0ykTrTQEc'
 github_username:
 instagram:
 ---
