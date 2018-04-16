@@ -34,7 +34,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=PRboI1iJ5oA'
 github_username:
 instagram:
 ---
