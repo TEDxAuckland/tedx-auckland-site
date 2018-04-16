@@ -25,7 +25,7 @@ description_markdown: >-
 website_url: 'http://projectmoroto.com/'
 twitter:
 facebook: 'https://www.facebook.com/ProjectMoroto/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=lzQSZmedcfs'
 github_username:
 instagram:
 ---
