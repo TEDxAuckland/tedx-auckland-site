@@ -16,6 +16,10 @@ speakers:
   - 2016/adrien-taylor
   - 2016/mike-moka
   - 2016/anna-coddington
+  - 2016/toby-carr
+  - 2016/james-bergin
+  - 2014/vaughan-rowsell
+  - 2016/grace-clapham--solonia-teodros
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'
