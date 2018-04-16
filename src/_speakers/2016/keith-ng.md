@@ -18,7 +18,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/keith_ng'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=eRIV-k4Tbz8'
 github_username:
 instagram:
 ---
