@@ -28,6 +28,11 @@ speakers:
   - 2016/sharad-paul
   - 2016/minnie-barragwanath
   - 2016/richard-little
+  - 2016/david-harvey
+  - 2016/matt-shirtcliffe
+  - 2016/keith-ng
+  - 2016/rory-steyn
+  - 2016/modern-māori-quartet
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'
