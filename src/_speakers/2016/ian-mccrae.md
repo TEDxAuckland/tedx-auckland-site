@@ -1,6 +1,6 @@
 ---
 name: Ian McCrae
-email: Ian.McCrae@orionhealth.com
+email:
 image: /uploads/ian-mccrae-1200x1200.jpg
 description_markdown: >-
   *founder* / *engineer* / *lapsed* *mathematician*
@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'https://orionhealth.com'
 twitter: 'https://twitter.com/ianmccrae'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=Q48dXVTC03o'
 github_username:
 instagram:
 ---
