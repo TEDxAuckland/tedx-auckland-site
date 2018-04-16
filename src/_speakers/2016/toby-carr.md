@@ -20,7 +20,7 @@ twitter: 'https://twitter.com/TobySCarr'
 facebook:
 youtube_video: 'https://www.youtube.com/watch?v=WSPQhTn6J1w'
 github_username:
-instagram:
+instagram: 'https://www.instagram.com/toby_carr/'
 ---
 
 Enter your description here...
