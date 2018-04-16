@@ -17,7 +17,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=7GVEqegzx44'
 github_username:
 instagram:
 ---
