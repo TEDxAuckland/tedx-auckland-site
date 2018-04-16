@@ -1,0 +1,10 @@
+.talks {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -20px;
+}
+
+.talk {
+  flex: 1 1 450px;
+  margin: 20px;
+}

@@ -82,14 +82,18 @@ layout: default
 			<h3>Talks</h3>
 			{% assign videos = page.youtube_playlist | youtube_videos_from_playlist %}
 
-			{% assign sorted = videos | sort: 'position' %}
-			{% for video in sorted %}
-				<h4>{{ video.title }}</h4>
-				<img src="{{ video.thumbnail_url }}">
-				<p>{{ video.description }}</p>
-				<p>Published at {{ video.published_at }}</p>
-				<p>Video ID: {{ video.video_id }}</p>
-			{% endfor %}
+			<div class="talks">
+				{% assign sorted = videos | sort: 'position' %}
+				{% for video in sorted %}
+					<div class="talk">
+						<img src="{{ video.thumbnail_url }}">
+						<h4>{{ video.title }}</h4>
+						<p>{{ video.description }}</p>
+						<p>Published at {{ video.published_at }}</p>
+						<p>Video ID: {{ video.video_id }}</p>
+					</div>
+				{% endfor %}
+			</div>
 		</div>
 	</section>
 {% endif %}
