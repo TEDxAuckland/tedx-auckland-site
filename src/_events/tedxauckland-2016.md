@@ -20,6 +20,14 @@ speakers:
   - 2016/james-bergin
   - 2014/vaughan-rowsell
   - 2016/grace-clapham--solonia-teodros
+  - 2016/jess-holly-bates
+  - 2016/samuel-gibson
+  - 2016/georgia-lala
+  - 2016/richard-aston
+  - 2016/pani-farvid
+  - 2016/sharad-paul
+  - 2016/minnie-barragwanath
+  - 2016/richard-little
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'
