@@ -11,7 +11,7 @@ description_markdown: >-
 website_url: 'http://www.hipop-eration.com/'
 twitter: 'https://twitter.com/HipOpCrew'
 facebook: 'https://www.facebook.com/TheHipOpErationCrew/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=bsJjOxGhAE0'
 github_username:
 instagram:
 ---
