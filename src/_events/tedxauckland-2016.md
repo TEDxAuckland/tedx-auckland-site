@@ -9,6 +9,13 @@ end_date: 2016-05-06 00:00:00 +1200
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 speakers:
   - 2016/barbara-breen
+  - 2016/ian-mccrae
+  - 2016/lizzie-marvelly
+  - 2016/jayne-bailey
+  - 2016/cori-gonzalez-macuer
+  - 2016/adrien-taylor
+  - 2016/mike-moka
+  - 2016/anna-coddington
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'
