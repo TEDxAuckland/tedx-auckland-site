@@ -18,7 +18,7 @@ description_markdown: >-
 website_url: 'http://www.dextech.co.nz/'
 twitter: 'https://twitter.com/TobySCarr'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=WSPQhTn6J1w'
 github_username:
 instagram:
 ---
