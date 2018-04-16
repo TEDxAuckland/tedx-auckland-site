@@ -17,9 +17,9 @@ description_markdown: >-
 website_url: 'https://about.me/skeptimoo, http://www.superbugslab.org/'
 twitter: 'https://twitter.com/siouxsiew'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=F8a731O7IM8'
 github_username:
-instagram:
+instagram: 'https://www.instagram.com/siouxsiew/'
 ---
 
 Enter your description here...
