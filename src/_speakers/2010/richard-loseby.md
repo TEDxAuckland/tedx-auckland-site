@@ -18,7 +18,7 @@ website_url: 'https://www.rloseby.com/'
 medium_url:
 twitter: 'https://twitter.com/RichardLoseby'
 facebook: 'https://www.facebook.com/losebybooks/'
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

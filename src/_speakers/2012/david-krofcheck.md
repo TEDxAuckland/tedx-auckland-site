@@ -17,7 +17,7 @@ website_url: 'http://www.science.auckland.ac.nz/people/d-krofcheck'
 medium_url:
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

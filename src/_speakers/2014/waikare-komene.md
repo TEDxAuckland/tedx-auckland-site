@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/search?q=roots_creative&src=typd'
 facebook: 'https://www.facebook.com/TheRootsCreativeEntrepreneurs/'
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

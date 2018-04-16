@@ -19,7 +19,7 @@ description_markdown: >-
 website_url: 'http://www.annacoddington.com/'
 twitter: 'https://twitter.com/AnnaCoddington'
 facebook: 'https://www.facebook.com/AnnaCoddingtonMusic'
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/annacoddington/'
 ---

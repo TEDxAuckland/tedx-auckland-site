@@ -19,7 +19,7 @@ description_markdown: >-
 website_url: 'https://www.drsharadpaul.com/'
 twitter: 'https://twitter.com/DrSharadPaul'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

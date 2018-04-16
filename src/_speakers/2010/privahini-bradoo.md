@@ -9,7 +9,7 @@ website_url: 'http://blueoakresources.com/'
 medium_url: 'https://www.linkedin.com/in/privahini-bradoo-455b491/'
 twitter: 'https://twitter.com/privahini'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

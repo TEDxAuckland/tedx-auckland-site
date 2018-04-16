@@ -20,7 +20,7 @@ description_markdown: >-
 website_url: 'http://nsa-global.com/'
 twitter: 'https://twitter.com/RorySteyn11'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

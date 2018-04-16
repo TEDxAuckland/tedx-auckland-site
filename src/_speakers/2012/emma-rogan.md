@@ -13,7 +13,7 @@ website_url: 'http://www.emmarogan.co.nz/'
 medium_url: 'https://100daysproject.co.nz/'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/emmarogandesign/'
 ---

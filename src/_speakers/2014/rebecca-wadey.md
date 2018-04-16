@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/thecentrenz'
 facebook: 'https://www.facebook.com/thecentrenz/'
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

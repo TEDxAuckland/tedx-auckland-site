@@ -12,7 +12,7 @@ description_markdown: >-
 website_url: 'http://www.joemichael.co.nz/'
 twitter: 'https://twitter.com/joemichaelmedia'
 facebook: 'https://www.facebook.com/joemichaelmedia'
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/joemichaelmedia/'
 ---

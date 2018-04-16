@@ -16,7 +16,7 @@ website_url: 'https://unidirectory.auckland.ac.nz/people/rlm-faull'
 medium_url:
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

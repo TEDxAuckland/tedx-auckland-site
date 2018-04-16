@@ -19,7 +19,7 @@ description_markdown: >-
 website_url: 'https://www.aut.ac.nz/profiles/pantea-farvid'
 twitter: 'https://twitter.com/panifarvid'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

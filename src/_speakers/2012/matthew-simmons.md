@@ -12,7 +12,7 @@ website_url: 'https://nyriad.com/'
 medium_url:
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

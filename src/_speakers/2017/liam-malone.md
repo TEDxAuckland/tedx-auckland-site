@@ -19,7 +19,7 @@ website_url: 'http://www.liammalone.co.nz/'
 medium_url:
 twitter: 'https://twitter.com/LiamMalone93'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/liammmalone/'
 ---

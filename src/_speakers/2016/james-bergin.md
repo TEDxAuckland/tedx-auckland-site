@@ -19,7 +19,7 @@ description_markdown: >-
 website_url: 'http://jamesbergin.com/'
 twitter: 'https://twitter.com/jamesbergin'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

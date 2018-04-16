@@ -16,7 +16,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/corigm'
 facebook: 'https://www.facebook.com/cori.gonzalezmacuer/'
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/corigram/'
 ---

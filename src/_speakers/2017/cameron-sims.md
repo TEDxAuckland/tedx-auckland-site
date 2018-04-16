@@ -17,7 +17,7 @@ description_markdown: >-
 website_url: 'https://www.plantculture.nz/'
 twitter:
 facebook: 'https://www.facebook.com/plantculture.nz/'
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/cam.sims/'
 ---

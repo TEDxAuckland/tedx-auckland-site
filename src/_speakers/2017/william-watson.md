@@ -16,7 +16,7 @@ website_url: 'https://www.tmipictures.co.nz/'
 medium_url: 'https://vimeo.com/user60313969'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

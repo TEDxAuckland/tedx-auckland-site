@@ -15,7 +15,7 @@ description_markdown: >-
 website_url: 'https://www.youngoceanexplorers.com/'
 twitter: 'https://twitter.com/YngOcnExplorers'
 facebook: 'https://www.facebook.com/youngoceanexplorers'
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/young_ocean_explorers/'
 ---

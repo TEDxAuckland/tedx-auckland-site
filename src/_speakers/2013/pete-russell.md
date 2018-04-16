@@ -14,7 +14,7 @@ description_markdown: >-
 website_url: 'https://www.ooooby.org'
 twitter: 'https://twitter.com/ohmpo'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

@@ -14,7 +14,7 @@ description_markdown: >-
 website_url: 'https://figure.nz/'
 twitter: 'https://twitter.com/gracefullillian'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

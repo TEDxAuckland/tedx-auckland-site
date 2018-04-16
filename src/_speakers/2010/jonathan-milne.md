@@ -10,7 +10,7 @@ website_url: 'https://www.tlc.ac.nz/tutor/40'
 medium_url:
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

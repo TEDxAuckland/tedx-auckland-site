@@ -19,7 +19,7 @@ description_markdown: >-
 website_url: 'https://offcut.co'
 twitter: 'https://twitter.com/Adrien_Taylor'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

@@ -31,7 +31,7 @@ description_markdown: >-
 website_url: 'http://www.mikeallsop.co.nz/'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/mikeallsopnz/'
 ---

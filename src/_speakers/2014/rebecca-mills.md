@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'http://www.rebeccamills.co/'
 twitter: 'https://twitter.com/_rebeccamills?lang=en'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/_rebeccamills/'
 ---

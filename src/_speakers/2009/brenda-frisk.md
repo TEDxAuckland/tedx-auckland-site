@@ -13,7 +13,7 @@ website_url:
 medium_url: 'https://www.linkedin.com/in/brendafrisk/'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

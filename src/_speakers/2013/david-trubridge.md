@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'https://www.davidtrubridge.com/'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username: 'https://medium.com/@davidtrubridge'
 instagram:
 ---

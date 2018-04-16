@@ -18,7 +18,7 @@ description_markdown: >-
 website_url: 'http://www.tepunahamatatini.ac.nz/'
 twitter: 'https://twitter.com/hendysh'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

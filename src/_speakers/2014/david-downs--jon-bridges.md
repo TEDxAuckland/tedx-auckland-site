@@ -20,7 +20,7 @@ description_markdown: >-
 website_url: 'http://www.no8rewired.kiwi/'
 twitter:
 facebook: 'https://www.facebook.com/no8rewired/'
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

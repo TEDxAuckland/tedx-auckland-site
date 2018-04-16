@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'https://www.aut.ac.nz/profiles/barbara-bollard-breen'
 twitter: 'https://twitter.com/BarbaraBreen1'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

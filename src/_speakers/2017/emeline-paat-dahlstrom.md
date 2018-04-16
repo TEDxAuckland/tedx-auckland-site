@@ -19,7 +19,7 @@ website_url: 'http://internationalspace.com/'
 medium_url: 'http://spacebase.co/'
 twitter: 'https://twitter.com/epaatdahlstrom'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

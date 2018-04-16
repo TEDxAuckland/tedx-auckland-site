@@ -15,7 +15,7 @@ description_markdown: >-
 website_url: 'https://www.billiejordan.org/, https://www.hipop-erationdance.com/'
 twitter: 'https://twitter.com/BillieJordanNZ'
 facebook: 'https://www.facebook.com/TheHipOpErationCrew/'
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

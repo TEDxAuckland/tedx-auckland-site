@@ -19,7 +19,7 @@ description_markdown: >-
 website_url: 'http://www.beaccessible.org.nz/'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

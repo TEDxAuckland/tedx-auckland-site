@@ -13,7 +13,7 @@ website_url: 'https://www.diversitynz.com/'
 medium_url: 'http://philippatston.com/blog/'
 twitter: 'https://twitter.com/PhilipPatston'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/philippatston/'
 ---

@@ -21,7 +21,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/stevepointing'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

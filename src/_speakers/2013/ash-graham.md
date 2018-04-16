@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/AshAshgraham'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

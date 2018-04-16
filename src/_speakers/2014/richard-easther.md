@@ -17,7 +17,7 @@ description_markdown: >-
 website_url: 'https://excursionset.com/'
 twitter: 'https://twitter.com/REasther'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

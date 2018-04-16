@@ -16,7 +16,7 @@ website_url: 'http://seangourley.com/'
 medium_url:
 twitter: 'https://twitter.com/sgourley'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/sgourley/'
 ---

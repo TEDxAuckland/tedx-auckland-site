@@ -17,7 +17,7 @@ description_markdown: >-
 website_url: 'http://takemyhands.org/'
 twitter: 'https://twitter.com/takemyhandsnz'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

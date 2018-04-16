@@ -14,7 +14,7 @@ website_url: 'http://www.missinglinknz.co.nz/'
 medium_url:
 twitter: 'https://twitter.com/kcolbin'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

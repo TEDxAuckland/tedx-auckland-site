@@ -21,7 +21,7 @@ description_markdown: >-
 website_url: 'https://www.loomio.org/'
 twitter: 'https://twitter.com/maidaborn?lang=en'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

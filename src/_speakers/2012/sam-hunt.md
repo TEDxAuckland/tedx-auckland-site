@@ -26,7 +26,7 @@ website_url: 'http://samhunt.co.nz/'
 medium_url:
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

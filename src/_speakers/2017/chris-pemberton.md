@@ -20,7 +20,7 @@ website_url: 'https://www.crispcreative.club/'
 medium_url:
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram: 'https://www.instagram.com/crisp.creative/'
 ---

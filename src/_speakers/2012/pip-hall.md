@@ -13,7 +13,7 @@ website_url: 'http://www.piphall.co.nz/'
 medium_url:
 twitter: 'https://twitter.com/misspiphall'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://thechangeschool.com/'
 twitter: 'https://twitter.com/agent_grace, https://twitter.com/thechangeschool'
 facebook: 'https://www.facebook.com/thechangeschool'
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

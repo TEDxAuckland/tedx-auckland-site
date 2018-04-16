@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'https://theitcountreyjustice.wordpress.com/'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

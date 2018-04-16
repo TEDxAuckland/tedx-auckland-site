@@ -21,7 +21,7 @@ description_markdown: >-
 website_url: 'https://www.astonkerr.co.nz/'
 twitter:
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---

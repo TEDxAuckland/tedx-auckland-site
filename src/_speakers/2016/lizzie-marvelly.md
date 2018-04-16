@@ -25,7 +25,7 @@ description_markdown: >-
 website_url: 'https://www.villainesse.com/'
 twitter: 'https://twitter.com/LizzieMarvelly'
 facebook:
-google_plus:
+youtube_video:
 github_username:
 instagram:
 ---
