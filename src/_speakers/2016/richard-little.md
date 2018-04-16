@@ -20,7 +20,7 @@ description_markdown: >-
 website_url: 'https://www.rexbionics.com/'
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=WPbpGhSILqk'
 github_username:
 instagram:
 ---
