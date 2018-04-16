@@ -27,7 +27,7 @@ flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157654429408953'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157653487162285'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157651989131684'
-youtube_playlist: 'https://youtu.be/sScmj1Tnlj4'
+youtube_playlist: 'PLcm2pIIAwlDvRoXJiHdo6KFJXMHPWzzrd'
 ticket_url:
 ---
 

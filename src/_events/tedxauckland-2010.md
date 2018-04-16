@@ -10,7 +10,7 @@ address: 'Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Aucklan
 speakers:
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641137952633'
-youtube_playlist: 'https://youtu.be/Afaf8WxCR4U'
+youtube_playlist: 'PLcm2pIIAwlDt91h9DBqsgz7F6y7Q5kW7Y'
 ticket_url:
 ---
 

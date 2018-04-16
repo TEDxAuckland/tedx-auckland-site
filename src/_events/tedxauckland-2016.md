@@ -11,7 +11,7 @@ speakers:
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'
-youtube_playlist: 'https://youtu.be/J0s-ob4FGcg'
+youtube_playlist: 'PLcm2pIIAwlDvHTuiHHEln6B809w-3wV2V'
 ticket_url:
 ---
 
