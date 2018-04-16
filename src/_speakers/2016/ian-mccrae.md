@@ -3,7 +3,7 @@ name: Ian McCrae
 email:
 image: /uploads/ian-mccrae-1200x1200.jpg
 description_markdown: >-
-  *founder* / *engineer* / *lapsed* *mathematician*
+  *founder / engineer / lapsed mathematician*
 
 
   Ian began his professional career employed as a scientist writing mathematical
