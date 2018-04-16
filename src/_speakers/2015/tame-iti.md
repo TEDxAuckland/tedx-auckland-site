@@ -19,7 +19,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/tameiti'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=qeK3SkxrZRI'
 github_username:
 instagram:
 ---
