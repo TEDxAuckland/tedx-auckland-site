@@ -12,13 +12,13 @@ module Jekyll
       playlist = Yt::Playlist.new id: playlist_id
       playlist.playlist_items.map do |item|
         {
-          "playlist_item_id": item.id,
-          "title": item.title,
-          "description": item.description,
-          "published_at": item.published_at,
-          "thumbnail_url": item.thumbnail_url,
-          "video_id": item.video_id,
-          "position": item.position
+          "playlist_item_id" => item.id,
+          "title" => item.title,
+          "description" => item.description,
+          "published_at" => item.published_at,
+          "thumbnail_url" => item.thumbnail_url,
+          "video_id" => item.video_id,
+          "position" => item.position
         }
       end
     end
