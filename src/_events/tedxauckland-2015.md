@@ -23,10 +23,10 @@ speakers:
   - 2015/tame-iti
   - 2015/max-cryer
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157653020465246'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157654429408953'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157653487162285'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157651989131684'
+  - '72157653020465246'
+  - '72157654429408953'
+  - '72157653487162285'
+  - '72157651989131684'
 youtube_playlist: 'PLcm2pIIAwlDvRoXJiHdo6KFJXMHPWzzrd'
 ticket_url:
 ---

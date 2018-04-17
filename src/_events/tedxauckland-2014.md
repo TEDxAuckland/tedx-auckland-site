@@ -26,10 +26,10 @@ speakers:
   - 2014/rebecca-wadey
   - 2014/waikare-komene
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656140582479'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656599694255'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656734991456'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656389115760'
+  - '72157656140582479'
+  - '72157656599694255'
+  - '72157656734991456'
+  - '72157656389115760'
 youtube_playlist: 'PLcm2pIIAwlDuTR1f_L4RvqDinFjibiqDc'
 ticket_url:
 ---
