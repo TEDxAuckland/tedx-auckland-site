@@ -1,8 +1,8 @@
 require 'flickr-objects'
 
 Flickr.configure do |config|
-  config.api_key       = FLICKR_KEY
-  config.shared_secret = FLICKR_SECRET
+  config.api_key       = ENV['FLICKR_KEY']
+  config.shared_secret = ENV['FLICKR_SECRET']
 end
 
 module Jekyll
