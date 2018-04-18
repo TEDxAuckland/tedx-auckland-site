@@ -70,7 +70,11 @@ layout: default
 
 		<ul>
 			{% for flikr_gallery in page.flikr_galleries %}
+			{% assign flickr_album_photo_ids = flikr_gallery | images_from_photoset %}
 				<li>{{ flikr_gallery }}</li>
+				{% for image_url in flickr_album_photo_ids %}
+					<img width="50" height="50" src="{{ image_url }}">
+				{% endfor %}
 			{% endfor %}
 		</ul>
 	</div>
