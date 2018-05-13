@@ -4,7 +4,7 @@ body {
 	padding: 0;
 	background: #222;
 	color: #fff;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; //'Quicksand', sans-serif;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 1.75;
@@ -32,6 +32,12 @@ section {
 		margin: 0 0 10px 0;
 	}
 
+	.section-heading {
+	  font-size: 6.5em;
+	  font-weight: bold;
+		margin: 0;
+	}
+
 	.overhang-heading {
 		position: relative;
 		line-height: 1;
@@ -57,9 +63,12 @@ section {
 }
 
 h4 {
-	border-bottom: 4px solid $brand-color;
 	font-size: 1.6rem;
 	margin: 2rem 0 1.5rem;
+}
+
+.has-red-stripe {
+	border-bottom: 4px solid $brand-color;
 }
 
 .date-badge {
