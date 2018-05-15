@@ -1,5 +1,6 @@
 require 'yt'
 require 'json'
+require 'fileutils'
 
 Yt.configure do |config|
   config.api_key = ENV['YOUTUBE_API_KEY']
@@ -7,8 +8,10 @@ end
 
 module Jekyll
   module YoutubePlaylist
+    JSON_FOLDER = '_plugins/youtube_playlists/'
 
     def youtube_videos_from_playlist(playlist_id)
+      FileUtils::mkdir_p(JSON_FOLDER)
       videos = ""
       if File.exist?(json_path(playlist_id))
         videos = fetch_local_videos(playlist_id)
@@ -49,7 +52,7 @@ module Jekyll
     end
 
     def json_path(playlist_id)
-      File.expand_path("_plugins/youtube_playlists/#{playlist_id}.json")
+      File.expand_path("#{JSON_FOLDER}#{playlist_id}.json")
     end
 
   end

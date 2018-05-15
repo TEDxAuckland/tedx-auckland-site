@@ -3,3 +3,4 @@ _site
 .screenshots
 dist
 reports
+node_modules
