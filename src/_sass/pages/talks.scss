@@ -1,0 +1,74 @@
+.hero__talks {
+  height: 5rem;
+}
+
+.talks-filter-container {
+  height: 300px;
+  display: flex;
+  align-items: center;
+}
+
+.talks-filter {
+  display: flex;
+  justify-content: flex-start;
+  height: 10rem;
+
+  &__title {
+    font-size: 4rem;
+    margin-right: 3rem;
+    margin-bottom: 0;
+  }
+
+}
+
+.filter-tags {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-left: 0.5rem solid $brand-color;
+  padding-left: 3rem;
+  margin: 0;
+  height: 100%;
+
+  &__title {
+    margin: 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    line-height: 1rem;
+    letter-spacing: 0.12rem;
+    font-weight: 400;
+  }
+
+  &__tags {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 7rem;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+
+  }
+
+  &__tag {
+    a {
+      color: lighten($brand-grey, 70%);
+    }
+    font-family: 'Source Code Pro', monospace;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem 0.6rem 0 0;
+    border-radius: 0.3rem;
+    background-color: lighten($brand-grey, 20%);
+
+    transition: all 0.2s;
+
+    &:hover {
+      color: #fff;
+      transform: translateY(-0.12rem);
+      background-color: $brand-grey;
+      box-shadow: 0 1rem 2rem rgba(0,0,0,0.2);
+
+    }
+  }
+}

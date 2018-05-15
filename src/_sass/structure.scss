@@ -11,6 +11,11 @@ body {
 	scroll-behavior: smooth;
 }
 
+a {
+	color: $brand-color;
+  text-decoration: inherit;
+}
+
 .container {
 	width: 98%;
 	margin: 0 auto;
@@ -21,6 +26,14 @@ body {
 	width: 98%;
 	margin: 0 auto;
 	max-width: 800px;
+}
+
+.section-bg-grey {
+	background-color: $brand-grey-darker;
+}
+
+.section-bg-black {
+	background-color: #000;
 }
 
 section {

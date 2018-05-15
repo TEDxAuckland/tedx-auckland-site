@@ -1,6 +1,6 @@
-<section id="talks">
+<!-- <section id="talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
 	<div class="container">
-		<h3 class="section-heading section-heading__talks">Talks</h3>
+		<h3 class="section-heading section-heading__talks">{{include.title}}</h3> -->
 		{% assign videos = include.playlist_id | youtube_videos_from_playlist %}
 
 		<div class="talks">
@@ -32,5 +32,5 @@
 
 			{% endfor %}
 		</div>
-	</div>
-</section>
+	<!-- </div>
+</section> -->
