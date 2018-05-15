@@ -10,8 +10,9 @@ years:
   - 2016
 other_playlists:
   - PLcm2pIIAwlDuXUwTNyTkiB0EFsi8tG5pV
-hero_image: /assets/images/hero/hero-slider-2.jpg
+hero_image: /assets/images/bg-upcoming-events.jpg
 ---
+
 {% assign filtered_events = site.events | where_exp: "item", "page.years contains item.short_title"%}
 {% assign sorted_events = filtered_events | sort: 'short_title' | reverse %}
 
