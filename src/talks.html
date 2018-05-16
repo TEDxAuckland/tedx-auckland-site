@@ -1,0 +1,67 @@
+---
+layout: default
+years:
+  - 2009
+  - 2010
+  - 2012
+  - 2013
+  - 2014
+  - 2015
+  - 2016
+other_playlists:
+  - PLcm2pIIAwlDuXUwTNyTkiB0EFsi8tG5pV
+hero_image: /assets/images/bg-upcoming-events.jpg
+---
+
+{% assign filtered_events = site.events | where_exp: "item", "page.years contains item.short_title"%}
+{% assign sorted_events = filtered_events | sort: 'short_title' | reverse %}
+
+<header class="hero hero__talks" style="background-image: url({{ page.hero_image }})">
+</header>
+
+<section class="{% cycle "section-bg-grey", "section-bg-black" %}">
+  <div class="container talks-filter-container">
+
+    <div class="talks-filter">
+      <h1 class="talks-filter__title">talks</h1>
+
+      <div class="filter-tags">
+        <h4 class="filter-tags__title" >select your category</h4>
+        <ul class="filter-tags__tags">
+          {% for event in sorted_events %}
+          <li class="filter-tags__tag">
+            <a href="#{{event.short_title}}">{{ event.short_title }}: {{ event.tagline }}</a>
+          </li>
+          {% endfor %}
+          <li class="filter-tags__tag">
+            <a href="#other_talks">Other Talks</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+{% for event in sorted_events %}
+  <section id="{{ event.short_title }}" class="{% cycle "section-bg-grey", "section-bg-black" %}">
+  	<div class="container">
+
+  		<h3 class="section-heading section-heading__talks">{{ event.short_title }}</h3>
+      {% include talks.html playlist_id = event.youtube_playlist %}
+
+    </div>
+  </section>
+{% endfor %}
+
+
+{% for list in page.other_playlists %}
+  <section id="other_talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
+  	<div class="container">
+
+  		<h3 class="section-heading section-heading__talks">Other Talks</h3>
+      {% include talks.html playlist_id = list %}
+
+    </div>
+  </section>
+{% endfor %}

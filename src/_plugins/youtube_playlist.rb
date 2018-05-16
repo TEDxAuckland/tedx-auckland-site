@@ -1,4 +1,6 @@
 require 'yt'
+require 'json'
+require 'fileutils'
 
 Yt.configure do |config|
   config.api_key = ENV['YOUTUBE_API_KEY']
@@ -6,8 +8,28 @@ end
 
 module Jekyll
   module YoutubePlaylist
+    JSON_FOLDER = '_plugins/youtube_playlists/'
+
     def youtube_videos_from_playlist(playlist_id)
-      puts "Listing videos from youtube playlist #{playlist_id}"
+      FileUtils::mkdir_p(JSON_FOLDER)
+      videos = ""
+      if File.exist?(json_path(playlist_id))
+        videos = fetch_local_videos(playlist_id)
+      else
+        videos = fetch_remote_videos(playlist_id)
+        write_file(videos, playlist_id)
+      end
+      videos
+    end
+
+    def fetch_local_videos(playlist_id)
+      puts "Fetching videos locally from youtube playlist #{playlist_id}"
+      file = File.read(json_path(playlist_id))
+      JSON.parse(file)
+    end
+
+    def fetch_remote_videos(playlist_id)
+      puts "Fetching videos remotely from youtube playlist #{playlist_id}"
       playlist = Yt::Playlist.new id: playlist_id
       playlist.playlist_items.map do |item|
         {
@@ -15,12 +37,24 @@ module Jekyll
           "title" => item.title,
           "description" => item.description,
           "published_at" => item.published_at,
-          "thumbnail_url" => item.thumbnail_url,
+          "thumbnail_url" => item.thumbnail_url(:high),
           "video_id" => item.video_id,
-          "position" => item.position
+          "position" => item.position,
+          "tags" => item.video.tags
         }
       end
     end
+
+    def write_file(data, playlist_id)
+      File.open(json_path(playlist_id), 'w') do |f|
+        f.write(JSON.generate(data))
+      end
+    end
+
+    def json_path(playlist_id)
+      File.expand_path("#{JSON_FOLDER}#{playlist_id}.json")
+    end
+
   end
 end
 

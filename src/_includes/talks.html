@@ -1,0 +1,36 @@
+<!-- <section id="talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
+	<div class="container">
+		<h3 class="section-heading section-heading__talks">{{include.title}}</h3> -->
+		{% assign videos = include.playlist_id | youtube_videos_from_playlist %}
+
+		<div class="talks">
+			{% assign sorted = videos | sort: 'position' %}
+			{% for video in sorted %}
+			{% assign video_url = "https://www.youtube.com/watch?v=" | append: video.video_id %}
+
+				<div class="talk">
+					<a href="{{ video_url }}" class="talk-link" target="_blank">
+
+						<div class="talk__play-button">&nbsp;</div>
+						<img class="talk__image" src="{{ video.thumbnail_url }}">
+
+						<div class="caption">
+
+							<div class="caption__text">
+								<h4 class="caption__title">{{ video.title }}</h4>
+								<!-- <p class="caption__speaker">Travis Bell</p> -->
+							</div>
+
+							<ul class="caption__tags">
+								{% for tag in video.tags %}
+								<li class="tag">{{ tag }}</li>
+								{% endfor %}
+							</ul>
+						</div>
+					</a>
+				</div>
+
+			{% endfor %}
+		</div>
+	<!-- </div>
+</section> -->

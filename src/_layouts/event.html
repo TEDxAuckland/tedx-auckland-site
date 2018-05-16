@@ -20,32 +20,32 @@ layout: default
 		{{ content }}
 
 		{% if page.short_title %}
-			<h4>short_title</h4>
+			<h4 class="has-red-stripe">short_title</h4>
 			<p>{{ page.short_title }}</p>
 		{% endif %}
 
 		{% if page.tagline %}
-			<h4>tagline</h4>
+			<h4 class="has-red-stripe">tagline</h4>
 			<p>{{ page.tagline }}</p>
 		{% endif %}
 
 		{% if page.badge_image %}
-			<h4>badge_image</h4>
+			<h4 class="has-red-stripe">badge_image</h4>
 			<p>{{ page.badge_image }}</p>
 		{% endif %}
 
 		{% if page.start_date %}
-			<h4>start_date</h4>
+			<h4 class="has-red-stripe">start_date</h4>
 			<p>{{ page.start_date }}</p>
 		{% endif %}
 
 		{% if page.end_date %}
-			<h4>end_date</h4>
+			<h4 class="has-red-stripe">end_date</h4>
 			<p>{{ page.end_date }}</p>
 		{% endif %}
 
 		{% if page.address %}
-			<h4>address</h4>
+			<h4 class="has-red-stripe">address</h4>
 			<p>{{ page.address }}</p>
 		{% endif %}
 		</div>
@@ -56,8 +56,13 @@ layout: default
 		<h3>Speakers</h3>
 
 		<ul>
-			{% for speaker in page.speakers %}
-				<li>{{ speaker }}</li>
+			{% for speaker_name in page.speakers %}
+				<li>
+					{{ speaker_name }} <br>
+					{% assign speaker = site.speakers | where_exp: "item", "item.id contains speaker_name"  | first %}
+					<img src="{{speaker.image}}" width="50" alt="">
+					<hr>
+				</li>
 			{% endfor %}
 		</ul>
 	</div>
@@ -77,23 +82,12 @@ layout: default
 </section>
 
 {% if page.youtube_playlist %}
-	<section id="talks">
+	<section id="talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
 		<div class="container">
-			<h3>Talks</h3>
-			{% assign videos = page.youtube_playlist | youtube_videos_from_playlist %}
 
-			<div class="talks">
-				{% assign sorted = videos | sort: 'position' %}
-				{% for video in sorted %}
-					<div class="talk">
-						<img src="{{ video.thumbnail_url }}">
-						<h4>{{ video.title }}</h4>
-						<p>{{ video.description }}</p>
-						<p>Published at {{ video.published_at }}</p>
-						<p>Video ID: {{ video.video_id }}</p>
-					</div>
-				{% endfor %}
-			</div>
-		</div>
-	</section>
+			<h3 class="section-heading section-heading__talks">Talks</h3>
+			{% include talks.html playlist_id = page.youtube_playlist title = "Talks" %}
+
+    </div>
+  </section>
 {% endif %}

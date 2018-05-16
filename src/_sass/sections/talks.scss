@@ -1,10 +1,131 @@
+.section-heading__talks {
+  transform: translate(-0.7em, 0.58em);
+}
+
 .talks {
   display: flex;
   flex-wrap: wrap;
   margin: 0 -20px;
+  justify-content: center;
+}
+
+.talk-link {
+  color: inherit;
 }
 
 .talk {
-  flex: 1 1 450px;
-  margin: 20px;
+  width: 400px;
+  border: 1px solid #000;
+  background-color: $brand-grey-darker;
+  z-index: 100;
+  font-family: 'Source Code Pro', monospace;
+  position: relative;
+  margin-bottom: 1rem;
+
+  transition: all 0.2s;
+
+  &__image {
+    width: 100%;
+    height: 12.8rem;
+    object-fit: cover;
+  }
+
+  &:hover {
+    transform: translateY(-0.5rem);
+
+    .talk__play-button {
+      background: red;
+    }
+
+    .caption {
+      max-height: 20em;
+
+      &__title {
+        height: auto;
+      }
+    }
+  }
+}
+
+.talk__play-button {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 3rem;
+  height: 3rem;
+  position: absolute;
+  top: 9.3rem;
+  left: 0.5rem;
+
+  transition: all 0.2s;
+
+  &::after {
+    content: '';
+    background-color: #fff;
+    height: 0.8rem;
+    width: 0.8rem;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    clip-path: polygon(0 0, 100% 50%, 0 100%);
+  }
+
+}
+
+.caption {
+  display: flex;
+  max-height: 3em;
+  margin-top: 0.2em;
+  overflow: hidden;
+
+  transition: all 0.4s;
+
+  &::before {
+    content: "";
+    display: block;
+    border-left: 3px solid $brand-color;
+    height: 2em;
+    margin: -0.2em 0.5em 0.1em 0.5em;
+  }
+
+  &__text {
+    width: 50%;
+    padding-right: 1em;
+  }
+
+  &__title {
+    margin: 0;
+    font-size: 0.7em;
+    font-weight: bold;
+    line-height: 1.2em;
+    overflow: hidden;
+    height: 2.4em;
+  }
+
+  &__speaker {
+    margin: 0;
+    font-size: 0.6em;
+    color: darken(white, 15%);
+  }
+
+  &__tags {
+    font-size: 0.5em;
+    color: lighten($brand-grey, 70%);
+    list-style-type: none;
+    width: 45%;
+    margin: 0 0.5em 1em 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+}
+
+.tag {
+  font-size: 1.2em;
+  height: 1.6em;
+  padding: 0.2em 0.4em;
+  margin: 0.2em;
+  border-radius: 0.3em;
+  background-color: $brand-grey;
 }

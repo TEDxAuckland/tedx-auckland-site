@@ -1,9 +1,12 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 
 @charset 'utf-8';
 
 $brand-color: #ed3624;
+$brand-grey: #232323;
+$brand-grey-darker: #131313;
 
 // General
 @import 'vendor/normalize';
@@ -22,3 +25,6 @@ $brand-color: #ed3624;
 @import 'sections/events';
 @import 'sections/talks';
 @import 'sections/footer';
+
+// Pages
+@import 'pages/talks'

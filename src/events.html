@@ -5,5 +5,5 @@ layout: page
 <h3>Events</h3>
 {% assign sorted = site.events | sort: 'start_date' | reverse %}
 {% for event in sorted %}
-    <h4><a href="{{ event.url }}">{{ event.title }}</a></h4>
+    <h4 class="has-red-stripe"><a href="{{ event.url }}">{{ event.title }}</a></h4>
 {% endfor %}
