@@ -27,45 +27,33 @@
 	</head>
 
 	<body>
+
 		<nav class="site-nav">
 			<div class="container site-nav__container">
 				<h1><a href="/"><img src="/assets/images/logo.png" width="279" height="51" alt="Tedx Auckland" /></a></h1>
 
 				<ul class="nav-links">
 
-					<li class="nav-link">
-						<a href="/talks/">
-							<span class="nav-link__text">Talks/</span>
-							<span class="nav-link__text nav-link__text--sub">Ideas</span>
-						</a>
-					</li>
+					{% for nav in site.navigation %}
 
-					<li class="nav-link">
-						<a href="/events/">
-							<span class="nav-link__text">Events/</span>
-							<span class="nav-link__text nav-link__text--sub">Experiences</span>
-						</a>
-					</li>
+						{% assign active = nil %}
+						{% if page.url contains nav.url %}
+							{% assign active = 'nav-link--active' %}
+						{% endif %}
 
-					<li class="nav-link">
-						<a href="/news/">
-							<span class="nav-link__text">Blog/</span>
-							<span class="nav-link__text nav-link__text--sub">News</span>
-						</a>
-					</li>
+						<li class="nav-link {{ active }}">
+							<a href="{{ nav.url }}">
+								<span class="nav-link__text">{{ nav.title }}</span>
+								<span class="nav-link__text nav-link__text--sub">{{ nav.sub_title }}</span>
+							</a>
+						</li>
 
-					<li class="nav-link">
-						<a href="/about/">
-							<span class="nav-link__text">About/</span>
-							<span class="nav-link__text nav-link__text--sub">Contact</span>
-						</a>
-					</li>
+					{% endfor %}
 
 					<li class="nav-link nav-link__button">
-						<a href="#" class="button button__nav">
-							Buy Ticket
-						</a>
+						<a href="#" class="button button__nav">Buy Ticket</a>
 					</li>
+
 				</ul>
 			</div>
 		</nav>

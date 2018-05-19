@@ -49,6 +49,17 @@
 			transform: none;
 		}
 	}
+
+	&--active {
+		border-top: 3px solid $brand-color;
+		margin-top: 1rem;
+		padding-top: 0.5rem;
+
+			&:hover {
+				transform: scale(1);
+			}
+
+	}
 }
 
 .button__nav {

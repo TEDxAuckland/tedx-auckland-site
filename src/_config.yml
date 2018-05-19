@@ -31,6 +31,20 @@ exclude:
   - Gemfile.lock
   - readme.md
 
+navigation:
+  - title: Talks/
+    sub_title: Ideas
+    url: /talks/
+  - title: Events/
+    sub_title: Experiences
+    url: /events/
+  - title: Blog/
+    sub_title: News
+    url: /news/
+  - title: About/
+    sub_title: Contact
+    url: /about/
+
 collections:
   events:
     name: Events
