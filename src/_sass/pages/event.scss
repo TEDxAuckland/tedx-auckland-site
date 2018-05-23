@@ -3,4 +3,30 @@
   font-weight: bold;
   line-height: 1.2;
 
+  h1, h2, h3, h4, h5 {
+    line-height: 1;
+    margin: 0.5em 2em 0.5em 0;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  h2 {
+    font-size: 2.5em;
+  }
+
+  h3 {
+    font-size: 2em;
+  }
+
+  h4 {
+    font-size: 1.5em;
+  }
+
+  h5 {
+    font-size: 1em;
+  }
+
+
 }

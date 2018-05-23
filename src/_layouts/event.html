@@ -13,9 +13,31 @@ layout: default
 	</div>
 </header>
 
+<section id="gallery">
+	<div class="container">
+		<h3 class="section-heading">Gallery</h3>
+
+		<ul>
+			{% for flikr_gallery in page.flikr_galleries %}
+			<li>{{ flikr_gallery }}</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
+
+{% if page.youtube_playlist %}
+<section id="talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
+	<div class="container">
+
+		<h3 class="section-heading section-heading__talks">Talks</h3>
+		{% include talks.html playlist_id = page.youtube_playlist title = "Talks" %}
+
+	</div>
+</section>
+{% endif %}
+
 <section id="more">
 	<div class="container">
-		<h3 class="section-heading">Description</h3>
 
 		<div class="event-content">
 			{{ content }}
@@ -24,7 +46,7 @@ layout: default
 	</div>
 </section>
 
-<section id="speakers">
+<section id="speakers" class="section-bg-swirl">
 	<div class="container">
 		<h3 class="section-heading section-heading__speakers">Speakers</h3>
 
@@ -32,27 +54,3 @@ layout: default
 
 	</div>
 </section>
-
-
-<section id="gallery">
-	<div class="container">
-		<h3 class="section-heading">Gallery</h3>
-
-		<ul>
-			{% for flikr_gallery in page.flikr_galleries %}
-				<li>{{ flikr_gallery }}</li>
-			{% endfor %}
-		</ul>
-	</div>
-</section>
-
-{% if page.youtube_playlist %}
-	<section id="talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
-		<div class="container">
-
-			<h3 class="section-heading section-heading__talks">Talks</h3>
-			{% include talks.html playlist_id = page.youtube_playlist title = "Talks" %}
-
-    </div>
-  </section>
-{% endif %}
