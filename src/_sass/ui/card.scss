@@ -1,0 +1,21 @@
+.card-container {
+	display: flex;
+  flex-wrap: wrap;
+  margin: 0 -20px;
+  justify-content: center;
+}
+
+.card {
+	border: 1px solid #000;
+  background-color: $brand-grey-darker;
+  font-family: 'Source Code Pro', monospace;
+  position: relative;
+  margin-bottom: 1rem;
+  transition: all 0.2s;
+
+	&__image {
+    width: 100%;
+    object-fit: cover;
+  }
+
+}

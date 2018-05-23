@@ -15,63 +15,28 @@ layout: default
 
 <section id="more">
 	<div class="container">
-		<h3>Description</h3>
+		<h3 class="section-heading">Description</h3>
 
-		{{ content }}
-
-		{% if page.short_title %}
-			<h4 class="has-red-stripe">short_title</h4>
-			<p>{{ page.short_title }}</p>
-		{% endif %}
-
-		{% if page.tagline %}
-			<h4 class="has-red-stripe">tagline</h4>
-			<p>{{ page.tagline }}</p>
-		{% endif %}
-
-		{% if page.badge_image %}
-			<h4 class="has-red-stripe">badge_image</h4>
-			<p>{{ page.badge_image }}</p>
-		{% endif %}
-
-		{% if page.start_date %}
-			<h4 class="has-red-stripe">start_date</h4>
-			<p>{{ page.start_date }}</p>
-		{% endif %}
-
-		{% if page.end_date %}
-			<h4 class="has-red-stripe">end_date</h4>
-			<p>{{ page.end_date }}</p>
-		{% endif %}
-
-		{% if page.address %}
-			<h4 class="has-red-stripe">address</h4>
-			<p>{{ page.address }}</p>
-		{% endif %}
+		<div class="event-content">
+			{{ content }}
 		</div>
+
+	</div>
 </section>
 
 <section id="speakers">
 	<div class="container">
-		<h3>Speakers</h3>
+		<h3 class="section-heading section-heading__speakers">Speakers</h3>
 
-		<ul>
-			{% for speaker_name in page.speakers %}
-				<li>
-					{{ speaker_name }} <br>
-					{% assign speaker = site.speakers | where_exp: "item", "item.id contains speaker_name"  | first %}
-					<img src="{{speaker.image}}" width="50" alt="">
-					<hr>
-				</li>
-			{% endfor %}
-		</ul>
+		{% include speakers.html speakers = page.speakers %}
+
 	</div>
 </section>
 
 
 <section id="gallery">
 	<div class="container">
-		<h3>Gallery</h3>
+		<h3 class="section-heading">Gallery</h3>
 
 		<ul>
 			{% for flikr_gallery in page.flikr_galleries %}

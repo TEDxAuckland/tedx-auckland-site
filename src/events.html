@@ -1,6 +1,10 @@
 ---
-layout: page
+layout: default
+hero_image: /assets/images/bg-upcoming-events.jpg
 ---
+
+<header class="bg-image-block" style="background-image: url({{ page.hero_image }})">
+</header>
 
 <h3>Events</h3>
 {% assign sorted = site.events | sort: 'start_date' | reverse %}

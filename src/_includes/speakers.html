@@ -1,0 +1,13 @@
+<div class="card-container speakers">
+	{% for speaker_name in include.speakers %}
+	{% assign speaker = site.speakers | where_exp: "item", "item.id contains speaker_name"  | first %}
+
+		<div class="card speaker-card" style="background-image: url({{ speaker.image }});">
+
+			<div class="speaker-card-caption">
+				{{ speaker_name | replace: "-", " " | remove: page.short_title | remove: "/"  }}
+			</div>
+		</div>
+
+	{% endfor %}
+</div>

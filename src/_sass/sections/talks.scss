@@ -1,12 +1,8 @@
 .section-heading__talks {
-  transform: translate(-0.7em, 0.58em);
+  transform: translate(-0.7em, 0.34em);
 }
 
 .talks {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 -20px;
-  justify-content: center;
 }
 
 .talk-link {
@@ -15,19 +11,10 @@
 
 .talk {
   width: 400px;
-  border: 1px solid #000;
-  background-color: $brand-grey-darker;
   z-index: 100;
-  font-family: 'Source Code Pro', monospace;
-  position: relative;
-  margin-bottom: 1rem;
-
-  transition: all 0.2s;
 
   &__image {
-    width: 100%;
     height: 12.8rem;
-    object-fit: cover;
   }
 
   &:hover {
