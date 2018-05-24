@@ -1,0 +1,22 @@
+.back-to-top {
+	position: fixed;
+	bottom: 1rem;
+	right: 4rem;
+	height: 3rem;
+	width: 3rem;
+	z-index: 100;
+	background-color: rgba(0, 0, 0, 0.5);
+	transition: all 0.2s;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	&.__arrow {
+		font-size: 2rem;
+	}
+
+	&:hover {
+		background-color: $brand-grey-darker;
+		transform: translateY(-0.6rem);
+	}
+}

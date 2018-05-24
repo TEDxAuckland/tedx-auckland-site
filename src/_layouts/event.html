@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<header class="hero" style="background-image: url({{ page.hero_image }})">
+<header id="top" class="hero" style="background-image: url({{ page.hero_image }})">
 	<div class="container">
 		<div class="header-details">
 			<h2>{{ page.title }}</h2>
@@ -54,3 +54,5 @@ layout: default
 
 	</div>
 </section>
+
+{% include back-to-top.html %}

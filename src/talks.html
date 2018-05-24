@@ -19,7 +19,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 <header class="hero hero__talks" style="background-image: url({{ page.hero_image }})">
 </header>
 
-<section class="{% cycle "section-bg-grey", "section-bg-black" %}">
+<section id="top" class="{% cycle "section-bg-grey", "section-bg-black" %}">
   <div class="container talks-filter-container">
 
     <div class="talks-filter">
@@ -65,3 +65,5 @@ hero_image: /assets/images/bg-upcoming-events.jpg
     </div>
   </section>
 {% endfor %}
+
+{% include back-to-top.html %}
