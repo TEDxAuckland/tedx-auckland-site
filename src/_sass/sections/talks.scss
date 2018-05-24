@@ -23,14 +23,6 @@
     .talk__play-button {
       background: red;
     }
-
-    .caption {
-      max-height: 20em;
-
-      &__title {
-        height: auto;
-      }
-    }
   }
 }
 
@@ -61,9 +53,8 @@
 
 .caption {
   display: flex;
-  max-height: 3em;
+  height: 2.5em;
   margin-top: 0.2em;
-  overflow: hidden;
 
   transition: all 0.4s;
 
@@ -75,24 +66,13 @@
     margin: -0.2em 0.5em 0.1em 0.5em;
   }
 
-  &__text {
-    width: 50%;
-    padding-right: 1em;
-  }
-
   &__title {
     margin: 0;
     font-size: 0.7em;
     font-weight: bold;
     line-height: 1.2em;
-    overflow: hidden;
     height: 2.4em;
-  }
-
-  &__speaker {
-    margin: 0;
-    font-size: 0.6em;
-    color: darken(white, 15%);
+    padding-right: 1.5em;
   }
 
   &__tags {

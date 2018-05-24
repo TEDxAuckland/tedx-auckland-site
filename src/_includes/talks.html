@@ -13,16 +13,8 @@
 
 				<div class="caption">
 
-					<div class="caption__text">
-						<h4 class="caption__title">{{ video.title }}</h4>
-						<!-- <p class="caption__speaker">Travis Bell</p> -->
-					</div>
+					<h4 class="caption__title">{{ video.title | remove: "TEDxAuckland" | replace_first: ' |', ',' | remove: '|' | strip }}</h4>
 
-					<ul class="caption__tags">
-						{% for tag in video.tags %}
-						<li class="tag">{{ tag }}</li>
-						{% endfor %}
-					</ul>
 				</div>
 			</a>
 		</div>
