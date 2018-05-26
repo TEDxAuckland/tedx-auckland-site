@@ -8,6 +8,26 @@ start_date: 2017-12-01 00:00:00 +1300
 end_date: 2017-12-02 00:00:00 +1300
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
 speakers:
+  - 2017/andy-crowe--rui-peng
+  - 2017/angie-judge
+  - 2017/anna-faber
+  - 2017/cameron-sims
+  - 2017/cather-simpson
+  - 2017/chris-pemberton
+  - 2017/david-razowsky
+  - 2017/emeline-paat-dahlstrom
+  - 2017/jahra-rager-wasasala
+  - 2017/juliet-arnott
+  - 2017/liam-malone
+  - 2017/lisa-king
+  - 2017/mai-chen
+  - 2017/michael-corballis
+  - 2017/nigel-parker
+  - 2017/pete-bethune
+  - 2017/sam-stubbs
+  - 2017/shaveer-mirpuri
+  - 2017/william-watson
+  - 2017/yoseph-ayele
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157690330288051'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157662372094117'
