@@ -49,6 +49,8 @@ collections:
   events:
     name: Events
     output: true
+  partners:
+    name: Partners
   speakers:
     name: Speakers
     _hide_content: true

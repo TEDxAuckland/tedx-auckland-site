@@ -11,6 +11,7 @@ $card-size: 1200px / $number-of-columns;
 .speaker-card {
   width: $card-size;
   height: $card-size;
+  border: 1px solid #000;
   background-size: cover;
   filter: grayscale(100%);
   margin: 0;

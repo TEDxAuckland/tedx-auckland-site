@@ -7,5 +7,12 @@ layout: page
 <section>
 	<div class="container">
 		<p>This section will populated with the latest event page</p>
+
+		{% for partner in site.partners %}
+
+			<h1>{{ partner.link }}</h1>
+			<img src="{{ partner.partner_logo_image }}" alt="">
+			<hr>
+		{% endfor %}
 	</div>
 </section>

@@ -46,9 +46,55 @@ layout: default
 </section>
 {% endif %}
 
+<section id="partners" class="section-bg-white">
+	<div class="container">
+
+		<h3 class="section-heading section-heading--dark section-heading__partners">
+			partners
+		</h3>
+
+		<h4 class="section-heading--dark">major</h4>
+		<div class="card-container">
+			{% for partner_name in page.major_partners %}
+			{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+			<a class="card partner-card partner-card--major" href="{{ partner.link }}" target="_blank">
+				<img class="partner-card__image partner-card__image--major" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
+				<p>
+					text, text could be multiple lines and have a bit of content...
+				</p>
+			</a>
+			{% endfor %}
+		</div>
+
+		<h4 class="section-heading--dark">supporting</h4>
+		<div class="card-container">
+			{% for partner_name in page.supporting_partners %}
+			{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+			<a class="card partner-card partner-card--supporting" href="{{ partner.link }}" target="_blank">
+				<img class="partner-card__image" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
+				<p>
+					supporting text could be multiple lines but less...
+				</p>
+			</a>
+			{% endfor %}
+		</div>
+
+		<h4 class="section-heading--dark">event</h4>
+		<div class="card-container">
+			{% for partner_name in page.event_partners %}
+				{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+				<a class="card partner-card" href="{{ partner.link }}" target="_blank">
+					<img class="partner-card__image" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
+				</a>
+			{% endfor %}
+		</div>
+
+	</div>
+</section>
+
 <section id="speakers" class="section-bg-swirl">
 	<div class="container">
-		<h3 class="section-heading section-heading__speakers">Speakers</h3>
+		<h3 class="section-heading section-heading__speakers">speakers</h3>
 
 		{% include speakers.html speakers = page.speakers %}
 

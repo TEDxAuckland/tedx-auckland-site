@@ -32,6 +32,10 @@ a {
 	background-color: $brand-grey-darker;
 }
 
+.section-bg-white {
+	background-color: #fff;
+}
+
 .section-bg-black {
 	background-color: #000;
 }
@@ -40,6 +44,19 @@ a {
   background: url("/assets/images/bg-swirl.png");
   background-position: top;
   background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 4rem;
+}
+
+.section-heading {
+	font-size: 6.5em;
+	font-weight: bold;
+	line-height: 1;
+	margin: 0;
+
+	&--dark {
+		color: $brand-grey-darker;
+	}
 }
 
 section {
@@ -49,13 +66,6 @@ section {
 	h3 {
 		font-size: 5rem;
 		margin: 0 0 10px 0;
-	}
-
-	.section-heading {
-	  font-size: 6.5em;
-	  font-weight: bold;
-		line-height: 1;
-		margin: 0;
 	}
 
 	.overhang-heading {
