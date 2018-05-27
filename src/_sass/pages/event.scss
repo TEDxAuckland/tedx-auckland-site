@@ -1,6 +1,19 @@
+.event-hero {
+  padding: 0;
+  background: none;
+  max-height: 37rem;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+
+  &__img {
+    width: 100%;
+  }
+}
+
+
 .event-content {
   padding: 0 2rem;
-  font-weight: bold;
   line-height: 1.6;
 
   h1, h2, h3, h4, h5 {
