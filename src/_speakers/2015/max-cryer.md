@@ -1,7 +1,7 @@
 ---
 name: Max Cryer
 email:
-image:
+image: /uploads/max-cryer.jpg
 description_markdown: >-
   Max Cryer (MBE) worked as a singer in London, at Sadlers Wells Opera, Wigmore
   Hall and the BBC, then was contracted to a Hollywood agency for ten years,
