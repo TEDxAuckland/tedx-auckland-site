@@ -1,7 +1,7 @@
 ---
 name: Helen Clark
 email:
-image:
+image: /uploads/helen-clark.jpg
 description_markdown: >-
   Helen Clark is past Administrator of the United Nations Development Programme
   (UNDP) – the first woman to lead the organisation – and Chair of the United
@@ -14,7 +14,7 @@ description_markdown: >-
 website_url: 'https://helenclarknz.com/'
 twitter: 'https://twitter.com/helenclarknz'
 facebook: 'https://www.facebook.com/helenclarknz/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=rrsBQo6GVC4'
 github_username:
 instagram:
 ---
