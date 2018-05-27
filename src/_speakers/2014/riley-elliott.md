@@ -20,7 +20,7 @@ description_markdown: >-
 website_url: 'http://sharkman.tv/'
 twitter: 'https://twitter.com/SHARKMANTV'
 facebook: 'https://www.facebook.com/sharkmantv/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=GA8RsnezFIg'
 github_username:
 instagram: 'https://www.instagram.com/sharkmantv/'
 ---
