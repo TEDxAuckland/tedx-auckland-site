@@ -1,7 +1,7 @@
 ---
 name: David Krofcheck
 email:
-image:
+image: /uploads/david-krofcheck.jpg
 description_markdown: >-
   David was born in Pittsburgh, Pennsylvania, USA. He earned a BSc in physics
   from Carnegie Mellon University, followed by an MSc and PhD in Physics from
@@ -17,7 +17,7 @@ website_url: 'http://www.science.auckland.ac.nz/people/d-krofcheck'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=qGtA4XXQRNE'
 github_username:
 instagram:
 ---
