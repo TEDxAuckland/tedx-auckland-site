@@ -36,17 +36,12 @@ flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157664411957938'
 major_partners:
   - nib
-  - as-colour
 supporting_partners:
-  - fairtrade
-  - little_bird
-  - ben-and-jerry
-  - betsies-cakery
-  - bird-on-a-wire
+  - auckland-live
+  - Seal_of_an_Embassy_of_the_United_States_of_America
 event_partners:
   - allpress
   - auckland_crown_plaza
-  - auckland-live
   - bean-boy
   - brancott_estate_letter_series
   - bulldog_classic
@@ -72,7 +67,6 @@ event_partners:
   - phosphor
   - print_management
   - ralphie
-  - Seal_of_an_Embassy_of_the_United_States_of_America
   - sharesies-love-investing
   - stopmo
   - superbher
@@ -82,7 +76,12 @@ event_partners:
   - waiheke-herbs
   - whova-logo-box
   - wiseboy
-youtube_playlist: 'PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb'
+  - bird-on-a-wire
+  - ben-and-jerry
+  - little_bird
+  - fairtrade
+  - as-colour
+youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
 ticket_url:
 ---
 
