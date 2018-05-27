@@ -1,7 +1,7 @@
 ---
 name: Andy Crowe & Rui Peng
 email:
-image:
+image: /uploads/Export-3.jpg
 description_markdown: >-
   Andy co-founded Critical. Design in 2013 with Rui Peng, aimed at democratising
   manufacturing. The Design Lab is located inside decile 1 Wesley Intermediate
