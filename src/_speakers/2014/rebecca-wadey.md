@@ -1,7 +1,7 @@
 ---
 name: Rebecca Wadey
 email:
-image:
+image: /uploads/rebecca-wadey.jpg
 description_markdown: >-
   Rebecca Wadey is a writer, fashion PR specialist, cancer survivor, mother and
   business founder. Since her diagnosis of breast cancer at 26, Rebecca has
@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/thecentrenz'
 facebook: 'https://www.facebook.com/thecentrenz/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=z6Iip-kl-VM'
 github_username:
 instagram:
 ---
