@@ -1,7 +1,7 @@
 ---
 name: Welby Ings
 email:
-image:
+image: /uploads/welby-ings.jpg
 description_markdown: >-
   Welby Ings is an award winning designer, filmmaker and playwright, with his
   short film ‘Boy’ short listed for the 2006 Academy Awards. An elected Fellow
@@ -12,7 +12,7 @@ description_markdown: >-
   dehumanised systems of learning. In 2001 he was awarded the Prime Minister’s
   inaugural Supreme Award for Tertiary Teaching Excellence.
 website_url: 'https://www.aut.ac.nz/profiles/welby-ings'
-twitter:
+twitter: 'https://www.youtube.com/watch?v=aumxbgOdkRU'
 facebook:
 youtube_video: 'http://sparrowfilm.nz/'
 github_username:
