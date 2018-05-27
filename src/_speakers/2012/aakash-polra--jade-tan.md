@@ -1,7 +1,7 @@
 ---
 name: Aakash Polra & Jade Tan
 email:
-image:
+image: /uploads/mobile-eye.jpg
 description_markdown: >-
   MobileEye is a software start-up that is striving to help the blind better
   experience the world around them. Co-founded by students from Auckland
