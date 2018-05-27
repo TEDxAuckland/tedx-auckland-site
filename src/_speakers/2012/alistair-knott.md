@@ -20,7 +20,7 @@ website_url: 'http://www.cs.otago.ac.nz/staff/Alistair_Knott'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=qhqLoTKBRz0'
 github_username:
 instagram:
 ---
