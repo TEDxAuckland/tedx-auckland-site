@@ -1,7 +1,7 @@
 ---
 name: Matt Stone
 email:
-image:
+image: /uploads/matt-stone.jpg
 description_markdown: >-
   Arguably one of the hottest chefs on the Australian dining scene, it’s not
   rare for foodie fans of Matt’s to book tables 3-months in advance at
@@ -24,7 +24,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/chefmattstone?lang=en'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=56Y0TElkI90'
 github_username:
 instagram:
 ---
