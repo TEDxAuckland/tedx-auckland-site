@@ -21,7 +21,7 @@ description_markdown: >-
 website_url: 'http://www.gardentotable.org.nz/'
 twitter: 'https://twitter.com/gardentotablenz?lang=en'
 facebook: 'https://www.facebook.com/garden2table/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=mQHUs5bcGDY'
 github_username:
 instagram: 'https://www.instagram.com/gardentotablenz/?hl=en'
 ---
