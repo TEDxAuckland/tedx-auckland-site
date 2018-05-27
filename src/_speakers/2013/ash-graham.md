@@ -1,7 +1,7 @@
 ---
 name: Ash Graham
 email:
-image:
+image: /uploads/ash-graham.jpg
 description_markdown: >-
   Ash didn’t choose music, it chose him, and lucky for us it did. His songs show
   a maturity that is quite beyond his 18 years. His new EP Sixth Street Soul
@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/AshAshgraham'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=8jjcVhpMow0'
 github_username:
 instagram:
 ---
