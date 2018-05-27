@@ -1,7 +1,7 @@
 ---
 name: Malcolm Rands
 email:
-image:
+image: /uploads/malcolm-rands.jpg
 description_markdown: >-
   Malcolm Rands is co-founder of ecostore, New Zealand’s leading range of
   eco-friendly household products. While initially sold by mail order, ecostore
@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://www.fairground.org/'
 twitter: 'https://twitter.com/nzecoman'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=A5wIBRuFAS8'
 github_username:
 instagram:
 ---
