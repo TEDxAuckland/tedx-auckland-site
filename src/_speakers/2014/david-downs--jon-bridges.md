@@ -1,7 +1,7 @@
 ---
 name: David Downs & Jon Bridges
 email:
-image:
+image: /uploads/david-downs--jon-bridges.jpg
 description_markdown: >-
   David Downs and Jon Bridges are serial co-authors, stretching right back to a
   time before email. After leaving university, they began their careers together
