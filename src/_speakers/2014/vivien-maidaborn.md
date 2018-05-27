@@ -1,7 +1,7 @@
 ---
 name: Vivien Maidaborn
 email:
-image:
+image: /uploads/vivien-maidaborn.jpg
 description_markdown: >-
   Vivien is the co-founder of the exciting Loomio Cooperative, an organization
   born from activists in the Occupy movement collaborating with Enspiral, the
@@ -21,7 +21,7 @@ description_markdown: >-
 website_url: 'https://www.loomio.org/'
 twitter: 'https://twitter.com/maidaborn?lang=en'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=d-tGhbUMLHE'
 github_username:
 instagram:
 ---
