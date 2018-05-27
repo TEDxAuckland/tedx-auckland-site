@@ -40,6 +40,8 @@ youtube_playlist: PLcm2pIIAwlDvHTuiHHEln6B809w-3wV2V
 ticket_url:
 ---
 
+# TEDxAuckland 2016
+
 2016 TEDxAuckland was a little different. We curated ideas for a global audience; global in their diversity, expertise and residence. Say hello to TEDxAuckland 2016!
 
 Our Theme this year is:&nbsp;*flipside*
@@ -53,4 +55,4 @@ The event featured ideas and talks from amazing people changing the world. We’
 
 TEDxAuckland 2016:&nbsp;*flipside*&nbsp;featured talks over two days, events, activities and social time. Shed 10 the venue provided the perfect space for hosting, break out spaces and food and beverage side you deserve.
 
-[See the 2016 FoodStory Video](https://www.youtube.com/watch?v=J0s-ob4FGcg).
+[See the 2016 FoodStory Video.](https://www.youtube.com/watch?v=J0s-ob4FGcg)
