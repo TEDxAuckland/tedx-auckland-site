@@ -1,7 +1,7 @@
 ---
 name: Hong Sheng Chiong
 email:
-image:
+image: /uploads/hong-sheng-chiong.jpg
 description_markdown: >-
   Dr. Hong Sheng Chiong is currently an eye doctor in Gisborne hospital. He was
   trained in Ireland and was awarded the medical degree MB BCh BAO. He also
