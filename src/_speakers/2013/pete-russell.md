@@ -1,7 +1,7 @@
 ---
 name: Pete Russell
 email:
-image:
+image: /uploads/pete-russell.jpg
 description_markdown: >-
   Pete Russell is a local food advocate, social entrepreneur and founder of
   Ooooby. After seeing first hand the destructive nature of globalized food and
@@ -14,7 +14,7 @@ description_markdown: >-
 website_url: 'https://www.ooooby.org'
 twitter: 'https://twitter.com/ohmpo'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=SpnEGb0GdwY'
 github_username:
 instagram:
 ---
