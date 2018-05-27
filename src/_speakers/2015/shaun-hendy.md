@@ -1,7 +1,7 @@
 ---
 name: Shaun Hendy
 email:
-image:
+image: /uploads/shaun-hendy.jpg
 description_markdown: >-
   Shaun Hendy is the founding Director of Te Pūnaha Matatini, a Centre of
   Research Excellence hosted by the University of Auckland. Shaun is an advocate
