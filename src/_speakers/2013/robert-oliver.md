@@ -1,7 +1,7 @@
 ---
 name: Robert Oliver
 email:
-image:
+image: /uploads/robert-oliver.jpg
 description_markdown: >-
   Robert Oliver is an accomplished New Zealand chef and author of the Gourmand
   World Cookbook award-winning book, Me’a Kai: The Food and Flavours of the
@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://robertoliveronline.com/'
 twitter: 'https://twitter.com/RobertOliverNZ'
 facebook: 'https://www.facebook.com/RobertOliverChef/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=orfB1UkoKdQ'
 github_username:
 instagram: 'https://www.instagram.com/robertolivernz/'
 ---
