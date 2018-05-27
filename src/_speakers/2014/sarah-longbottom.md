@@ -16,7 +16,7 @@ description_markdown: >-
 website_url: 'https://www.ngarangatahitoa.co.nz/'
 twitter: 'https://twitter.com/ngarangatahitoa?lang=en'
 facebook: 'https://www.facebook.com/ngarangatahitoa/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=Dzxe_pQTd90'
 github_username:
 instagram:
 ---
