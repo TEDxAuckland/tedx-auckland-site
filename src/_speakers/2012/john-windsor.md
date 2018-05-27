@@ -1,7 +1,7 @@
 ---
 name: John Windsor
 email:
-image:
+image: /uploads/john-windsor.jpg
 description_markdown: >-
   Professor John Windsor is a surgeon who holds a personal chair in surgery at
   the University of Auckland. His current research includes the role of toxic
@@ -18,7 +18,7 @@ website_url: 'http://www.windsorsurgery.co.nz/'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=87Re2-hkTlo'
 github_username:
 instagram:
 ---
