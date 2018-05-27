@@ -1,7 +1,7 @@
 ---
 name: Catherine Bell
 email:
-image:
+image: /uploads/catherine-bell.jpg
 description_markdown: >-
   Catherine’s mission in life is to inspire people to cook and eat simple, good
   food. A passionate foodie and Dish Magazine co-founder, Catherine is behind
