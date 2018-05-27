@@ -1,7 +1,7 @@
 ---
 name: Riley & Steve Hathaway
 email:
-image:
+image: /uploads/riley-steve-hathaway-1.jpg
 description_markdown: >-
   Riley Hathaway is a passionate 14-year-old ocean ambassador, who is already
   presenting her own TV series called ‘Young Ocean Explorers’. In Young Ocean
