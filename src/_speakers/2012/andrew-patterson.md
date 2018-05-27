@@ -1,7 +1,7 @@
 ---
 name: Andrew Patterson
 email:
-image:
+image: /uploads/andrew-patterson.jpg
 description_markdown: >-
   Andrew is arguably New Zealand’s most internationally recognised and published
   Architect. Last year the worlds most searched architectural Journal, London
@@ -15,7 +15,7 @@ website_url: 'http://pattersons.com/'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=Mu5xYDkw9ys'
 github_username:
 instagram: 'https://www.instagram.com/pattersonassociates/'
 ---
