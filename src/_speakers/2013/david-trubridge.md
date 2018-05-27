@@ -1,7 +1,7 @@
 ---
 name: David Trubridge
 email:
-image:
+image: /uploads/david-trubridge.jpg
 description_markdown: >-
   David is an internationally renowned furniture and lighting designer. After
   settling on New Zealand following a five year yacht voyage with his family,
@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'https://www.davidtrubridge.com/'
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=GtQG6jAxOK4'
 github_username: 'https://medium.com/@davidtrubridge'
 instagram:
 ---
