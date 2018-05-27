@@ -1,7 +1,7 @@
 ---
 name: Rachel Callander
 email:
-image:
+image: /uploads/rachel-callander.jpg
 description_markdown: >-
   After losing her daughter Evie, who had a rare chromosome condition, award
   winning NZ Wedding and Portrait photographer Rachel Callander turned her
@@ -28,9 +28,9 @@ description_markdown: >-
   us about themselves and ourselves, which is to be celebrated as truly
   exceptional.
 website_url: 'http://www.rachelcallander.co/'
-twitter: 'https://twitter.com/rachelcallander?lang=en'
+twitter: 'https://twitter.com/rachelcallander'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=wUYBpsujxdw'
 github_username:
 instagram:
 ---
