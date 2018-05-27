@@ -12,7 +12,7 @@ website_url:
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=Xt5OuEnJbM4'
 github_username:
 instagram:
 ---
