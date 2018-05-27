@@ -1,7 +1,7 @@
 ---
 name: Waikare Komene
 email:
-image:
+image: /uploads/waikare-komene.jpg
 description_markdown: >-
   Waikare Komene is a young professional from Otara who is passionate about
   empowering communities from the grassroots up. Waikare is a qualified
@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/search?q=roots_creative&src=typd'
 facebook: 'https://www.facebook.com/TheRootsCreativeEntrepreneurs/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=ulo9jUJD38c'
 github_username:
 instagram:
 ---
