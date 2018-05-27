@@ -1,7 +1,7 @@
 ---
 name: Matthew Simmons
 email:
-image:
+image: /uploads/matthew-simmons.jpg
 description_markdown: >-
   Matthew Simmons is the CEO of Arvus Group International and currently part of
   the NZ Clean Energy Centre’s Enterprise Great Lake Taupo (EGLT) team.
@@ -12,7 +12,7 @@ website_url: 'https://nyriad.com/'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=s3gQu3_hJVc'
 github_username:
 instagram:
 ---
