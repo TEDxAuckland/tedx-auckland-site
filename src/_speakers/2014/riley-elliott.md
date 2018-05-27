@@ -1,7 +1,7 @@
 ---
 name: Riley Elliott
 email:
-image:
+image: /uploads/riley-elliott.jpg
 description_markdown: >-
   Riley Elliott is a PhD candidate at the University of Auckland. With an
   Honours degree in Zoology and Masters with distinction in Marine Science from
