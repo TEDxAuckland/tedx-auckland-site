@@ -1,7 +1,7 @@
 ---
 name: Dale Williams
 email:
-image:
+image: /uploads/dale-williams.jpg
 description_markdown: >-
   Dale Williams was the Mayor of Otorohanga and Chair of the Mayors Taskforce
   for Jobs. A certified motorcycle engineer by trade, Dale has first-hand
@@ -13,7 +13,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=ib-raWy_TXI'
 github_username:
 instagram:
 ---
