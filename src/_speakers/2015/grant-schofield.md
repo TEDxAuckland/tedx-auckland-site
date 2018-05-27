@@ -1,7 +1,7 @@
 ---
 name: Grant Schofield
 email:
-image:
+image: /uploads/grant-schofield.jpg
 description_markdown: >-
   Grant Schofield is Professor of Public Health at AUT, and director of the
   University’s Human Potential Centre.
