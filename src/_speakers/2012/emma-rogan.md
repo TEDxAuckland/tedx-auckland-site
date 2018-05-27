@@ -1,7 +1,7 @@
 ---
 name: Emma Rogan
 email:
-image:
+image: /uploads/emma-rogan.jpg
 description_markdown: >-
   Emma is an awarded and recognised designer. Her work has been awarded &nbsp;NZ
   Best Awards, Communication Arts, The Webby Awards and Adobe. Emma's passion
@@ -13,7 +13,7 @@ website_url: 'http://www.emmarogan.co.nz/'
 medium_url: 'https://100daysproject.co.nz/'
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=bZOwMqxLIn4'
 github_username:
 instagram: 'https://www.instagram.com/emmarogandesign/'
 ---
