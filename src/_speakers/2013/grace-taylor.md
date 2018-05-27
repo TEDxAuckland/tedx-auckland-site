@@ -1,7 +1,7 @@
 ---
 name: Grace Taylor
 email:
-image:
+image: /uploads/grace-taylor.jpg
 description_markdown: >-
   Grace Taylor is a spoken word poet, teaching artist and youth development
   worker. She believes in the empowerment of words, in particular through
@@ -13,7 +13,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook: 'https://www.facebook.com/grace.taylor.5437923/'
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=LivPMiYik9g'
 github_username:
 instagram:
 ---
