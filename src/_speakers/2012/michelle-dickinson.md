@@ -1,7 +1,7 @@
 ---
 name: Michelle Dickinson
 email:
-image: /uploads/michelle-dickinson.jpg
+image: /uploads/michelle-dickinson-70.jpg
 description_markdown: >-
   Michelle has a PhD in biomedical materials engineering, runs New Zealand’s
   only nano-mechanical testing laboratory and is a self-confessed adrenaline
