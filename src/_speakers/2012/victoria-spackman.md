@@ -1,7 +1,7 @@
 ---
 name: Victoria Spackman
 email:
-image: /uploads/victoria-spackman.jpg
+image: /uploads/victoria-spackman-70.jpg
 description_markdown: >-
   As Chief Executive of the Gibson Group, Victoria leads a group of diverse and
   talented producers, creatives and technicians. The Gibson Group’s innovative
