@@ -17,7 +17,7 @@ website_url: 'http://www.whatsyourprison.com/'
 medium_url:
 twitter: 'https://twitter.com/drpaulwood'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=LjjlsW1MDmc'
 github_username:
 instagram:
 ---
