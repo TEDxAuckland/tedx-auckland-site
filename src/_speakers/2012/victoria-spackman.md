@@ -1,7 +1,7 @@
 ---
 name: Victoria Spackman
 email:
-image:
+image: /uploads/victoria-spackman.jpg
 description_markdown: >-
   As Chief Executive of the Gibson Group, Victoria leads a group of diverse and
   talented producers, creatives and technicians. The Gibson Group’s innovative
@@ -23,7 +23,7 @@ website_url: 'http://www.gibson.co.nz/'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=bPNyP2q08ow'
 github_username:
 instagram: 'https://www.instagram.com/victorianpurple/'
 ---
