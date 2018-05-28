@@ -1,7 +1,7 @@
 ---
 name: Philip Patston
 email:
-image: /uploads/philip-patston.jpg
+image: /uploads/philip-patston-70.jpg
 description_markdown: >-
   Philip Patston is best recognised for his ten-year career as a comedian and
   entertainer, but it’s his passion for social change that is getting him
