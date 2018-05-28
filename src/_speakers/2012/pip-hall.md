@@ -1,7 +1,7 @@
 ---
 name: Pip Hall
 email:
-image: /uploads/pip-hall.jpg
+image: /uploads/pip-hall-65.jpg
 description_markdown: >-
   Pip Hall has worked as a full time writer in theatre, film and television for
   17 years. An accomplished playwright, Pip has multiple awards to her name
