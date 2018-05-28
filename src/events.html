@@ -16,7 +16,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
     <div class="events-summary__upcoming">
       <h4>upcoming <br> events</h4>
 
-      <a href="{{ upcoming_event.url }}" class="event-info-link">
+      <!-- <a href="{{ upcoming_event.url }}" class="event-info-link">
         <div class="event-info">
           <div class="event-info__top">
             {{ upcoming_event.title }}
@@ -25,15 +25,14 @@ hero_image: /assets/images/bg-upcoming-events.jpg
             {{ upcoming_event.start_date | date: "%-d %b %Y" }}
           </div>
         </div>
-      </a>
-
+      </a> -->
 
     </div>
 
     <div class="events-summary__past">
       <h4>past <br> events</h4>
 
-      {% for event in sorted_events %}
+      {% for event in sorted_events limit: 3 %}
 
         <a href="{{ event.url }}" class="event-info-link">
           <div class="event-info">
