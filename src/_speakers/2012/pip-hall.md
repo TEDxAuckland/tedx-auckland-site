@@ -1,7 +1,7 @@
 ---
 name: Pip Hall
 email:
-image:
+image: /uploads/pip-hall.jpg
 description_markdown: >-
   Pip Hall has worked as a full time writer in theatre, film and television for
   17 years. An accomplished playwright, Pip has multiple awards to her name
@@ -13,7 +13,7 @@ website_url: 'http://www.piphall.co.nz/'
 medium_url:
 twitter: 'https://twitter.com/misspiphall'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=V3QM59nehBk'
 github_username:
 instagram:
 ---
