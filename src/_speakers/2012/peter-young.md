@@ -1,7 +1,7 @@
 ---
 name: Peter Young
 email:
-image:
+image: /uploads/peter-young-70.jpg
 description_markdown: >-
   Peter Young has over 20 years' experience as a freelance cameraman, director
   and producer.
