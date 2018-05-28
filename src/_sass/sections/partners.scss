@@ -1,4 +1,4 @@
-$container-width: 1200px;
+$container-width: $site-width;
 $major-card-size: $container-width / 2;
 $supporting-card-size: $container-width / 3;
 $event-card-size: $container-width / 8;

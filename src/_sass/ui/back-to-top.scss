@@ -1,15 +1,20 @@
+$width: 3rem;
+$translate-x-distance: $site-width / 2 + 63px;
+
 .back-to-top {
 	position: fixed;
+	height: $width;
+	width: $width;
 	bottom: 1rem;
-	right: 4rem;
-	height: 3rem;
-	width: 3rem;
+	left: 50%;
+	transform: translateX($translate-x-distance);
 	z-index: 100;
 	background-color: rgba(0, 0, 0, 0.5);
-	transition: all 0.2s;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+
+	transition: all 0.2s;
 
 	&.__arrow {
 		font-size: 2rem;
@@ -17,6 +22,6 @@
 
 	&:hover {
 		background-color: $brand-grey-darker;
-		transform: translateY(-0.6rem);
+		transform: translateY(-0.6rem) translateX($translate-x-distance);
 	}
 }

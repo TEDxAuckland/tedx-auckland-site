@@ -6,7 +6,7 @@
 }
 
 $number-of-columns: 4;
-$card-size: 1200px / $number-of-columns;
+$card-size: $site-width / $number-of-columns;
 
 .speaker-card {
   width: $card-size;
