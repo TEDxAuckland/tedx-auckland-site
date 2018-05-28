@@ -1,7 +1,7 @@
 ---
 name: Paul Wood
 email:
-image: /uploads/paul-wood.jpg
+image: /uploads/paul-wood-70.jpg
 description_markdown: >-
   At the age of 18, Paul was a high-school dropout in prison for murder. While
   spending time in maximum security he discovered the life enriching quality of
