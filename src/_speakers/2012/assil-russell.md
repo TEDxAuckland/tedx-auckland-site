@@ -1,7 +1,7 @@
 ---
 name: Assil Russell
 email:
-image: /uploads/assil-russell.jpg
+image: /uploads/assil-russell-70.jpg
 description_markdown: >-
   Assil Russell is a young dental surgeon from Hamilton who has a passion for
   helping others. Born in Iraq and raised in New Zealand, at the age of 21 Assil
