@@ -15,9 +15,10 @@
 	&__mailchimp {
 			display: flex;
 			justify-content: center;
+			margin-top: 3rem;
 
 		.mailchimp-signup {
-			width: 89%;
+			width: 500px;
 		}
 	}
 
@@ -25,6 +26,7 @@
 	&__facebook {
 		display: flex;
 		justify-content: center;
+		margin-top: 3rem;
 
 		.fb-page {
 			width: 500px;
