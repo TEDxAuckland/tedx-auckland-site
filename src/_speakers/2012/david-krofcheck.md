@@ -1,7 +1,7 @@
 ---
 name: David Krofcheck
 email:
-image: /uploads/david-krofcheck.jpg
+image: /uploads/david-krofcheck-60.jpg
 description_markdown: >-
   David was born in Pittsburgh, Pennsylvania, USA. He earned a BSc in physics
   from Carnegie Mellon University, followed by an MSc and PhD in Physics from
