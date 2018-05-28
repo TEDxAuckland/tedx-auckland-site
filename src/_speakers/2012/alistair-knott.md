@@ -1,7 +1,7 @@
 ---
 name: Alistair Knott
 email:
-image:
+image: /uploads/alistair-knott-1.jpg
 description_markdown: >-
   Alistair Knott is a linguist and cognitive scientist working at Otago
   University‘s Department of Computer Science. He grew up in Brussels, attending
