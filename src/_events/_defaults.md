@@ -10,6 +10,12 @@ address: 50 Mayoral Dr, Auckland, New Zealand
 speakers:
 flikr_galleries:
   -
+major_partners:
+  -
+supporting_partners:
+  -
+event_partners:
+  -
 youtube_playlist:
 ticket_url: https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0
 ---

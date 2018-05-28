@@ -28,6 +28,9 @@ speakers:
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641139177714'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143525304'
+major_partners:
+supporting_partners:
+event_partners:
 youtube_playlist: 'PLcm2pIIAwlDtgZg-UX4afZg-Y5z_9Yk3h'
 ticket_url:
 ---

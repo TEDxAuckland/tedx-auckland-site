@@ -38,7 +38,7 @@ major_partners:
   - nib
 supporting_partners:
   - auckland-live
-  - Seal_of_an_Embassy_of_the_United_States_of_America
+  - US_Embassy
 event_partners:
   - allpress
   - auckland_crown_plaza

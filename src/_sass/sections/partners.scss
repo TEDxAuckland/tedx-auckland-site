@@ -15,8 +15,20 @@ $event-card-size: $container-width / 8;
   padding: 1rem;
   background-color: inherit;
   color: #000;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.3;
 
   transition: all 0.2s;
+
+  &__paragraph--major {
+    margin: 3em;
+    font-size: 0.9em;
+  }
+
+  &__paragraph--supporting {
+    margin: 2.6em;
+    font-size: 0.8rem;
+  }
 
   &--major {
     width: $major-card-size;
@@ -28,10 +40,6 @@ $event-card-size: $container-width / 8;
     img {
       width: $major-card-size / 3;
       height: $major-card-size / 3;
-    }
-
-    p {
-      margin: 3rem;
     }
   }
 
@@ -45,10 +53,6 @@ $event-card-size: $container-width / 8;
     img {
       width: $supporting-card-size / 3;
       height: $supporting-card-size / 3;
-    }
-
-    p {
-      margin: 2.6rem;
     }
   }
 
