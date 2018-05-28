@@ -1,7 +1,7 @@
 ---
 name: Paul Cameron
 email:
-image:
+image: /uploads/paul-cameron.jpg
 description_markdown: >-
   Paul has always had a passion for technology and reading and finds it
   fascinating that we can now carry an entire library around in our pocket. Yet
@@ -18,7 +18,7 @@ website_url: 'https://www.booktrack.com/'
 medium_url:
 twitter: 'https://twitter.com/pccameron'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=pz9kG1aUVe0'
 github_username:
 instagram:
 ---
