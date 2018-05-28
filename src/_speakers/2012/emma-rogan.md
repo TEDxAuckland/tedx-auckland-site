@@ -1,7 +1,7 @@
 ---
 name: Emma Rogan
 email:
-image: /uploads/emma-rogan.jpg
+image: /uploads/emma-rogan-70.jpg
 description_markdown: >-
   Emma is an awarded and recognised designer. Her work has been awarded &nbsp;NZ
   Best Awards, Communication Arts, The Webby Awards and Adobe. Emma's passion
