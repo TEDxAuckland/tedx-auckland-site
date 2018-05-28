@@ -1,7 +1,7 @@
 ---
 name: Sean Gourley
 email:
-image: /uploads/sean-gourley.jpg
+image: /uploads/sean-gourley-71.jpg
 description_markdown: >-
   Sean is a physicist, decathlete, political advisor and past TED fellow. He is
   originally from New Zealand where he helped start New Zealand’s first nanotech
