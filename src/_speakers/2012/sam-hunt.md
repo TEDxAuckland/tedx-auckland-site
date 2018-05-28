@@ -1,7 +1,7 @@
 ---
 name: Sam Hunt
 email:
-image:
+image: /uploads/sam-hunt.jpg
 description_markdown: >-
   Sam was born in 1946 and grew up in Castor Bay, Auckland. It was a coastal
   childhood filled with poems. Both parents and their colourful circle of family
