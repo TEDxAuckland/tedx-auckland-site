@@ -1,7 +1,7 @@
 ---
 name: Paul Cameron
 email:
-image: /uploads/paul-cameron.jpg
+image: /uploads/paul-cameron-70.jpg
 description_markdown: >-
   Paul has always had a passion for technology and reading and finds it
   fascinating that we can now carry an entire library around in our pocket. Yet
