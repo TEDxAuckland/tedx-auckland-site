@@ -1,7 +1,7 @@
 ---
 name: Michelle Dickinson
 email:
-image:
+image: /uploads/michelle-dickinson.jpg
 description_markdown: >-
   Michelle has a PhD in biomedical materials engineering, runs New Zealand’s
   only nano-mechanical testing laboratory and is a self-confessed adrenaline
@@ -20,7 +20,7 @@ website_url: 'http://www.medickinson.com/'
 medium_url:
 twitter: 'https://twitter.com/medickinson'
 facebook:
-youtube_video:
+youtube_video: 'https://www.youtube.com/watch?v=9jV-KW1jpJo'
 github_username:
 instagram:
 ---
