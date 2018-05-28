@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<section id="about" class="about">
+<section id="about" class="section-bg-grey">
 	<div class="container">
-		<h3>about us</h3>
+		<h3 class="section-heading">about us</h3>
+
 		<div class="about-container">
-			<div class="about-details">
+
+			<div class="about-details editable">
 				<h4 class="has-red-stripe">TEDxAuckland</h4>
 				<p>Our mission at TEDxAuckland is to make one of the Pacific's leading platforms of great ideas, story telling, creativity, and actionable innovation. To create and foster a sense of community amongst people and organisations who have gathered (and continue to gather) around this event and to provide a cultural focus and impetus for conversation and debate.</p>
 
@@ -18,11 +20,16 @@ layout: default
 
 			<div class="about-social">
 				<h4 class="has-red-stripe">Join our community</h4>
-				{% include embed/mailchimp-form.html %}
+				<div class="about-social__mailchimp">
+					{% include embed/mailchimp-form.html %}
+				</div>
 
 				<h4 class="has-red-stripe">Facebook</h4>
-				{% include embed/facebook-feed.html %}
+				<div class="about-social__facebook">
+					{% include embed/facebook-feed.html %}
+				</div>
 			</div>
+
 		</div>
 	</div>
 </section>
