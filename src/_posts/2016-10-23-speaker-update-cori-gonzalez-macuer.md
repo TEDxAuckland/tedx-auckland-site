@@ -2,6 +2,7 @@
 layout: post
 title: Speaker Update | Cori Gonzalez-Macuer
 date: 2016-10-23 04:53:02.000000000 +13:00
+image: /assets/wordpress/4G5A4602-2400-60pc.jpg
 author:
   login: elliott
   email: elliott@tedxauckland.com
@@ -9,7 +10,7 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p>[caption id="attachment_2074" align="alignleft" width="2400"]<img class="wp-image-2074 size-full" src="{{ site.baseurl }}/assets/wordpress/4G5A4602-2400-60pc.jpg" alt="Photography by Georgia Schofield | facebook.com/georgiasphoto" width="2400" height="1200" /> Photography by Georgia Schofield | facebook.com/georgiasphoto[/caption]</p>
+
 <p>Billy T award-winning comedian, actor and writer Cori Gonzalez-Macuer hit the TEDxAuckland stage at Flipside in May 2016.</p>
 <p>As someone who makes a living talking to crowds and making people laugh, talking openly about his father’s depression and suicide tapped into a part of his life not many were aware of.</p>
 <p>“I’ve always wanted to talk about it in public but never had the guts to do it. I thought if I agreed to do a TED talk about it, there was no backing down – even though I came close a few times.</p>

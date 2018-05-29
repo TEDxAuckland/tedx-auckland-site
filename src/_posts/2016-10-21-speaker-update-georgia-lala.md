@@ -2,6 +2,7 @@
 layout: post
 title: Speaker Update | Georgia Lala
 date: 2016-10-21 00:35:26.000000000 +13:00
+image: /assets/wordpress/Georgia-Lala-2016-68pc.jpg
 author:
   login: elliott
   email: elliott@tedxauckland.com
@@ -9,7 +10,6 @@ author:
   first_name: ''
   last_name: ''
 ---
-<p>[caption id="attachment_2061" align="alignleft" width="2400"]<img class="wp-image-2061 size-full" src="{{ site.baseurl }}/assets/wordpress/Georgia-Lala-2016-68pc.jpg" width="2400" height="1206" /> Photo by Ocean Belcher | anoceanaway.net[/caption]</p>
 <p>19-year-old Georgia Lala has made sustainability the name of her game.</p>
 <p>The teen plans to challenge the way individuals and companies look at adopting sustainable approaches to both production and living.</p>
 <p>This path led her to research aquaponics resulting in starting her business Root Aquaponics designing her own units, and winning the Prime Minister’s Future Scientist Award. Georgia's design created a growing environment for leafy greens on top of an ordinary fish tank – making it easy for anyone to try aquaponics at home.</p>
