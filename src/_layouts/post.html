@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<section id="post" class="post">
-	<div class="container">
-    <h3>{{ page.title }}</h3>
+<section id="post" class="post section-bg-white">
+	<div class="container post-container">
+    <h3 class="section-heading section-heading__post">{{ page.title }}</h3>
 		<p><time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time></p>
 
 		{% if page.alturl %}
@@ -21,7 +21,7 @@ layout: default
 
     {{ content }}
 
-		<nav class="post_navigation">
+		<nav class="post-navigation">
 		  {% if page.previous.url %}
 		    <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
 		  {% endif %}
