@@ -1,13 +1,71 @@
 ---
-layout: page
+layout: default
 ---
 
-<h3>News</h3>
-{% for post in site.posts limit: 10 %}
-  <h4 class="has-red-stripe"><a href="{{ post.url }}">{{ post.title }}</a></h4>
-  <p><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></p>
+<header class="blog-header">
+  <div class="container">
+    <h3 class="blog-header__title">Blog</h3>
+    <p class="blog-header__paragraph editable">
+      Here we will post news and information about the event as well as discuss topics, themes, ideas and local events and matters we think you may be intereste in. We hope you enjoy our articles and would love to hear your thoughts in the comments!
+    </p>
+  </div>
+</header>
 
-	{{ post.content | strip_html | truncate: 200 }}
-{% endfor %}
 
-<p><a href="/news/archive">Go to archive</a></p>
+<section id="highlights" class="highlight-section section-bg-white">
+  <div class="container">
+    <h4 class="highlight-heading">Highlight</h4>
+    {% assign highlight = site.posts[0] %}
+
+    <div class="highlight-info">
+      <h4 class="highlight-info__title"><a href="{{ highlight.url }}">{{ highlight.title }}</a></h4>
+      <div class="highlight-info__bar">
+        <i class="far fa-calendar-alt"></i>
+        <time datetime="{{ highlight.date | date: "%Y-%m-%d" }}">
+          {{ highlight.date | date_to_long_string }}
+        </time>
+      </div>
+    </div>
+
+    <div class="highlight-content">
+      {{ highlight.content }}
+    </div>
+
+  </div>
+</section>
+
+<section id="posts">
+  <div class="container">
+
+    <div class="card-container news-card-container">
+
+      {% for post in site.posts limit: 10 offset: 1 %}
+        <div class="card news-card">
+          <a href="{{ post.url }}">
+
+            {% if post.image %}
+            <img src="{{ post.image }}">
+            {% endif %}
+
+            <div class="news-card__content">
+
+              <h4>{{ post.title }}</h4>
+
+              <p>
+                <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
+                  {{ post.date | date_to_long_string }}
+                </time>
+              </p>
+              {{ post.content | strip_html | truncate: 200 }}
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+
+    </div>
+
+
+    <p><a href="/news/archive">Go to archive</a></p>
+
+  </div>
+</section>

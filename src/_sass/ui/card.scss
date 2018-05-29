@@ -7,7 +7,7 @@
 .card {
 	box-sizing: border-box;
   background-color: $brand-grey-darker;
-  font-family: 'Source Code Pro', monospace;
+  font-family: $secondary-font;
   position: relative;
   margin-bottom: 1rem;
   transition: all 0.2s;

@@ -55,7 +55,7 @@
     a {
       color: lighten($brand-grey, 70%);
     }
-    font-family: 'Source Code Pro', monospace;
+    font-family: $secondary-font;
     padding: 0.5rem 1rem;
     margin: 0.5rem 0.6rem 0 0;
     border-radius: 0.3rem;

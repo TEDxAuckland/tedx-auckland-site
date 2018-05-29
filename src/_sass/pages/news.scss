@@ -1,0 +1,95 @@
+.blog-header {
+  background: #e3e3e3;
+  padding: 2rem 0;
+  text-shadow: none;
+  color: black;
+
+  &__title {
+    text-transform: uppercase;
+    font-size: 5rem;
+    margin: 1rem 0;
+    line-height: 1;
+    font-weight: 500;
+  }
+
+  &__paragraph {
+    font-style: italic;
+    font-size: 1.2rem;
+    max-width: 60%;
+    font-weight: 500;
+  }
+}
+
+.highlight-section {
+  padding-bottom: 15rem;
+}
+
+.highlight-heading {
+  text-transform: uppercase;
+  background-color: $brand-color;
+  color: #fff;
+  display: inline-block;
+  font-size: 1rem;
+  padding: 0.5em 0.7em;
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.highlight-info {
+
+  &__title {
+    margin-top: 0;
+
+    a {
+      color: #000;
+    }
+  }
+
+  &__bar {
+    font-family: $secondary-font;
+  }
+
+}
+
+$number-of-columns: 3;
+$card-margin: 9px;
+$card-size: $site-width / $number-of-columns - (2 * $card-margin);
+
+.news-card-container {
+  align-items: flex-start;
+  transform: translateY(-14rem);
+}
+
+.news-card {
+  max-width: $card-size;
+  width: 100%;
+  margin: $card-margin;
+  background-color: #fff;
+  color: #000;
+  font-family: $primary-font;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.20);
+
+  &:hover {
+    transform: translateY(-1rem);
+    box-shadow: 0 1rem 1.2rem rgba(#000000, 0.70);
+  }
+
+  img {
+    max-width: $card-size;
+    height: auto;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  &__content {
+    margin: 1rem;
+
+    h4 {
+      margin: 0;
+      line-height: 1.4;
+      font-size: 1.2rem;
+    }
+  }
+}

@@ -5,6 +5,8 @@
 
 @charset 'utf-8';
 
+$primary-font: 'Montserrat', sans-serif;
+$secondary-font: 'Source Code Pro', monospace;
 $brand-color: #ed3624;
 $brand-grey: #232323;
 $brand-grey-darker: #131313;
@@ -35,3 +37,4 @@ $site-width: 1200px;
 @import 'pages/talks';
 @import 'pages/events';
 @import 'pages/event';
+@import 'pages/news';
