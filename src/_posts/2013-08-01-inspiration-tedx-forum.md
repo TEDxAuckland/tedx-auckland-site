@@ -4,6 +4,7 @@ title: Inspiration from TEDx forum
 date: 2013-08-01 10:18:51.000000000 +12:00
 alturl: 'http://www.nzherald.co.nz/tedx/news/article.cfm?c_id=1503476&objectid=10906354'
 altauthor: NZ HERALD
+image:
 author:
   login: tedxauckland
   email: lloyd@wolf.net.nz

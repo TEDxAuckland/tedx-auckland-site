@@ -4,6 +4,7 @@ title: 'TEDxAuckland: Tom Scott is the 11th hour optimist'
 date: 2015-04-28 14:04:34.000000000 +12:00
 alturl: 'http://www.nzherald.co.nz/element-magazine/news/article.cfm?c_id=1503340&objectid=11439840'
 altauthor: Herald
+image:
 author:
   login: tedxauckland
   email: lloyd@wolf.net.nz
