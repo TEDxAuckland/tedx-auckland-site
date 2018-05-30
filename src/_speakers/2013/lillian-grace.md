@@ -1,7 +1,7 @@
 ---
 name: Lillian Grace
 email:
-image: /uploads/lillian-grace.jpg
+image: /uploads/lillian-grace-70.jpg
 description_markdown: >-
   Lillian Grace is the founder and chief of Wiki New Zealand, a collaborative
   website making data about New Zealand visually accessible for everyone.&nbsp;
