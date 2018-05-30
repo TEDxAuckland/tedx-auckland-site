@@ -8,31 +8,31 @@ start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 people:
-  - 2016/barbara-breen
-  - 2016/ian-mccrae
-  - 2016/lizzie-marvelly
-  - 2016/jayne-bailey
-  - 2016/cori-gonzalez-macuer
-  - 2016/adrien-taylor
-  - 2016/mike-moka
-  - 2016/anna-coddington
-  - 2016/toby-carr
-  - 2016/james-bergin
-  - 2014/vaughan-rowsell
-  - 2016/grace-clapham--solonia-teodros
-  - 2016/jess-holly-bates
-  - 2016/samuel-gibson
-  - 2016/georgia-lala
-  - 2016/richard-aston
-  - 2016/pani-farvid
-  - 2016/sharad-paul
-  - 2016/minnie-barragwanath
-  - 2016/richard-little
-  - 2016/david-harvey
-  - 2016/matt-shirtcliffe
-  - 2016/keith-ng
-  - 2016/rory-steyn
-  - 2016/modern-māori-quartet
+  - barbara-breen
+  - ian-mccrae
+  - lizzie-marvelly
+  - jayne-bailey
+  - cori-gonzalez-macuer
+  - adrien-taylor
+  - mike-moka
+  - anna-coddington
+  - toby-carr
+  - james-bergin
+  - vaughan-rowsell
+  - grace-clapham--solonia-teodros
+  - jess-holly-bates
+  - samuel-gibson
+  - georgia-lala
+  - richard-aston
+  - pani-farvid
+  - sharad-paul
+  - minnie-barragwanath
+  - richard-little
+  - david-harvey
+  - matt-shirtcliffe
+  - keith-ng
+  - rory-steyn
+  - modern-māori-quartet
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'

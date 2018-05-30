@@ -8,22 +8,22 @@ start_date: 2013-08-03 00:00:00 +1200
 end_date: 2013-08-03 00:00:00 +1200
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
 people:
-  - 2013/jimi-hunt
-  - 2013/lillian-grace
-  - 2013/david-trubridge
-  - 2013/pete-russell
-  - 2013/grace-taylor
-  - 2013/malcolm-rands
-  - 2013/joseph-michael
-  - 2013/helen-clark
-  - 2013/robert-oliver
-  - 2013/richard-faull
-  - 2013/ash-graham
-  - 2013/brian-sweeney
-  - 2013/sophie-tamati
-  - 2013/welby-ings
-  - 2013/robyn-paterson
-  - 2013/dale-williams
+  - jimi-hunt
+  - lillian-grace
+  - david-trubridge
+  - pete-russell
+  - grace-taylor
+  - malcolm-rands
+  - joseph-michael
+  - helen-clark
+  - robert-oliver
+  - richard-faull
+  - ash-graham
+  - brian-sweeney
+  - sophie-tamati
+  - welby-ings
+  - robyn-paterson
+  - dale-williams
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157656765142439'
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157656607912019'
