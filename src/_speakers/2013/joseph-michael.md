@@ -1,7 +1,7 @@
 ---
 name: Joseph Michael
 email:
-image: /uploads/joseph-michael.jpg
+image: /uploads/joseph-michael-70.jpg
 description_markdown: >-
   Joseph Michael is a freelance film technician, new media artist and
   photographer. Joseph’s latest work is a New Media Arts exhibition entitled
