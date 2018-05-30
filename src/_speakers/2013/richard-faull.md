@@ -1,7 +1,7 @@
 ---
 name: Sir Richard Faull
 email:
-image: /uploads/richard-faull-brains.jpg
+image: /uploads/richard-faull-70.jpg
 description_markdown: >-
   Richard Faull is professor and director of the Centre for Brain Research at
   the University of Auckland. Raised in a small Taranaki farming community,
