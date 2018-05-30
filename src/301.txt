@@ -1,0 +1,12 @@
+/2013/* /news/
+/2014/* /news/
+/2015/* /news/
+/2016/* /news/
+/2017/* /news/
+/about/contact-us/ /about/
+/category/ /news/
+/category/* /news/
+/tedspeakers/ /people/
+/videos/ /talks/
+/videos/* /talks/
+/watch/ /talks/
