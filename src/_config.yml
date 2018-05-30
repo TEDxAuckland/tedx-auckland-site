@@ -67,6 +67,11 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: :slug/
 
 _comments:
   short_title: Used in smaller spaces
