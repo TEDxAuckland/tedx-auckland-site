@@ -7,7 +7,7 @@ tagline: Ascending
 start_date: 2014-08-16 00:00:00 +1200
 end_date: 2014-08-16 00:00:00 +1200
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
-speakers:
+people:
   - 2014/luke-nola
   - 2014/muskan-devta
   - 2014/urzila-carlson

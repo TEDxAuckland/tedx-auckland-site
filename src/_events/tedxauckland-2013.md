@@ -7,7 +7,7 @@ tagline: convergemerge
 start_date: 2013-08-03 00:00:00 +1200
 end_date: 2013-08-03 00:00:00 +1200
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
-speakers:
+people:
   - 2013/jimi-hunt
   - 2013/lillian-grace
   - 2013/david-trubridge

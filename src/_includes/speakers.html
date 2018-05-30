@@ -1,6 +1,6 @@
 <div class="card-container speakers">
 	{% for speaker_name in include.speakers %}
-	{% assign speaker = site.speakers | where_exp: "item", "item.id contains speaker_name"  | first %}
+	{% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
 
 		<div class="card speaker-card" style="background-image: url({{ speaker.image }});">
 

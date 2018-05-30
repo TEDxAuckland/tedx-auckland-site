@@ -51,17 +51,17 @@ collections:
     output: true
   partners:
     name: Partners
-  speakers:
-    name: Speakers
+  people:
+    name: People
     _hide_content: true
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "speakers"
+      type: "people"
     values:
-      layout: "speaker"
+      layout: "person"
   - scope:
       path: ""
       type: "events"
@@ -72,7 +72,7 @@ _comments:
   short_title: Used in smaller spaces
   start_date: When does the event start?
   end_date: When does the event end?
-  speakers: To add more options add speakers in explore
+  people: To add more options add people in explore.
   flikr_gallery: The url to the flikr gallery. Leave blank if N/A.
   youtube_playlist: The url to the youtube playlist. Leave blank if N/A.
   ticket_url: Where can people buy tickets. Leave blank if N/A.

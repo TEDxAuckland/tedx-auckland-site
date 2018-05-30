@@ -7,7 +7,7 @@ tagline:
 start_date:
 end_date:
 address: 50 Mayoral Dr, Auckland, New Zealand
-speakers:
+people:
 flikr_galleries:
   -
 major_partners:

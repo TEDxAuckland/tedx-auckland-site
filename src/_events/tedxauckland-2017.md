@@ -7,7 +7,7 @@ tagline:
 start_date: 2017-12-01 00:00:00 +1300
 end_date: 2017-12-02 00:00:00 +1300
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
-speakers:
+people:
   - 2017/andy-crowe--rui-peng
   - 2017/angie-judge
   - 2017/anna-faber

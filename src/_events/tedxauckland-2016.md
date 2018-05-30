@@ -7,7 +7,7 @@ badge_image:
 start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
-speakers:
+people:
   - 2016/barbara-breen
   - 2016/ian-mccrae
   - 2016/lizzie-marvelly

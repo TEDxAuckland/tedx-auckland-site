@@ -7,7 +7,7 @@ tagline: Ideas Worth Doing
 start_date: 2010-09-26 00:00:00 +1200
 end_date: 2010-09-26 00:00:00 +1200
 address: 'Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620'
-speakers:
+people:
 flikr_galleries:
   - 'https://www.flickr.com/photos/tedxauckland/albums/72157641137952633'
 major_partners:

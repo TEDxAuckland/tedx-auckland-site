@@ -7,7 +7,7 @@ tagline:
 start_date: 2012-10-06 00:00:00 +1300
 end_date: 2012-10-06 00:00:00 +1300
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
-speakers:
+people:
   - 2012/michelle-dickinson
   - 2012/andrew-patterson
   - 2012/david-krofcheck
