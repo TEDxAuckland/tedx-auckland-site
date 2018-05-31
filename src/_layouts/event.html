@@ -101,6 +101,15 @@ layout: default
 
 		{% include speakers.html speakers = page.people %}
 
+
+		<ul>
+			{% for flikr_gallery in page.flikr_galleries %}
+			{% assign flickr_album_photo_urls = flikr_gallery | flickr_photos_from_gallery %}
+				{% for image_url in flickr_album_photo_urls %}
+					<img width="50" height="50" src="{{ image_url }}">
+				{% endfor %}
+			{% endfor %}
+		</ul>
 	</div>
 </section>
 

@@ -26,10 +26,10 @@ people:
   - rebecca-wadey
   - waikare-komene
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656140582479'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656599694255'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656734991456'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656389115760'
+  - '72157656140582479'
+  - '72157656599694255'
+  - '72157656734991456'
+  - '72157656389115760'
 major_partners:
 supporting_partners:
 event_partners:

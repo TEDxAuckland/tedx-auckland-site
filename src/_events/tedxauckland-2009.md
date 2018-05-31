@@ -9,7 +9,7 @@ end_date: 2009-11-05 00:00:00 +1300
 address: 'Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620'
 people:
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157641137766674'
+  - '72157641137766674'
 major_partners:
 supporting_partners:
 event_partners:
