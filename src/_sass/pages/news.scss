@@ -1,22 +1,24 @@
 .blog-header {
-  background: #e3e3e3;
+  background: #ededed;
   padding: 2rem 0;
   text-shadow: none;
   color: black;
 
   &__title {
     text-transform: uppercase;
-    font-size: 5rem;
+    font-size: 3.5rem;
     margin: 1rem 0;
     line-height: 1;
-    font-weight: 500;
+    font-weight: 600;
+    transform: translateX(-0.4rem);
   }
 
   &__paragraph {
     font-style: italic;
-    font-size: 1.2rem;
+    font-size: 1rem;
     max-width: 60%;
-    font-weight: 500;
+    font-weight: 600;
+    line-height: 1.6;
   }
 }
 
@@ -58,6 +60,10 @@ $card-size: $site-width / $number-of-columns - (2 * $card-margin);
 .news-card-container {
   align-items: flex-start;
   transform: translateY(-14rem);
+
+  &--archive {
+    transform: translateY(0);
+  }
 }
 
 .news-card {
