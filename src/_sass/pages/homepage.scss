@@ -1,0 +1,27 @@
+.hero__homepage {
+
+  	h2 {
+  		font-size: 6.5rem;
+  		font-weight: 300;
+  		letter-spacing: -0.3rem;
+  		margin: 0;
+  		text-transform: lowercase;
+  		line-height: 1;
+  	}
+
+  	p {
+  		font-size: 1.6rem;
+  		max-width: 65%;
+  		line-height: 1.4;
+  	}
+
+  	.header-details {
+  		max-width: 65%;
+  		width: 100%;
+  		background: rgba(0,0,0,0.5);
+  		padding: 40px;
+  		margin: 0 -30px;
+  		border-radius: 4px;
+  	}
+
+}

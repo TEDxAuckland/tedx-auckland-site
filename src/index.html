@@ -1,12 +1,27 @@
 ---
 title: Home page
 tagline: ...
-layout: page
+layout: default
+youtube_playlist: PLcm2pIIAwlDuXUwTNyTkiB0EFsi8tG5pV
 ---
 
-<section>
+<header id="hero" class="hero__homepage">
 	<div class="container">
-		<p>This section will populated with the latest event page</p>
+		<div class="header-details">
+			<h2>ideas worth spreading</h2>
+			<p>
+				Check out our amazing TEDxUTSC talks from the past five years!
+			</p>
+			<p><a href="/talks" class="button button-outline">All Past Talks</a></p>
+		</div>
+	</div>
+</header>
+
+<section id="talks" class="section-bg-black">
+	<div class="container">
+
+		<h3 class="section-heading section-heading__talks">Talks</h3>
+		{% include talks.html playlist_id = page.youtube_playlist %}
 
 	</div>
 </section>
