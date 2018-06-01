@@ -1,7 +1,7 @@
 ---
 name: Luke Nola
 email:
-image: /uploads/luke-nola.jpg
+image: /uploads/luke-nola-61.jpg
 description_markdown: >-
   Adman-turned-filmmaker Luke Nola is founder of Luke Nola & Friends, an
   Auckland-based production company that creates and produces award-winning
@@ -14,7 +14,7 @@ description_markdown: >-
   enjoyed throughout the world, screening in over 73 countries and is the first
   New Zealand children’s TV format ever to be licensed by the BBC in the UK.
 website_url: 'http://lukenola.com/'
-twitter: 'https://twitter.com/gooberbrother?lang=en'
+twitter: 'https://twitter.com/gooberbrother'
 facebook:
 youtube_video: 'https://www.youtube.com/watch?v=4O3n6yOYWAo'
 github_username:
