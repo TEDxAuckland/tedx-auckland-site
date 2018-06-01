@@ -1,7 +1,7 @@
 ---
 name: Urzila Carlson
 email:
-image: /uploads/urzila-carlson.jpg
+image: /uploads/urzila-carlson-70.jpg
 description_markdown: >-
   Natural, cheeky and straight-up South African-born, New Zealand-based, Urzila
   Carlson, took to the stage for the first time in 2008, and has since racked up
@@ -23,11 +23,11 @@ description_markdown: >-
   Urzila is one of New Zealand’s funniest comedians, male or female, and is a
   true star on the rise.
 website_url: 'http://urzilacarlson.com/'
-twitter: 'https://twitter.com/search?q=Urzila%20Carlson&src=typd&lang=en'
+twitter: 'https://twitter.com/UrzilaCarlson'
 facebook: 'https://www.facebook.com/UrzilaCarlsonComedian/'
 youtube_video: 'https://www.youtube.com/watch?v=h1fk2zFTdlI'
 github_username:
-instagram: 'https://www.instagram.com/urzilacarlson/?hl=en'
+instagram: 'https://www.instagram.com/urzilacarlson/'
 ---
 
 Enter your description here...
