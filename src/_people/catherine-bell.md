@@ -1,7 +1,7 @@
 ---
 name: Catherine Bell
 email:
-image: /uploads/catherine-bell.jpg
+image: /uploads/catherine-bell-70.jpg
 description_markdown: >-
   Catherine’s mission in life is to inspire people to cook and eat simple, good
   food. A passionate foodie and Dish Magazine co-founder, Catherine is behind
@@ -23,7 +23,7 @@ twitter: 'https://twitter.com/gardentotablenz?lang=en'
 facebook: 'https://www.facebook.com/garden2table/'
 youtube_video: 'https://www.youtube.com/watch?v=mQHUs5bcGDY'
 github_username:
-instagram: 'https://www.instagram.com/gardentotablenz/?hl=en'
+instagram: 'https://www.instagram.com/gardentotablenz/'
 ---
 
 Enter your description here...
