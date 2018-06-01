@@ -1,7 +1,7 @@
 ---
 name: John Boone
 email:
-image: /uploads/john-boone-1.jpg
+image: /uploads/john-boone-70.jpg
 description_markdown: >-
   Leaving New Zealand in 1996 to go on his big OE, John returned to New Zealand
   with an exciting idea - to set up an interactive percussion business for the
