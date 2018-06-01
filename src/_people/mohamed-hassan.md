@@ -1,11 +1,11 @@
 ---
 name: Mohamed Hassan
 email:
-image:
+image: /uploads/mohamed-hassan-rising-voices-80.jpg
 description_markdown:
 website_url:
 medium_url:
-twitter:
+twitter: 'https://twitter.com/MHassan_1'
 facebook:
 youtube_video:
 github_username:
