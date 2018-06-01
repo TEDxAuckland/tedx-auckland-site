@@ -6,7 +6,7 @@ description_markdown:
 website_url: 'https://www.lukehurley.co.nz/'
 medium_url:
 twitter:
-facebook:
+facebook: 'https://www.facebook.com/lukehurleymusic/'
 youtube_video:
 github_username:
 instagram:
