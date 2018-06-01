@@ -1,7 +1,7 @@
 ---
 name: Mike Allsop
 email:
-image: /uploads/mike-allsop-70.jpg
+image: /uploads/mike-allsop-71.jpg
 description_markdown: >-
   Air New Zealand pilot, Everest mountaineer, adventurer and extreme marathon
   competitor, Mike is an ordinary family man proving that anybody can accomplish
