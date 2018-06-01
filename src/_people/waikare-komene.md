@@ -13,7 +13,7 @@ description_markdown: >-
   young people from high school age up about environmental awareness and
   sustainability.
 website_url:
-twitter: 'https://twitter.com/search?q=roots_creative&src=typd'
+twitter: 'https://twitter.com/Cre8vMaori'
 facebook: 'https://www.facebook.com/TheRootsCreativeEntrepreneurs/'
 youtube_video: 'https://www.youtube.com/watch?v=ulo9jUJD38c'
 github_username:
