@@ -1,7 +1,7 @@
 ---
 name: Riley Elliott
 email:
-image: /uploads/riley-elliott.jpg
+image: /uploads/riley-elliott-640-80.jpg
 description_markdown: >-
   Riley Elliott is a PhD candidate at the University of Auckland. With an
   Honours degree in Zoology and Masters with distinction in Marine Science from
@@ -17,12 +17,12 @@ description_markdown: >-
   of modern day media to achieve conservational goals. Riley is now utilising
   this form of communication to address international issues as the presenter of
   Shark Man TV.
-website_url: 'http://sharkman.tv/'
-twitter: 'https://twitter.com/SHARKMANTV'
-facebook: 'https://www.facebook.com/sharkmantv/'
+website_url: 'http://www.rileyelliott.com/'
+twitter: 'https://twitter.com/rileysharks'
+facebook: 'https://www.facebook.com/rileyelliott159/'
 youtube_video: 'https://www.youtube.com/watch?v=GA8RsnezFIg'
 github_username:
-instagram: 'https://www.instagram.com/sharkmantv/'
+instagram: 'https://www.instagram.com/thelifeofrileynz/'
 ---
 
 Enter your description here...
