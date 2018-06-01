@@ -1,7 +1,7 @@
 ---
 name: Richard Easther
 email:
-image: /uploads/richard-easther.jpg
+image: /uploads/richard-easther-640-80.jpg
 description_markdown: >-
   Richard Easther grew up in New Zealand and was educated at the University of
   Canterbury. After graduating with his PhD in 1994, Richard held post-doctoral
