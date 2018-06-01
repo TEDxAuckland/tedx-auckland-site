@@ -1,7 +1,7 @@
 ---
 name: Muskan Devta
 email:
-image: /uploads/muskan-devta-640-80.jpg
+image: /uploads/muskan-devta-640-82.jpg
 description_markdown: >-
   Muskan Devta is a bright, bubbly, and brave fourteen-year-old who has achieved
   much in her short life. Muskan was born with a medical condition called
