@@ -1,0 +1,10 @@
+{% for flickr_gallery in include.galleries %}
+  {% assign flickr_album_photo_urls = flickr_gallery | flickr_photos_from_gallery %}
+  {% for image_url in flickr_album_photo_urls limit:5 %}
+    <img width="250" height="250" src="{{ image_url }}">
+    {% endfor %}
+{% endfor %}
+
+<div class="see-more-images">
+  <a href="https://www.flickr.com/photos/tedxauckland/albums/{{include.galleries.first}}" target="_blank"> See more images</a>
+</div>

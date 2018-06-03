@@ -100,17 +100,16 @@ layout: default
 		<h3 class="section-heading section-heading__speakers">speakers</h3>
 
 		{% include speakers.html speakers = page.people %}
-
-
-		<ul>
-			{% for flikr_gallery in page.flikr_galleries %}
-			{% assign flickr_album_photo_urls = flikr_gallery | flickr_photos_from_gallery %}
-				{% for image_url in flickr_album_photo_urls %}
-					<img width="50" height="50" src="{{ image_url }}">
-				{% endfor %}
-			{% endfor %}
-		</ul>
 	</div>
 </section>
+
+<section id="flickr" class="flickr_gallery">
+	<div class="container">
+		<h3 class="section-heading section-heading__flickr">flickr</h3>
+
+		{% include flickr.html galleries = page.flikr_galleries %}
+	</div>
+</section>
+
 
 {% include back-to-top.html %}
