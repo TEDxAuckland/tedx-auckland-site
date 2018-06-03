@@ -1,7 +1,7 @@
 ---
 name: Siouxsie Wiles
 email:
-image: /uploads/siouxsie-wiles-fw75.jpg
+image: /uploads/siouxsie-wiles-70.jpg
 description_markdown: >-
   Award-winning scientist Dr. Siouxsie Wiles describes herself as a
   microbiologist and bioluminescence enthusiast but to others she is “that
