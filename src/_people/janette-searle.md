@@ -1,7 +1,7 @@
 ---
 name: Janette Searle
 email:
-image: /uploads/janette-searle-fw75.jpg
+image: /uploads/janette-searle-71.jpg
 description_markdown: >-
   Janette Searle had a life changing conversation that turned into ‘Take My
   Hands’ a not-for- profit organisation that redistributes prosthetic, orthotic
