@@ -1,7 +1,7 @@
 ---
 name: Steve Pointing
 email:
-image: /uploads/steve-pointing.jpg
+image: /uploads/steve-pointing-70.jpg
 description_markdown: >-
   Steve Pointing is Professor of Applied Ecology at Auckland University of
   Technology and director of the university’s Institute for Applied Ecology New
