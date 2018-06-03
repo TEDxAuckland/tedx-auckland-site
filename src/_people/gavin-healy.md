@@ -1,7 +1,7 @@
 ---
 name: Gavin Healy
 email:
-image: /uploads/gavin-healy.jpg
+image: /uploads/gavin-healy-71.jpg
 description_markdown: >-
   Gavin Healy has over 20 years’ experience in the media industry. He is
   currently the Director of a marketing for social good publishing company
