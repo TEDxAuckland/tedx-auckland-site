@@ -18,7 +18,7 @@ description_markdown: >-
   they can see your eyes and feel your breath.”
 website_url:
 twitter: 'https://twitter.com/tameiti'
-facebook:
+facebook: 'https://www.facebook.com/wairere.t.iti/'
 youtube_video: 'https://www.youtube.com/watch?v=qeK3SkxrZRI'
 github_username:
 instagram:
