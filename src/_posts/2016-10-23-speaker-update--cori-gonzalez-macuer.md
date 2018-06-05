@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Speaker Update | Cori Gonzalez-Macuer
-date: 2016-10-23 04:53:02.000000000 +13:00
+date: 2016-10-23 04:53:00 +1300
 image: /assets/wordpress/4G5A4602-2400-60pc.jpg
 author:
-  login: elliott
-  email: elliott@tedxauckland.com
-  display_name: elliott
-  first_name: ''
-  last_name: ''
+  login:
+  email:
+  display_name:
+  first_name:
+  last_name:
 ---
 
 Billy T award-winning comedian, actor and writer Cori Gonzalez-Macuer hit the TEDxAuckland stage at Flipside in May 2016.
