@@ -6,13 +6,13 @@ $event-card-size: $container-width / 8;
 
 .section-heading__partners {
   transform: translateX(-0.7em);
-  margin-bottom: 1rem;
+  margin-bottom: 1.8rem;
 }
 
 .partner-card {
   width: $event-card-size;
   height: $event-card-size;
-  padding: 1rem;
+  padding: 1.8rem;
   background-color: inherit;
   color: #000;
   font-family: $primary-font;
@@ -27,7 +27,7 @@ $event-card-size: $container-width / 8;
 
   &__paragraph--supporting {
     margin: 2.6em;
-    font-size: 0.8rem;
+    font-size: 1.4rem;
   }
 
   &--major {

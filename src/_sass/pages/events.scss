@@ -14,13 +14,13 @@
   &__upcoming {
     // flex-grow: 1;
     border-right: 2px solid $brand-grey;
-    padding-right: 2rem;
+    padding-right: 3.6rem;
     text-transform: uppercase;
   }
 
   &__past {
     // flex-grow: 1;
-    padding-left: 2rem;
+    padding-left: 3.6rem;
     text-transform: uppercase;
   }
 
@@ -33,7 +33,7 @@
 .event-info {
   text-transform: none;
   font-family: $secondary-font;
-  margin-bottom: 0.7rem;
+  margin-bottom: 1.3rem;
   transition: all 0.2s;
 
   &:hover {

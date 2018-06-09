@@ -1,21 +1,21 @@
 .blog-header {
   background: #ededed;
-  padding: 2rem 0;
+  padding: 3.6rem 0;
   text-shadow: none;
   color: black;
 
   &__title {
     text-transform: uppercase;
-    font-size: 3.5rem;
-    margin: 1rem 0;
+    font-size: 6.3rem;
+    margin: 1.8rem 0;
     line-height: 1;
     font-weight: 600;
-    transform: translateX(-0.4rem);
+    transform: translateX(-0.7rem);
   }
 
   &__paragraph {
     font-style: italic;
-    font-size: 1rem;
+    font-size: 1.8rem;
     max-width: 60%;
     font-weight: 600;
     line-height: 1.6;
@@ -23,7 +23,7 @@
 }
 
 .highlight-section {
-  padding-bottom: 15rem;
+  padding-bottom: 27rem;
 }
 
 .highlight-heading {
@@ -31,10 +31,10 @@
   background-color: $brand-color;
   color: #fff;
   display: inline-block;
-  font-size: 1rem;
+  font-size: 1.8rem;
   padding: 0.5em 0.7em;
   margin: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.8rem;
 }
 
 .highlight-info {
@@ -59,7 +59,7 @@ $card-size: $site-width / $number-of-columns - (2 * $card-margin);
 
 .news-card-container {
   align-items: flex-start;
-  transform: translateY(-14rem);
+  transform: translateY(-25.2rem);
 
   &--archive {
     transform: translateY(0);
@@ -73,11 +73,11 @@ $card-size: $site-width / $number-of-columns - (2 * $card-margin);
   background-color: #fff;
   color: #000;
   font-family: $primary-font;
-  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.20);
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.20);
 
   &:hover {
-    transform: translateY(-1rem);
-    box-shadow: 0 1rem 1.2rem rgba(#000000, 0.70);
+    transform: translateY(-1.8rem);
+    box-shadow: 0 1.8rem 2.2rem rgba(#000000, 0.70);
   }
 
   img {
@@ -90,12 +90,12 @@ $card-size: $site-width / $number-of-columns - (2 * $card-margin);
   }
 
   &__content {
-    margin: 1rem;
+    margin: 1.8rem;
 
     h4 {
       margin: 0;
       line-height: 1.4;
-      font-size: 1.2rem;
+      font-size: 2.2rem;
     }
   }
 }

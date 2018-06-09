@@ -1,3 +1,8 @@
+html {
+	// Sets 1rem to 10px
+	font-size: 62.5%;
+}
+
 html,
 body {
 	margin: 0;
@@ -5,7 +10,7 @@ body {
 	background: #222;
 	color: #fff;
 	font-family: $primary-font;
-	font-size: 18px;
+	// font-size: 18px;
 	// font-weight: 300;
 	line-height: 1.75;
 	scroll-behavior: smooth;
@@ -17,6 +22,7 @@ a {
 }
 
 .container {
+	font-size: 1.8rem;
 	width: 98%;
 	margin: 0 auto;
 	max-width: $site-width;

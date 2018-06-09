@@ -15,11 +15,11 @@
   z-index: 100;
 
   &__image {
-    height: 12.8rem;
+    height: 23rem;
   }
 
   &:hover {
-    transform: translateY(-0.5rem);
+    transform: translateY(-0.9rem);
 
     .talk__play-button {
       background: red;
@@ -29,19 +29,19 @@
 
 .talk__play-button {
   background-color: rgba(0, 0, 0, 0.5);
-  width: 3rem;
-  height: 3rem;
+  width: 5.4rem;
+  height: 5.4rem;
   position: absolute;
-  top: 9.3rem;
-  left: 0.5rem;
+  top: 16.7rem;
+  left: 0.9rem;
 
   transition: all 0.2s;
 
   &::after {
     content: '';
     background-color: #fff;
-    height: 0.8rem;
-    width: 0.8rem;
+    height: 1.4rem;
+    width: 1.4rem;
     display: block;
     position: absolute;
     top: 50%;

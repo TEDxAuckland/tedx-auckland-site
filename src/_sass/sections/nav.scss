@@ -7,7 +7,7 @@
 		flex-wrap: wrap;
 		justify-content: space-between;
 		align-items: center;
-		height: 6rem;
+		height: 10.8rem;
 	}
 }
 
@@ -17,25 +17,25 @@
 	display: flex;
 	justify-content: space-evenly;
 	flex-grow: 1;
-	padding-left: 5rem;
+	padding-left: 9rem;
 }
 
 .nav-link {
 	display: flex;
 	align-items: center;
-	font-size: 0.9rem;
+	font-size: 1.6rem;
 	transition: all 0.2s;
 
 	&__text {
 		display: block;
 		text-transform: uppercase;
-		line-height: 1rem;
+		line-height: 1.8rem;
 		font-weight: bold;
 		color: #fff;
 
 		&--sub {
 			color: darken(#fff, 40%);
-			font-size: 0.8rem;
+			font-size: 1.4rem;
 		}
 	}
 
@@ -52,8 +52,8 @@
 
 	&--active {
 		border-top: 3px solid $brand-color;
-		margin-top: 1rem;
-		padding-top: 0.5rem;
+		margin-top: 1.8rem;
+		padding-top: 0.9rem;
 
 			&:hover {
 				transform: scale(1);
