@@ -1,4 +1,4 @@
-.site-nav {
+.nav-bar {
 	background: #111;
 	padding: 20px 0;
 
@@ -8,16 +8,57 @@
 		justify-content: space-between;
 		align-items: center;
 		height: 10.8rem;
+
+		@include respond(phone) {
+			justify-content: center;
+			align-content: space-between;
+			height: auto;
+		}
+	}
+
+	&__brand {
+		flex: 0 1 26rem;
+		margin: 2rem 1rem 0 1.5rem;
+		order: 1;
+
+		@include respond(phone) {
+			flex: 0 0 55%;
+			margin: 2rem 0;
+		}
+
+	}
+
+	&__image {
+		width: 100%;
+		height: auto;
+	}
+
+	&__links {
+		flex: 1 0 48%;
+		order: 3;
+
+		@include respond(phone) {
+			margin: 2rem 0;
+		}
+	}
+
+	&__buy-tickets {
+		margin-right: 2rem;
+		order: 5;
+
+		// @include respond(tab-port) {
+		// 	order: 2;
+		// }
+
 	}
 }
 
 .nav-links {
 	margin: 0;
 	padding: 0;
-	display: flex;
+	display: inline-flex;
 	justify-content: space-evenly;
-	flex-grow: 1;
-	padding-left: 9rem;
+	width: 100%;
 }
 
 .nav-link {

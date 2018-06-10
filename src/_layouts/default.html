@@ -41,17 +41,20 @@
 
 	<body>
 
-		<nav id="top" class="site-nav">
-			<div class="container site-nav__container">
-				<h1><a href="/"><img src="/assets/images/logo.png" width="279" height="51" alt="Tedx Auckland" /></a></h1>
+		<nav id="top" class="nav-bar">
+			<div class="container nav-bar__container">
+				<a class="nav-bar__brand" href="/">
+					<img class="nav-bar__image" src="/assets/images/logo.png" alt="Tedx Auckland" />
+				</a>
 
-				<ul class="nav-links">
+				<div class="nav-bar__links">
+					<ul class="nav-links">
 
-					{% for nav in site.navigation %}
+						{% for nav in site.navigation %}
 
 						{% assign active = nil %}
 						{% if page.url contains nav.url %}
-							{% assign active = 'nav-link--active' %}
+						{% assign active = 'nav-link--active' %}
 						{% endif %}
 
 						<li class="nav-link {{ active }}">
@@ -61,13 +64,17 @@
 							</a>
 						</li>
 
-					{% endfor %}
+						{% endfor %}
 
-					<!-- <li class="nav-link nav-link__button">
+					</ul>
+				</div>
+<!--
+				<div class="nav-bar__buy-tickets">
+					<li class="nav-link nav-link__button">
 						<a href="#" class="button button__nav">Buy Ticket</a>
-					</li> -->
-
-				</ul>
+					</li>
+				</div>
+-->
 			</div>
 		</nav>
 

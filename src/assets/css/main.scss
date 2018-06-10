@@ -12,6 +12,9 @@ $brand-grey: #232323;
 $brand-grey-darker: #131313;
 $site-width: 1200px;
 
+// Abstract
+@import 'abstract/mixins';
+
 // General
 @import 'vendor/normalize';
 @import 'structure';

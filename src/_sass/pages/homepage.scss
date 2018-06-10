@@ -1,5 +1,9 @@
 .hero__homepage {
 
+    @include respond(phone) {
+      padding: 5rem 0;
+    }
+
   	h2 {
   		font-size: 11.7rem;
   		font-weight: 300;
@@ -7,21 +11,41 @@
   		margin: 0;
   		text-transform: lowercase;
   		line-height: 1;
+
+      @include respond(phone) {
+        font-size: 7.7rem
+      }
   	}
 
   	p {
   		font-size: 2.9rem;
   		max-width: 65%;
   		line-height: 1.4;
+
+      @include respond(phone) {
+        font-size: 1.9rem
+      }
   	}
 
   	.header-details {
+      box-sizing: border-box;
   		max-width: 65%;
   		width: 100%;
   		background: rgba(0,0,0,0.5);
-  		padding: 40px;
-  		margin: 0 -30px;
-  		border-radius: 4px;
+  		padding: 4rem;
+  		margin: 0 -3rem;
+  		border-radius: .4rem;
+
+      @include respond(tab-land) {
+        margin-left: 2rem;
+      }
+
+      @include respond(phone) {
+        max-width: 94%;
+        margin: 0 3%;
+        padding: 2rem;
+      }
+
   	}
 
 }
