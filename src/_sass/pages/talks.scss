@@ -64,7 +64,7 @@
     transition: all 0.2s;
 
     &:hover {
-      color: #fff;
+      color: $brand-white;
       transform: translateY(-0.2rem);
       background-color: $brand-grey;
       box-shadow: 0 1.8rem 3.6rem rgba(0,0,0,0.2);

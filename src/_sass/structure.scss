@@ -20,7 +20,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: #222;
-	color: #fff;
+	color: $brand-white;
 	font-family: $primary-font;
 	line-height: 1.75;
 	scroll-behavior: smooth;
@@ -49,7 +49,7 @@ a {
 }
 
 .section-bg-white {
-	background-color: #fff;
+	background-color: $brand-white;
 	color: #000;
 }
 

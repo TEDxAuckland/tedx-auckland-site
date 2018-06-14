@@ -29,7 +29,7 @@
 .highlight-heading {
   text-transform: uppercase;
   background-color: $brand-color;
-  color: #fff;
+  color: $brand-white;
   display: inline-block;
   font-size: 1.8rem;
   padding: 0.5em 0.7em;
@@ -70,7 +70,7 @@ $card-size: $site-width / $number-of-columns - (2 * $card-margin);
   max-width: $card-size;
   width: 100%;
   margin: $card-margin;
-  background-color: #fff;
+  background-color: $brand-white;
   color: #000;
   font-family: $primary-font;
   box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.20);

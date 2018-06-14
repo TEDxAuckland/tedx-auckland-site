@@ -72,10 +72,10 @@
 		text-transform: uppercase;
 		line-height: 1.8rem;
 		font-weight: bold;
-		color: #fff;
+		color: $brand-white;
 
 		&--sub {
-			color: darken(#fff, 40%);
+			color: darken($brand-white, 40%);
 			font-size: 1.4rem;
 		}
 	}
