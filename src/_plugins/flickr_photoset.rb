@@ -29,8 +29,8 @@ module Jekyll
 
     def fetch_remote_flickr_galleries(photoset_id)
       photoset = Flickr.sets.find(photoset_id)
-      photos = photoset.get_photos
-      photo_urls = photos.limit(10).map do |photo|
+      photos = photoset.get_photos.take(10)
+      photo_urls = photos.map do |photo|
         info = photo.get_info!
         url = "https://farm#{info.farm}.staticflickr.com/#{info.server}/#{info.id}_#{info.secret}.jpg"
         puts url
