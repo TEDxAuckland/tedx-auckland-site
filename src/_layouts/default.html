@@ -80,30 +80,30 @@
 
 		{{ content }}
 
-		<footer>
-			<div class="container">
-				<div class="logos">
-					<a href="/"><img src="/assets/images/logo.png" width="279" height="51" alt="Tedx Auckland" /></a></h1>
-				</div>
+		<footer class="footer">
+			<div class="container footer__container">
+				<a class="footer__logos" href="/">
+					<img src="/assets/images/logo.png" alt="Tedx Auckland" />
+				</a>
 
-				<ul class="social-links">
-					<li>Follow us</li>
-					<li>
+				<ul class="social">
+					<li class="social__heading">Follow us</li>
+					<li class="social__link">
 						<a href="https://www.facebook.com/TEDxAuckland/" target="_blank">
 							{% include embed/social-icon.html icon="Facebook" %}
 						</a>
 					</li>
-					<li>
+					<li class="social__link">
 						<a href="https://www.instagram.com/tedxauckland/" target="_blank">
 							{% include embed/social-icon.html icon="Instagram" %}
 						</a>
 					</li>
-					<li>
+					<li class="social__link">
 						<a href="https://twitter.com/tedxauckland" target="_blank">
 							{% include embed/social-icon.html icon="Twitter" %}
 						</a>
 					</li>
-					<li>
+					<li class="social__link">
 						<a href="https://www.youtube.com/user/TEDxAuckland" target="_blank">
 							{% include embed/social-icon.html icon="YouTube" %}
 						</a>

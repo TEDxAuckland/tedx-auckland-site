@@ -1,45 +1,78 @@
-footer {
+.footer {
 	background: #111;
-	padding: 50px 10px;
+	padding: 5rem 0;
 
-	.container {
+	@include respond(tab-land) {
+    padding: 3rem 1rem;
+  }
+
+	&__container {
 		display: flex;
-		flex-wrap: wrap;
 		justify-content: space-between;
+		align-items: center;
+		flex-wrap: wrap;
+		align-content: space-between;
+
+		@include respond(phone) {
+			height: 16rem;
+			justify-content: center;
+		}
 	}
 
-	.logos {
-		width: 300px;
+	&__logos {
 		margin: 0;
 		line-height: 0;
-	}
+		flex: 0 1 25rem;
 
-	ul {
-		margin: 0;
-		padding: 0;
-		display: flex;
-
-		li {
-			display: flex;
-			align-items: center;
-			margin: 0 10px;
+		img {
+			width: 100%;
 		}
 
-		a {
-			display: block;
-			padding: 10px;
-			background: $brand-white;
-			border-radius: 4px;
-			line-height: 0;
-			transform: translateZ(0);
+		// @include respond(phone) {
+		// }
+	}
 
-			opacity: 0.9;
-			transition: opacity ease 200ms;
+}
 
-			&:active,
-			&:hover {
-				opacity: 1;
-			}
+.social {
+	margin: 0;
+	margin-left: auto;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+
+	@include respond(phone) {
+		margin: 0;
+		flex-basis: 100%;
+	}
+
+	&__link,
+	&__heading {
+		display: flex;
+		align-items: center;
+		margin: 0 10px;
+	}
+
+	&__heading {
+		@include respond(phone) {
+			display: none;
+		}
+	}
+
+	a {
+		display: block;
+		padding: 10px;
+		background: $brand-white;
+		border-radius: 4px;
+		line-height: 0;
+		transform: translateZ(0);
+
+		opacity: 0.9;
+		transition: opacity ease 200ms;
+
+		&:active,
+		&:hover {
+			opacity: 1;
 		}
 	}
 }
