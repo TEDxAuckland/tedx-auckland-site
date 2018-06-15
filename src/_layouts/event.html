@@ -49,13 +49,13 @@ layout: default
 		</h3>
 
 		{% if page.major_partners %}
-			<h4 class="section-heading--dark">major</h4>
-			<div class="card-container">
+			<h4 class="partner-heading">major</h4>
+			<div class="partners">
 				{% for partner_name in page.major_partners %}
 				{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
-				<a class="card partner-card partner-card--major" href="{{ partner.link }}" target="_blank">
+				<a class="partner-card partner-card--major" href="{{ partner.link }}" target="_blank">
 					<img class="partner-card__image partner-card__image--major" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
-					<div class="partner-card__paragraph--major">
+					<div class="partner-card__paragraph partner-card__paragraph--major">
 						{{ partner.content }}
 					</div>
 				</a>
@@ -64,13 +64,13 @@ layout: default
 		{% endif %}
 
 		{% if page.supporting_partners %}
-			<h4 class="section-heading--dark">supporting</h4>
-			<div class="card-container">
+			<h4 class="partner-heading">supporting</h4>
+			<div class="partners">
 				{% for partner_name in page.supporting_partners %}
 				{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
-				<a class="card partner-card partner-card--supporting" href="{{ partner.link }}" target="_blank">
-					<img class="partner-card__image" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
-					<div class="partner-card__paragraph--supporting">
+				<a class="partner-card partner-card--supporting" href="{{ partner.link }}" target="_blank">
+					<img class="partner-card__image partner-card__image--supporting" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
+					<div class="partner-card__paragraph partner-card__paragraph--supporting">
 						{{ partner.content }}
 					</div>
 				</a>
@@ -79,11 +79,11 @@ layout: default
 		{% endif %}
 
 		{% if page.event_partners %}
-			<h4 class="section-heading--dark">event</h4>
-			<div class="card-container">
+			<h4 class="partner-heading">event</h4>
+			<div class="partners">
 				{% for partner_name in page.event_partners %}
 					{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
-					<a class="card partner-card" href="{{ partner.link }}" target="_blank">
+					<a class="partner-card" href="{{ partner.link }}" target="_blank">
 						<img class="partner-card__image" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
 					</a>
 				{% endfor %}
