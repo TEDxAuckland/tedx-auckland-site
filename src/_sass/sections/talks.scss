@@ -1,17 +1,8 @@
-.section-heading__talks {
-  transform: translate(-0.7em, 0.235em);
-
-  @include respond(tab-land) {
-    transform: translate(0.3em, 0.235em);
-  }
-}
-
 .talk-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
-
 
 .talk-card {
   position: relative;

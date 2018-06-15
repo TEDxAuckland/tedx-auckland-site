@@ -47,7 +47,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
   <section id="{{ event.short_title }}" class="{% cycle "section-bg-grey", "section-bg-black" %}">
   	<div class="container">
 
-  		<h3 class="section-heading section-heading__talks">{{ event.short_title }}</h3>
+  		<h3 class="section-heading section-heading--talks">{{ event.short_title }}</h3>
       {% include talks.html playlist_id = event.youtube_playlist %}
 
     </div>
@@ -59,7 +59,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
   <section id="other_talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
   	<div class="container">
 
-  		<h3 class="section-heading section-heading__talks">Other Talks</h3>
+  		<h3 class="section-heading section-heading--talks">Other Talks</h3>
       {% include talks.html playlist_id = list %}
 
     </div>

@@ -3,12 +3,6 @@ $major-card-size: $container-width / 2;
 $supporting-card-size: $container-width / 3;
 $event-card-size: $container-width / 8;
 
-
-.section-heading__partners {
-  transform: translateX(-0.7em);
-  margin-bottom: 1.8rem;
-}
-
 .partner-card {
   width: $event-card-size;
   height: $event-card-size;
