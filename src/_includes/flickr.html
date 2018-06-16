@@ -1,4 +1,4 @@
-{% for flickr_gallery in include.galleries %}
+<!-- {% for flickr_gallery in include.galleries %} -->
 
   <!-- {% assign flickr_album_photo_urls = flickr_gallery | flickr_photos_from_gallery %}
   {% for image_url in flickr_album_photo_urls limit:5 %}
@@ -8,8 +8,8 @@
     <div class="flickr_gallery">
       <iframe
       class="flickr-iframe"
-      src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input={{flickr_gallery}}&sort=0&by=album&theme=tiles_justified&scale=fill&limit=20&skin=default&autoplay=true"
-      scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">
+      src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input={{include.galleries.first}}&sort=0&by=album&theme=tiles_justified&scale=fill&limit=20&skin=default&autoplay=true"
+      scrolling="yes" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">
     </iframe>
     <script type="text/javascript">
     function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",
@@ -18,9 +18,9 @@
       </script>
     </div>
 
-{% endfor %}
+<!-- {% endfor %} -->
 
 
 <div class="see-more-images">
-  <a href="https://www.flickr.com/photos/tedxauckland/albums/{{include.galleries.first}}" target="_blank"> See more images</a>
+  <a href="https://www.flickr.com/photos/tedxauckland/albums/{{include.galleries.last}}" target="_blank"> See more images</a>
 </div>
