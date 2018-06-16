@@ -10,3 +10,4 @@
 /videos/ /talks/
 /videos/* /talks/
 /watch/ /talks/
+/youth/ /events/
