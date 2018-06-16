@@ -25,9 +25,9 @@ people:
   - robyn-paterson
   - dale-williams
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656765142439'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157656607912019'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143953353'
+  - '72157656765142439'
+  - '72157656607912019'
+  - '72157641143953353'
 major_partners:
 supporting_partners:
 event_partners:

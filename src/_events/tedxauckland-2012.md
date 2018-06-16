@@ -26,8 +26,8 @@ people:
   - paul-cameron
   - peter-young
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157641139177714'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157641143525304'
+  - '72157641139177714'
+  - '72157641143525304'
 major_partners:
 supporting_partners:
 event_partners:

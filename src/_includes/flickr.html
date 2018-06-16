@@ -1,0 +1,26 @@
+{% for flickr_gallery in include.galleries limit:1 %}
+
+  <!-- {% assign flickr_album_photo_urls = flickr_gallery | flickr_photos_from_gallery %}
+  {% for image_url in flickr_album_photo_urls limit:5 %}
+    <img width="300" height="300" src="{{ image_url }}">
+    {% endfor %} -->
+
+    <div class="flickr_gallery">
+      <iframe
+      class="flickr-iframe"
+      src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input={{include.galleries.first}}&sort=0&by=album&theme=tiles_justified&scale=fill&limit=30&skin=default&autoplay=true"
+      scrolling="yes" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">
+    </iframe>
+    <script type="text/javascript">
+    function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",
+    function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,
+      function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}
+      </script>
+    </div>
+
+{% endfor %}
+
+
+<div class="see-more-images">
+  <a href="https://www.flickr.com/photos/tedxauckland/albums/{{include.galleries.last}}" target="_blank"> See more images</a>
+</div>

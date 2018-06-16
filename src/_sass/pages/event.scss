@@ -11,7 +11,6 @@
   }
 }
 
-
 .event-content {
   padding: 0 2rem;
   line-height: 1.6;
@@ -40,6 +39,28 @@
   h5 {
     font-size: 1em;
   }
+}
 
+.section-heading__flickr {
+  transform: translate(-0.74em, 0.235em);
+}
 
+.flickr_gallery {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.see-more-images {
+  padding-top: 3%;
+  color: rgb(234, 33, 45)
+}
+
+.flickr-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

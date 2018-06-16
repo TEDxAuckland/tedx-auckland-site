@@ -34,8 +34,8 @@ people:
   - rory-steyn
   - modern-māori-quartet
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157666367306513'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157668777484451'
+  - '72157666367306513'
+  - '72157668777484451'
 major_partners:
 supporting_partners:
 event_partners:

@@ -29,11 +29,11 @@ people:
   - william-watson
   - yoseph-ayele
 flikr_galleries:
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157690330288051'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157662372094117'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157690330455751'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157690330728971'
-  - 'https://www.flickr.com/photos/tedxauckland/albums/72157664411957938'
+  - '72157690330288051'
+  - '72157662372094117'
+  - '72157690330455751'
+  - '72157690330728971'
+  - '72157664411957938'
 major_partners:
   - nib
 supporting_partners:

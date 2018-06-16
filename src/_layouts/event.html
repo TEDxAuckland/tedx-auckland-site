@@ -100,8 +100,16 @@ layout: default
 		<h3 class="section-heading section-heading__speakers">speakers</h3>
 
 		{% include speakers.html speakers = page.people %}
-
 	</div>
 </section>
+
+<section>
+	<div class="container">
+		<h3 class="section-heading section-heading__flickr">flickr</h3>
+
+		{% include flickr.html galleries = page.flikr_galleries %}
+	</div>
+</section>
+
 
 {% include back-to-top.html %}
