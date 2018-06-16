@@ -1,3 +1,8 @@
+.extra-padding {
+  margin: 0;
+  @include respond(tab-land) { margin: 0 4rem; }
+}
+
 .blog-header {
   background: #ededed;
   padding: 3.6rem 0;
@@ -50,14 +55,26 @@
   &__bar {
     font-family: $secondary-font;
   }
-
 }
 
-$number-of-columns: 3;
-$card-margin: 9px;
-$card-size: $site-width / $number-of-columns - (2 * $card-margin);
+.highlight-content {
+  iframe {
+    width: 54rem;
+    height: 30rem;
+    margin: 2rem;
+
+    @include respond(phone) {
+      width: 30rem;
+      height: 16rem;
+      margin: 1rem o;
+    }
+  }
+}
 
 .news-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
   align-items: flex-start;
   transform: translateY(-25.2rem);
 
@@ -67,21 +84,35 @@ $card-size: $site-width / $number-of-columns - (2 * $card-margin);
 }
 
 .news-card {
-  max-width: $card-size;
-  width: 100%;
-  margin: $card-margin;
-  background-color: $brand-white;
-  color: #000;
+  box-sizing: border-box;
+  position: relative;
   font-family: $primary-font;
+  color: #000;
+  background-color: $brand-white;
+  width: 31.33%;
+  margin: 0 1%;
+  margin-bottom: 1.8rem;
   box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.20);
+
+  transition: all 0.2s;
+
+  @include respond(tab-port) {
+    width: 46%;
+    margin: 2rem 2%;
+  }
+
+  @include respond(phone) {
+    width: 100%;
+    margin: 2.4rem 4rem;
+  }
 
   &:hover {
     transform: translateY(-1.8rem);
     box-shadow: 0 1.8rem 2.2rem rgba(#000000, 0.70);
   }
 
-  img {
-    max-width: $card-size;
+  &__image {
+    width: 100%;
     height: auto;
   }
 

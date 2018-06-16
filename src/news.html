@@ -4,47 +4,50 @@ layout: default
 
 <header class="blog-header">
   <div class="container">
-    <h3 class="blog-header__title">Blog</h3>
-    <p class="blog-header__paragraph editable">
-      Here we will post news and information about the event as well as discuss topics, themes, ideas and local events and matters we think you may be intereste in. We hope you enjoy our articles and would love to hear your thoughts in the comments!
-    </p>
+    <div class="extra-padding">
+      <h3 class="blog-header__title">Blog</h3>
+      <p class="blog-header__paragraph editable">
+        Here we will post news and information about the event as well as discuss topics, themes, ideas and local events and matters we think you may be intereste in. We hope you enjoy our articles and would love to hear your thoughts in the comments!
+      </p>
+    </div>
   </div>
 </header>
 
 
 <section id="highlights" class="highlight-section section-bg-white">
   <div class="container">
-    <h4 class="highlight-heading">Highlight</h4>
-    {% assign highlight = site.posts[0] %}
+    <div class="extra-padding">
+      <h4 class="highlight-heading">Highlight</h4>
+      {% assign highlight = site.posts[0] %}
 
-    <div class="highlight-info">
-      <h4 class="highlight-info__title"><a href="{{ highlight.url }}">{{ highlight.title }}</a></h4>
-      <div class="highlight-info__bar">
-        <i class="far fa-calendar-alt"></i>
-        <time datetime="{{ highlight.date | date: "%Y-%m-%d" }}">
-          {{ highlight.date | date_to_long_string }}
-        </time>
+      <div class="highlight-info">
+        <h4 class="highlight-info__title"><a href="{{ highlight.url }}">{{ highlight.title }}</a></h4>
+        <div class="highlight-info__bar">
+          <i class="far fa-calendar-alt"></i>
+          <time datetime="{{ highlight.date | date: "%Y-%m-%d" }}">
+            {{ highlight.date | date_to_long_string }}
+          </time>
+        </div>
+      </div>
+
+      <div class="highlight-content">
+        {{ highlight.content }}
       </div>
     </div>
-
-    <div class="highlight-content">
-      {{ highlight.content }}
-    </div>
-
   </div>
 </section>
 
 <section id="posts">
   <div class="container">
 
-    <div class="card-container news-card-container">
+    <div class="news-card-container">
 
       {% for post in site.posts limit: 10 offset: 1 %}
-        <div class="card news-card">
+        <div class="news-card">
           <a href="{{ post.url }}">
 
             {% if post.image %}
-            <img src="{{ post.image }}">
+            <img class="news-card__image" src="{{ post.image }}">
             {% endif %}
 
             <div class="news-card__content">
