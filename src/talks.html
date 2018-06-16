@@ -19,7 +19,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 <header class="hero hero__talks" style="background-image: url({{ page.hero_image }})">
 </header>
 
-<section class="{% cycle "section-bg-grey", "section-bg-black" %}">
+<section id="filter-tags" class="{% cycle "section-bg-grey", "section-bg-black" %}">
   <div class="container talks-filter-container">
 
     <div class="talks-filter">
@@ -27,18 +27,21 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 
       <div class="filter-tags">
         <h4 class="filter-tags__title" >select your category</h4>
+
         <ul class="filter-tags__tags">
           {% for event in sorted_events %}
+
           <li class="filter-tags__tag">
             <a href="#{{event.short_title}}">{{ event.short_title }}: {{ event.tagline }}</a>
           </li>
+
           {% endfor %}
+
           <li class="filter-tags__tag">
             <a href="#other_talks">Other Talks</a>
           </li>
         </ul>
       </div>
-
     </div>
   </div>
 </section>
