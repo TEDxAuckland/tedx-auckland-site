@@ -1,4 +1,4 @@
-.site-nav {
+.nav-bar {
 	background: #111;
 	padding: 20px 0;
 
@@ -7,35 +7,76 @@
 		flex-wrap: wrap;
 		justify-content: space-between;
 		align-items: center;
-		height: 6rem;
+		height: 10.8rem;
+
+		@include respond(phone) {
+			justify-content: center;
+			align-content: space-between;
+			height: auto;
+		}
+	}
+
+	&__brand {
+		flex: 0 1 26rem;
+		margin: 2rem 1rem 0 1.5rem;
+		order: 1;
+
+		@include respond(phone) {
+			flex: 0 0 55%;
+			margin: 2rem 0;
+		}
+
+	}
+
+	&__image {
+		width: 100%;
+		height: auto;
+	}
+
+	&__links {
+		flex: 1 0 48%;
+		order: 3;
+
+		@include respond(phone) {
+			margin: 2rem 0;
+		}
+	}
+
+	&__buy-tickets {
+		margin-right: 2rem;
+		order: 5;
+
+		// @include respond(tab-port) {
+		// 	order: 2;
+		// }
+
 	}
 }
 
 .nav-links {
 	margin: 0;
 	padding: 0;
-	display: flex;
+	display: inline-flex;
 	justify-content: space-evenly;
-	flex-grow: 1;
-	padding-left: 5rem;
+	width: 100%;
 }
 
 .nav-link {
 	display: flex;
 	align-items: center;
-	font-size: 0.9rem;
+	font-size: 1.6rem;
 	transition: all 0.2s;
 
 	&__text {
 		display: block;
 		text-transform: uppercase;
-		line-height: 1rem;
+		line-height: 1.8rem;
 		font-weight: bold;
-		color: #fff;
+		color: $brand-white;
 
 		&--sub {
-			color: darken(#fff, 40%);
-			font-size: 0.8rem;
+			color: darken($brand-white, 40%);
+			font-size: 1.4rem;
 		}
 	}
 
@@ -52,8 +93,8 @@
 
 	&--active {
 		border-top: 3px solid $brand-color;
-		margin-top: 1rem;
-		padding-top: 0.5rem;
+		margin-top: 1.8rem;
+		padding-top: 0.9rem;
 
 			&:hover {
 				transform: scale(1);

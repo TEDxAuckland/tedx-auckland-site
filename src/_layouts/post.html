@@ -4,7 +4,7 @@ layout: default
 
 <section id="post" class="post section-bg-white">
 	<div class="container post-container">
-    <h3 class="section-heading section-heading__post">{{ page.title }}</h3>
+    <h3 class="section-heading section-heading--post">{{ page.title }}</h3>
 		<p><time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time></p>
 
 		{% if page.alturl %}
@@ -31,5 +31,3 @@ layout: default
 		</nav>
 	</div>
 </section>
-
-{% include back-to-top.html %}

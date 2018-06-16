@@ -1,47 +1,56 @@
-.section-heading__speakers {
-  transform: translate(-0.74em, 0.235em);
-}
-
 .speakers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 }
-
-$number-of-columns: 4;
-$card-size: $site-width / $number-of-columns;
 
 .speaker-card {
-  width: $card-size;
-  height: $card-size;
+  background-color: $brand-grey-darker;
+  font-family: $secondary-font;
+  position: relative;
+  box-sizing: border-box;
+  width: 25%;
+  line-height: 0;
   border: 1px solid #000;
-  background-size: cover;
   filter: grayscale(100%);
   margin: 0;
+  transition: all 0.2s;
+
+  @include respond(tab-port) {
+    width: 33.33%;
+  }
+
+  @include respond(phone) {
+    width: 50%;
+  }
 
   &:hover {
     filter: grayscale(0%);
+  }
 
-    .speaker-card-caption {
-      background-color: $brand-color;
-    }
+  &:hover &__caption {
+    background-color: $brand-color;
   }
 
   &__image {
-    transition: all 0.2s;
+    width: 100%;
+    height: auto;
   }
-}
 
-.speaker-card-caption {
-  background-color: rgba(19,19,19,0.6);
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  transition: all 0.2s;
-  height: 3rem;
-  text-transform: uppercase;
-  font-size: 0.8rem;
-  font-weight: bold;
-  line-height: 1.2;
-  padding: 0.5rem 40% 0.5rem 1rem;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
+  &__caption {
+    background-color: rgba(19,19,19,0.6);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    transition: all 0.2s;
+    height: 5.4rem;
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 0.9rem 40% 0.9rem 1.8rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+  }
 }

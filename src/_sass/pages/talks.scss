@@ -2,53 +2,76 @@
   background-position: top;
 }
 
+#filter-tags {
+  min-height: auto;
+}
+
 .talks-filter-container {
-  height: 300px;
   display: flex;
-  align-items: center;
+
+  @include respond(phone) {
+    align-items: flex-start;
+  }
 }
 
 .talks-filter {
   display: flex;
   justify-content: flex-start;
-  height: 10rem;
+  margin: 4rem;
 
-  &__title {
-    font-size: 4rem;
-    margin-right: 3rem;
-    margin-bottom: 0;
+  @include respond(phone) {
+    flex-wrap: wrap;
+    margin: 3rem;
   }
 
+  &__title {
+    font-size: 7.2rem;
+    line-height: 1;
+    padding-right: 5.4rem;
+    margin-bottom: 3.5rem;
+
+    @include respond(phone) {
+      margin: 0;
+      margin-bottom: 2rem;
+    }
+  }
 }
 
 .filter-tags {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  border-left: 0.5rem solid $brand-color;
-  padding-left: 3rem;
   margin: 0;
-  height: 100%;
+  padding-left: 5.4rem;
+  border-left: 0.9rem solid $brand-color;
+
+  @include respond(phone) {
+    padding-left: 3rem;
+  }
 
   &__title {
-    margin: 0;
-    font-size: 1rem;
+    font-size: 1.8rem;
     text-transform: uppercase;
-    line-height: 1rem;
-    letter-spacing: 0.12rem;
+    line-height: 1.8rem;
+    letter-spacing: 0.2rem;
     font-weight: 400;
+    margin: 0;
+    margin-bottom: 1rem;
   }
 
   &__tags {
+    font-size: 1.8rem;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
-    height: 7rem;
     list-style-type: none;
     padding: 0;
     margin: 0;
 
+    @include respond(phone) {
+      font-size: 1.6rem;
+    }
   }
 
   &__tag {
@@ -56,19 +79,18 @@
       color: lighten($brand-grey, 70%);
     }
     font-family: $secondary-font;
-    padding: 0.5rem 1rem;
-    margin: 0.5rem 0.6rem 0 0;
-    border-radius: 0.3rem;
+    padding: 0.5em 1em;
+    margin: 0.5em .5em 0 0;
+    border-radius: 0.5rem;
     background-color: lighten($brand-grey, 20%);
 
     transition: all 0.2s;
 
     &:hover {
-      color: #fff;
-      transform: translateY(-0.12rem);
+      color: $brand-white;
+      transform: translateY(-0.2rem);
       background-color: $brand-grey;
-      box-shadow: 0 1rem 2rem rgba(0,0,0,0.2);
-
+      box-shadow: 0 1.8rem 3.6rem rgba(0,0,0,0.2);
     }
   }
 }

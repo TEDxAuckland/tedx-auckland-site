@@ -10,7 +10,11 @@ $secondary-font: 'Source Code Pro', monospace;
 $brand-color: #ed3624;
 $brand-grey: #232323;
 $brand-grey-darker: #131313;
+$brand-white: #fff;
 $site-width: 1200px;
+
+// Abstract
+@import 'abstract/mixins';
 
 // General
 @import 'vendor/normalize';
@@ -19,7 +23,6 @@ $site-width: 1200px;
 // Elements
 @import 'ui/button';
 @import 'ui/form';
-@import 'ui/card';
 @import 'ui/back-to-top';
 
 // Sections

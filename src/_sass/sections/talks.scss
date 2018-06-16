@@ -1,55 +1,71 @@
-.section-heading__talks {
-  transform: translate(-0.7em, 0.235em);
+.talk-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 }
 
-.talks {
-}
-
-.talk-link {
-  color: inherit;
-}
-
-.talk {
+.talk-card {
+  position: relative;
+  background-color: $brand-grey-darker;
+  font-family: $secondary-font;
+  box-sizing: border-box;
   border: 1px solid #000;
-  width: 400px;
+  flex: 1 1 33.33%;
   z-index: 100;
-
-  &__image {
-    height: 12.8rem;
-  }
-
-  &:hover {
-    transform: translateY(-0.5rem);
-
-    .talk__play-button {
-      background: red;
-    }
-  }
-}
-
-.talk__play-button {
-  background-color: rgba(0, 0, 0, 0.5);
-  width: 3rem;
-  height: 3rem;
-  position: absolute;
-  top: 9.3rem;
-  left: 0.5rem;
 
   transition: all 0.2s;
 
-  &::after {
-    content: '';
-    background-color: #fff;
-    height: 0.8rem;
-    width: 0.8rem;
-    display: block;
-    position: absolute;
-    top: 50%;
-    left: 52%;
-    transform: translate(-50%, -50%);
-    clip-path: polygon(0 0, 100% 50%, 0 100%);
+  @include respond(tab-port) {
+    flex: 1 1 46%;
+    margin: 0 2%;
   }
 
+  @include respond(phone) {
+    flex: 1 1 100%;
+    margin: 2rem 10%;
+  }
+
+  &__link {
+    color: inherit;
+  }
+
+  &__play-button {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 5.4rem;
+    height: 5.4rem;
+    position: absolute;
+    top: 16.7rem;
+    left: 0.9rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: all 0.2s;
+
+    &::after {
+      content: '';
+      background-color: $brand-white;
+      height: 1.4rem;
+      width: 1.4rem;
+      margin-right: .8rem;
+      clip-path: polygon(0 0, 100% 50%, 0 100%);
+    }
+  }
+
+  &__image {
+    height: 23rem;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  &:hover {
+    transform: translateY(-0.9rem);
+  }
+
+  &:hover &__play-button {
+    background: $brand-color;
+  }
 }
 
 .caption {
@@ -75,25 +91,4 @@
     height: 2.4em;
     padding-right: 1.5em;
   }
-
-  &__tags {
-    font-size: 0.5em;
-    color: lighten($brand-grey, 70%);
-    list-style-type: none;
-    width: 45%;
-    margin: 0 0.5em 1em 0;
-    padding: 0;
-    display: flex;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-  }
-}
-
-.tag {
-  font-size: 1.2em;
-  height: 1.6em;
-  padding: 0.2em 0.4em;
-  margin: 0.2em;
-  border-radius: 0.3em;
-  background-color: $brand-grey;
 }

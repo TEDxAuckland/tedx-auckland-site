@@ -41,17 +41,20 @@
 
 	<body>
 
-		<nav id="top" class="site-nav">
-			<div class="container site-nav__container">
-				<h1><a href="/"><img src="/assets/images/logo.png" width="279" height="51" alt="Tedx Auckland" /></a></h1>
+		<nav id="top" class="nav-bar">
+			<div class="container nav-bar__container">
+				<a class="nav-bar__brand" href="/">
+					<img class="nav-bar__image" src="/assets/images/logo.png" alt="Tedx Auckland" />
+				</a>
 
-				<ul class="nav-links">
+				<div class="nav-bar__links">
+					<ul class="nav-links">
 
-					{% for nav in site.navigation %}
+						{% for nav in site.navigation %}
 
 						{% assign active = nil %}
 						{% if page.url contains nav.url %}
-							{% assign active = 'nav-link--active' %}
+						{% assign active = 'nav-link--active' %}
 						{% endif %}
 
 						<li class="nav-link {{ active }}">
@@ -61,42 +64,48 @@
 							</a>
 						</li>
 
-					{% endfor %}
+						{% endfor %}
 
-					<!-- <li class="nav-link nav-link__button">
+					</ul>
+				</div>
+<!--
+				<div class="nav-bar__buy-tickets">
+					<li class="nav-link nav-link__button">
 						<a href="#" class="button button__nav">Buy Ticket</a>
-					</li> -->
-
-				</ul>
+					</li>
+				</div>
+-->
 			</div>
 		</nav>
 
 		{{ content }}
 
-		<footer>
-			<div class="container">
-				<div class="logos">
-					<a href="/"><img src="/assets/images/logo.png" width="279" height="51" alt="Tedx Auckland" /></a></h1>
-				</div>
+		{% include back-to-top.html %}
 
-				<ul class="social-links">
-					<li>Follow us</li>
-					<li>
+		<footer class="footer">
+			<div class="container footer__container">
+				<a class="footer__logos" href="/">
+					<img src="/assets/images/logo.png" alt="Tedx Auckland" />
+				</a>
+
+				<ul class="social">
+					<li class="social__heading">Follow us</li>
+					<li class="social__link">
 						<a href="https://www.facebook.com/TEDxAuckland/" target="_blank">
 							{% include embed/social-icon.html icon="Facebook" %}
 						</a>
 					</li>
-					<li>
+					<li class="social__link">
 						<a href="https://www.instagram.com/tedxauckland/" target="_blank">
 							{% include embed/social-icon.html icon="Instagram" %}
 						</a>
 					</li>
-					<li>
+					<li class="social__link">
 						<a href="https://twitter.com/tedxauckland" target="_blank">
 							{% include embed/social-icon.html icon="Twitter" %}
 						</a>
 					</li>
-					<li>
+					<li class="social__link">
 						<a href="https://www.youtube.com/user/TEDxAuckland" target="_blank">
 							{% include embed/social-icon.html icon="YouTube" %}
 						</a>

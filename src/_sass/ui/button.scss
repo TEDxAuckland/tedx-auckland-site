@@ -4,15 +4,15 @@
 	text-transform: uppercase;
 	border: 2px solid $brand-color;
 	background: $brand-color;
-	color: #fff;
+	color: $brand-white;
 	border-radius: 4px;
-	font-size: 1rem;
+	font-size: 1.8rem;
 	cursor: pointer;
 	text-decoration: none;
 	font-weight: 400;
 
 	&.button-outline {
-		border: 2px solid #fff;
+		border: 2px solid $brand-white;
 		background: #222;
 	}
 }
