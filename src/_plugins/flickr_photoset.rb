@@ -51,4 +51,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_filter(Jekyll::FlickrPhotoSet)
+# Liquid::Template.register_filter(Jekyll::FlickrPhotoSet)
