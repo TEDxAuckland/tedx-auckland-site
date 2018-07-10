@@ -1,0 +1,18 @@
+.event-bar {
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+
+  &__left {
+    background-color: $brand-color;
+    text-align: right;
+    flex: 1 0 30%;
+    padding: 1rem 2rem;
+  }
+
+  &__right {
+    background-color: $brand-grey-darker;
+    flex: 1 0 70%;
+    padding: 1rem 2rem;
+  }
+}

@@ -26,20 +26,21 @@ $site-width: 1200px;
 @import 'ui/back-to-top';
 
 // Sections
-@import 'sections/nav';
-@import 'sections/header';
-@import 'sections/youth-callout';
 @import 'sections/about';
-@import 'sections/talks';
-@import 'sections/speakers';
-@import 'sections/partners';
-@import 'sections/footer';
 @import 'sections/bg-image-block';
+@import 'sections/footer';
+@import 'sections/header';
+@import 'sections/nav';
+@import 'sections/partners';
+@import 'sections/speakers';
+@import 'sections/talks';
+@import 'sections/upcoming-event-bar';
+@import 'sections/youth-callout';
 
 // Pages
-@import 'pages/homepage';
-@import 'pages/talks';
-@import 'pages/events';
 @import 'pages/event';
+@import 'pages/events';
+@import 'pages/homepage';
 @import 'pages/news';
 @import 'pages/post';
+@import 'pages/talks';
