@@ -1,7 +1,7 @@
 ---
 name: Nigel Parker
 email:
-image:
+image: /uploads/nigel-parker-1.jpg
 description_markdown: >-
   Nigel Parker is chief engineer for Microsoft Asia’s Commercial Software
   Engineering. His job is to seek out solutions to hard problems. But for him,

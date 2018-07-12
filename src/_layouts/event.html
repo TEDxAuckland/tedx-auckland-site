@@ -33,7 +33,18 @@ layout: default
 	<div class="container">
 
 		<h3 class="section-heading section-heading--talks">Talks</h3>
-		{% include talks.html playlist_id = page.youtube_playlist title = "Talks" %}
+		{% include talks.html playlist_id = page.youtube_playlist %}
+
+	</div>
+</section>
+{% endif %}
+
+{% if page.other_youtube_playlist %}
+<section id="talks" class="section-bg-black">
+	<div class="container">
+
+		<h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
+		{% include talks.html playlist_id = page.other_youtube_playlist %}
 
 	</div>
 </section>

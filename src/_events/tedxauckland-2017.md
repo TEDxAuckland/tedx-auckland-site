@@ -81,7 +81,9 @@ event_partners:
   - little_bird
   - fairtrade
   - as-colour
-youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
+youtube_playlist: PLcm2pIIAwlDtn58jNUEqyRUgUuNJ8Qjdd
+other_youtube_playlist_title: "EDxMini's"
+other_youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
 ticket_url:
 ---
 
