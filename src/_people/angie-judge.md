@@ -17,7 +17,7 @@ website_url: 'https://dexibit.com/'
 medium_url:
 twitter: 'https://twitter.com/angie_dexibit'
 facebook:
-youtube_video: 'https://youtu.be/EKBKqcaHOIg'
+youtube_video: 'https://www.youtube.com/watch?v=EKBKqcaHOIg'
 github_username:
 instagram:
 ---
