@@ -22,7 +22,7 @@ website_url: 'http://www.davidrazowsky.com'
 medium_url:
 twitter: 'https://twitter.com/drazowsky'
 facebook:
-youtube_video: 'https://youtu.be/Jp2EcuMbAmY'
+youtube_video: 'https://www.youtube.com/watch?v=Jp2EcuMbAmY'
 github_username:
 instagram: 'https://www.instagram.com/drazowsky/'
 ---
