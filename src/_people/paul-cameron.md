@@ -18,7 +18,7 @@ website_url: 'https://www.booktrack.com/'
 medium_url:
 twitter: 'https://twitter.com/pccameron'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=pz9kG1aUVe0'
+youtube_video_id: 'pz9kG1aUVe0'
 github_username:
 instagram:
 ---

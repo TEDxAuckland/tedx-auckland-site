@@ -24,7 +24,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/chefmattstone?lang=en'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=56Y0TElkI90'
+youtube_video_id: '56Y0TElkI90'
 github_username:
 instagram:
 ---

@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://www.fairground.org/'
 twitter: 'https://twitter.com/nzecoman'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=A5wIBRuFAS8'
+youtube_video_id: 'A5wIBRuFAS8'
 github_username:
 instagram:
 ---

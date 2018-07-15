@@ -7,7 +7,7 @@ website_url: 'https://projeqt.com/thebloodster/blood-and-sand-title-1/l'
 medium_url:
 twitter: 'https://twitter.com/thebloodster'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

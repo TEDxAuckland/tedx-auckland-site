@@ -3,7 +3,9 @@ name: Richard Aston
 email:
 image: /uploads/richard-aston-1200x1200.jpg
 description_markdown: >-
-  *social entrepreneur / rebel / optimist*<br>Richard put his IT and business
+  *social entrepreneur* / *rebel* / *optimist*
+
+  Richard put his IT and business
   skills to good use when he bailed out of the corporate world and took over the
   reins of Big Buddy in 2002. It’s taken focus, will-power and trust to grow an
   organisation that matches male volunteers with fatherless boys.
@@ -21,7 +23,7 @@ description_markdown: >-
 website_url: 'https://www.astonkerr.co.nz/'
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=SgguRmmHbgA'
+youtube_video_id: 'SgguRmmHbgA'
 github_username:
 instagram:
 ---

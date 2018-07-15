@@ -20,7 +20,7 @@ website_url: 'http://www.medickinson.com/'
 medium_url:
 twitter: 'https://twitter.com/medickinson'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=9jV-KW1jpJo'
+youtube_video_id: '9jV-KW1jpJo'
 github_username:
 instagram:
 ---

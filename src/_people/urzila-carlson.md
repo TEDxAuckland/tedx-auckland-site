@@ -25,7 +25,7 @@ description_markdown: >-
 website_url: 'http://urzilacarlson.com/'
 twitter: 'https://twitter.com/UrzilaCarlson'
 facebook: 'https://www.facebook.com/UrzilaCarlsonComedian/'
-youtube_video: 'https://www.youtube.com/watch?v=h1fk2zFTdlI'
+youtube_video_id: 'h1fk2zFTdlI'
 github_username:
 instagram: 'https://www.instagram.com/urzilacarlson/'
 ---

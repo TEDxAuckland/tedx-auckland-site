@@ -26,7 +26,7 @@ website_url:
 medium_url: 'http://vimeo.com/jahrager'
 twitter: 'https://twitter.com/JAHRAGER'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram: 'https://www.instagram.com/jahrager/'
 ---

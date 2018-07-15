@@ -23,7 +23,7 @@ website_url: 'http://www.gibson.co.nz/'
 medium_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=bPNyP2q08ow'
+youtube_video_id: 'bPNyP2q08ow'
 github_username:
 instagram: 'https://www.instagram.com/victorianpurple/'
 ---

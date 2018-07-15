@@ -18,7 +18,7 @@ website_url:
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram: 'https://www.instagram.com/afaberfilms/'
 ---

@@ -7,7 +7,7 @@ website_url: 'https://www.lukehurley.co.nz/'
 medium_url:
 twitter:
 facebook: 'https://www.facebook.com/lukehurleymusic/'
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

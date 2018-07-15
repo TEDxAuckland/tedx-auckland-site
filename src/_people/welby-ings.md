@@ -14,7 +14,7 @@ description_markdown: >-
 website_url: 'https://www.aut.ac.nz/profiles/welby-ings'
 twitter:
 facebook: 'http://sparrowfilm.nz/'
-youtube_video: 'https://www.youtube.com/watch?v=aumxbgOdkRU'
+youtube_video_id: 'aumxbgOdkRU'
 github_username:
 instagram:
 ---

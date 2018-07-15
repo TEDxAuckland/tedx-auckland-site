@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/thecentrenz'
 facebook: 'https://www.facebook.com/thecentrenz/'
-youtube_video: 'https://www.youtube.com/watch?v=z6Iip-kl-VM'
+youtube_video_id: 'z6Iip-kl-VM'
 github_username:
 instagram:
 ---

@@ -20,7 +20,7 @@ description_markdown: >-
 website_url: 'http://www.rileyelliott.com/'
 twitter: 'https://twitter.com/rileysharks'
 facebook: 'https://www.facebook.com/rileyelliott159/'
-youtube_video: 'https://www.youtube.com/watch?v=GA8RsnezFIg'
+youtube_video_id: 'GA8RsnezFIg'
 github_username:
 instagram: 'https://www.instagram.com/thelifeofrileynz/'
 ---

@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://www.hikagroup.com/'
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=Cx2-XvdnH4Y'
+youtube_video_id: 'Cx2-XvdnH4Y'
 github_username:
 instagram:
 ---

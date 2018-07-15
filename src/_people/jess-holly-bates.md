@@ -3,7 +3,9 @@ name: Jess Holly Bates
 email:
 image: /uploads/jess-holly-bates-1200x1200.jpg
 description_markdown: >-
-  *artist* / *critic* / *auntie*<br>Jess is a theatre practitioner,
+  *artist* / *critic* / *auntie*
+
+  Jess is a theatre practitioner,
   vulnerability junkie, writer and artist, who loves to communicate cultural
   criticism through performance.
 
@@ -23,7 +25,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=Ayj4RJvEsPE'
+youtube_video_id: 'Ayj4RJvEsPE'
 github_username:
 instagram: 'https://www.instagram.com/holy.jedhi/'
 ---

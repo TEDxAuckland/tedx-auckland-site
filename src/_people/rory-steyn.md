@@ -3,7 +3,10 @@ name: Rory Steyn
 email:
 image: /uploads/rory-steyn-1200x1200.jpg
 description_markdown: >-
-  *husband / father / security expert*<br>After rising through the ranks of the
+  *husband* / *father* / *security expert*
+
+
+  After rising through the ranks of the
   South African police force, Rory was appointed to the Presidential Protection
   Unit in 1996, and was made team leader of President Nelson Mandela’s personal
   security detail, handling the protection of the former President both
@@ -20,7 +23,7 @@ description_markdown: >-
 website_url: 'http://nsa-global.com/'
 twitter: 'https://twitter.com/RorySteyn11'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=4CO7f9HHI3A'
+youtube_video_id: '4CO7f9HHI3A'
 github_username:
 instagram:
 ---

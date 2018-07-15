@@ -13,7 +13,7 @@ website_url: 'http://www.ingame.co.nz/'
 medium_url:
 twitter: 'https://twitter.com/sknightly'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

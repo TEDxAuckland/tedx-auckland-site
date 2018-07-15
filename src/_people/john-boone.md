@@ -19,7 +19,7 @@ description_markdown: >-
 website_url: 'http://rhythminteractive.co.nz/'
 twitter: 'https://twitter.com/johnnybnz'
 facebook: 'https://www.facebook.com/RhythmInteractiveLtd/'
-youtube_video: 'https://www.youtube.com/watch?v=EIk-K6JILj4'
+youtube_video_id: 'EIk-K6JILj4'
 github_username:
 instagram:
 ---

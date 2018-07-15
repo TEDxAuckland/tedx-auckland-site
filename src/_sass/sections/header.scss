@@ -5,3 +5,10 @@ header {
 	padding: 12rem 0;
 	text-shadow: 1px 1px 10px #000;
 }
+
+.header {
+	&__title {
+		transform: translateY(4rem);
+		font-size: 6rem;
+	}
+}

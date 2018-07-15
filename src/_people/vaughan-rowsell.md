@@ -3,7 +3,10 @@ name: Vaughan Rowsell
 email:
 image: /uploads/vaughan-rowsell-70.jpg
 description_markdown: >-
-  *entrepreneur* / *weirdo* / *technologist*<br>Vaughan is the Founder of Vend,
+  *entrepreneur* / *weirdo* / *technologist*
+
+
+  Vaughan is the Founder of Vend,
   a cloud based retail software for small to medium retailers worldwide. The
   Vend team hold three core values dearly in their hearts; to delight retailers,
   to do the impossible, and to take care of one another.
@@ -22,7 +25,7 @@ description_markdown: >-
 website_url: 'http://www.vaughan.ai/'
 twitter: 'https://twitter.com/nzVorn'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=lSNm12-dYWI'
+youtube_video_id: 'lSNm12-dYWI'
 github_username:
 instagram:
 ---

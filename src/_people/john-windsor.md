@@ -18,7 +18,7 @@ website_url: 'http://www.windsorsurgery.co.nz/'
 medium_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=87Re2-hkTlo'
+youtube_video_id: '87Re2-hkTlo'
 github_username:
 instagram:
 ---

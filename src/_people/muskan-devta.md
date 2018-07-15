@@ -21,7 +21,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=kl42kv_1HzI'
+youtube_video_id: 'kl42kv_1HzI'
 github_username:
 instagram:
 ---

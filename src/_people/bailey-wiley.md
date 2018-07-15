@@ -18,7 +18,7 @@ description_markdown: >-
 website_url: 'https://www.baileywiley.com/'
 twitter: 'https://twitter.com/_BaileyWiley_'
 facebook: 'https://www.facebook.com/baileymusicnz/'
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

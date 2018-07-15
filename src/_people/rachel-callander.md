@@ -30,7 +30,7 @@ description_markdown: >-
 website_url: 'http://www.rachelcallander.co/'
 twitter: 'https://twitter.com/rachelcallander'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=wUYBpsujxdw'
+youtube_video_id: 'wUYBpsujxdw'
 github_username:
 instagram:
 ---

@@ -3,7 +3,10 @@ name: Sharad Paul
 email:
 image: /uploads/sharad-paul-1200x1200.jpg
 description_markdown: >-
-  *author / doctor / social entrepreneur*<br>Dr. Sharad P. Paul is an academic
+  *author* / *doctor* / *social entrepreneur*
+
+
+  Dr. Sharad P. Paul is an academic
   specialising in skin cancer surgery, both in New Zealand and Australia. His
   Skin Surgery Clinic has one of the largest series of skin cancer patients
   worldwide, with over 100,000 consultations and 35,000 operations since the
@@ -19,7 +22,7 @@ description_markdown: >-
 website_url: 'https://www.drsharadpaul.com/'
 twitter: 'https://twitter.com/DrSharadPaul'
 facebook: 'https://www.facebook.com/drsharadpaul/'
-youtube_video: 'https://www.youtube.com/watch?v=8v0ykTrTQEc'
+youtube_video_id: '8v0ykTrTQEc'
 github_username:
 instagram:
 ---

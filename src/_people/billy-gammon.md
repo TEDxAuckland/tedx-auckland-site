@@ -7,7 +7,7 @@ website_url: 'http://www.vipescapes.com/'
 medium_url: 'https://about.me/billy.gammon'
 twitter: 'https://twitter.com/Billy_Gammon'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

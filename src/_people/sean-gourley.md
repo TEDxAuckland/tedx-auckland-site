@@ -16,7 +16,7 @@ website_url: 'http://seangourley.com/'
 medium_url:
 twitter: 'https://twitter.com/sgourley'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=mKZCa_ejbfg'
+youtube_video_id: 'mKZCa_ejbfg'
 github_username:
 instagram: 'https://www.instagram.com/sgourley/'
 ---

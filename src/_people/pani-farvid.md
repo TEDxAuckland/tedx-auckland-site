@@ -3,7 +3,10 @@ name: Pani Farvid
 email:
 image: /uploads/pani-farvid-1200x1200.jpg
 description_markdown: >-
-  *social psychologist / gender researcher / social commentator*<br>Pani is a
+  *social psychologist* / *gender researcher* / *social commentator*
+
+
+  Pani is a
   Senior Lecturer in Psychology at Auckland University of Technology. For over a
   decade, Pani has researched the intersection of gender, power, culture,
   sexuality and identity – largely focusing on how heterosexuality plays out in
@@ -19,7 +22,7 @@ description_markdown: >-
 website_url: 'https://www.aut.ac.nz/profiles/pantea-farvid'
 twitter: 'https://twitter.com/panifarvid'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=DW5YctpK7pM'
+youtube_video_id: 'DW5YctpK7pM'
 github_username:
 instagram:
 ---

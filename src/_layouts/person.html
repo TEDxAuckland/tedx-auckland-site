@@ -1,49 +1,114 @@
 ---
 layout: default
+hero_image: /assets/images/bg-upcoming-events.jpg
 ---
 
-<section>
+{% assign name = page.id | remove: "/people/" %}
+{% assign speaker_events = site.events | where_exp: "item", "item.people contains name" %}
+
+<header class="bg-image-block" style="background-image: url({{ layout.hero_image }})">
 	<div class="container">
-		<h3>{{ page.name }}</h3>
-    {{ page.description_markdown | markdownify }}
+		<h1 class="header__title">People</h1>
+	</div>
+</header>
 
-		{% if page.image %}
-			<img src="{{ page.image }}" alt="A picture of {{ page.name }}" width="300">
-		{% endif %}
+{% include upcoming-event-bar.html %}
 
-		<h4 class="has-red-stripe">Links</h4>
-		<ul>
-			{% if page.email %}
-				<li>email = {{ page.email }}</li>
+<section class="section-bg-swirl">
+
+	<div class="container">
+		<h3 class="person__title">{{ page.name }}</h3>
+	</div>
+
+	<div class="container person">
+
+		<div class="person__left">
+
+			{% if page.image %}
+			<img src="{{ page.image }}" alt="A picture of {{ page.name }}"class="person__image">
 			{% endif %}
 
-			{% if page.website_url %}
-				<li>website_url = {{ page.website_url }}</li>
-			{% endif %}
+			<ul class="social-block">
+				<li class="social-block__title">Links</li>
 
-			{% if page.medium_url %}
-				<li>website_url = {{ page.website_url }}</li>
-			{% endif %}
+				{% if page.website_url %}
+				<li class="social-block__link">
+					<a href="{{ page.website_url }}">{{ page.website_url }}</a>
+				</li>
+				{% endif %}
 
-			{% if page.twitter %}
-				<li>twitter = {{ page.twitter }}</li>
-			{% endif %}
+				{% if page.medium_url %}
+				<li class="social-block__link">
+					<a href="{{ page.medium_url }}">{{ page.medium_url }}</a>
+				</li>
+				{% endif %}
+			</ul>
 
-			{% if page.facebook %}
-				<li>facebook = {{ page.facebook }}</li>
-			{% endif %}
+			<ul class="social-block">
+				<li class="social-block__title">Social Media</li>
 
-			{% if page.google_plus %}
-				<li>google_plus = {{ page.google_plus }}</li>
-			{% endif %}
+				<ul class="social-block__icon-row">
 
-			{% if page.github_username %}
-				<li>github_username = {{ page.github_username }}</li>
-			{% endif %}
+					{% if page.twitter %}
+					<li class="social-block__icon">
+						<a href="{{ page.twitter }}" target="_blank">
+							{% include embed/social-icon.html icon="Twitter" %}
+						</a>
+					</li>
+					{% endif %}
 
-			{% if page.instagram %}
-				<li>instagram = {{ page.instagram }}</li>
-			{% endif %}
-		</ul>
+					{% if page.facebook %}
+					<li class="social-block__icon">
+						<a href="{{ page.facebook }}" target="_blank">
+							{% include embed/social-icon.html icon="Facebook" %}
+						</a>
+					</li>
+					{% endif %}
+
+					{% if page.google_plus %}
+					<li class="social-block__icon">
+						<a href="{{ page.google_plus }}" target="_blank">
+							{% include embed/social-icon.html icon="Google Plus" %}
+						</a>
+					</li>
+					{% endif %}
+
+					{% if page.github_username %}
+					<li class="social-block__icon">github_u{{ page.github_username }}</li>
+					{% endif %}
+
+					{% if page.instagram %}
+					<li class="social-block__icon">
+						<a href="{{ page.instagram }}" target="_blank">
+							{% include embed/social-icon.html icon="Instagram" %}
+						</a>
+					</li>
+					{% endif %}
+
+				</ul>
+			</ul>
+
+			<ul class="social-block">
+				<li class="social-block__title">Events</li>
+				{% for speaker_event in speaker_events %}
+				<li class="social-block__link">
+					<a href="{{ speaker_event.url }}"> {{ speaker_event.title }}</a>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+
+		<div class="person__right">
+			<div class="person-content">
+				{{ page.description_markdown | markdownify }}
+
+				<h3 class="person-content__title">Talk</h3>
+
+				<div class="person-content__video">
+					<iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				</div>
+
+			</div>
+		</div>
 	</div>
 </section>

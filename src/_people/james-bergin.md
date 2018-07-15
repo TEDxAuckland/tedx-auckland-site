@@ -3,7 +3,9 @@ name: James Bergin
 email:
 image: /uploads/james-bergin-1200x1200.jpg
 description_markdown: >-
-  *innovator* / *intrapreneur* / *dad*<br>James is the Chief Architect at ASB
+  *innovator* / *intrapreneur* / *dad*
+
+  James is the Chief Architect at ASB
   bank and father of three young children.
 
 
@@ -19,7 +21,7 @@ description_markdown: >-
 website_url: 'http://jamesbergin.com/'
 twitter: 'https://twitter.com/jamesbergin'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=s6ZFteZ61nA'
+youtube_video_id: 's6ZFteZ61nA'
 github_username:
 instagram:
 ---

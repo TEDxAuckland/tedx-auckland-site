@@ -3,7 +3,10 @@ name: Modern Māori Quartet
 email:
 image: /uploads/modern-māori-quartet-1200x1200.jpg
 description_markdown: >-
-  *māori showband / contemporary / indigenous entertainment company*<br>The
+  *māori showband* / *contemporary* / *indigenous entertainment company*
+
+
+  The
   suave crooners from the award-winning Modern Māori Quartet invite you to enjoy
   a fresh take on the classic Māori showbands of yesteryear.
 
@@ -23,7 +26,7 @@ description_markdown: >-
 website_url: 'http://modernmaoriquartet.nz/'
 twitter: 'https://twitter.com/ModernMaoriQ'
 facebook: 'https://www.facebook.com/ModernMaoriQuartet'
-youtube_video: 'https://www.youtube.com/watch?v=cQO3kPM3YRE'
+youtube_video_id: 'cQO3kPM3YRE'
 github_username:
 instagram: 'https://www.instagram.com/modernmaoriquartet/'
 ---

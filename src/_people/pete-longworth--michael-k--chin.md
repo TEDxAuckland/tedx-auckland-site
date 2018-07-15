@@ -15,7 +15,7 @@ website_url: 'https://www.theartofseeing.life/'
 medium_url: 'http://thedigitalshamans.com/'
 twitter: 'https://twitter.com/pete_longworth, https://twitter.com/tokyolovein'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

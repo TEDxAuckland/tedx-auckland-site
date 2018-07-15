@@ -14,7 +14,7 @@ website_url: 'http://www.iraqicare.org/'
 medium_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=bYNRnfKh4ns'
+youtube_video_id: 'bYNRnfKh4ns'
 github_username:
 instagram:
 ---

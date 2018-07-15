@@ -20,7 +20,7 @@ website_url: 'http://www.fisheyefilms.co.nz/'
 medium_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=fXYXHIX4P0A'
+youtube_video_id: 'fXYXHIX4P0A'
 github_username:
 instagram: 'https://www.instagram.com/peteryoung8515/'
 ---

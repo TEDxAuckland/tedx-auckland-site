@@ -13,7 +13,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook: 'https://www.facebook.com/grace.taylor.5437923/'
-youtube_video: 'https://www.youtube.com/watch?v=LivPMiYik9g'
+youtube_video_id: 'LivPMiYik9g'
 github_username:
 instagram:
 ---

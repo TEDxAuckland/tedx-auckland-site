@@ -18,7 +18,7 @@ description_markdown: >-
 website_url: 'https://goodworld.me/'
 twitter: 'https://twitter.com/DaleNIVPfeifer'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=VSwz4uaXVOc'
+youtube_video_id: 'VSwz4uaXVOc'
 github_username:
 instagram:
 ---

@@ -15,7 +15,7 @@ website_url: 'http://pattersons.com/'
 medium_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=Mu5xYDkw9ys'
+youtube_video_id: 'Mu5xYDkw9ys'
 github_username:
 instagram: 'https://www.instagram.com/pattersonassociates/'
 ---

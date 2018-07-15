@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'http://indigenousgrowth.com/'
 twitter: 'https://twitter.com/michaelmmoka'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=M9FguL2lfHo'
+youtube_video_id: 'M9FguL2lfHo'
 github_username:
 instagram:
 ---

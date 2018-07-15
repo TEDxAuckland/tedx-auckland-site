@@ -12,7 +12,7 @@ description_markdown: >-
 website_url: 'http://www.jimihunt.com/'
 twitter: 'https://twitter.com/thejimihunt'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=RTjr184H5Rs'
+youtube_video_id: 'RTjr184H5Rs'
 github_username:
 instagram:
 ---

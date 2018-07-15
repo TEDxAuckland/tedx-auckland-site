@@ -3,7 +3,9 @@ name: Barbara Breen
 email:
 image: /uploads/barbara-breen-1200x1200.jpg
 description_markdown: >-
-  *conservationist* / *geographer* / *social ecologist*<br>Barbara is a senior
+  *conservationist* / *geographer* / *social ecologist*
+
+  Barbara is a senior
   lecturer in the School of Applied Sciences at Auckland University of
   Technology and has over 20 years’ experience working in government and NGO’s.
 
@@ -22,7 +24,7 @@ description_markdown: >-
 website_url: 'https://www.aut.ac.nz/profiles/barbara-bollard-breen'
 twitter: 'https://twitter.com/BarbaraBreen1'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=irtsSSek1k8'
+youtube_video_id: 'irtsSSek1k8'
 github_username:
 instagram:
 ---

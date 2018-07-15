@@ -22,7 +22,7 @@ website_url: 'http://www.photonfactory.auckland.ac.nz/en/ABOUT/about-the-photon-
 medium_url:
 twitter: 'https://twitter.com/ptolemytortoise'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

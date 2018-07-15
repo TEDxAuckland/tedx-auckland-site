@@ -7,7 +7,7 @@ website_url: 'https://eatbigfish.com/'
 medium_url: 'https://www.linkedin.com/in/kate-smith-3a938a3/'
 twitter:
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

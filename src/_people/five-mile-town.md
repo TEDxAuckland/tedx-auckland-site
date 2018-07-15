@@ -15,7 +15,7 @@ website_url:
 medium_url:
 twitter:
 facebook: 'https://www.facebook.com/fivemiletown/'
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

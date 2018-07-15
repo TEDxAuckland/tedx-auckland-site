@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://www.sweeneyvesty.com/'
 twitter: 'http://www.nzedge.com/'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=6TfwRRJTF1o'
+youtube_video_id: '6TfwRRJTF1o'
 github_username:
 instagram:
 ---

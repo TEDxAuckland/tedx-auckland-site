@@ -36,7 +36,7 @@ description_markdown: >-
 website_url: 'https://profgrant.com/'
 twitter: 'https://twitter.com/grantsnz'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=k5piEUPgRvk'
+youtube_video_id: 'k5piEUPgRvk'
 github_username:
 instagram:
 ---

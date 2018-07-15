@@ -3,7 +3,9 @@ name: Georgia Lala
 email:
 image: /uploads/gerorgia-lala-1200x1200.jpg
 description_markdown: >-
-  *entrepreneur* / *student* / *environmentalist*<br>Georgia is trying to change
+  *entrepreneur* / *student* / *environmentalist*
+
+  Georgia is trying to change
   the way we look at sustainability. Her award winning research into the
   applications of aquaponics won her the Prime Minister’s Future Scientist
   award, and at the age of 18 she started her own business, Root Aquaponics,
@@ -19,7 +21,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=eeHsYmXQFKU'
+youtube_video_id: 'eeHsYmXQFKU'
 github_username:
 instagram:
 ---

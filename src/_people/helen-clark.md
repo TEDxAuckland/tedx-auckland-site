@@ -14,7 +14,7 @@ description_markdown: >-
 website_url: 'https://helenclarknz.com/'
 twitter: 'https://twitter.com/helenclarknz'
 facebook: 'https://www.facebook.com/helenclarknz/'
-youtube_video: 'https://www.youtube.com/watch?v=rrsBQo6GVC4'
+youtube_video_id: 'rrsBQo6GVC4'
 github_username:
 instagram:
 ---

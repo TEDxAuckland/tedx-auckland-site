@@ -22,7 +22,7 @@ description_markdown: >-
 website_url: 'https://orionhealth.com'
 twitter: 'https://twitter.com/ianmccrae'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=Q48dXVTC03o'
+youtube_video_id: 'Q48dXVTC03o'
 github_username:
 instagram:
 ---

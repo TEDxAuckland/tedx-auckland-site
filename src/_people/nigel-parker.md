@@ -17,7 +17,7 @@ website_url:
 medium_url: 'https://medium.com/@nzigel'
 twitter: 'https://twitter.com/nzigel'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

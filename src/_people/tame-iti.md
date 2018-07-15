@@ -3,7 +3,10 @@ name: Tame Iti
 email:
 image: /uploads/tame-iti-60.jpg
 description_markdown: >-
-  Tame Iti (Ngai Tuhoe / Waikato / Te Arawa)<br>Tame Iti is known as many
+  Tame Iti (Ngai Tuhoe / Waikato / Te Arawa)
+
+
+  Tame Iti is known as many
   things… Activist, Artist, Terrorist and Cyclist. Literally wearing his Tuhoe
   heritage on his face, Iti is hard to miss in a crowd despite being just 5ft 4″
   tall. His 40 year history of controversial and theatrical displays of
@@ -19,7 +22,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/tameiti'
 facebook: 'https://www.facebook.com/wairere.t.iti/'
-youtube_video: 'https://www.youtube.com/watch?v=qeK3SkxrZRI'
+youtube_video_id: 'qeK3SkxrZRI'
 github_username:
 instagram:
 ---

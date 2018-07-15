@@ -3,7 +3,9 @@ name: Matt Shirtcliffe
 email:
 image: /uploads/matt-shirtcliffe-1200x1200.jpg
 description_markdown: >-
-  *mental wellness advocate / creative director*<br>Father of two teens, awarded
+  *mental wellness advocate* / *creative director*
+
+  Father of two teens, awarded
   advertising creative director, ad agency owner, mountain runner, farm owner,
   poet, Christian. Matt was living a full and rewarding life last year when it
   profoundly changed last year. His wife of 17 years Mary, a farmer, died of
@@ -17,7 +19,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=7GVEqegzx44'
+youtube_video_id: '7GVEqegzx44'
 github_username:
 instagram:
 ---

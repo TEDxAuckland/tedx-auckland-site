@@ -3,7 +3,10 @@ name: Samuel Gibson
 email:
 image: /uploads/samuel-gibson-1200x1200.jpg
 description_markdown: >-
-  *adventurer* / *entrepreneur* / *wheelchair designer*<br>Born with a rare
+  *adventurer* / *entrepreneur* / *wheelchair designer*
+
+
+  Born with a rare
   condition called Osteogenesis Imperfecta and has broken nearly every bone in
   his body.
 
@@ -22,7 +25,7 @@ description_markdown: >-
 website_url: 'http://www.samuelgibson.co.nz/'
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=7nokY97BRS4'
+youtube_video_id: '7nokY97BRS4'
 github_username:
 instagram:
 ---

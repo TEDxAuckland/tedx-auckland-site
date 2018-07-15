@@ -7,7 +7,7 @@ website_url: 'http://onebeep.org/'
 medium_url:
 twitter: 'https://twitter.com/VinnyLohan'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

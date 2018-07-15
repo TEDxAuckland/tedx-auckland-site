@@ -15,7 +15,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/Cre8vMaori'
 facebook: 'https://www.facebook.com/TheRootsCreativeEntrepreneurs/'
-youtube_video: 'https://www.youtube.com/watch?v=ulo9jUJD38c'
+youtube_video_id: 'ulo9jUJD38c'
 github_username:
 instagram:
 ---

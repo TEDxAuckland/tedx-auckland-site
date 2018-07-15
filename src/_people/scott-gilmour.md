@@ -23,7 +23,7 @@ website_url: 'https://www.ihaveadream.org.nz/'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

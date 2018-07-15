@@ -16,7 +16,7 @@ description_markdown: >-
 website_url: 'http://lukenola.com/'
 twitter: 'https://twitter.com/gooberbrother'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=4O3n6yOYWAo'
+youtube_video_id: '4O3n6yOYWAo'
 github_username:
 instagram:
 ---

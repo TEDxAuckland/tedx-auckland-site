@@ -3,7 +3,9 @@ name: David Harvey
 email:
 image: /uploads/david-harvey-1200x1200.jpg
 description_markdown: >-
-  *lawyer / teacher / writer*<br>David is a District Court Judge, an educator
+  *lawyer / teacher / writer*
+
+  David is a District Court Judge, an educator
   and an award winning academic on legal and information communications
   technology matters.
 
@@ -22,7 +24,7 @@ description_markdown: >-
 website_url: 'https://theitcountreyjustice.wordpress.com/'
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=FxSra_n9oeE'
+youtube_video_id: 'FxSra_n9oeE'
 github_username:
 instagram:
 ---

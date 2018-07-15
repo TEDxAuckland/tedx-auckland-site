@@ -19,7 +19,7 @@ website_url: 'https://www.ehf.org/'
 medium_url:
 twitter: 'https://twitter.com/yosephayele'
 facebook: 'https://www.facebook.com/edmundhillaryfellowship'
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

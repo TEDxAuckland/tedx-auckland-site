@@ -7,7 +7,7 @@ website_url: 'http://www.robinkelly.co.nz/'
 medium_url:
 twitter: 'https://twitter.com/RobinJLKelly'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

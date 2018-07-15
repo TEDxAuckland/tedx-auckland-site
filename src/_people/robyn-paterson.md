@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://www.robynpaterson.co.nz/'
 twitter: 'https://twitter.com/robynpaterson'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=2vFWQSXVYVk'
+youtube_video_id: '2vFWQSXVYVk'
 github_username:
 instagram:
 ---

@@ -24,7 +24,7 @@ website_url: 'https://www.medicinemondiale.org/'
 medium_url:
 twitter: 'https://twitter.com/RayAvery'
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

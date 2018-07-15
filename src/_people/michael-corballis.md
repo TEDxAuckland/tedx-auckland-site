@@ -21,7 +21,7 @@ website_url: 'http://www.michaelcorballis.com/'
 medium_url:
 twitter:
 facebook:
-youtube_video:
+youtube_video_id:
 github_username:
 instagram:
 ---

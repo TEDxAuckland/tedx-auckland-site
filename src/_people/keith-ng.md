@@ -3,7 +3,9 @@ name: Keith Ng
 email:
 image: /uploads/keith-ng-1200x1200.jpg
 description_markdown: >-
-  *data nerd / journalist*<br>As a young man, Keith dreamed of being a
+  *data nerd* / *journalist*
+
+  As a young man, Keith dreamed of being a
   hobo-journalist - seeing the world and telling stories while living out of a
   sack. But what started out as a naive warzone adventure turned into lifelong
   vendetta and alternative funding model for independent journalism.
@@ -18,7 +20,7 @@ description_markdown: >-
 website_url:
 twitter: 'https://twitter.com/keith_ng'
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=eRIV-k4Tbz8'
+youtube_video_id: 'eRIV-k4Tbz8'
 github_username:
 instagram:
 ---

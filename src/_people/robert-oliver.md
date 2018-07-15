@@ -13,7 +13,7 @@ description_markdown: >-
 website_url: 'http://robertoliveronline.com/'
 twitter: 'https://twitter.com/RobertOliverNZ'
 facebook: 'https://www.facebook.com/RobertOliverChef/'
-youtube_video: 'https://www.youtube.com/watch?v=orfB1UkoKdQ'
+youtube_video_id: 'orfB1UkoKdQ'
 github_username:
 instagram: 'https://www.instagram.com/robertolivernz/'
 ---

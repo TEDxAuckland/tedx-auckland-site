@@ -3,7 +3,10 @@ name: Richard Little
 email:
 image: /uploads/richard-little-1200x1200.jpg
 description_markdown: >-
-  *entrepreneur / inventor / dreamer*<br>Richard is a multi-award winning
+  *entrepreneur* / *inventor* / *dreamer*
+
+
+  Richard is a multi-award winning
   inventor and engineer with over 30 patents to his name, in the past Richard
   has held a range of Directorships, C level and other senior positions in a
   range of engineering, military and medical businesses.
@@ -20,7 +23,7 @@ description_markdown: >-
 website_url: 'https://www.rexbionics.com/'
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=WPbpGhSILqk'
+youtube_video_id: 'WPbpGhSILqk'
 github_username:
 instagram:
 ---

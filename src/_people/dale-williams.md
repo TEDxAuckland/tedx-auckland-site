@@ -13,7 +13,7 @@ description_markdown: >-
 website_url:
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=ib-raWy_TXI'
+youtube_video_id: 'ib-raWy_TXI'
 github_username:
 instagram:
 ---

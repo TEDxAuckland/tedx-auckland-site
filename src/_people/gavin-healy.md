@@ -24,7 +24,7 @@ description_markdown: >-
 website_url: 'https://futurecentreddesign.com/'
 twitter:
 facebook:
-youtube_video: 'https://www.youtube.com/watch?v=ZKc5OUs7pJE'
+youtube_video_id: 'ZKc5OUs7pJE'
 github_username:
 instagram:
 ---
