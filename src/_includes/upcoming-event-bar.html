@@ -1,8 +1,10 @@
-<div class="event-bar">
-	<div class="event-bar__left">
-		#TEDxYouthAuckland18
+{% if site.data.upcoming_event.display_upcoming_event_bar %}
+	<div class="event-bar">
+		<div class="event-bar__left">
+			{{ site.data.upcoming_event.event_bar_left }}
+		</div>
+		<div class="event-bar__right">
+			{{ site.data.upcoming_event.event_bar_right }}
+		</div>
 	</div>
-	<div class="event-bar__right">
-		Upcoming event TEDxYouth @ Auckland 2018 | Friday May 4th, 2018 | Aotea Square
-	</div>
-</div>
+{% endif %}

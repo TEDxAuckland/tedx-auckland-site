@@ -2,17 +2,24 @@
   display: flex;
   font-size: 1.6rem;
   font-weight: 700;
+  flex-wrap: wrap;
 
   &__left {
     background-color: $brand-color;
     text-align: right;
-    flex: 1 0 30%;
+    flex: 0 1 30%;
     padding: 1rem 2rem;
+    box-sizing: border-box;
+    @include respond(tab-land) { flex: 0 1 20%; }
+    @include respond(tab-port) {
+      flex: 1 0 100%;
+      text-align: left;
+    }
   }
 
   &__right {
     background-color: $brand-grey-darker;
-    flex: 1 0 70%;
+    flex: 1 0;
     padding: 1rem 2rem;
   }
 }
