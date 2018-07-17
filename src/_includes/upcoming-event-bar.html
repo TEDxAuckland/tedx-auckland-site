@@ -1,10 +1,14 @@
-{% if site.data.upcoming_event.display_upcoming_event_bar %}
+{% assign event_bar = site.data.site_settings.upcoming_event_bar %}
+
+{% if event_bar.event_short_title %}
+	{% assign event = site.events | where_exp: "e", "e.short_title == event_bar.event_short_title" | first %}
+
 	<div class="event-bar">
 		<div class="event-bar__left">
-			{{ site.data.upcoming_event.event_bar_left }}
+			{{ event.title }}
 		</div>
 		<div class="event-bar__right">
-			{{ site.data.upcoming_event.event_bar_right }}
+			{{ event_bar.right_side }}
 		</div>
 	</div>
 {% endif %}
