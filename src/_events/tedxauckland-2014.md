@@ -1,6 +1,7 @@
 ---
 title: TEDxAuckland 2014
 short_title: 2014
+upcoming: false
 hero_image:
 badge_image:
 tagline: Ascending
@@ -34,6 +35,8 @@ major_partners:
 supporting_partners:
 event_partners:
 youtube_playlist: 'PLcm2pIIAwlDuTR1f_L4RvqDinFjibiqDc'
+other_youtube_playlist_title:
+other_youtube_playlist:
 ticket_url:
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: TEDxAuckland 2017
 short_title: 2017
+upcoming: false
 hero_image: /uploads/tedxakl-2017-banner-fw.png
 badge_image:
 tagline:

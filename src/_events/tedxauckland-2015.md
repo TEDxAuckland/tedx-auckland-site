@@ -1,6 +1,7 @@
 ---
 title: TEDxAuckland 2015
 short_title: 2015
+upcoming: false
 hero_image: /uploads/2015banner2.png
 badge_image:
 tagline:
@@ -31,6 +32,8 @@ major_partners:
 supporting_partners:
 event_partners:
 youtube_playlist: 'PLcm2pIIAwlDvRoXJiHdo6KFJXMHPWzzrd'
+other_youtube_playlist_title:
+other_youtube_playlist:
 ticket_url:
 ---
 

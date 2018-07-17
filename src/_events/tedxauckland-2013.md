@@ -1,6 +1,7 @@
 ---
 title: TEDxAuckland 2013
 short_title: 2013
+upcoming: false
 hero_image: /uploads/20130803-tedx-georgias-high-77.jpg
 badge_image:
 tagline: convergemerge
@@ -32,6 +33,8 @@ major_partners:
 supporting_partners:
 event_partners:
 youtube_playlist: 'PLcm2pIIAwlDsT31BlI19NifrQ9GDUwUuT'
+other_youtube_playlist_title:
+other_youtube_playlist:
 ticket_url:
 ---
 

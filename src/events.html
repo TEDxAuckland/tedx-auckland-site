@@ -2,37 +2,40 @@
 layout: default
 hero_image: /assets/images/bg-upcoming-events.jpg
 ---
+{% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
+{% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
 
 <header class="bg-image-block" style="background-image: url({{ page.hero_image }})">
 </header>
 
 <section class="section-bg-grey">
-  {% assign sorted_events = site.events | sort: 'start_date' | reverse %}
-  {% assign upcoming_event = sorted_events[0] %}
   <div class="container events-summary">
     <h3 class="events-summary__heading">events</h3>
-
 
     <div class="events-summary__upcoming">
       <h4>upcoming <br> events</h4>
 
-      <!-- <a href="{{ upcoming_event.url }}" class="event-info-link">
-        <div class="event-info">
-          <div class="event-info__top">
-            {{ upcoming_event.title }}
+      {% for event in upcoming_events %}
+
+        <a href="{{ event.url }}" class="event-info-link">
+          <div class="event-info">
+            <div class="event-info__top">
+              {{ event.title }}
+            </div>
+            <div class="event-info__bottom">
+              {{ event.start_date | date: "%-d %b %Y" }}
+            </div>
           </div>
-          <div class="event-info__bottom">
-            {{ upcoming_event.start_date | date: "%-d %b %Y" }}
-          </div>
-        </div>
-      </a> -->
+        </a>
+
+      {% endfor %}
 
     </div>
 
     <div class="events-summary__past">
       <h4>past <br> events</h4>
 
-      {% for event in sorted_events limit: 3 %}
+      {% for event in past_events limit: 3 %}
 
         <a href="{{ event.url }}" class="event-info-link">
           <div class="event-info">

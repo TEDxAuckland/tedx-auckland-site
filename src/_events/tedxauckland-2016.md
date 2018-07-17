@@ -1,6 +1,7 @@
 ---
 title: TEDxAuckland 2016
 short_title: 2016
+upcoming: false
 tagline: flipside
 hero_image: /uploads/flipside-banner.jpg
 badge_image:
@@ -40,6 +41,8 @@ major_partners:
 supporting_partners:
 event_partners:
 youtube_playlist: PLcm2pIIAwlDvHTuiHHEln6B809w-3wV2V
+other_youtube_playlist_title:
+other_youtube_playlist:
 ticket_url:
 ---
 

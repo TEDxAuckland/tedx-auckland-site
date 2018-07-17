@@ -1,6 +1,7 @@
 ---
 title: TEDxAuckland 2010
 short_title: 2010
+upcoming: false
 hero_image:
 badge_image:
 tagline: Ideas Worth Doing
@@ -14,6 +15,8 @@ major_partners:
 supporting_partners:
 event_partners:
 youtube_playlist: 'PLcm2pIIAwlDt91h9DBqsgz7F6y7Q5kW7Y'
+other_youtube_playlist_title:
+other_youtube_playlist:
 ticket_url:
 ---
 

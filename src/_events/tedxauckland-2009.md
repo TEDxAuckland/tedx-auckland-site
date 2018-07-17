@@ -1,6 +1,7 @@
 ---
 title: TEDxAuckland 2009
 short_title: 2009
+upcoming: false
 hero_image:
 badge_image:
 tagline:
@@ -14,6 +15,8 @@ major_partners:
 supporting_partners:
 event_partners:
 youtube_playlist: 'PLDA6216FD76A6083C'
+other_youtube_playlist_title:
+other_youtube_playlist:
 ticket_url:
 ---
 

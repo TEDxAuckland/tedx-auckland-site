@@ -1,6 +1,7 @@
 ---
 title: TedX Auckland
 short_title: 2018
+upcoming: true
 hero_image:
 badge_image:
 tagline:
@@ -17,6 +18,8 @@ supporting_partners:
 event_partners:
   -
 youtube_playlist:
+other_youtube_playlist_title:
+other_youtube_playlist:
 ticket_url: https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0
 ---
 
