@@ -4,11 +4,12 @@ short_title: 2018
 upcoming: true
 hero_image:
 badge_image:
-tagline:
-start_date: 2018-10-01 00:00:00 +1300
+tagline: Off Piste
+start_date: 2018-10-14 00:00:00 +1300
 end_date:
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 people:
+  - alistair-knott
 flikr_galleries:
   -
 major_partners:
