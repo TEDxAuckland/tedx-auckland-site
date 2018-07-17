@@ -4,7 +4,7 @@ short_title: 2018
 hero_image:
 badge_image:
 tagline:
-start_date:
+start_date: 2018-10-01 00:00:00 +1300
 end_date:
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 people:
