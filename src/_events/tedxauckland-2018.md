@@ -9,7 +9,6 @@ start_date: 2018-10-14 00:00:00 +1300
 end_date:
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 people:
-  - alistair-knott
 flikr_galleries:
   -
 major_partners:
