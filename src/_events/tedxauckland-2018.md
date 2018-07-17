@@ -14,7 +14,7 @@ major_partners:
 supporting_partners:
 event_partners:
 youtube_playlist:
-ticket_url: 'https://www.universe.com/events/tedxyouth-auckland-tickets-auckland-C4ZGY0'
+ticket_url:
 ---
 
 Enter your description here…
