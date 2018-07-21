@@ -27,7 +27,7 @@ website_url: 'http://www.criticaldesign.nz/'
 medium_url:
 twitter: 'https://twitter.com/criticalnz'
 facebook: 'https://www.facebook.com/CriticalDesignNZ/'
-youtube_video_id:
+youtube_video_id: 'g_fFi7vFrHA'
 github_username:
 instagram: 'https://www.instagram.com/criticalnz/'
 ---

@@ -18,7 +18,7 @@ website_url: www.goat.ventures
 medium_url:
 twitter:
 facebook:
-youtube_video_id:
+youtube_video_id: 'vGXmicYX5z0'
 github_username:
 instagram:
 ---
