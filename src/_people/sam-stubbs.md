@@ -16,7 +16,7 @@ website_url: 'http://simplicity.kiwi/'
 medium_url:
 twitter:
 facebook:
-youtube_video_id:
+youtube_video_id: 'GRm_5BYcFe8'
 github_username:
 instagram:
 ---
