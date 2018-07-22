@@ -1,0 +1,10 @@
+{% assign speaker_events = include.speaker_events %}
+
+<ul class="social-block">
+	<li class="social-block__title">Events</li>
+	{% for speaker_event in speaker_events %}
+	<li class="social-block__link">
+		<a href="{{ speaker_event.url }}"> {{ speaker_event.title }}</a>
+	</li>
+	{% endfor %}
+</ul>

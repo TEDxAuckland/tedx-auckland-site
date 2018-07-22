@@ -1,0 +1,45 @@
+{% assign person = include.person %}
+
+<ul class="social-block">
+	<li class="social-block__title">Social Media</li>
+
+	<ul class="social-block__icon-row">
+
+		{% if person.twitter %}
+		<li class="social-block__icon">
+			<a href="{{ person.twitter }}" target="_blank">
+				{% include embed/social-icon.html icon="Twitter" %}
+			</a>
+		</li>
+		{% endif %}
+
+		{% if person.facebook %}
+		<li class="social-block__icon">
+			<a href="{{ person.facebook }}" target="_blank">
+				{% include embed/social-icon.html icon="Facebook" %}
+			</a>
+		</li>
+		{% endif %}
+
+		{% if person.google_plus %}
+		<li class="social-block__icon">
+			<a href="{{ person.google_plus }}" target="_blank">
+				{% include embed/social-icon.html icon="Google Plus" %}
+			</a>
+		</li>
+		{% endif %}
+
+		{% if person.github_username %}
+		<li class="social-block__icon">github_u{{ person.github_username }}</li>
+		{% endif %}
+
+		{% if person.instagram %}
+		<li class="social-block__icon">
+			<a href="{{ person.instagram }}" target="_blank">
+				{% include embed/social-icon.html icon="Instagram" %}
+			</a>
+		</li>
+		{% endif %}
+
+	</ul>
+</ul>
