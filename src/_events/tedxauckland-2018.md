@@ -2,7 +2,7 @@
 title: TEDxAuckland 2018
 short_title: 2018
 upcoming: true
-hero_image:
+hero_image: /uploads/tedx-auckland-2018-banner.png
 badge_image:
 tagline: Off Piste
 start_date: 2018-10-14 00:00:00 +1300
@@ -22,8 +22,8 @@ ticket_url:
 
 In 2018, TEDxAuckland's annual festival of ideas is returning to Shed 10 on October 13th. This year will see speakers from New Zealand and around the globe come together for a day of inspiration and connection in the heart of Auckland City.
 
-Off-Piste:
-Adjective, adverb.
+Off-Piste:Adjective, adverb.
+
 1. Away from prepared ski runs
 2. So as to deviate from what is conventional, usual, or expected
 3. An unsupervised, ungroomed, and unmarked area
