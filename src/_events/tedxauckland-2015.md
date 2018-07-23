@@ -36,5 +36,3 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 ---
-
-Enter your description here…

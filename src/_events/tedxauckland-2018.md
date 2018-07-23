@@ -20,4 +20,14 @@ other_youtube_playlist:
 ticket_url:
 ---
 
-Enter your description here…
+In 2018, TEDxAuckland's annual festival of ideas is returning to Shed 10 on October 13th. This year will see speakers from New Zealand and around the globe come together for a day of inspiration and connection in the heart of Auckland City.
+
+Off-Piste:
+Adjective, adverb.
+1. Away from prepared ski runs
+2. So as to deviate from what is conventional, usual, or expected
+3. An unsupervised, ungroomed, and unmarked area
+
+Speakers, performers, food vendors, and event details to be announced in the coming weeks.
+
+Early Bird Tickets available August 1st.

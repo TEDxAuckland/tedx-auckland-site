@@ -6,27 +6,18 @@ layout: default
 	<img src="{{ page.hero_image }}" class="event-hero__img" alt="">
 </header>
 
-<section id="more">
+{% assign page_content = page.content | strip_newlines %}
+{% if page_content %}
+<section id="more" class="section-bg-white">
 	<div class="container">
 
 		<div class="event-content">
-			{{ content }}
+			{{ page.content }}
 		</div>
 
 	</div>
 </section>
-
-<!-- <section id="gallery">
-	<div class="container">
-		<h3 class="section-heading">Gallery</h3>
-
-		<ul>
-			{% for flikr_gallery in page.flikr_galleries %}
-			<li>{{ flikr_gallery }}</li>
-			{% endfor %}
-		</ul>
-	</div>
-</section> -->
+{% endif %}
 
 {% if page.youtube_playlist %}
 <section id="talks" class="section-bg-black">
@@ -105,7 +96,7 @@ layout: default
 </section>
 {% endif %}
 
-
+{% if page.people %}
 <section id="speakers" class="section-bg-swirl">
 	<div class="container">
 		<h3 class="section-heading section-heading--speakers">speakers</h3>
@@ -113,7 +104,9 @@ layout: default
 		{% include speakers.html speakers = page.people %}
 	</div>
 </section>
+{% endif %}
 
+{% if page.flikr_galleries.first %}
 <section>
 	<div class="container">
 		<h3 class="section-heading section-heading--flickr">flickr</h3>
@@ -121,3 +114,4 @@ layout: default
 		{% include flickr.html galleries = page.flikr_galleries %}
 	</div>
 </section>
+{% endif %}
