@@ -1,0 +1,19 @@
+[
+	{% for person in site.people %}
+	{
+		"id": "{{ person.id | remove: "/people/" }}",
+		"url": "{{ person.url }}",
+		"image": "{{ person.image }}",
+		"name": "{{ person.name }}",
+		"youtube_video_id": "{{ person.youtube_video_id }}",
+		"description_markdown": {{ person.description_markdown | jsonify }},
+		"website_url": "{{ person.website_url }}",
+		"medium_url": "{{ person.medium_url }}",
+		"twitter": "{{ person.twitter }}",
+		"facebook": "{{ person.facebook }}",
+		"google_plus": "{{ person.google_plus }}",
+		"github_username": "{{ person.github_username }}",
+		"instagram": "{{ person.instagram }}"
+	}{% if forloop.last != true %},{% endif %}
+	{% endfor %}
+]

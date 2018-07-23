@@ -27,11 +27,14 @@
     color: inherit;
   }
 
-  &:hover {
+  &:hover,
+  &--active {
     filter: grayscale(0%);
+    border-bottom: none;
   }
 
-  &:hover &__caption {
+  &:hover &__caption,
+  &--active &__caption {
     background-color: $brand-color;
   }
 
@@ -55,4 +58,79 @@
     display: flex;
     align-items: center;
   }
+}
+
+.expanded-preview {
+  display: flex;
+  align-items: center;
+  padding: 6rem 0;
+  max-width: $site-width;
+  flex-flow: row wrap;
+
+  &__background {
+    flex: 1 0 100vw;
+    background-color: $brand-grey-darker;
+    display: flex;
+    border-top: 5px solid $brand-color;
+    justify-content: center;
+
+    &__wrapper {
+      flex: 1 100%;
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+  &__video {
+    flex: 1 0 50%;
+    position: relative;
+    padding-bottom: 26%;
+    padding-top: 2.5rem;
+    height: 0;
+
+    @include respond(tab-small) {
+      flex: 1 1 100%;
+      margin: 0rem 10rem 4rem 10rem;
+      padding-bottom: 40%;
+    }
+
+    @include respond(phone) {
+      margin: 0rem 3rem 2rem 3rem;
+    }
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  &__content {
+    flex: 1 0 50%;
+    padding: 0 6rem;
+    box-sizing: border-box;
+
+    @include respond(tab-small) {
+      flex: 1 0 100%;
+      padding: 0 8rem;
+    }
+
+    @include respond(phone) {
+      padding: 0 4rem;
+    }
+  }
+
+  &__social {
+    display: flex;
+
+    &>:not(:first-child) {
+      margin-left: 4rem;
+    }
+  }
+}
+
+.xp-content {
+  font-size: 1.6rem;
 }
