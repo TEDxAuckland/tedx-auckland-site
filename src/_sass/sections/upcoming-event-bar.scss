@@ -1,8 +1,18 @@
 .event-bar {
-  display: flex;
-  font-size: 1.6rem;
-  font-weight: 700;
-  flex-wrap: wrap;
+  background-color: #000;
+
+  &__link {
+    display: flex;
+    font-size: 1.6rem;
+    font-weight: 700;
+    flex-wrap: wrap;
+    color: inherit;
+    transition: all .2s;
+
+    &:hover {
+      transform: translateY(-1rem);
+    }
+  }
 
   &__left {
     background-color: $brand-color;
