@@ -1,7 +1,7 @@
 .event-hero {
   padding: 0;
   background: none;
-  max-height: 66rem;
+  max-height: 72rem;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -12,12 +12,14 @@
 }
 
 .event-content {
-  padding: 0 3.6rem;
+  padding: 1rem 3.6rem;
   line-height: 1.6;
+  background-color: $brand-white;
+  color: #000;
 
   h1, h2, h3, h4, h5 {
     line-height: 1;
-    margin: 0.5em 2em 0.5em 0;
+    margin: 3rem 0;
   }
 
   h1 {

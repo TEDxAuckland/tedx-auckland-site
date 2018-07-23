@@ -7,8 +7,9 @@ layout: default
 </header>
 
 {% assign page_content = page.content | strip_newlines %}
-{% if page_content %}
-<section id="more" class="section-bg-white">
+{% if page_content != "" %}
+<section id="more">
+	<!-- <div class="container section-bg-white"> -->
 	<div class="container">
 
 		<div class="event-content">

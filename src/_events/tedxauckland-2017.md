@@ -88,13 +88,15 @@ other_youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
 ticket_url:
 ---
 
+# TEDxAuckland 2017
+
 This year we’re back at the Aotea Centre for our 2nd multi-day festival. Join us for 21 talks from local and international speakers, food, fun and partner activations.
 
 TEDxAuckland is an Ideas Festival. Get ready to be inspired and challenged by local and international people changing the world with their unique ideas, and in the breaks get chatting to the equally incredible attendees around you!
 
 Food and drink during the event is included in your Multi-Day Pass and on Saturday evening, once the talks are done, another experience awaits VIP ticket holders.
 
-**The Program**
+#### The Program
 
 The Festival opens at 3pm Friday for registrations and activations. The first talks start at 5.00pm through to 7pm.
 
