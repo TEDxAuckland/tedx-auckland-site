@@ -5,6 +5,7 @@ image: /uploads/david-harvey-1200x1200.jpg
 description_markdown: >-
   *lawyer / teacher / writer*
 
+
   David is a District Court Judge, an educator
   and an award winning academic on legal and information communications
   technology matters.

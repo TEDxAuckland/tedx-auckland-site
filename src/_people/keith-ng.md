@@ -5,6 +5,7 @@ image: /uploads/keith-ng-1200x1200.jpg
 description_markdown: >-
   *data nerd* / *journalist*
 
+
   As a young man, Keith dreamed of being a
   hobo-journalist - seeing the world and telling stories while living out of a
   sack. But what started out as a naive warzone adventure turned into lifelong

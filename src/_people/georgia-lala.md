@@ -5,6 +5,7 @@ image: /uploads/gerorgia-lala-1200x1200.jpg
 description_markdown: >-
   *entrepreneur* / *student* / *environmentalist*
 
+
   Georgia is trying to change
   the way we look at sustainability. Her award winning research into the
   applications of aquaponics won her the Prime Minister’s Future Scientist

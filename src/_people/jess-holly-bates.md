@@ -5,6 +5,7 @@ image: /uploads/jess-holly-bates-1200x1200.jpg
 description_markdown: >-
   *artist* / *critic* / *auntie*
 
+
   Jess is a theatre practitioner,
   vulnerability junkie, writer and artist, who loves to communicate cultural
   criticism through performance.
