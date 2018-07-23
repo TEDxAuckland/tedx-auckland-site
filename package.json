@@ -4,7 +4,8 @@
   "description": "TEDxAuckland site built in Jekyll & CloudCannon",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "import:vue": "cp node_modules/vue/dist/vue.js src/assets/js/vendor/ && cp node_modules/vue/dist/vue.min.js src/assets/js/vendor/"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,10 @@
   },
   "homepage": "https://github.com/TEDxAuckland/tedx-auckland-site#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "cloudcannon-suite": "git+ssh://git@github.com/CloudCannon/cloudcannon-suite.git"
+    "cloudcannon-suite": "git+ssh://git@github.com/CloudCannon/cloudcannon-suite.git",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
   }
 }

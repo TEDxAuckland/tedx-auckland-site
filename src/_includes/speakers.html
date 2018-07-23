@@ -1,8 +1,9 @@
-
-<!-- <div class="speakers">
+{% comment %}
 <div class="speakers">
-  {% for speaker_name in include.speakers %}
-  {% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
+
+	{% for speaker_name in include.speakers %}
+	{% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
+
   {% assign speaker_image = speaker.image | remove_first: "/"  %}
 
     <div class="speaker-card">
@@ -19,59 +20,16 @@
           {{ speaker.name  }}
         </div>
       </a>
-    </div>
-
-  {% endfor %}
-
-	{% for speaker_name in include.speakers %}
-	{% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
-
-		<div class="speaker-card {% if forloop.index <= 4 %} before-preview {% endif %}">
-			<a href="{{ speaker.url }}" class="speaker-card__link">
-				<img class="speaker-card__image" src="{{ speaker.image }}" alt="picture of {{ speaker.name }}">
-				<div class="speaker-card__caption">
-					{{ speaker.name }}
-				</div>
-			</a>
 		</div>
-
-		{% if speaker.id == "/people/anna-coddington" %}
-		<div class="expanded-preview__container__wrapper">
-			<div class="expanded-preview__background">
-				<div class="expanded-preview">
-					<div class="expanded-preview__video">
-						{% if speaker.youtube_video_id %}
-						<iframe src="https://www.youtube-nocookie.com/embed/{{ speaker.youtube_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-						{% endif %}
-					</div>
-					<div class="expanded-preview__content">
-						<h1 class="person__title">{{ speaker.name }}</h1>
-						<div class="xp-content">
-							{{ speaker.description_markdown | markdownify }}
-						</div>
-
-						<div class="expanded-preview__social">
-
-							{% include social-block--links.html person = speaker %}
-							{% include social-block--icons.html person = speaker %}
-
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		{% endif %}
-
 	{% endfor %}
-</div> -->
+</div>
+{% endcomment %}
 
 <div class="speakers">
 
 	{% raw %}
-	<div id="app">
+	<div id="speakers">
 	  <speakers :speaker-names="speakerNames" :speaker-json="speakerJSON"></speakers>
-
-		<hello-world></hello-world>
 	</div>
 	{% endraw %}
 
@@ -84,7 +42,7 @@
 			speakerNames: speakerNames,
 			speakerJSON: speakerJSON,
 		}
-	}).$mount('#app')
+	}).$mount('#speakers')
 	</script>
 
 </div>

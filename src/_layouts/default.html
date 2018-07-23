@@ -38,7 +38,11 @@
 			</script>
 		{% endif %}
 
-		<script src="https://unpkg.com/vue"></script>
+		{% if jekyll.environment == "development" %}
+      <script src="/assets/js/vendor/vue.js"></script>
+    {% else %}
+      <script src="/assets/js/vendor/vue.min.js"></script>
+    {% endif %}
 		<script src="/assets/js/ted-x-components.umd.min.js"></script>
 
 	</head>
