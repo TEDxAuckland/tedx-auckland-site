@@ -25,7 +25,7 @@ website_url: 'http://www.chenpalmer.com/'
 medium_url:
 twitter: 'https://twitter.com/maichennz'
 facebook:
-youtube_video_id:
+youtube_video_id: 'yku9P9luZh4'
 github_username:
 instagram:
 ---
