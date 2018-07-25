@@ -27,9 +27,9 @@ In 2018, TEDxAuckland's annual festival of ideas is returning to **Shed 10** on 
 
 #### Off-Piste: Adjective, adverb.
 
-1. Away from prepared ski runs
-2. So as to deviate from what is conventional, usual, or expected
-3. An unsupervised, ungroomed, and unmarked area
+1. Away from prepared ski runs.
+2. So as to deviate from what is conventional, usual, or expected.
+3. An unsupervised, ungroomed, and unmarked area.
 
 Speakers, performers, food vendors, and event details to be announced here and on [facebook](https://www.facebook.com/events/629283860774532){: target="_blank"} in the coming weeks.
 
