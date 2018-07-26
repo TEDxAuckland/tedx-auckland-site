@@ -4,3 +4,4 @@ _site
 dist
 reports
 node_modules
+vendor
