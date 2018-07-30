@@ -19,7 +19,7 @@ website_url: 'http://www.liammalone.co.nz/'
 medium_url:
 twitter: 'https://twitter.com/LiamMalone93'
 facebook:
-youtube_video_id:
+youtube_video_id: 'KOdzMd1KLrg'
 github_username:
 instagram: 'https://www.instagram.com/liammmalone/'
 ---
