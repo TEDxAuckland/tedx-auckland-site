@@ -10,6 +10,7 @@ end_date: 2017-12-02 00:00:00 +1300
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
 people:
   - andy-crowe--rui-peng
+  - alexander-macdonald
   - angie-judge
   - anna-faber
   - cameron-sims
@@ -83,7 +84,7 @@ event_partners:
   - fairtrade
   - as-colour
 youtube_playlist: PLcm2pIIAwlDtn58jNUEqyRUgUuNJ8Qjdd
-other_youtube_playlist_title: "EDxMini's"
+other_youtube_playlist_title: EDxMini's
 other_youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
 ticket_url:
 ---
