@@ -1,5 +1,7 @@
-PATH
-  remote: ../jekyll-responsive-image
+GIT
+  remote: git://github.com/JacobKorn/jekyll-responsive-image.git
+  revision: aa0d7b2512ccd4a26ceac1d15226ddf60011e6e8
+  branch: custom-sizes
   specs:
     jekyll-responsive-image (1.5.2)
       jekyll (>= 2.0, < 4.0)
