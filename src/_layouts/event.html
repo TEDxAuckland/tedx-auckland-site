@@ -2,9 +2,17 @@
 layout: default
 ---
 
+
+{% if page.hero_image %}
 <header class="event-hero">
-	<img src="{{ page.hero_image }}" class="event-hero__img" alt="">
+  {% assign hero_image = page.hero_image | remove_first: "/" %}
+  {% responsive_image path: hero_image
+                      class: "event-hero__img"
+                      widths: "400, 600, 900, 1200, 1800, 2700, 3800"
+                      sizes: "100vw"
+  %}
 </header>
+{% endif %}
 
 {% assign page_content = page.content | strip_newlines %}
 {% if page_content != "" %}
@@ -49,97 +57,130 @@ layout: default
 
 {% if page.youtube_playlist %}
 <section id="talks" class="section-bg-black">
-	<div class="container">
+  <div class="container">
 
-		<h3 class="section-heading section-heading--talks">Talks</h3>
-		{% include talks.html playlist_id = page.youtube_playlist %}
+    <h3 class="section-heading section-heading--talks">Talks</h3>
+    {% include talks.html playlist_id = page.youtube_playlist %}
 
-	</div>
+  </div>
 </section>
 {% endif %}
 
 {% if page.other_youtube_playlist %}
 <section id="talks" class="section-bg-black">
-	<div class="container">
+  <div class="container">
 
-		<h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
-		{% include talks.html playlist_id = page.other_youtube_playlist %}
+    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
+    {% include talks.html playlist_id = page.other_youtube_playlist %}
 
-	</div>
+  </div>
 </section>
 {% endif %}
 
 
 {% if page.major_partners or page.supporting_partners or page.event_partners %}
 <section id="partners" class="section-bg-white">
-	<div class="container">
+  <div class="container">
 
-		<h3 class="section-heading section-heading--dark section-heading--partners">
-			partners
-		</h3>
+    <h3 class="section-heading section-heading--dark section-heading--partners">
+      partners
+    </h3>
 
-		{% if page.major_partners %}
-			<h4 class="partner-heading">major</h4>
-			<div class="partners">
-				{% for partner_name in page.major_partners %}
-				{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
-				<a class="partner-card partner-card--major" href="{{ partner.link }}" target="_blank">
-					<img class="partner-card__image partner-card__image--major" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
-					<div class="partner-card__paragraph partner-card__paragraph--major">
-						{{ partner.content }}
-					</div>
-				</a>
-				{% endfor %}
-			</div>
-		{% endif %}
+    {% if page.major_partners %}
+      <h4 class="partner-heading">major</h4>
+      <div class="partners">
+        {% for partner_name in page.major_partners %}
+        {% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+        {% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
+        {% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
 
-		{% if page.supporting_partners %}
-			<h4 class="partner-heading">supporting</h4>
-			<div class="partners">
-				{% for partner_name in page.supporting_partners %}
-				{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
-				<a class="partner-card partner-card--supporting" href="{{ partner.link }}" target="_blank">
-					<img class="partner-card__image partner-card__image--supporting" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
-					<div class="partner-card__paragraph partner-card__paragraph--supporting">
-						{{ partner.content }}
-					</div>
-				</a>
-				{% endfor %}
-			</div>
-		{% endif %}
+        <a class="partner-card partner-card--major" href="{{ partner.link }}" target="_blank">
+          {% responsive_image path: partner_logo
+                              class: "partner-card__image partner-card__image--major"
+                              alt: partner_alt
+                              widths: "150, 300, 900"
+                              sizes: "(max-width: 1200px) 25vw,
+                                      (max-width: 600px) 98vw,
+                                      (max-width: 900px) 45vw,
+                                      200px"
+          %}
+          <div class="partner-card__paragraph partner-card__paragraph--major">
+            {{ partner.content }}
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    {% endif %}
 
-		{% if page.event_partners %}
-			<h4 class="partner-heading">event</h4>
-			<div class="partners">
-				{% for partner_name in page.event_partners %}
-					{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
-					<a class="partner-card" href="{{ partner.link }}" target="_blank">
-						<img class="partner-card__image" src="{{ partner.partner_logo_image }}" alt="{{ partner.id }} logo">
-					</a>
-				{% endfor %}
-			</div>
-		{% endif %}
+    {% if page.supporting_partners %}
+      <h4 class="partner-heading">supporting</h4>
+      <div class="partners">
+        {% for partner_name in page.supporting_partners %}
+        {% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+        {% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
+        {% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
 
-	</div>
+        <a class="partner-card partner-card--supporting" href="{{ partner.link }}" target="_blank">
+          {% responsive_image path: partner_logo
+                              class: "partner-card__image partner-card__image--supporting"
+                              alt: partner_alt
+                              widths: "150, 300, 900"
+                              sizes: "(max-width: 1200px) 16.6vw,
+                                      (max-width: 900px) 25vw,
+                                      (max-width: 600px) 33.33vw,
+                                      150px"
+          %}
+          <div class="partner-card__paragraph partner-card__paragraph--supporting">
+            {{ partner.content }}
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.event_partners %}
+      <h4 class="partner-heading">event</h4>
+      <div class="partners">
+        {% for partner_name in page.event_partners %}
+          {% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+          {% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
+          {% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
+
+          <a class="partner-card" href="{{ partner.link }}" target="_blank">
+            {% responsive_image path: partner_logo
+                                class: "partner-card__image"
+                                alt: partner_alt
+                                widths: "150, 300, 900"
+                                sizes: "(max-width: 1200px) 15vw,
+                                        (max-width: 900px) 20vw,
+                                        (max-width: 600px) 33.33vw,
+                                        150px"
+            %}
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div>
 </section>
 {% endif %}
 
 {% if page.people %}
 <section id="speakers" class="section-bg-swirl">
-	<div class="container">
-		<h3 class="section-heading section-heading--speakers">speakers</h3>
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">speakers</h3>
 
-		{% include speakers.html speakers = page.people %}
-	</div>
+    {% include speakers.html speakers = page.people %}
+  </div>
 </section>
 {% endif %}
 
 {% if page.flikr_galleries.first %}
 <section>
-	<div class="container">
-		<h3 class="section-heading section-heading--flickr">flickr</h3>
+  <div class="container">
+    <h3 class="section-heading section-heading--flickr">flickr</h3>
 
-		{% include flickr.html galleries = page.flikr_galleries %}
-	</div>
+    {% include flickr.html galleries = page.flikr_galleries %}
+  </div>
 </section>
 {% endif %}
