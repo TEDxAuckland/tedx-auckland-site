@@ -23,6 +23,18 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-autoprefixer
+  - jekyll-responsive-image
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 300
+    - width: 600
+    - width: 900
+    - width: 1200
+    - width: 1400
+    - width: 1800
+    - width: 3800
 
 # Build settings
 exclude:
