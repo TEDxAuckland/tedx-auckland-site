@@ -47,7 +47,15 @@ layout: default
           <a href="{{ post.url }}">
 
             {% if post.image %}
-            <img class="news-card__image" src="{{ post.image }}">
+            {% assign post_image = post.image | remove_first: "/" %}
+            {% responsive_image path: post_image
+                                class: "news-card__image"
+                                widths: "400, 800, 1200"
+                                sizes: "(max-width: 1200px) 32vw,
+                                        (max-width: 900px) 47vw,
+                                        (max-width: 600px) 97vw,
+                                        200px"
+            %}
             {% endif %}
 
             <div class="news-card__content">
