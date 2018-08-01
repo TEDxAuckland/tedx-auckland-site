@@ -7,23 +7,32 @@
 		flex-wrap: wrap;
 		justify-content: space-between;
 		align-items: center;
-		height: 10.8rem;
+
+		@media only screen and (max-width: 46.87em) {
+			justify-content: space-evenly;
+		}
 
 		@include respond(phone) {
-			justify-content: center;
 			align-content: space-between;
 			height: auto;
+		}
+
+		@media only screen and (max-width: 21.87em) {
+			justify-content: center;
 		}
 	}
 
 	&__brand {
 		flex: 0 1 26rem;
 		margin: 2rem 1rem 0 1.5rem;
-		order: 1;
 
 		@include respond(phone) {
 			flex: 0 0 55%;
 			margin: 2rem 0;
+		}
+
+		@media only screen and (max-width: 21.87em) {
+			flex: 0 1 70%;
 		}
 
 	}
@@ -35,7 +44,11 @@
 
 	&__links {
 		flex: 1 0 48%;
-		order: 3;
+
+		@media only screen and (max-width: 46.87em) {
+			order: 1;
+			flex: 1 0 100%;
+		}
 
 		@include respond(phone) {
 			margin: 2rem 0;
@@ -44,12 +57,14 @@
 
 	&__buy-tickets {
 		margin-right: 2rem;
-		order: 5;
 
-		// @include respond(tab-port) {
-		// 	order: 2;
-		// }
+		@media only screen and (max-width: 46.87em) {
+			margin: 0;
+		}
 
+		@media only screen and (max-width: 21.87em) {
+			flex: 0 1 auto;
+		}
 	}
 }
 

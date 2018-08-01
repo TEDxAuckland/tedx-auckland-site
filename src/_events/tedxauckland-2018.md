@@ -33,4 +33,4 @@ In 2018, TEDxAuckland's annual festival of ideas is returning to **Shed 10** on 
 
 Speakers, performers, food vendors, and event details to be announced here and on [facebook](https://www.facebook.com/events/629283860774532){: target="_blank"} in the coming weeks.
 
-**Early Bird Tickets available August 1st.**
+**[Early Bird Tickets available August now!](https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018){:target="_blank"}**
