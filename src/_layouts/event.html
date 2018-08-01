@@ -20,27 +20,6 @@ layout: default
 </section>
 {% endif %}
 
-<section>
-	<div class="container">
-		<div id="iticket-widget"></div>
-		<script type="text/javascript">
-		var iTICKET = iTICKET || [];
-		iTICKET.push(['widget', {
-		  containerId: 'iticket-widget',
-		  key: 'ce8e6ca3-b1d0-410f-8e3b-8d2d04a2cac8',
-		  autoContainer: false
-		}]);
-
-		(function (d, t) {
-		  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-		  g.src = 'https://www.iticket.co.nz/widget/script';
-		  s.parentNode.insertBefore(g, s);
-		}(document, 'script'));
-		</script>
-	</div>
-</section>
-
-
 {% if page.youtube_playlist %}
 <section id="talks" class="section-bg-black">
 	<div class="container">
