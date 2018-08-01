@@ -19,7 +19,6 @@
     text-align: right;
     flex: 0 1 30%;
     padding: 1rem 2rem;
-    box-sizing: border-box;
     @include respond(tab-land) { flex: 0 1 20%; }
     @include respond(tab-port) {
       flex: 1 0 100%;

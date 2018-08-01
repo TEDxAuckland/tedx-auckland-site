@@ -8,7 +8,6 @@
   background-color: $brand-grey-darker;
   font-family: $secondary-font;
   position: relative;
-  box-sizing: border-box;
   width: 25%;
   line-height: 0;
   border: 1px solid #000;
@@ -53,7 +52,6 @@
     font-weight: bold;
     line-height: 1.2;
     padding: 0.9rem 40% 0.9rem 1.8rem;
-    box-sizing: border-box;
     display: flex;
     align-items: center;
   }

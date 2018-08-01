@@ -1,5 +1,15 @@
+.person-header {
+  height: auto;
+  padding: 16rem 0 2rem 0;
+
+  &__title {
+    font-size: 6rem;
+    line-height: 1.2;
+    margin: 0;
+  }
+}
+
 .person {
-  box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
   @include respond(tab-land) { padding: 0 2rem; }
@@ -7,17 +17,14 @@
 
   &__left {
     flex: 1 0 30%;
-    box-sizing: border-box;
     @include respond(phone) {
       flex: 1 0 100%;
     }
-
   }
 
   &__right{
     flex: 1 0 70%;
     padding-left: 6rem;
-    box-sizing: border-box;
     @include respond(phone) { padding: 0; }
   }
 
@@ -99,7 +106,6 @@
 
 .person-content {
   font-weight: 500;
-  box-sizing: border-box;
   @include respond(phone) {
     background-color: white;
     color: black;

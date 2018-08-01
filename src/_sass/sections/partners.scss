@@ -12,7 +12,6 @@
 
 .partner-card {
   position: relative;
-  box-sizing: border-box;
   background-color: inherit;
   color: #000;
   font-family: $primary-font;
@@ -71,8 +70,6 @@
   }
 
   &__paragraph {
-    box-sizing: border-box;
-
     &--major {
       flex: 1 0 50%;
       margin: 3em;
