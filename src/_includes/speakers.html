@@ -8,9 +8,10 @@
         {% responsive_image path: speaker_image
                             class: "speaker-card__image"
                             widths: "200, 300, 600, 900"
-                            sizes: "(max-width: 900px) 33.33vw",
+                            sizes: "(max-width: 1200px) 25vw,
+                                    (max-width: 900px) 33.33vw,
                                     (max-width: 600px) 50vw,
-                                    300px
+                                    300px"
          %}
         <div class="speaker-card__caption">
           {{ speaker.name  }}

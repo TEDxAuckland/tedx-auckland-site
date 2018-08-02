@@ -25,7 +25,16 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 		<div class="person__left">
 
 			{% if page.image %}
-			<img src="{{ page.image }}" alt="A picture of {{ page.name }}"class="person__image">
+			{% assign person_image = page.image | remove_first: "/" %}
+			{% assign person_alt = "A picture of " | append: page.name %}
+		  {% responsive_image path: person_image
+		                      class: "person__image"
+													alt: person_alt
+													widths: "200, 300, 400, 600, 800, 900, 1200"
+		                      sizes: "(max-width: 1200px) 33.33vw,
+																	(max-width: 600px) 100vw,
+																	400px"
+		  %}
 			{% endif %}
 
 			<ul class="social-block">
