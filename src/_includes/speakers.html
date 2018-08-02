@@ -1,15 +1,23 @@
 <div class="speakers">
-	{% for speaker_name in include.speakers %}
-	{% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
+  {% for speaker_name in include.speakers %}
+  {% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
+  {% assign speaker_image = speaker.image | remove_first: "/"  %}
 
-		<div class="speaker-card">
-			<a href="{{ speaker.url }}" class="speaker-card__link">
-				<img class="speaker-card__image" src="{{ speaker.image }}" alt="picture of {{ speaker.name }}">
-				<div class="speaker-card__caption">
-					{{ speaker.name  }}
-				</div>
-			</a>
-		</div>
+    <div class="speaker-card">
+      <a href="{{ speaker.url }}" class="speaker-card__link">
+        {% responsive_image path: speaker_image
+                            class: "speaker-card__image"
+                            widths: "200, 300, 600, 900"
+                            sizes: "(max-width: 1200px) 25vw,
+                                    (max-width: 900px) 33.33vw,
+                                    (max-width: 600px) 50vw,
+                                    300px"
+         %}
+        <div class="speaker-card__caption">
+          {{ speaker.name  }}
+        </div>
+      </a>
+    </div>
 
-	{% endfor %}
+  {% endfor %}
 </div>
