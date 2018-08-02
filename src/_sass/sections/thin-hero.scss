@@ -1,0 +1,11 @@
+.thin-hero {
+	background-size: cover;
+  min-height: 25rem;
+  padding: 16rem 0 2rem 0;
+
+  &__title {
+    font-size: 6rem;
+    line-height: 1.2;
+    margin: 0;
+  }
+}

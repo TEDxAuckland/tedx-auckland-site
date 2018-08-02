@@ -2,19 +2,12 @@
 title: Home page
 tagline: ...
 layout: default
+hero_image: '/uploads/tedx-auckland-2018-banner-3.1.jpg'
 youtube_playlist: PLcm2pIIAwlDvyvhnABusUFtL7E4k2sM_B
 ---
 
-<header id="hero" class="hero__homepage">
-	<div class="container">
-		<div class="header-details">
-			<h2 class="editable">ideas worth spreading</h2>
-			<p class="editable">
-				...
-			</p>
-			<p class="editable"><a href="/talks" class="button button-outline">All Past Talks</a></p>
-		</div>
-	</div>
+<header id="hero" class="homepage-hero">
+	<img src="{{ page.hero_image }}" class="homepage-hero__image" alt="">
 </header>
 
 {% include upcoming-event-bar.html %}

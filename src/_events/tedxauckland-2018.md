@@ -3,7 +3,7 @@ title: TEDxAuckland 2018
 short_title: 2018
 upcoming: true
 event_bar_right: 'Saturday October 13th, 2018 | Shed 10, Queens Wharf'
-hero_image: /uploads/tedx-auckland-2018-banner.png
+hero_image: /uploads/tedx-auckland-2018-banner-3.1.jpg
 badge_image:
 tagline: Off Piste
 start_date: 2018-10-13 00:00:00 +1300

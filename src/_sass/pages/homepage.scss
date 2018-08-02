@@ -1,8 +1,13 @@
-.hero__homepage {
+.homepage-hero {
+  background-color: $brand-white;
 
-    @include respond(phone) {
-      padding: 5rem 0;
-    }
+  @include respond(phone) {
+    padding: 5rem 0;
+  }
+
+  &__image {
+    width: 100%;
+  }
 
   	h2 {
   		font-size: 11.7rem;
