@@ -4,7 +4,7 @@
 {% for flickr_img in selected_gallery | limit:1 %}
   <ul class="slides">
     <li>
-      <img src="/uploads/content_allpress-logo-high-res.jpg">
+      <img class="flickr_image" src="{{ flickr_img }}">
     </li>
   </ul>
 
