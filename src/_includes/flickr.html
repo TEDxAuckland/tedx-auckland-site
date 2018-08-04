@@ -1,12 +1,14 @@
-<div class="container">
-  <div class="image-gallery-slide">
-    <div class="image-gallery-slide-number"> </div>
-      {% for gallery in include.galleries.first %}
-        {% assign selected_gallery = site.data.flickr_gallery[gallery] %}
+{% for gallery in include.galleries %}
+{% assign selected_gallery = site.data.flickr_gallery[gallery] %}
+<div class="flexslider">
+{% for flickr_img in selected_gallery | limit:1 %}
+  <ul class="slides">
+    <li>
+      <img src="/uploads/content_allpress-logo-high-res.jpg">
+    </li>
+  </ul>
 
-        {% for flickr_img in selected_gallery | limit:10 %}
-          <img width="200" height="200" src="{{ flickr_img }}">
-        {% endfor %}
-      {% endfor %}
-  </div>
+
+  {% endfor %}
 </div>
+{% endfor %}
