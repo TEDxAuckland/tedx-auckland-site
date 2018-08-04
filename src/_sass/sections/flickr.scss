@@ -1,7 +1,9 @@
 .flickr_image {
   height: 30em;
   overflow: hidden;
-  display: block;
+  display: list-item;
   margin-left: auto;
   margin-right: auto;
 }
+
+// .flexslider .slides > li:first-child {display: list-item; }
