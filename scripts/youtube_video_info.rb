@@ -36,7 +36,13 @@ class YoutubeVideoInfo
          video_id: item.video_id,
          title: item.title,
          published_at: item.published_at,
-         thumbnail_url: item.thumbnail_url(:high),
+         thumbnail_url: {
+           default: item.thumbnail_url(:default),    # 120w
+           medium: item.thumbnail_url(:medium),      # 320w
+           high: item.thumbnail_url(:high),          # 480w
+           standard: item.thumbnail_url(:standard),  # 640w
+           maxres: item.thumbnail_url(:maxres),      # 1280w
+         },
          description: item.description,
          position: item.position,
          tags: item.video.tags,

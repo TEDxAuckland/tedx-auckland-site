@@ -1,6 +1,6 @@
-{% for gallery in include.galleries %}
-{% assign selected_gallery = site.data.flickr_gallery[gallery] %}
+{% for gallery in include.galleries | limit:2 %}
 <div class="flexslider">
+  {% assign selected_gallery = site.data.flickr_gallery[gallery] %}
   <ul class="slides">
   {% for flickr_img in selected_gallery | limit:5 %}
     <li>

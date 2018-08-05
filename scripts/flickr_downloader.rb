@@ -31,6 +31,7 @@ class FlickrDownloader
     photos = photoset.get_photos.take((ENV['TAKE'] || 10).to_i)
     photo_urls = photos.map do |photo|
       info = photo.get_info!
+      # TODO: Get gallery author and different resolutions
       url = "https://farm#{info.farm}.staticflickr.com/#{info.server}/#{info.id}_#{info.secret}.jpg"
       puts url
       url
