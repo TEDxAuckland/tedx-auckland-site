@@ -81,6 +81,26 @@
     border-top: 5px solid $brand-color;
   }
 
+  &__header {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+  }
+
+  &__profile-link {
+    font-size: 1.2rem;
+    text-decoration: underline;
+    line-height: 1;
+    margin-left: 1rem;
+    margin-bottom: 2.5rem;
+    font-style: italic;
+    transition: all .2s;
+
+    &:hover {
+      transform: translateY(-0.2rem);
+    }
+  }
+
   &__video {
     flex: 1 0 30%;
     position: relative;
@@ -128,9 +148,15 @@
     display: flex;
     margin-top: 3rem;
     @include respond(phone) { justify-content: space-around; }
+    @include respond(phone-small) { flex-wrap: wrap; }
+
 
     &>:not(:first-child) {
       margin-left: 4rem;
+      @include respond(phone-small) {
+        flex: 1 0 100%;
+        margin-left: 0;
+      }
     }
   }
 }
