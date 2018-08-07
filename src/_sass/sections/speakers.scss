@@ -14,6 +14,7 @@
   filter: grayscale(100%);
   margin: 0;
   transition: all 0.2s;
+  cursor: pointer;
 
   @include respond(tab-port) {
     width: 33.33%;
