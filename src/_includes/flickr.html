@@ -1,10 +1,11 @@
-{% for gallery in include.galleries | limit:2 %}
+{% for gallery in include.galleries %}
 <div class="flexslider">
   {% assign selected_gallery = site.data.flickr_gallery[gallery] %}
   <ul class="slides">
-  {% for flickr_img in selected_gallery | limit:5 %}
+  {% for sizes in selected_gallery | limit:5 %}
+    {% assign medium = sizes.first %}
     <li>
-      <img class="flickr_image" src="{{ flickr_img }}">
+      <img class="flickr_image" src="{{medium[1]}}">
     </li>
     {% endfor %}
   </ul>

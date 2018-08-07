@@ -30,11 +30,21 @@ class FlickrDownloader
     photoset = Flickr.sets.find(photoset_id)
     photos = photoset.get_photos.take((ENV['TAKE'] || 10).to_i)
     photo_urls = photos.map do |photo|
-      info = photo.get_info!
+      med500 = photo.medium500!.source_url
+      med800 = photo.medium800!.source_url
+      large1024 = photo.large1024!.source_url
+      large1600 = photo.large1600!.source_url
+      original = photo.original.source_url
       # TODO: Get gallery author and different resolutions
-      url = "https://farm#{info.farm}.staticflickr.com/#{info.server}/#{info.id}_#{info.secret}.jpg"
-      puts url
-      url
+      # url = "https://farm#{info.farm}.staticflickr.com/#{info.server}/#{info.id}_#{info.secret}.jpg"
+
+      {
+        med500: med500,
+        med800: med800,
+        large1024: large1024,
+        large1600: large1600,
+        original: original
+      }
     end
     photo_urls
   rescue Flickr::ApiError

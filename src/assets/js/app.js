@@ -8,6 +8,7 @@ $(window).on('load', function() {
   smoothHeight: true,
   animateHeight: false,
   itemHeight: 300,
-  touch: true
+  touch: true,
+  useCSS: false
   });
 });
