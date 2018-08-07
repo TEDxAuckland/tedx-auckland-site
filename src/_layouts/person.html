@@ -37,74 +37,10 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 		  %}
 			{% endif %}
 
-			<ul class="social-block">
-				<li class="social-block__title">Links</li>
+			{% include social-block--links.html person = page %}
+			{% include social-block--icons.html person = page %}
+			{% include social-block--events.html speaker_events = speaker_events %}
 
-				{% if page.website_url %}
-				<li class="social-block__link">
-					<a href="{{ page.website_url }}">{{ page.website_url }}</a>
-				</li>
-				{% endif %}
-
-				{% if page.medium_url %}
-				<li class="social-block__link">
-					<a href="{{ page.medium_url }}">{{ page.medium_url }}</a>
-				</li>
-				{% endif %}
-			</ul>
-
-			<ul class="social-block">
-				<li class="social-block__title">Social Media</li>
-
-				<ul class="social-block__icon-row">
-
-					{% if page.twitter %}
-					<li class="social-block__icon">
-						<a href="{{ page.twitter }}" target="_blank">
-							{% include embed/social-icon.html icon="Twitter" %}
-						</a>
-					</li>
-					{% endif %}
-
-					{% if page.facebook %}
-					<li class="social-block__icon">
-						<a href="{{ page.facebook }}" target="_blank">
-							{% include embed/social-icon.html icon="Facebook" %}
-						</a>
-					</li>
-					{% endif %}
-
-					{% if page.google_plus %}
-					<li class="social-block__icon">
-						<a href="{{ page.google_plus }}" target="_blank">
-							{% include embed/social-icon.html icon="Google Plus" %}
-						</a>
-					</li>
-					{% endif %}
-
-					{% if page.github_username %}
-					<li class="social-block__icon">github_u{{ page.github_username }}</li>
-					{% endif %}
-
-					{% if page.instagram %}
-					<li class="social-block__icon">
-						<a href="{{ page.instagram }}" target="_blank">
-							{% include embed/social-icon.html icon="Instagram" %}
-						</a>
-					</li>
-					{% endif %}
-
-				</ul>
-			</ul>
-
-			<ul class="social-block">
-				<li class="social-block__title">Events</li>
-				{% for speaker_event in speaker_events %}
-				<li class="social-block__link">
-					<a href="{{ speaker_event.url }}"> {{ speaker_event.title }}</a>
-				</li>
-				{% endfor %}
-			</ul>
 		</div>
 
 		<div class="person__right">

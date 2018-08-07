@@ -5,6 +5,7 @@ image: /uploads/james-bergin-1200x1200.jpg
 description_markdown: >-
   *innovator* / *intrapreneur* / *dad*
 
+
   James is the Chief Architect at ASB
   bank and father of three young children.
 

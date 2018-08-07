@@ -1,6 +1,9 @@
+{% comment %}
 <div class="speakers">
-  {% for speaker_name in include.speakers %}
-  {% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
+
+	{% for speaker_name in include.speakers %}
+	{% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
+
   {% assign speaker_image = speaker.image | remove_first: "/"  %}
 
     <div class="speaker-card">
@@ -17,7 +20,25 @@
           {{ speaker.name  }}
         </div>
       </a>
-    </div>
-
-  {% endfor %}
+		</div>
+	{% endfor %}
 </div>
+{% endcomment %}
+
+{% raw %}
+<div id="speakers-component">
+  <speakers :speaker-names="speakerNames" :speaker-json="speakerJSON"></speakers>
+</div>
+{% endraw %}
+
+<script>
+var speakerNames = {{ include.speakers | jsonify }}
+var speakerJSON = {% include json-people.json %}
+
+new Vue({
+	data: {
+		speakerNames: speakerNames,
+		speakerJSON: speakerJSON,
+	}
+}).$mount('#speakers-component')
+</script>

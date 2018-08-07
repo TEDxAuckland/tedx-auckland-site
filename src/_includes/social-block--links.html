@@ -1,0 +1,17 @@
+{% assign person = include.person %}
+
+<ul class="social-block">
+	<li class="social-block__title">Links</li>
+
+	{% if person.website_url %}
+	<li class="social-block__link">
+		<a href="{{ person.website_url }}">{{ person.website_url }}</a>
+	</li>
+	{% endif %}
+
+	{% if person.medium_url %}
+	<li class="social-block__link">
+		<a href="{{ person.medium_url }}">{{ person.medium_url }}</a>
+	</li>
+	{% endif %}
+</ul>

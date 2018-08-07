@@ -24,6 +24,7 @@
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 		<link rel="stylesheet" href="/assets/css/main.css">
+		<link rel="stylesheet" href="/assets/css/ted-x-components.css">
 
 		{% if jekyll.environment == "production" %}
 			<!-- Global site tag (gtag.js) - Google Analytics -->
@@ -36,6 +37,13 @@
 			gtag('config', 'UA-37672829-2');
 			</script>
 		{% endif %}
+
+		{% if jekyll.environment == "development" %}
+      <script src="/assets/js/vendor/vue.js"></script>
+    {% else %}
+      <script src="/assets/js/vendor/vue.min.js"></script>
+    {% endif %}
+		<script src="/assets/js/ted-x-components.umd.min.js"></script>
 
 	</head>
 

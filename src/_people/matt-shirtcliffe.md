@@ -5,6 +5,7 @@ image: /uploads/matt-shirtcliffe-1200x1200.jpg
 description_markdown: >-
   *mental wellness advocate* / *creative director*
 
+
   Father of two teens, awarded
   advertising creative director, ad agency owner, mountain runner, farm owner,
   poet, Christian. Matt was living a full and rewarding life last year when it

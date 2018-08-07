@@ -5,6 +5,7 @@ image: /uploads/barbara-breen-1200x1200.jpg
 description_markdown: >-
   *conservationist* / *geographer* / *social ecologist*
 
+
   Barbara is a senior
   lecturer in the School of Applied Sciences at Auckland University of
   Technology and has over 20 years’ experience working in government and NGO’s.

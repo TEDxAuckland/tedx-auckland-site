@@ -39,60 +39,6 @@
   }
 }
 
-.social-block {
-  padding: 0;
-  margin-top: 0;
-  margin-bottom: 1.2rem;
-  @include respond(phone) { text-align: center; }
-
-  &__title {
-    list-style-type: none;
-    text-transform: uppercase;
-    font-size: 2rem;
-    font-weight: 700;
-    line-height: 1;
-    margin-bottom: 1.4rem;
-  }
-
-  &__link {
-    list-style-type: none;
-    font-size: 1.4rem;
-    font-weight: 500;
-
-    a {
-      display: inline-block;
-      color: $brand-white;
-      transition: all .2s;
-
-      &:hover {
-        color: $brand-color;
-        transform: translateY(-.2rem);
-      }
-    }
-  }
-
-  &__icon-row {
-    display: flex;
-    padding: 0;
-    @include respond(phone) { justify-content: center; }
-  }
-
-  &__icon {
-    list-style-type: none;
-    margin-right: 1rem;
-
-    svg {
-      fill: $brand-white;
-      transition: all .2s;
-
-      &:hover {
-        fill: $brand-color;
-        transform: scale(1.1);
-      }
-    }
-  }
-}
-
 .person-content {
   font-weight: 500;
   @include respond(phone) {

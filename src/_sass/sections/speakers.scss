@@ -27,11 +27,14 @@
     color: inherit;
   }
 
-  &:hover {
+  &:hover,
+  &--active {
     filter: grayscale(0%);
+    border-bottom: none;
   }
 
-  &:hover &__caption {
+  &:hover &__caption,
+  &--active &__caption {
     background-color: $brand-color;
   }
 
@@ -55,4 +58,109 @@
     display: flex;
     align-items: center;
   }
+}
+
+.full-width-section {
+  width: 100%;
+  padding: 0;
+}
+
+.expanded-preview {
+  display: flex;
+  align-items: center;
+  padding: 6rem 0;
+  max-width: $site-width;
+  flex-flow: row wrap;
+
+  &__wrapper {
+    position: relative;
+    width: 100vw;
+    transform: translate(-50%);
+    left: 50%;
+    background-color: $brand-grey-darker;
+    border-top: 5px solid $brand-color;
+  }
+
+  &__header {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+  }
+
+  &__profile-link {
+    font-size: 1.2rem;
+    text-decoration: underline;
+    line-height: 1;
+    margin-left: 1rem;
+    margin-bottom: 2.5rem;
+    font-style: italic;
+    transition: all .2s;
+
+    &:hover {
+      transform: translateY(-0.2rem);
+    }
+  }
+
+  &__video {
+    flex: 1 0 30%;
+    position: relative;
+    padding-bottom: 26%;
+    padding-top: 2.5rem;
+    height: 0;
+    margin-left: 3rem;
+
+    @include respond(tab-small) {
+      flex: 1 1 100%;
+      margin: 0rem 10rem 4rem 10rem;
+      padding-bottom: 40%;
+    }
+
+    @include respond(phone) {
+      margin: 0rem 3rem 2rem 3rem;
+    }
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  &__content {
+    flex: 1 0 50%;
+    padding: 0 6rem;
+    box-sizing: border-box;
+
+    @include respond(tab-small) {
+      flex: 1 0 100%;
+      padding: 0 8rem;
+      margin-top: 2rem;
+    }
+
+    @include respond(phone) {
+      padding: 0 4rem;
+    }
+  }
+
+  &__social {
+    display: flex;
+    margin-top: 3rem;
+    @include respond(phone) { justify-content: space-around; }
+    @include respond(phone-small) { flex-wrap: wrap; }
+
+
+    &>:not(:first-child) {
+      margin-left: 4rem;
+      @include respond(phone-small) {
+        flex: 1 0 100%;
+        margin-left: 0;
+      }
+    }
+  }
+}
+
+.xp-content {
+  font-size: 1.6rem;
 }

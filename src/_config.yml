@@ -35,6 +35,7 @@ responsive_image:
     - width: 1400
     - width: 1800
     - width: 3800
+  output_path_format: assets/resized/%{filename}-%{width}.%{extension}
 
 # Build settings
 exclude:
