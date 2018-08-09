@@ -1,15 +1,22 @@
 ---
 name: Fraser McConnell
 email:
-image:
-description_markdown:
-website_url:
-medium_url:
-twitter:
-facebook:
+image: /uploads/fraser-mcconnell-2.jpg
+description_markdown: >-
+  Fraser cares about inspiring the world to choose purpose over profit. He has a
+  track record in social entrepreneurship and technological innovation with
+  projects such as Squawk Squad which marries technology with conservation in
+  helping save the native birds of New Zealand. Fraser is also the cofounder of
+  the blockchain social enterprise, Choice. Choice is a new contactless payments
+  system utilising QR codes that reduces transaction fees for kiwi merchants and
+  allows consumers to allocate 50% of this fee to a charity of their choice.
+website_url: 'https://squawksquad.co.nz'
+medium_url: 'https://twitter.com/SquawkSquadNZ'
+twitter: 'https://twitter.com/FraserHMcC'
+facebook: 'https://www.facebook.com/SquawkSquadNZ'
 youtube_video_id:
 github_username:
-instagram:
+instagram: 'https://www.instagram.com/squawksquad_nz/'
 ---
 
 Enter your description here...
