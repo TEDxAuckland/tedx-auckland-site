@@ -1,5 +1,5 @@
 ---
-name: Sarah Strong
+name: Sarah
 email:
 image: /uploads/sarah-strong-2.jpg
 description_markdown: >-
