@@ -143,6 +143,14 @@
     @include respond(phone) {
       padding: 0 4rem;
     }
+
+    &--full-width {
+      flex: 0 1 70%;
+      margin: 0 auto;
+      @include respond(tab-small) {
+        flex: 1 0 100%;
+      }
+    }
   }
 
   &__social {
