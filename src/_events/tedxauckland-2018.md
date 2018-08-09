@@ -19,7 +19,6 @@ people:
   - jazz-thornton
   - sarah
   - swee-tan
-  - imche-fourie
 flikr_galleries:
   -
 major_partners:
