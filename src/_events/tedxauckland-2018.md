@@ -13,6 +13,13 @@ people:
   - hemi-kelly
   - fraser-mcconnell
   - richie-hardcore
+  - grace-stratton
+  - pete-ceglinski
+  - katie-williams
+  - jazz-thornton
+  - sarah
+  - swee-tan
+  - imche-fourie
 flikr_galleries:
   -
 major_partners:
