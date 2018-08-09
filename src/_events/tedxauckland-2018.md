@@ -10,6 +10,7 @@ start_date: 2018-10-13 00:00:00 +1300
 end_date: 2018-10-13 00:00:00 +1300
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
 people:
+  - hemi-kelly
 flikr_galleries:
   -
 major_partners:
