@@ -35,4 +35,5 @@ youtube_playlist: 'PLcm2pIIAwlDvRoXJiHdo6KFJXMHPWzzrd'
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
+permalink: /events/2015/
 ---

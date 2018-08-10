@@ -11,3 +11,12 @@
 /videos/* /talks/
 /watch/ /talks/
 /youth/ /events/
+/events/tedxauckland-2018/ /events/2018/
+/events/tedxauckland-2017/ /events/2017/
+/events/tedxauckland-2016/ /events/2016/
+/events/tedxauckland-2015/ /events/2015/
+/events/tedxauckland-2014/ /events/2014/
+/events/tedxauckland-2013/ /events/2013/
+/events/tedxauckland-2012/ /events/2012/
+/events/tedxauckland-2010/ /events/2010/
+/events/tedxauckland-2009/ /events/2009/

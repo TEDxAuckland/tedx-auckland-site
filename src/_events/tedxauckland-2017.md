@@ -87,6 +87,7 @@ youtube_playlist: PLcm2pIIAwlDtn58jNUEqyRUgUuNJ8Qjdd
 other_youtube_playlist_title: EDxMini's
 other_youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
 ticket_url:
+permalink: /events/2017/
 ---
 
 # TEDxAuckland 2017
