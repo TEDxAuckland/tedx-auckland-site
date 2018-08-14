@@ -1,5 +1,6 @@
 ---
 layout: default
+title: TEDxAuckland News Page
 ---
 
 <header class="blog-header">
@@ -12,7 +13,6 @@ layout: default
     </div>
   </div>
 </header>
-
 
 <section id="highlights" class="highlight-section section-bg-white">
   <div class="container">
@@ -42,7 +42,8 @@ layout: default
 
     <div class="news-card-container">
 
-      {% for post in site.posts limit: 10 offset: 1 %}
+      {% assign our_posts = site.posts | where_exp: "p", "p.categories contains 'our-news'" %}
+      {% for post in our_posts limit: 10 offset: 1 %}
         <div class="news-card">
           <a href="{{ post.url }}">
 
