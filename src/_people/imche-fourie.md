@@ -1,7 +1,7 @@
 ---
 name: Imche Fourie
 email:
-image:
+image: /uploads/imche-fourie.jpg
 description_markdown: >-
   Deep tech / Enthusiast / Lifter
 
