@@ -1,8 +1,8 @@
 ---
-title: TEDxAuckland 2009
+title: 2009 event
 short_title: 2009
 upcoming: false
-hero_image:
+image:
 badge_image:
 tagline:
 start_date: 2009-11-05 00:00:00 +1300
@@ -19,4 +19,7 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2009/
+seo:
+  name: TEDxAuckland 2009
+  type: Event
 ---

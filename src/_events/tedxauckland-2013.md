@@ -1,8 +1,8 @@
 ---
-title: TEDxAuckland 2013
+title: 2013 event
 short_title: 2013
 upcoming: false
-hero_image: /uploads/20130803-tedx-georgias-high-77.jpg
+image: /uploads/20130803-tedx-georgias-high-77.jpg
 badge_image:
 tagline: convergemerge
 start_date: 2013-08-03 00:00:00 +1200
@@ -37,4 +37,7 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2013/
+seo:
+  name: TEDxAuckland 2013
+  type: Event
 ---

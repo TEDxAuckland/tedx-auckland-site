@@ -1,8 +1,8 @@
 ---
-title: TEDxAuckland 2010
+title: 2010 event
 short_title: 2010
 upcoming: false
-hero_image:
+image:
 badge_image:
 tagline: Ideas Worth Doing
 start_date: 2010-09-26 00:00:00 +1200
@@ -19,4 +19,7 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2010/
+seo:
+  name: TEDxAuckland 2010
+  type: Event
 ---

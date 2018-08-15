@@ -1,8 +1,8 @@
 ---
-title: TEDxAuckland 2015
+title: 2015 event
 short_title: 2015
 upcoming: false
-hero_image: /uploads/2015banner2.png
+image: /uploads/2015banner2.png
 badge_image:
 tagline:
 start_date: 2015-05-02 00:00:00 +1200
@@ -36,4 +36,7 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2015/
+seo:
+  name: TEDxAuckland 2015
+  type: Event
 ---

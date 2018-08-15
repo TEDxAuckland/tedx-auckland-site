@@ -1,8 +1,8 @@
 ---
-title: TEDxAuckland 2017
+title: 2017 event
 short_title: 2017
 upcoming: false
-hero_image: /uploads/tedxakl-2017-banner-fw.png
+image: /uploads/tedxakl-2017-banner-fw.png
 badge_image:
 tagline:
 start_date: 2017-12-01 00:00:00 +1300
@@ -88,6 +88,9 @@ other_youtube_playlist_title: EDxMini's
 other_youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
 ticket_url:
 permalink: /events/2017/
+seo:
+  name: TEDxAuckland 2017
+  type: Event
 ---
 
 # TEDxAuckland 2017

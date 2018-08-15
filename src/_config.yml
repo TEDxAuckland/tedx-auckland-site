@@ -6,14 +6,25 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: TEDxAuckland
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  TEDxAuckland run events that inspire and spread ideas in the greater context of
+  Technology, Entertainment and Design. Next event: October 2018
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tedxauckland.com" # the base hostname & protocol for your site
 permalink: pretty
+
+twitter:
+  username: TEDxAuckland
+  card: summary
+
+social:
+  name: TEDxAuckland
+  links:
+    - https://twitter.com/tedxauckland
+    - https://www.facebook.com/TEDxAuckland/
+    - https://www.instagram.com/tedxauckland/
+    - https://www.youtube.com/user/TEDxAuckland
 
 # Markdown settings
 markdown: kramdown
@@ -24,6 +35,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-autoprefixer
   - jekyll-responsive-image
+  - jekyll-seo-tag
 
 responsive_image:
   template: _includes/responsive-image.html

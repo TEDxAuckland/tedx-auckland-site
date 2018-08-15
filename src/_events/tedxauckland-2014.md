@@ -1,8 +1,8 @@
 ---
-title: TEDxAuckland 2014
+title: 2014 event
 short_title: 2014
 upcoming: false
-hero_image:
+image:
 badge_image:
 tagline: Ascending
 start_date: 2014-08-16 00:00:00 +1200
@@ -39,6 +39,9 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2014/
+seo:
+  name: TEDxAuckland 2014
+  type: Event
 ---
 
 TEDxAuckland 2014 took place at the Aotea Centre on Saturday 16th August. *Ascending* was the overriding theme for TEDxAuckland 2014. The day was packed with over 16 speakers, musical acts and an after party.

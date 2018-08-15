@@ -1,11 +1,12 @@
 ---
 layout: default
-hero_image: /assets/images/bg-upcoming-events.jpg
+title: All Events
+image: /assets/images/bg-upcoming-events.jpg
 ---
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
 
-<header class="thin-hero" style="background-image: url({{ page.hero_image }})">
+<header class="thin-hero" style="background-image: url({{ page.image }})">
 </header>
 
 <section class="section-bg-grey">

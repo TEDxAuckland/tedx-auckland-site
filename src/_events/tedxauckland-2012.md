@@ -1,8 +1,8 @@
 ---
-title: TEDxAuckland 2012
+title: 2012 event
 short_title: 2012
 upcoming: false
-hero_image:
+image:
 badge_image:
 tagline:
 start_date: 2012-10-06 00:00:00 +1300
@@ -37,4 +37,7 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2012/
+seo:
+  name: TEDxAuckland 2012
+  type: Event
 ---

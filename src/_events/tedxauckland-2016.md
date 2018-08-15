@@ -1,9 +1,9 @@
 ---
-title: TEDxAuckland 2016
+title: 2016 event
 short_title: 2016
 upcoming: false
 tagline: flipside
-hero_image: /uploads/flipside-banner.jpg
+image: /uploads/flipside-banner.jpg
 badge_image:
 start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
@@ -45,6 +45,9 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2016/
+seo:
+  name: TEDxAuckland 2016
+  type: Event
 ---
 
 # TEDxAuckland 2016

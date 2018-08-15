@@ -1,9 +1,9 @@
 ---
-title: TEDxAuckland 2018
+title: 2018 event
 short_title: 2018
 upcoming: true
 event_bar_right: 'Saturday October 13th, 2018 | Shed 10, Queens Wharf'
-hero_image: /uploads/tedx-auckland-2018-banner-3.1.jpg
+image: /uploads/tedx-auckland-2018-banner-3.1.jpg
 badge_image:
 tagline: Off Piste
 start_date: 2018-10-13 00:00:00 +1300
@@ -30,6 +30,12 @@ other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
 permalink: /events/2018/
+seo:
+  name: TEDxAuckland 2018 - Off Piste
+  type: Event
+  links:
+    - 'https://www.facebook.com/events/629283860774532'
+    - 'https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018'
 ---
 
 # TEDxAuckland 2018

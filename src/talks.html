@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TEDxAuckland Talks Page
+title: All Talks
 years:
   - 2009
   - 2010
@@ -12,13 +12,13 @@ years:
   - 2017
 other_playlists:
   - PLcm2pIIAwlDuXUwTNyTkiB0EFsi8tG5pV
-hero_image: /assets/images/bg-upcoming-events.jpg
+image: /assets/images/bg-upcoming-events.jpg
 ---
 
 {% assign filtered_events = site.events | where_exp: "item", "page.years contains item.short_title"%}
 {% assign sorted_events = filtered_events | sort: 'short_title' | reverse %}
 
-<header class="hero hero__talks" style="background-image: url({{ page.hero_image }})">
+<header class="hero hero__talks" style="background-image: url({{ page.image }})">
 </header>
 
 <section id="filter-tags" class="{% cycle "section-bg-grey", "section-bg-black" %}">
