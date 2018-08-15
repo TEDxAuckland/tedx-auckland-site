@@ -18,6 +18,10 @@ twitter:
   username: TEDxAuckland
   card: summary
 
+facebook:
+  app_id: 279041479564647
+  publisher: 137734816208
+
 social:
   name: TEDxAuckland
   links:
