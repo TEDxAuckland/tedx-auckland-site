@@ -6,9 +6,13 @@ image: '/uploads/tedx-auckland-2018-banner-3.1.jpg'
 youtube_playlist: PLcm2pIIAwlDvyvhnABusUFtL7E4k2sM_B
 ---
 
+{% comment %}
 <header id="hero" class="homepage-hero">
 	<img src="{{ page.image }}" class="homepage-hero__image" alt="">
 </header>
+{% endcomment %}
+
+{% include heros/2018-event-gif.html %}
 
 {% include upcoming-event-bar.html %}
 
