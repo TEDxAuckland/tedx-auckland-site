@@ -2,8 +2,11 @@
 layout: default
 ---
 
+{% if page.short_title == 2018 %}
 
-{% if page.image %}
+{% include heros/2018-event-gif.html %}
+
+{% elsif page.image %}
 <header class="event-hero">
   {% assign image = page.image | remove_first: "/" %}
   {% responsive_image path: image
