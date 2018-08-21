@@ -1,6 +1,7 @@
 .event-hero-2018 {
 	background-color: $brand-white;
 	color: #000;
+	font-family: $hero-font;
 
 	&__container {
 		display: flex;
@@ -19,6 +20,7 @@
 		justify-content: space-between;
 		margin: 7rem 3rem;
 		font-size: 3rem;
+		font-family: $hero-font;
 		@media only screen and (max-width: 50em) {
 			flex: 0 1 100%;
 			order: 2;
