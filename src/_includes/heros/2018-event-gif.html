@@ -1,20 +1,46 @@
 <header class="event-hero-2018">
-	<div class="event-hero-2018__container">
+  <div class="event-hero-2018__container">
 
-		<div class="event-hero-2018__content">
-			<img src="/assets/images/tedx-auckland-logo-black.svg" alt="" class="event-hero-2018__logo">
+    <div class="event-hero-2018__content">
+      <img src="/assets/images/tedx-auckland-logo-black.svg" alt="" class="event-hero-2018__logo">
 
-			<div class="event-hero-2018__details">
-				<p><span class="red">Date</span> October 13</p>
-				<p><span class="red">Location</span> Shed 10, Queens Wharf</p>
-			</div>
+      <div class="event-hero-2018__details">
+        <p><span class="red">Date</span> October 13</p>
+        <p><span class="red">Location</span> Shed 10, Queens Wharf</p>
+      </div>
 
-			<p class="event-hero-2018__tagline">Tickets available now</p>
+      <p class="event-hero-2018__tagline">Tickets available now</p>
 
-			<img src="/assets/images/shed-10.svg" alt="" class="event-hero-2018__shed-10">
-		</div>
+      <img src="/assets/images/shed-10.svg" alt="" class="event-hero-2018__shed-10">
+    </div>
 
-		<img class="event-hero-2018__img" src="/uploads/off-piste-anim.gif" alt="">
+    {% raw %}
+    <div id="offPisteAnimation" class="event-hero-2018__img">
+      <animated-image :images="images" />
+    </div>
+    {% endraw %}
 
-	</div>
+  </div>
 </header>
+
+<script>
+
+var imagePaths = [
+  {%- for imagePath in site.data.off_piste_animation -%}
+  {%- assign image = imagePath | remove_first: "/" -%}
+  {% responsive_image template: "_includes/responsive-image-list.json"
+                      path: image
+                      widths: "400, 600, 800, 1200, 1800"
+                      sizes: "(max-width: 1600px) 40vw, (max-width: 800px) 100vw"
+  %}{% if forloop.last != true %},{% endif %}
+  {%- endfor -%}
+]
+
+
+
+new Vue({
+  data: {
+    images: imagePaths,
+  }
+}).$mount('#offPisteAnimation')
+</script>

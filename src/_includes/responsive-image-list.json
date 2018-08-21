@@ -1,0 +1,14 @@
+{%- capture srcset -%}
+    {%- for i in resized -%}
+        /{{ i.path }} {{ i.width }}w,
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign array = srcset | split: "," -%}
+{%- assign test = array | join: ', ' -%}
+{
+  "src": {{ "/" | append: path | strip | jsonify }},
+  "srcset": {{ test | strip_newlines | strip | jsonify }},
+  {%- if sizes -%}
+  "sizes": {{ sizes | strip_newlines | strip | jsonify }}
+  {%- endif -%}
+}
