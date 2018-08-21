@@ -2,11 +2,12 @@
 ---
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
-
+@import url("https://use.typekit.net/mse1gkz.css");
 @charset 'utf-8';
 
 $primary-font: 'Montserrat', sans-serif;
 $secondary-font: 'Source Code Pro', monospace;
+$hero-font: "Filson Soft", 'Montserrat', sans-serif;
 $brand-color: #ed3624;
 $brand-grey: #232323;
 $brand-grey-darker: #131313;
@@ -27,6 +28,7 @@ $site-width: 1200px;
 
 // Sections
 @import 'sections/about';
+@import 'sections/event-heros';
 @import 'sections/thin-hero';
 @import 'sections/footer';
 @import 'sections/nav';
