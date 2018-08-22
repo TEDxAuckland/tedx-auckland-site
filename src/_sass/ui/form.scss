@@ -49,8 +49,16 @@ textarea {
 	}
 }
 
-.extended-mailchimp-form-content {
-	label {
-		display: none;
-	}
+.required-field {
+	color: $brand-color;
+}
+
+.input-label {
+	color: white;
+}
+
+.input-btn {
+	background-color:#EFEFEF;
+	border-radius:4px;
+	border:1px solid #D0D0D0;
 }
