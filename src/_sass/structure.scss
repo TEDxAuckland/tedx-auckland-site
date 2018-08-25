@@ -75,7 +75,9 @@ a {
 }
 
 .center-form {
-  display: inline-block;
+  width: 98%;
+  margin: 0 auto;
+  max-width: 500px;
 }
 
 .section-bg-swirl {
