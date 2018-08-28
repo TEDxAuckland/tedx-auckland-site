@@ -59,6 +59,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - readme.md
+  - vendor
 
 navigation:
   - title: Talks/
