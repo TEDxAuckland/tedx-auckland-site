@@ -11,7 +11,6 @@ author:
   last_name: ''
 categories: [our-news]
 ---
-Words: Jamie Joseph
 
 I recall a dinner I had with chef and author Robert Oliver a few days before he took to the stage at TEDxAuckland and presented his blueprint for food tourism culture.
 
@@ -41,4 +40,4 @@ Robert Oliver’s TED talk from TEDxAuckland is bursting with passionate pride. 
 
 The talk is a strong reminder that its not just a bite of food we’re tasting, it’s culture.
 
-Jamie Joseph is a writer and an environmental activist. She will be returning to her African homeland in October to join the war on poaching. Follow her journey @ savingthewild.com – every voice counts.
+By Jamie Joseph
