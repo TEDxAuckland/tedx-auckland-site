@@ -1,10 +1,9 @@
 ---
-title: The Scope
 image:
 author:
   name:
   link:
-categories: [our-news]
+categories:
 ---
 
 Enter blog post here...
