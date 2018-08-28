@@ -11,7 +11,6 @@ author:
   last_name: ''
 categories: [our-news]
 ---
-Words: Jamie Joseph
 
 Originally from South Africa, Urzila Carlson is the accidental comedian who stepped up to the stage for the first time in 2008, and then went on to win best new comer award. At the time she was employed as a graphic designer, and the only reason she agreed to perform open mic –“ just that once” – was because she was bullied into it by her zealous, supportive work colleagues.
 
@@ -25,34 +24,24 @@ Count on Urzila to bring a few brave anecdotes to the TEDxAuckland stage, sprink
 
 Ten Questions with Urzila Carlson
 
-1. What is your favorite word?<br />
-Yes.
+1. What is your favorite word?<br>Yes.
 
-2. What is your least favorite word?<br />
-No.
+2. What is your least favorite word?<br>No.
 
-3. What turns you on?<br />
-A clean house, time, good humour, a summer’s breeze, sunset and good wine.
+3. What turns you on?<br>A clean house, time, good humour, a summer’s breeze, sunset and good wine.
 
-4. What turns you off?<br />
-Dirty anything, foot dragging, pen clicking, people addicted to their phones, and rudeness.
+4. What turns you off?<br>Dirty anything, foot dragging, pen clicking, people addicted to their phones, and rudeness.
 
-5. What sound do you love<br />
-Rain on the roof, kids giggling, a stream on a quiet day, the ocean any day.
+5. What sound do you love<br>Rain on the roof, kids giggling, a stream on a quiet day, the ocean any day.
 
-6. What sound do you hate?<br />
-Anything repetitive, pen clicking, and Justin Bieber songs.
+6. What sound do you hate?<br>Anything repetitive, pen clicking, and Justin Bieber songs.
 
-7. What was one of the naughtiest things you ever did as a kid?<br />
-I accidentally burned down half of our house.
+7. What was one of the naughtiest things you ever did as a kid?<br>I accidentally burned down half of our house.
 
-8. If you could break any rule as an adult, what would that be?<br />
-The speed limit on my way home when I have to pee.
+8. If you could break any rule as an adult, what would that be?<br>The speed limit on my way home when I have to pee.
 
-9. Who makes you laugh the loudest?<br />
-My fiancé, she’s hilarious in a dry unintended way.
+9. Who makes you laugh the loudest?<br>My fianc&eacute;, she’s hilarious in a dry unintended way.
 
-10. If you could go back in time, what advice would you give your 21 year old self?<br />
-You don’t need to be as honest as you think you need to be, sometimes it’s ok to lie about your feelings.
+10. If you could go back in time, what advice would you give your 21 year old self?<br>You don’t need to be as honest as you think you need to be, sometimes it’s ok to lie about your feelings.
 
 Jamie Joseph is blogging @ riseandflow.net – movement.culture.mindset.
