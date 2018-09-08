@@ -20,7 +20,7 @@ website_url: 'http://earthraceconservation.org/'
 medium_url:
 twitter: 'https://twitter.com/PeteBethune'
 facebook: 'https://www.facebook.com/Capt.Pete.Bethune'
-youtube_video_id:
+youtube_video_id: '7eUVD74ozQU'
 github_username:
 instagram: 'https://www.instagram.com/petebethune/'
 ---

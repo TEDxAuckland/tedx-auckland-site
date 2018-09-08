@@ -14,7 +14,7 @@ website_url: 'https://www.rekindle.org.nz/'
 medium_url:
 twitter: 'https://twitter.com/juliet_rekindle'
 facebook: 'https://www.facebook.com/rekindlenz'
-youtube_video_id:
+youtube_video_id: 'K2uiULiNRAg'
 github_username:
 instagram: 'https://www.instagram.com/rekindle_nz/'
 ---
