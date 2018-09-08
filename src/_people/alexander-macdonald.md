@@ -20,7 +20,7 @@ website_url: >-
 medium_url:
 twitter:
 facebook:
-youtube_video_id:
+youtube_video_id: 'LD0yGBwszCQ'
 github_username:
 instagram:
 ---

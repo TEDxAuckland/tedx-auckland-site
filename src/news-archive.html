@@ -19,7 +19,8 @@ permalink: /news/archive/
 
     <div class="news-card-container news-card-container--archive">
 
-      {% for post in site.posts offset: 10 %}
+      {% assign our_posts = site.posts | where_exp: "p", "p.categories contains 'our-news'" %}
+      {% for post in our_posts offset: 10 %}
         <div class="card news-card">
           <a href="{{ post.url }}">
 
