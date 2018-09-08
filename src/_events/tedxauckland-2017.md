@@ -2,6 +2,7 @@
 title: 2017 event
 short_title: 2017
 upcoming: false
+layout: event-2017
 image: /uploads/tedxakl-2017-banner-fw.png
 badge_image:
 tagline:
