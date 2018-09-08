@@ -10,7 +10,7 @@
   position: relative;
   width: 25%;
   line-height: 0;
-  border: 1px solid #000;
+  border: 1px solid $brand-grey-darker;
   filter: grayscale(100%);
   margin: 0;
   transition: all 0.2s;
@@ -22,6 +22,10 @@
 
   @include respond(phone) {
     width: 50%;
+  }
+
+  &--bg-white {
+    border: none;
   }
 
   &__link {
@@ -80,6 +84,22 @@
     left: 50%;
     background-color: $brand-grey-darker;
     border-top: 5px solid $brand-color;
+
+    &--bg-white {
+      background-color: #fff;
+      border-bottom: 1px solid $brand-grey-darker;
+
+      .social-block__icon svg,
+      .social-block__link a {
+        fill: $brand-grey-darker;
+        color: $brand-grey-darker;
+
+        &:hover {
+          fill: $brand-color;
+          color: $brand-color;
+        }
+      }
+    }
   }
 
   &__header {

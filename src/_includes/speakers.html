@@ -25,20 +25,36 @@
 </div>
 {% endcomment %}
 
+
+
+
 {% raw %}
 <div id="speakers-component">
-  <speakers :speaker-names="speakerNames" :speaker-json="speakerJSON"></speakers>
+	<Speakers :speaker-names="speakerNames" :speaker-json="speakerJSON" :bg-white="bgWhite" :hide-names="hideNames" />
+
 </div>
 {% endraw %}
+
+
+
 
 <script>
 var speakerNames = {{ include.speakers | jsonify }}
 var speakerJSON = {% include json-people.json %}
-
+var bgWhite = false
+var hideNames = false
+{% if include.bg_white %}
+var bgWhite = {{ include.bg_white }}
+{% endif %}
+{% if include.hide_names %}
+var hideNames = {{ include.hide_names }}
+{% endif %}
 new Vue({
 	data: {
 		speakerNames: speakerNames,
 		speakerJSON: speakerJSON,
+		bgWhite: bgWhite,
+		hideNames: hideNames
 	}
 }).$mount('#speakers-component')
 </script>

@@ -1,0 +1,171 @@
+---
+layout: default
+---
+
+{% include heros/2018-event-gif.html %}
+
+<section id="more" class="section-bg-white">
+
+	<div class="container event-info__container">
+
+		<div class="event-info__content">
+			{{ page.content }}
+		</div>
+
+		<div class="event-info__iticket">
+
+			<h1 id="buyTicket" class="event-info__iticket-title">
+				Buy Ticket
+			</h1>
+
+			<div id="iticket-widget"></div>
+			<script type="text/javascript">
+			var iTICKET = iTICKET || [];
+			iTICKET.push(['widget', {
+				containerId: 'iticket-widget',
+				key: 'ce8e6ca3-b1d0-410f-8e3b-8d2d04a2cac8',
+				autoContainer: false
+			}]);
+
+			(function (d, t) {
+				var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+				g.src = 'https://www.iticket.co.nz/widget/script';
+				s.parentNode.insertBefore(g, s);
+			}(document, 'script'));
+			</script>
+
+		</div>
+
+	</div>
+</section>
+
+
+{% if page.youtube_playlist %}
+<section id="talks" class="section-bg-black">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">Talks</h3>
+    {% include talks.html playlist_id = page.youtube_playlist %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.other_youtube_playlist %}
+<section id="talks" class="section-bg-black">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
+    {% include talks.html playlist_id = page.other_youtube_playlist %}
+
+  </div>
+</section>
+{% endif %}
+
+
+{% if page.major_partners or page.supporting_partners or page.event_partners %}
+<section id="partners" class="section-bg-white">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--dark section-heading--partners">
+      partners
+    </h3>
+
+    {% if page.major_partners %}
+      <h4 class="partner-heading">major</h4>
+      <div class="partners">
+        {% for partner_name in page.major_partners %}
+        {% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+        {% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
+        {% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
+
+        <a class="partner-card partner-card--major" href="{{ partner.link }}" target="_blank">
+          {% responsive_image path: partner_logo
+                              class: "partner-card__image partner-card__image--major"
+                              alt: partner_alt
+                              widths: "150, 300, 900"
+                              sizes: "(max-width: 1200px) 25vw,
+                                      (max-width: 900px) 45vw,
+                                      (max-width: 600px) 98vw,
+                                      200px"
+          %}
+          <div class="partner-card__paragraph partner-card__paragraph--major">
+            {{ partner.content }}
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.supporting_partners %}
+      <h4 class="partner-heading">supporting</h4>
+      <div class="partners">
+        {% for partner_name in page.supporting_partners %}
+        {% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+        {% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
+        {% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
+
+        <a class="partner-card partner-card--supporting" href="{{ partner.link }}" target="_blank">
+          {% responsive_image path: partner_logo
+                              class: "partner-card__image partner-card__image--supporting"
+                              alt: partner_alt
+                              widths: "150, 300, 900"
+                              sizes: "(max-width: 1200px) 16.6vw,
+                                      (max-width: 900px) 25vw,
+                                      (max-width: 600px) 33.33vw,
+                                      150px"
+          %}
+          <div class="partner-card__paragraph partner-card__paragraph--supporting">
+            {{ partner.content }}
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if page.event_partners %}
+      <h4 class="partner-heading">event</h4>
+      <div class="partners">
+        {% for partner_name in page.event_partners %}
+          {% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+          {% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
+          {% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
+
+          <a class="partner-card" href="{{ partner.link }}" target="_blank">
+            {% responsive_image path: partner_logo
+                                class: "partner-card__image"
+                                alt: partner_alt
+                                widths: "150, 300, 900"
+                                sizes: "(max-width: 1200px) 15vw,
+                                        (max-width: 900px) 20vw,
+                                        (max-width: 600px) 33.33vw,
+                                        150px"
+            %}
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.people %}
+<section id="speakers" class="section-bg-white">
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">speakers</h3>
+
+    {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
+  </div>
+</section>
+{% endif %}
+
+{% if page.flikr_galleries.first %}
+<section>
+  <div class="container">
+    <h3 class="section-heading section-heading--flickr">flickr</h3>
+
+    {% include flickr.html galleries = page.flikr_galleries %}
+  </div>
+</section>
+{% endif %}
