@@ -26,6 +26,12 @@
 
   &--bg-white {
     border: none;
+    filter: grayscale(0%);
+
+    &.speaker-card:hover,
+    &.speaker-card.speaker-card--active {
+      filter: grayscale(100%);
+    }
   }
 
   &__link {
