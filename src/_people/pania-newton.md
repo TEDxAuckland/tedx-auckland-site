@@ -1,7 +1,7 @@
 ---
 name: Pania Newton
 email:
-image:
+image: /uploads/pania-newton2.jpg
 description_markdown: >-
   *Passionate / Kaitiaki / Auntie*
 
