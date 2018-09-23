@@ -15,7 +15,7 @@ description_markdown: >-
   mantra is 'Hard work, works', which is implemented throughout all aspects of
   Auckland Labour Hire; especially when creating a positive and personable
   experience for his team and all others involved.
-website_url:
+website_url: 'https://www.alh.nz/'
 medium_url:
 twitter:
 facebook:
