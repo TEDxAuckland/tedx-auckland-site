@@ -23,6 +23,8 @@ people:
   - imche-fourie
   - zeshan-qureshi
   - pania-newton
+  - israel-izzy-whitley
+  - david-downs
 flikr_galleries:
   -
 major_partners:
