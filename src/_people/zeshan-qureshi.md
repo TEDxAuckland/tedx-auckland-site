@@ -1,7 +1,7 @@
 ---
 name: Zeshan Qureshi
 email:
-image:
+image: /uploads/zeshan-quershi-2.jpg
 description_markdown: >-
   *Doctor / &nbsp;Author / Activist*
 
@@ -22,7 +22,7 @@ description_markdown: >-
   featured in a BBC documentary bringing mental health amongst doctors to the
   spotlight, and is now working with others to explore solutions for healthcare
   professional’s mental health crisis.
-website_url:
+website_url: 'http://zeshanqureshi.com/'
 medium_url:
 twitter:
 facebook:
