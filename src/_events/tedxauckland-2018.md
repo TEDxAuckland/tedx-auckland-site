@@ -21,6 +21,8 @@ people:
   - sarah
   - swee-tan
   - imche-fourie
+  - zeshan-qureshi
+  - pania-newton
 flikr_galleries:
   -
 major_partners:
