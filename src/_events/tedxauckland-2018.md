@@ -25,6 +25,7 @@ people:
   - pania-newton
   - israel-izzy-whitley
   - david-downs
+  - daniel-gudsell
 flikr_galleries:
   -
 major_partners:
