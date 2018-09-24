@@ -49,7 +49,7 @@ image: /assets/images/bg-upcoming-events.jpg
 </section>
 
 {% for event in sorted_events %}
-  <section id="{{ event.short_title }}" class="{% cycle "section-bg-grey", "section-bg-black" %}">
+  <section id="{{ event.short_title }}" class="{% cycle "section-bg-white", "section-bg-grey-lighter" %}">
   	<div class="container">
 
   		<h3 class="section-heading section-heading--talks">{{ event.short_title }}</h3>

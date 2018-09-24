@@ -27,29 +27,15 @@ layout: default
 </section>
 {% endif %}
 
-
-{% if page.youtube_playlist %}
-<section id="talks" class="section-bg-grey">
+{% if page.people %}
+<section id="speakers" class="section-bg-swirl">
   <div class="container">
+    <h3 class="section-heading section-heading--speakers">speakers</h3>
 
-    <h3 class="section-heading section-heading--talks">Talks</h3>
-    {% include talks.html playlist_id = page.youtube_playlist %}
-
+    {% include speakers.html speakers = page.people hide_names = true %}
   </div>
 </section>
 {% endif %}
-
-{% if page.other_youtube_playlist %}
-<section id="talks" class="section-bg-grey">
-  <div class="container">
-
-    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
-    {% include talks.html playlist_id = page.other_youtube_playlist %}
-
-  </div>
-</section>
-{% endif %}
-
 
 {% if page.major_partners or page.supporting_partners or page.event_partners %}
 <section id="partners" class="section-bg-white">
@@ -75,12 +61,24 @@ layout: default
 </section>
 {% endif %}
 
-{% if page.people %}
-<section id="speakers" class="section-bg-swirl">
+{% if page.youtube_playlist %}
+<section id="talks" class="section-bg-white">
   <div class="container">
-    <h3 class="section-heading section-heading--speakers">speakers</h3>
 
-    {% include speakers.html speakers = page.people hide_names = true %}
+    <h3 class="section-heading section-heading--talks">Talks</h3>
+    {% include talks.html playlist_id = page.youtube_playlist %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.other_youtube_playlist %}
+<section id="talks" class="section-bg-white">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
+    {% include talks.html playlist_id = page.other_youtube_playlist %}
+
   </div>
 </section>
 {% endif %}
