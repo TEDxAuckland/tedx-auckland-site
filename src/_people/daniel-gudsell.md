@@ -1,7 +1,7 @@
 ---
 name: Daniel Gudsell
 email:
-image:
+image: /uploads/daniel-gudsell-2.jpg
 description_markdown: >-
   *Entrepreneur / Wood Enthusiast / Amateur Linguist*
 
