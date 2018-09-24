@@ -11,6 +11,9 @@
 		align-items: center;
 		max-width: 160rem;
 		margin: 0 auto;
+		@media only screen and (min-width: 100em) {
+			justify-content: space-between;
+		}
 	}
 
 	&__content {
@@ -107,7 +110,7 @@
 	}
 
 	@media only screen and (min-width: 100em) {
-		width: 87%;
-		height: 87%;
+		width: 95%;
+		height: 95%;
 	}
 }
