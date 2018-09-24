@@ -23,7 +23,7 @@ description_markdown: >-
 website_url: 'https://www.protectihumatao.com/'
 medium_url:
 twitter:
-facebook:
+facebook: 'https://www.facebook.com/protectIhumatao/'
 youtube_video_id:
 github_username:
 instagram:

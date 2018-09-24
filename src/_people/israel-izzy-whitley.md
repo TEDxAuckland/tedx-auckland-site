@@ -18,7 +18,7 @@ description_markdown: >-
 website_url: 'https://www.alh.nz/'
 medium_url:
 twitter:
-facebook:
+facebook: 'https://www.facebook.com/AKLLabourHire/'
 youtube_video_id:
 github_username:
 instagram:

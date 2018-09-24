@@ -17,7 +17,7 @@ description_markdown: >-
   events that saw him beat cancer, and on his new approach to life.
 website_url: 'http://www.downwithcancer.nz/'
 medium_url:
-twitter:
+twitter: 'https://twitter.com/dwdowns'
 facebook:
 youtube_video_id:
 github_username:
