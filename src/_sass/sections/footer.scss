@@ -1,6 +1,9 @@
 .footer {
-	background: #111;
+	background: $brand-white;
+	color: #000;
 	padding: 5rem 0;
+	border-top: 1px dashed #000;
+	border-bottom: 1px dashed #000;
 
 	@include respond(tab-land) {
     padding: 3rem 1rem;

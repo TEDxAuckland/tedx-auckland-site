@@ -1,5 +1,5 @@
 .nav-bar {
-	background: #111;
+	background-color: $brand-white;
 	padding: 20px 0;
 
 	&__container {
@@ -86,7 +86,7 @@
 		text-transform: uppercase;
 		line-height: 1.8rem;
 		font-weight: bold;
-		color: $brand-white;
+		color: #000;
 
 		&--sub {
 			color: darken($brand-white, 40%);
