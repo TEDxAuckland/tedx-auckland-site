@@ -6,7 +6,7 @@
 
 .talk-card {
   position: relative;
-  background-color: $brand-grey-darker;
+  background-color: $brand-grey;
   font-family: $secondary-font;
   border: 1px solid #000;
   flex: 1 1 33.33%;
@@ -53,7 +53,7 @@
   }
 
   &__image {
-    height: 23rem;
+    height: 22.5rem;
     width: 100%;
     object-fit: cover;
   }

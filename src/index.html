@@ -18,15 +18,15 @@ youtube_playlist: PLcm2pIIAwlDvyvhnABusUFtL7E4k2sM_B
 
 {% assign upcoming_event = site.events | where_exp: "e", "e.short_title == 2018" | first %}
 
-<section id="speakers" class="section-bg-swirl">
+<section id="speakers" class="section-bg-white">
   <div class="container">
     <h3 class="section-heading section-heading--speakers">upcoming speakers</h3>
 
-    {% include speakers.html speakers = upcoming_event.people hide_names = true %}
+    {% include speakers.html speakers = upcoming_event.people bg_white = true hide_names = true %}
   </div>
 </section>
 
-<section id="talks" class="section-bg-black">
+<section id="talks" class="section-bg-grey">
 	<div class="container">
 
 		<h3 class="section-heading section-heading--talks">Talks</h3>
