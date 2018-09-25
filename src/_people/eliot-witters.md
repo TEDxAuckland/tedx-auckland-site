@@ -1,9 +1,9 @@
 ---
 name: Eliot Witters
 email:
-image:
+image: /uploads/eliot-witters.jpg
 description_markdown:
-website_url:
+website_url: 'https://www.youtube.com/channel/UCzn2yq12ogaJH2IsK8p48gw'
 medium_url:
 twitter:
 facebook:
