@@ -26,6 +26,8 @@ people:
   - israel-izzy-whitley
   - david-downs
   - daniel-gudsell
+  - eliot-witters
+  - aaja-nachle
 flikr_galleries:
   -
 major_partners:
