@@ -21,7 +21,7 @@ image: /assets/images/bg-upcoming-events.jpg
         <a href="{{ event.url }}" class="event-info-link">
           <div class="event-info">
             <div class="event-info__top">
-              {{ event.title }}
+              <h3>{{ event.title }}</h3>
             </div>
             <div class="event-info__bottom">
               {{ event.start_date | date: "%-d %b %Y" }}
