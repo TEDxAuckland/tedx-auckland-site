@@ -48,3 +48,66 @@ textarea {
 		margin-right: 10px;
 	}
 }
+
+.extended-mailchimp {
+
+	.required-field {
+		color: $brand-color;
+	}
+
+	.label-btn {
+		list-style-type: none;
+		padding-bottom: 15px;
+
+		label {
+			color: red;
+			text-align:center;
+			padding-right: 10px;
+			display:block;
+			cursor: pointer;
+			list-style-type: none;
+		}
+
+		input {
+			margin:4px;
+			background-color:#EFEFEF;
+			border-radius:4px;
+			border:1px solid #D0D0D0;
+			overflow:auto;
+			opacity: 0;
+			text-decoration: underline;
+		}
+
+		:hover {
+			color: red;
+		}
+
+		:checked + label {
+			color: black;
+			font-weight: bold;
+			font-size: 1em;
+		}
+	}
+
+	.input-button-group {
+		display: flex;
+	}
+
+	.input-form-field {
+		display: block;
+		padding: 15px;
+		width: 100%;
+		border: 0;
+		border-radius: 4px;
+		margin: 0;
+		box-sizing: border-box;
+		font-size: 2.2rem;
+		margin-right: 10px;
+		border: none;
+		border-bottom: 2px solid red;
+	}
+
+	.mc-field-group {
+		padding: 10px;
+	}
+}

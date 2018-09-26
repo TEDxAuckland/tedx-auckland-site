@@ -20,17 +20,22 @@ title: About Us
 			</div>
 
 			<div class="about-social">
-				<h4 class="has-red-stripe">Join our community</h4>
-				<div class="about-social__mailchimp">
-					{% include embed/mailchimp-form.html %}
-				</div>
-
 				<h4 class="has-red-stripe">Facebook</h4>
 				<div class="about-social__facebook">
 					{% include embed/facebook-feed.html %}
 				</div>
 			</div>
+		</div>
 
+		<h3 class="has-red-stripe">Contact us</h3>
+	 <div class="center-form">
+		 {% include contact.html %}
+	 </div>
+
+
+		<h3 class="has-red-stripe with-padding">Join our community</h3>
+		<div class="center-form">
+			{% include embed/extended-mailchimp-form.html %}
 		</div>
 	</div>
 </section>
