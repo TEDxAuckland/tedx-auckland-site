@@ -6,6 +6,24 @@
   }
 }
 
+.post-metadata {
+  display: flex;
+  border-bottom: 2px solid red;
+  margin-bottom: 2em;
+  margin-top: 1em;
+  font-weight: bold;
+
+  .author {
+    float: left;
+  }
+
+  .post-date {
+    margin-left: auto;
+    justify-content: flex-end;
+  }
+}
+
+
 .post-navigation {
   display: flex;
   justify-content: space-around;

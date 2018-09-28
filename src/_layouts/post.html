@@ -5,18 +5,27 @@ layout: default
 <section id="post" class="post section-bg-white">
 	<div class="container post-container">
     <h3 class="section-heading section-heading--post">{{ page.title }}</h3>
-		<p><time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time></p>
 
-		{% if page.alturl %}
-			<p>Article from <a href="{{ page.alturl }}">{{ page.alturl }}</a></p>
+		<div class="post-metadata">
 
-			<p>{{ page.altauthor }}</p>
-		{% endif %}
+			{% if page.alturl %}
+				<p>Article from {{ page.altauthor }}: <a href="{{ page.alturl }}">{{ page.alturl }}</a></p>
+			{% else %}
+				<div class="author">
+					{% if page.author %}
+						{% if page.author.email %}
+							By <a href="mailto:{{ page.author.email }}">{{ page.author.first_name }} {{ page.author.last_name }} {{ page.author.display_name }}</a>
+						{% else %}
+							By {{ page.author.first_name }} {{ page.author.last_name }} {{ page.author.display_name }}
+							{% endif %}
+					{% endif %}
+				</div>
+			{% endif %}
 
-		{% if page.author %}
-			<p>By {{ page.author.first_name }} {{ page.author.last_name }} {{ page.author.display_name }}</p>
-			<p>{{ page.author.email }}</p>
-		{% endif %}
+				<div class="post-date">
+					<time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time>
+				</div>
+		</div>
 
 
     {{ content }}

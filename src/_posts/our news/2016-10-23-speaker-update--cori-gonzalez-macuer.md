@@ -6,7 +6,7 @@ image: /assets/wordpress/4G5A4602-2400-60pc.jpg
 author:
   login:
   email:
-  display_name:
+  display_name: Ciara Pratt
   first_name:
   last_name:
 categories: [our-news]

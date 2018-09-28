@@ -6,7 +6,7 @@ image: /assets/wordpress/Georgia-Lala-2016-68pc.jpg
 author:
   login:
   email:
-  display_name:
+  display_name: Ciara Pratt
   first_name:
   last_name:
 categories: [our-news]
