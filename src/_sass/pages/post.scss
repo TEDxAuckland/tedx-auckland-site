@@ -23,6 +23,23 @@
   }
 }
 
+.post-content {
+  p {
+    line-height: 2;
+    padding: 1em;
+  }
+
+  ul {
+    padding: 0.5em;
+    list-style: none;
+  }
+
+  iframe {
+    display: block;
+    margin: auto;
+  }
+}
+
 
 .post-navigation {
   display: flex;
