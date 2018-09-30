@@ -12,7 +12,7 @@
   }
 
   &__right{
-    flex: 1 0 70%;
+    flex: 1 0 50%;
     padding-left: 6rem;
     @include respond(phone) { padding: 0; }
   }
