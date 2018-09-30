@@ -62,6 +62,8 @@
     width: 54rem;
     height: 30rem;
     margin: 2rem;
+    display: block;
+    margin: auto;
 
     @include respond(phone) {
       width: 30rem;
