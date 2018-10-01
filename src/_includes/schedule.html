@@ -1,0 +1,11 @@
+{% assign schedule = include.schedule %}
+
+<div class="schedule">
+  {% for sessions in schedule %}
+    <h4>Session {{sessions.session}}: {{sessions.time}}</h4>
+
+    {% for speaker in sessions.speakers %}
+      <h5>{{ speaker.name }}</h5>
+    {% endfor %}
+  {% endfor %}
+</div>
