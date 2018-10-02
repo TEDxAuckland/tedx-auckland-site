@@ -33,7 +33,7 @@ twitter:
 facebook:
 youtube_video_id:
 github_username:
-instagram:
+instagram: 'https://www.instagram.com/jessicaemilyquinn/'
 ---
 
 Enter your description here...
