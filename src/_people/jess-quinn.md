@@ -27,7 +27,7 @@ description_markdown: >-
   Jess is currently on a mission to bringing awareness to image retouching in
   the advertising industry and why we are chasing an unachievable and
   unrealistic idea of perfection both as a model and advocate.
-website_url:
+website_url: 'https://beplanbe.com/'
 medium_url:
 twitter:
 facebook:
