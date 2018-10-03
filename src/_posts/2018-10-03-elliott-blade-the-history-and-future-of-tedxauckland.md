@@ -39,9 +39,9 @@ Other good ideas are just revolutionary, like a new medical breakthrough that’
 
 **Do you have a favourite TED Talk?**
 
-I don’t know if i have a favourite one [laughs]. My favourite talks would be a real mix, I’ve probably got ten or twenty. I like Charmian Gooch’s talk on corruption - her one was really ballsy and brave. You look at her and think, ‘Wow, she could be dead in six months’ because she is uncovering so much corruption head on.
+I don’t know if i have a favourite one [laughs]. My favourite talks would be a real mix, I’ve probably got ten or twenty. I like [Charmian Gooch’s talk on corruption](https://www.ted.com/talks/charmian_gooch_meet_global_corruption_s_hidden_players?language=en){:target="_blank"} - her one was really ballsy and brave. You look at her and think, ‘Wow, she could be dead in six months’ because she is uncovering so much corruption head on.
 
-Another of my favourites would be George Monbiot’s talk on rewilding - it was pretty radical. His talk really resonated with me in that we should let lions, tigers and other animals back into the wild, unfenced.
+Another of my favourites would be [George Monbiot’s talk on rewilding](https://www.ted.com/talks/george_monbiot_for_more_wonder_rewild_the_world?language=en){:target="_blank"} - it was pretty radical. His talk really resonated with me in that we should let lions, tigers and other animals back into the wild, unfenced.
 
 **What will make the TEDxAuckland 2018 event special?**
 
