@@ -1,4 +1,15 @@
 ---
+layout: post
+title: 'Elliott Blade: The history and future of TEDxAuckland'
+date:
+image:
+author:
+  login:
+  email: elliott@tedxauckland.com
+  display_name: Elliott Blade
+  first_name: ''
+  last_name: ''
+categories: [our-news]
 ---
 
 &nbsp;
