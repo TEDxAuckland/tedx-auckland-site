@@ -49,7 +49,7 @@ Half of the event is coming along to hear people talk. The other half is to come
 
 We find the attendees are just as interesting as the speakers, with the attendees being just as much a part of the event as speakers are. Getting to talk to a speaker about an idea that you love is really special instead of just watching it online.
 
-Looking 10 years into the future, do you have a vision for TEDxAuckland?
+**Looking 10 years into the future, do you have a vision for TEDxAuckland?**
 
 We want a sustainable, well-run organisation, and to keep growing the community of people involved who are in such diverse areas, from different types of art to finance to environmentalism.
 
