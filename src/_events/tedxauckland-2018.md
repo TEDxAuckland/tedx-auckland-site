@@ -1,6 +1,6 @@
 ---
 title: 2018 event
-short_title: 2018
+short_title: '2018'
 upcoming: true
 event_bar_right: 'Saturday October 13th, 2018 | Shed 10, Queens Wharf'
 layout: event-2018
@@ -28,6 +28,7 @@ people:
   - daniel-gudsell
   - eliot-witters
   - aaja-nachle
+  - jess-quinn
 flikr_galleries:
   -
 major_partners:
