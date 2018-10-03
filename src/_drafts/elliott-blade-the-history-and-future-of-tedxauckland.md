@@ -1,18 +1,17 @@
 ---
 layout: post
 title: 'Elliott Blade: The history and future of TEDxAuckland'
-date:
+date: 2018-10-03 00:00:00 +1300
 image:
 author:
   login:
   email: elliott@tedxauckland.com
   display_name: Elliott Blade
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  first_name:
+  last_name:
+categories:
+  - our-news
 ---
-
-&nbsp;
 
 ![](/uploads/elliot-blog.jpg)
 
@@ -26,7 +25,7 @@ I got involved in 2011 and started running things in 2012 after a group of frien
 
 How would you define a good TED talk?
 
-There’s five key points [counts off fingers] it’s your idea, your idea, your idea, your idea... and the way you tell it [laughs]. It’s all about the idea. There’s plenty of storytelling platforms in the world and TED doesnt need to be another one. We get a lot of really cool people who have amazing stories who approach us, but they don’t have an idea worth spreading. We always want good stories, but it's not the priority. We want a good idea backed up by a good story.
+There’s five key points [counts off fingers] it’s your idea, your idea, your idea, your idea… and the way you tell it [laughs]. It’s all about the idea. There’s plenty of storytelling platforms in the world and TED doesnt need to be another one. We get a lot of really cool people who have amazing stories who approach us, but they don’t have an idea worth spreading. We always want good stories, but it's not the priority. We want a good idea backed up by a good story.
 
 What’s the process of speaker selection and curation?
 
