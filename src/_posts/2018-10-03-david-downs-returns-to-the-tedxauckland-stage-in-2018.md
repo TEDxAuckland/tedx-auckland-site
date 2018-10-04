@@ -2,7 +2,7 @@
 layout: post
 title: David Downs Returns To The TEDxAuckland Stage In 2018
 date: 2018-10-03 00:00:00 +1300
-image:
+image: /uploads/43149318-275541049761622-4091425982638981120-n.jpg
 author:
   login:
   email:

@@ -2,7 +2,7 @@
 layout: post
 title: An Interview With Elliott Blade - TEDxAuckland Licensee
 date: 2018-10-03 00:00:00 +1300
-image:
+image: /uploads/elliot-blog.jpg
 author:
   login:
   email:
