@@ -21,6 +21,8 @@ In 2014, Co-Founder of the Classic Comedy Club, David Downs spoke at TEDxAkl wit
 
 Since that talk, a lot has happened in Downs’ life, all of which has influenced this TEDxAuckland alumni to form an idea that he couldn’t have come up with prior. The kind of experiences that have made 2018’s David Downs incredibly different to the David Downs who presented on the big red dot back in 2014.
 
+<!--break-->
+
 There won’t be mention of NZ’s "number 8 wire" mentality, and he won’t be joined by any comedian mates. No, this year David’s idea is exceptionally personal, and one that we feel will resonate emotionally with those who have the privilege to hear it.
 
 Two years ago, David was diagnosed with a terminal cancer. Through a series of remarkable events, he’s still around today, though modified, both philosophically and genetically.
