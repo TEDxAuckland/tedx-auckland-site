@@ -23,6 +23,8 @@ Elliott explains what makes a good talk and the behind the scenes process behind
 
 I got involved in 2011 and started running things in 2012 after a group of friends and I had wanted to do something similar while we were in University. We saw a lot of our friends looking overseas for ideas and inspiration while we thought there were world class ideas popping up across the fields, from architecture to education. So we had the idea of getting all the best people we can find with the coolest ideas that aren’t necessarily well known and put them up on stage. Someone in the group said, “Isn’t that what TED talks do? Why don’t we look into helping with TEDxAuckland instead of setting up our own thing?” Reaching out to the current organiser at the time was the best thing we could’ve done.
 
+<!--break-->
+
 **How would you define a good TED talk?**
 
 There’s five key points. It’s your idea, your idea, your idea, your idea… and the way you tell it! It really is all about the idea. There’s plenty of storytelling platforms in the world and TED doesn't need to be another one. A lot of really cool people with amazing stories approach us, but they don’t have an idea worth spreading. We always want good stories, but it's not the priority. We want a good idea backed up by a good story.

@@ -30,9 +30,14 @@ title: News
         </div>
       </div>
 
-      <!-- <div class="highlight-content">
-        {{ highlight.content }}
-      </div> -->
+      <div class="highlight-content">
+
+        {{ highlight.content | split:'<!--break-->' | first }}
+
+        {% if highlight.content contains '<!--break-->' %}
+          <a class="button" href="{{ highlight.url }}">read more</a>
+        {% endif %}
+      </div>
     </div>
   </div>
 </section>

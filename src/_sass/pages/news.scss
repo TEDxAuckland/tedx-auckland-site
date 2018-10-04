@@ -71,6 +71,31 @@
       margin: 1rem o;
     }
   }
+
+  p {
+    line-height: 2;
+    padding: 1em;
+  }
+
+  strong {
+    color: black;
+  }
+
+  ul {
+    padding: 0.5em;
+    list-style: none;
+  }
+
+  img {
+    width: 54rem;
+    display: block;
+    margin: auto;
+
+    @include respond(phone) {
+      width: 30rem;
+      margin: 1rem o;
+    }
+  }
 }
 
 .news-card-container {
