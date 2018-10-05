@@ -2,7 +2,7 @@
 layout: post
 title: An interview with Pete Ceglinski - CEO and Co-Founder of the Seabin Project
 date: 2018-10-05 12:00:00 +1300
-image:
+image: /uploads/seabin-s-2017-adventure-1.jpg
 author:
   login:
   email:
@@ -17,7 +17,7 @@ categories:
 
 ![](/uploads/seabin-s-2017-adventure.jpg)
 
-#### *An interview with Pete Ceglinski, CEO and co-founder of [the Seabin Project](http://seabinproject.com/) on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
+#### *An interview with [Pete Ceglinski](https://tedxauckland.com/people/pete-ceglinski/), CEO and co-founder of [the Seabin Project](http://seabinproject.com/) on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
 
 &nbsp;
 
@@ -27,11 +27,11 @@ This is my first Rodeo, so to speak. So my opinion is only from my experience in
 
 We can redesign plastics to be less harmful and reusable, but we will still have to address our throwaway culture. The second most significant challenge is the mentality of that “someone else will deal with it”. I think to overcome these underlying cultural issues, a greater emphasis on education of plastics is needed. This issue of ocean plastics is relatively new, and even the experts are still learning the repercussions of our actions.
 
-**What was, or is your biggest challenge?**
+**What was or is your biggest challenge?**
 
 So far my most significant challenge was to reinvent myself into an “entrepreneur” with international demand for our products from over 90 countries.
 
-The second most significant challenge was to sell an idea that increases the value of life for every living thing on the planet, and yet only 95% of the population could purchase and implement the technology. It was frustrating to struggle to raise $360,000 for a product to clean up our oceans while a backpack raised over $1,000,000 (It was a great backpack though). In the end, we raised the money from donations from concerned citizens around the globe. The average donation was $7.
+The second most significant challenge was to sell an idea that increases the value of life for every living thing on the planet, and yet 95% of the population couldn't purchase and implement the technology. It was frustrating to struggle to raise $360,000 for a product to clean up our oceans while a backpack raised over $1,000,000 (It was a great backpack though). In the end, we raised the money from donations from concerned citizens around the globe. The average donation was $7.
 
 **My understanding is that the problem starts on land and with us, what lifestyle changes are going to be the most effective in preventing plastic pollution?**
 
@@ -51,8 +51,8 @@ My view is that as humans, we like to push things to the limit and then our surv
 
 Thanks to the internet, every day we have new information brought to us from social media and news outlets, and it's so amazing to see how many new technologies are being developed to deal with human-made problems and also building upon existing technologies.
 
-In saying this, technology alone will not save us from ourselves no matter how far advanced it is. What we need are educational programs designed to change our seemingly destructive culture. To answer the question, I feel that the biggest next market will be the circular economy concept for plastics because if plastics are forever, it would be wise to reuse it you would think.
+In saying this, technology alone will not save us from ourselves no matter how far advanced it is. What we need are educational programs designed to change our seemingly destructive culture. To answer the question, I feel that the biggest next market will be the circular economy concept for plastics, because if plastics are forever, it would be wise to reuse it you would think.
 
 ![](/uploads/blog-pete.jpg)
 
-You can catch Pete Ceglinski's talk at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
+You can catch Pete Ceglinski's talk more on his revolutionary new idea at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
