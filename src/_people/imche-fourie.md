@@ -3,7 +3,7 @@ name: Imche Fourie
 email:
 image: /uploads/Imche-Fourie2.jpg
 description_markdown: >-
-  Deep tech / Enthusiast / Lifter
+  *Deep tech / Enthusiast / Lifter*
 
 
   Imche is passionate about accelerating New Zealand’s science and technology
