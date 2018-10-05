@@ -54,7 +54,8 @@ event_schedule:
     time:
     speakers:
       - name:
-  - session: After Party: Marvel Grill
+  - session: After Party at Marvel Grill
+    time:
 flikr_galleries:
   -
 major_partners:
