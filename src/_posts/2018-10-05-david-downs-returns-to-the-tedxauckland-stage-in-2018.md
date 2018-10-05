@@ -7,8 +7,8 @@ author:
   login:
   email: ethan@tedxauckland.com
   display_name: Ethan Alderson-Hughes - Co-Organiser of TEDxAuckland
-  first_name: Ethan
-  last_name: Alderson-Hughes
+  first_name:
+  last_name:
 categories:
   - our-news
 ---
