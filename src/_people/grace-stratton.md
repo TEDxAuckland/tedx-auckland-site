@@ -3,7 +3,7 @@ name: Grace Stratton
 email:
 image: /uploads/grace-stratton-2.jpg
 description_markdown: >-
-  Outspoken / Able / Driven
+  *Outspoken / Able / Driven*
 
 
   Grace Stratton, doesn’t pull any punches. Diagnosed with Cerebral Palsy at a
@@ -25,7 +25,7 @@ description_markdown: >-
   should be self evident.
 website_url: 'http://gracegeorgia.co.nz'
 medium_url:
-twitter: 'https://twitter.com/graciesblog'
+twitter:
 facebook:
 youtube_video_id:
 github_username:
