@@ -13,21 +13,21 @@ categories:
   - our-news
 ---
 
-####  
+#### &nbsp;
 
 ![](/uploads/seabin-s-2017-adventure.jpg)
 
-#### *An interview with Pete Ceglinski, CEO and co-founder of the Seabin Project on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
+#### *An interview with Pete Ceglinski, CEO and co-founder of [the Seabin Project](http://seabinproject.com/) on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
 
- 
+&nbsp;
 
-**As an organisation tackling the complex issue of plastic pollution, in your****opinion what are some of the most significant challenges?**
+**As an organisation tackling the complex issue of plastic pollution, in your&nbsp;****opinion what are some of the most significant challenges?**
 
 This is my first Rodeo, so to speak. So my opinion is only from my experience in getting this startup off the ground. My opinion is that we can solve all these issues with technology efficiently, however, changing a “throw away” culture is possibly the most significant challenge that the world faces.
 
 We can redesign plastics to be less harmful and reusable, but we will still have to address our throwaway culture. The second most significant challenge is the mentality of that “someone else will deal with it”. I think to overcome these underlying cultural issues, a greater emphasis on education of plastics is needed. This issue of ocean plastics is relatively new, and even the experts are still learning the repercussions of our actions.
 
-**What was or is your biggest challenge?**
+**What was, or is your biggest challenge?**
 
 So far my most significant challenge was to reinvent myself into an “entrepreneur” with international demand for our products from over 90 countries.
 
@@ -55,4 +55,4 @@ In saying this, technology alone will not save us from ourselves no matter how f
 
 ![](/uploads/blog-pete.jpg)
 
-You can catch Pete Ceglinski's talk at [TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
+You can catch Pete Ceglinski's talk at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
