@@ -1,7 +1,7 @@
 ---
 name: Andrew Barnes
 email:
-image: /uploads/andrew-barnes-2.jpg
+image: /uploads/andrew-barnes2-1.jpg
 description_markdown: >-
   *Innovator / Entrepreneur / Philanthropist*
 
