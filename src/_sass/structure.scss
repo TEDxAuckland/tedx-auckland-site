@@ -104,13 +104,13 @@ a {
 	}
 
 	&--speakers {
-	  transform: translate(-0.74em, .235em);
-	  @include respond(section-overflow) { transform: translate(.26em, .235em); }
+	  transform: translateX(-0.74em);
+	  @include respond(section-overflow) { transform: translateX(.26em); }
 	}
 
 	&--talks {
-	  transform: translate(-0.7em, .235em);
-	  @include respond(section-overflow) { transform: translate(.3em, .235em); }
+	  transform: translateX(-0.7em);
+	  @include respond(section-overflow) { transform: translateX(.3em); }
 	}
 
 	&--partners {
@@ -121,8 +121,8 @@ a {
 
 
 	&--flickr {
-	  transform: translate(-0.74em, .3em);
-		@include respond(section-overflow) { transform: translate(.3em, .3em); }
+	  transform: translateX(-0.74em);
+		@include respond(section-overflow) { transform: translateX(.3em); }
 	}
 
 	&--post {
