@@ -15,15 +15,14 @@ categories:
 
 ![](/uploads/elliot-blog.jpg)
 
-TEDxAuckland organiser and licensee Elliott Blade believes that “A good idea is something that makes you look at the world differently . . . it puts you in someone else’s shoes or opens your mind up to something you hadn’t thought of or experienced before.”&nbsp;
+> “A good idea is something that makes you look at the world differently . . . it puts you in someone else’s shoes or opens your mind up to something you hadn’t thought of or experienced before.”&nbsp;
 
 Elliott explains what makes a good talk and the behind the scenes process behind TEDxAuckland's annual festival of ideas.
 
 **How did you first get involved with TEDxAuckland?**
 
 I got involved in 2011 and started running things in 2012 after a group of friends and I had wanted to do something similar while we were in University. We saw a lot of our friends looking overseas for ideas and inspiration while we thought there were world class ideas popping up across the fields, from architecture to education. So we had the idea of getting all the best people we can find with the coolest ideas that aren’t necessarily well known and put them up on stage. Someone in the group said, “Isn’t that what TED talks do? Why don’t we look into helping with TEDxAuckland instead of setting up our own thing?” Reaching out to the current organiser at the time was the best thing we could’ve done.
-
-<!--break-->
+<!--base32-c9t6arbb-base32-->
 
 **How would you define a good TED talk?**
 
@@ -56,3 +55,7 @@ We find our attendees are just as interesting as the speakers, they're as much a
 We want a sustainable, well-run organisation, and to keep growing the community of people involved who are in such diverse areas; from different types of art to finance to environmentalism.
 
 We want to make sure it’s run every year, get more partners on board and spread the word so every Aucklander knows we’re here.
+
+&lt;hr&gt;
+
+Be Part Of It. [Book Now For Your Place At TEDxAuckland 2018: Off-Piste.](https://tedxauckland.com/events/2018/)
