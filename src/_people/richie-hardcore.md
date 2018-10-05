@@ -3,7 +3,7 @@ name: Richie Hardcore
 email:
 image: /uploads/richie-hardcore-2.jpg
 description_markdown: >-
-  Activist / Muay Thai Fighter / &nbsp;Public Speaker
+  *Activist / Muay Thai Fighter / Public Speaker*
 
 
   'Richie Hardcore is a board member at White Ribbon New Zealand, Ministry of
@@ -27,8 +27,8 @@ description_markdown: >-
   achieve their goals.
 website_url: 'http://richiehardcore.co.nz'
 medium_url:
-twitter: 'https://twitter.com/RichieHardcore'
-facebook: 'https://www.facebook.com/richie.hardcore/'
+twitter:
+facebook:
 youtube_video_id:
 github_username:
 instagram: 'https://www.instagram.com/richiehardcore/'
