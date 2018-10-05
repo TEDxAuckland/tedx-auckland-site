@@ -17,7 +17,7 @@ categories:
 
 ![](/uploads/seabin-s-2017-adventure.jpg)
 
-#### *An interview with [Pete Ceglinski](https://tedxauckland.com/people/pete-ceglinski/), CEO and co-founder of [the Seabin Project](http://seabinproject.com/) on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
+#### *An interview with [Pete Ceglinski](https://tedxauckland.com/people/pete-ceglinski/){: target="_blank"}, CEO and co-founder of [the Seabin Project](http://seabinproject.com/){: target="_blank"} on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
 
 **As an organisation tackling the complex issue of plastic pollution, in your****opinion what are some of the most significant challenges?**
 
@@ -51,6 +51,4 @@ Thanks to the internet, every day we have new information brought to us from soc
 
 In saying this, technology alone will not save us from ourselves no matter how far advanced it is. What we need are educational programs designed to change our seemingly destructive culture. To answer the question, I feel that the biggest next market will be the circular economy concept for plastics, because if plastics are forever, it would be wise to reuse it you would think.
 
-![](/uploads/blog-pete.jpg)
-
-You can catch Pete Ceglinski talk more on his revolutionary new idea at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
+You can catch Pete Ceglinski talk more on his revolutionary new idea at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/)
