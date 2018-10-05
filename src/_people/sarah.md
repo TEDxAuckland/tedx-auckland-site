@@ -3,7 +3,7 @@ name: Sarah
 email:
 image: /uploads/sarah-strong-2.jpg
 description_markdown: >-
-  Mother / Victim / Cyclist
+  *Mother / Victim / Cyclist*
 
 
   Sarah is in her 50’s and loves being outdoors combined with physical activity.
