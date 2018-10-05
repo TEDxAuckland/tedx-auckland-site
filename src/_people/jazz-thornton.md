@@ -3,7 +3,7 @@ name: Jazz Thornton
 email:
 image: /uploads/jazz-thornton-2.jpg
 description_markdown: >-
-  co-founder / advocate / director
+  *Co-founder / Advocate / Director*
 
 
   Having overcome childhood abuse and multiple suicide attempts, Jazz Thornton
@@ -20,8 +20,8 @@ description_markdown: >-
   while changing the way we have conversations about it.
 website_url: 'http://www.thevoicesofhope.org/'
 medium_url: 'https://www.instagram.com/voicesofhope/'
-twitter: 'https://twitter.com/jazz_thornton'
-facebook: 'https://www.facebook.com/thevoicesofhope/'
+twitter:
+facebook:
 youtube_video_id:
 github_username:
 instagram: 'https://www.instagram.com/jazzthornton/'
