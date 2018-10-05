@@ -3,7 +3,7 @@ name: Swee Tan
 email:
 image: /uploads/swee-tan-2.jpg
 description_markdown: >-
-  Surgeon / Research Scientist / Medical Humanitarian
+  *Surgeon / Research Scientist / Medical Humanitarian*
 
 
   From a family of 13 children brought up in a village in Malaysia, Dr Tan
@@ -33,7 +33,7 @@ description_markdown: >-
 website_url: 'http://www.gmri.org.nz'
 medium_url:
 twitter:
-facebook: 'https://www.facebook.com/GMRINZ/'
+facebook:
 youtube_video_id:
 github_username:
 instagram:
