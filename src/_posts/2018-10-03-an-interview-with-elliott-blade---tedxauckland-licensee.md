@@ -56,6 +56,4 @@ We want a sustainable, well-run organisation, and to keep growing the community 
 
 We want to make sure it’s run every year, get more partners on board and spread the word so every Aucklander knows we’re here.
 
-&lt;hr&gt;
-
 Be Part Of It. [Book Now For Your Place At TEDxAuckland 2018: Off-Piste.](https://tedxauckland.com/events/2018/)
