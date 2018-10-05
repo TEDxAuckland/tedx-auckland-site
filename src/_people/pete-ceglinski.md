@@ -3,7 +3,7 @@ name: Pete Ceglinski
 email:
 image: /uploads/pete-ceglinski-2.jpg
 description_markdown: >-
-  Surfer / Environmentalist / Eco-preneur
+  *Surfer / Environmentalist / Eco-preneur*
 
 
   Pete Ceglinski, the Aussie surfer who in 2015 successfully crowdfunded an
@@ -24,7 +24,7 @@ description_markdown: >-
   growing success.
 website_url: 'http://seabinproject.com/'
 medium_url:
-twitter: 'https://twitter.com/Seabin_project'
+twitter:
 facebook:
 youtube_video_id:
 github_username:
