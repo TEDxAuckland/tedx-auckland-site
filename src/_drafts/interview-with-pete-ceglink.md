@@ -6,22 +6,22 @@ image:
 author:
   login:
   email:
-  display_name: Tracy Creed
+  display_name: Tracey Creed
   first_name:
   last_name:
 categories:
   - our-news
 ---
 
-#### &nbsp;
+####  
 
 ![](/uploads/seabin-s-2017-adventure.jpg)
 
 #### *An interview with Pete Ceglinski, CEO and co-founder of the Seabin Project on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
 
-&nbsp;
+ 
 
-**As an organisation tackling the complex issue of plastic pollution, in your&nbsp;****opinion what are some of the most significant challenges?**
+**As an organisation tackling the complex issue of plastic pollution, in your****opinion what are some of the most significant challenges?**
 
 This is my first Rodeo, so to speak. So my opinion is only from my experience in getting this startup off the ground. My opinion is that we can solve all these issues with technology efficiently, however, changing a “throw away” culture is possibly the most significant challenge that the world faces.
 
@@ -55,4 +55,4 @@ In saying this, technology alone will not save us from ourselves no matter how f
 
 ![](/uploads/blog-pete.jpg)
 
-You can catch Pete Ceglinski's talk at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
+You can catch Pete Ceglinski's talk at [TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
