@@ -55,4 +55,4 @@ In saying this, technology alone will not save us from ourselves no matter how f
 
 ![](/uploads/blog-pete.jpg)
 
-You can catch Pete Ceglinski's talk more on his revolutionary new idea at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
+You can catch Pete Ceglinski talk more on his revolutionary new idea at&nbsp;[TEDxAuckland 2018: Off-Piste on October 13.](https://tedxauckland.com/events/2018/){: target="_blank"}
