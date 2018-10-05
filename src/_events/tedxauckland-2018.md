@@ -30,6 +30,7 @@ people:
   - aaja-nachle
   - jess-quinn
   - andrew-barnes
+  - imugi
 flikr_galleries:
   -
 major_partners:
