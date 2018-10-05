@@ -3,7 +3,7 @@ name: Hēmi Kelly
 email:
 image: /uploads/Hemi-Kelly-2.jpg
 description_markdown: >-
-  *Teacher / Author / Translator *
+  *Teacher / Author / Translator*
 
 
   Hēmi Kelly (Ngāti Maniapoto, Ngāti Tahu, Ngāti Whāoa) is a lecturer in te reo
