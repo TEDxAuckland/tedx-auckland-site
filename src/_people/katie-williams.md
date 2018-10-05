@@ -3,7 +3,7 @@ name: Katie Williams
 email:
 image: /uploads/katie-williams-2.jpg
 description_markdown: >-
-  Volunteers’ supporter / respecter of the elderly / cuddle bunny
+  *Volunteers’ supporter / Respecter of the elderly / Cuddle bunny*
 
 
   Katie is the founder of the Kiwi Coffin Club (makers of fine and affordable
