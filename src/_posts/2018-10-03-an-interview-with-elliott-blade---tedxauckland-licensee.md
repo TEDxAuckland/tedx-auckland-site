@@ -15,13 +15,13 @@ categories:
 
 ![](/uploads/elliot-blog.jpg)
 
-> “A good idea is something that makes you look at the world differently . . . it puts you in someone else’s shoes or opens your mind up to something you hadn’t thought of or experienced before.”&nbsp;
+#### *“A good idea is something that makes you look at the world differently . . . it puts you in someone else’s shoes or opens your mind up to something you hadn’t thought of or experienced before.”&nbsp;*
 
 Elliott explains what makes a good talk and the behind the scenes process behind TEDxAuckland’s annual festival of ideas.
 
 **How did you first get involved with TEDxAuckland?**
 
-I got involved in 2011 and started running things in 2012 after a group of friends and I had wanted to do something similar while we were in University. We saw a lot of our friends looking overseas for ideas and inspiration while we thought there were world class ideas popping up across the fields, from architecture to education. So we had the idea of getting all the best people we can find with the coolest ideas that aren’t necessarily well known and put them up on stage. Someone in the group said, “Isn’t that what TED talks do? Why don’t we look into helping with TEDxAuckland instead of setting up our own thing?” Reaching out to the current organiser at the time was the best thing we could’ve done.				<!--base32-c9gq6t9k68pp6ebm6tgq4rk25nh62wv56ct0-base32-->
+I got involved in 2011 and started running things in 2012 after a group of friends and I had wanted to do something similar while we were in University. We saw a lot of our friends looking overseas for ideas and inspiration while we thought there were world class ideas popping up across the fields, from architecture to education. So we had the idea of getting all the best people we can find with the coolest ideas that aren’t necessarily well known and put them up on stage. Someone in the group said, “Isn’t that what TED talks do? Why don’t we look into helping with TEDxAuckland instead of setting up our own thing?” Reaching out to the current organiser at the time was the best thing we could’ve done. <!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh6udkmcxrk8wkb68upwu1p69vqcd9pcdu30bb2c5tpactj-base32-->
 
 **How would you define a good TED talk?**
 
