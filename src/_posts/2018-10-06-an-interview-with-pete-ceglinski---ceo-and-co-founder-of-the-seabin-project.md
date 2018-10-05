@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An interview with Pete Ceglinski - CEO and Co-Founder of the Seabin Project
-date: 2018-10-05 11:00:00 +1300
+date: 2018-10-06 12:00:00 +1300
 image: /uploads/seabin-s-2017-adventure-1.jpg
 author:
   login:
