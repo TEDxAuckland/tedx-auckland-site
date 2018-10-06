@@ -19,7 +19,7 @@ categories:
 
 #### *An interview with [Pete Ceglinski](https://tedxauckland.com/people/pete-ceglinski/){: target="_blank"}, CEO and co-founder of [the Seabin Project](http://seabinproject.com/){: target="_blank"} on the challenges and opportunities we face together as a global community to solve one of the most vexing environmental issues - plastic pollution.*
 
-**As an organisation tackling the complex issue of plastic pollution, in your****opinion what are some of the most significant challenges?**
+**As an organisation tackling the complex issue of plastic pollution, in your&nbsp;****opinion what are some of the most significant challenges?**
 
 This is my first Rodeo, so to speak. So my opinion is only from my experience in getting this startup off the ground. My opinion is that we can solve all these issues with technology efficiently, however, changing a “throw away” culture is possibly the most significant challenge that the world faces.
 
