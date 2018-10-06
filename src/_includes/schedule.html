@@ -13,12 +13,14 @@
       <ul>
         {% for speaker in session.speakers %}
         <li>
-          <h5>{{ speaker.name | replace: '-', ' ' | capitalize_all }}</h5>
+          {% assign person = site.people | where_exp: "item", "item.id contains speaker.name"  | first %}
+          <h5>
+            <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
+          </h5>
         </li>
         {% endfor %}
       </ul>
     </div>
     {% endif %}
-
   {% endfor %}
 </div>
