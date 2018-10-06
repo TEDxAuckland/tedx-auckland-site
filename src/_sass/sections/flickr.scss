@@ -1,0 +1,15 @@
+.flickr_image {
+  overflow: hidden;
+  display: list-item;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 300px;
+}
+
+.flexslider .slides img {
+  max-height: 750px; /*maximum height for all slides*/
+  width: auto; /*proper aspect ratio of images*/
+  max-width: 50%; /*maximum width for all slides*/
+  margin: 0 auto; /*centering images in the container*/
+}
