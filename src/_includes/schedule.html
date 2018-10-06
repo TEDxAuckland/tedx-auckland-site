@@ -1,11 +1,24 @@
 {% assign schedule = include.schedule %}
 
 <div class="schedule">
-  {% for sessions in schedule %}
-    <h4>Session {{sessions.session}}: {{sessions.time}}</h4>
+  {% for session in schedule %}
+    {% if session.time %}
+    <h4>{{session.session}} - {{session.time}}</h4>
+    {% else %}
+    <h4>{{session.session}}</h4>
+    {% endif %}
 
-    {% for speaker in sessions.speakers %}
-      <h5>{{ speaker.name }}</h5>
-    {% endfor %}
+    {% if session.speakers %}
+    <div class="speaker-list__speaker-list">
+      <ul>
+        {% for speaker in session.speakers %}
+        <li>
+          <h5>{{ speaker.name | replace: '-', ' ' | capitalize_all }}</h5>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
   {% endfor %}
 </div>

@@ -90,6 +90,22 @@
   }
 }
 
+.schedule {
+
+  h4 {
+    text-decoration: underline;
+    text-decoration-color: $brand-color;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  &__speaker-list {
+    padding-left: 5%;
+  }
+}
+
 .flickr_gallery {
   position: relative;
   width: 100%;
