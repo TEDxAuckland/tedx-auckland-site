@@ -32,26 +32,25 @@ people:
   - andrew-barnes
   - imugi
 event_schedule:
-  - published: false
-  - session: 1
+  - session: Session 1
     time:
     speakers:
       - name:
   - session: Break 1
     time:
-  - session: 2
+  - session: Session 2
     time:
     speakers:
       - name:
   - session: Break 2
     time:
-  - session: 3
+  - session: Session 3
     time:
     speakers:
       - name:
   - session: Break 3
     time:
-  - session: 4
+  - session: Session 4
     time:
     speakers:
       - name:
