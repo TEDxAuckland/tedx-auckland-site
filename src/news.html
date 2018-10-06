@@ -8,7 +8,7 @@ title: News
     <div class="extra-padding">
       <h3 class="blog-header__title">Blog</h3>
       <p class="blog-header__paragraph editable">
-        Here we will post news and information about the event as well as discuss topics, themes, ideas and local events and matters we think you may be intereste in. We hope you enjoy our articles and would love to hear your thoughts in the comments!
+      	Here we will post news and information about the event as well as discuss topics, themes, ideas and local events and matters we think you may be interested in. We hope you enjoy our articles and would love to hear your thoughts in the comments!
       </p>
     </div>
   </div>
@@ -32,9 +32,9 @@ title: News
 
       <div class="highlight-content">
 
-        {{ highlight.content | split:'<!--break-->' | first }}
+        {{ highlight.content | split:'<!--base32-c9t6arbb-base32-->' | first }}
 
-        {% if highlight.content contains '<!--break-->' %}
+        {% if highlight.content contains '<!--base32-c9t6arbb-base32-->' %}
           <a class="button" href="{{ highlight.url }}">read more</a>
         {% endif %}
       </div>
