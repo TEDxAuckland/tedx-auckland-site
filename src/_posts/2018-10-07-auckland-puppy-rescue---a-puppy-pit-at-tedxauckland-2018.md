@@ -13,7 +13,7 @@ categories:
   - our-news
 ---
 
-![](/uploads/img-9904.jpg)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;*Image by [John Murray](https://www.flickr.com/photos/tedxauckland/albums/72157670522855438){: target="_blank"}*
+![](/uploads/img-9904.jpg)*Image by [John Murray](https://www.flickr.com/photos/tedxauckland/albums/72157670522855438){: target="_blank"}*
 {: .present-before-paste}
 
 ***We have some ideas about where you’ll be between speaker sessions at this year’s TEDxAuckland.*** We’re guessing you’ll be at the puppy pit, meeting a handful of playful puppies who will be there from 9 till 4.
