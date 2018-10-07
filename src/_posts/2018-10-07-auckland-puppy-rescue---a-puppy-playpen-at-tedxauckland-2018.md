@@ -29,4 +29,4 @@ Prove to these puppies that humans aren’t all bad at&nbsp;[TEDxAuckland 2018: 
 
 You can read more about the amazing work *Auckland Puppy Rescue* does [here](http://www.aucklandpuppyrescue.com/){: target="_blank"}.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](blob:https://app.cloudcannon.com/a2c9413e-a963-4d4b-9297-f9b58b545b0a)
+&nbsp;
