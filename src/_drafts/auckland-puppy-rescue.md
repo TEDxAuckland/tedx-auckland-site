@@ -22,13 +22,13 @@ categories:
 *Rocky, Kit, Chichi, Frank, Wha,* and two tiny 8-week-old pups will be waiting to chew off your aglets and smother you with puppy kisses that will make leaving the *Auckland Puppy Rescue* **(APR)** set-up emotionally taxing for you.
 {: .present-before-paste}
 
-These puppies didn’t get the easiest start in life, but thanks to APR, they have been given a fighting chance to find a place to call home.
+These puppies didn’t get the easiest start in life, but thanks to APR, they have been given a fighting chance to find a place to call home and a loving family.
 {: .present-before-paste}
 
-If a bond is formed with one of the pups at the event, you don’t have to say goodbye. All of them are available for adoption. You’ll get to meet APR trustee Suzy, and talk more about the adoption process. You’ll also be able to sign up to the team of fosterers, to care for multiple pups for a short period of time, giving them a safe place to stay while a home is still being found for them.
+If a bond is formed with one of the pups at the event, you don’t have to say goodbye. All of them are available for adoption. You’ll get to meet APR adoptions coordinator Susie Jones, and talk more about the adoption process. You’ll also be able to sign up to the team of fosterers, to care for multiple pups for a short period of time, giving them a safe place to stay while a home is still being found for them.
 {: .present-before-paste}
 
-*Auckland Puppy Rescue* is an organisation that truly cares for the welfare of the animals they save. They aren’t only finding these puppies loving families to be a part of, they're also running a [programme](http://www.aucklandpuppyrescue.com/neuter-ninjas.php){: target="_blank"} to desex dogs, so that fewer are being born outside of the care that is needed.
+*Auckland Puppy Rescue* is an organisation that truly cares for the welfare of the animals they save. They aren’t only finding these puppies loving families to be a part of, they're also running a [programme](http://www.aucklandpuppyrescue.com/neuter-ninjas.php){: target="_blank"} that helps fund the desexing of dogs, so that fewer are being born outside of the care that is needed.
 {: .present-before-paste}
 
 Prove to these puppies that humans aren’t all bad at&nbsp;[TEDxAuckland 2018: Off-Piste](https://tedxauckland.com/events/2018/){: target="_blank"} this Saturday. &nbsp;
