@@ -61,15 +61,6 @@ event_schedule:
 flikr_galleries:
   -
 food_vendors:
-  - name: Urbanaut
-    vendor_link: https://www.urbanautbeer.com/
-    vendor_image: /uploads/urbanaut-logo.jpg
-  - name: Deep Creek
-    vendor_link: http://www.dcbrewing.co.nz/
-    vendor_image: /uploads/deepcreek-logo-01.png
-  - name: Yealands
-    vendor_link: https://www.yealands.co.nz/
-    vendor_image: /uploads/yealands-logo.png
   - name: Allpress
     vendor_link: https://allpressespresso.com/
     vendor_image: /uploads/content_allpress-logo-high-res.jpg
@@ -100,6 +91,16 @@ food_vendors:
   - name: Collective Dairy
     vendor_link:  http://www.thecollective.kiwi/
     vendor_image: /uploads/collective-dairy-logo.jpeg
+food_vendors_pending:
+  - name: Urbanaut
+    vendor_link: https://www.urbanautbeer.com/
+    vendor_image: /uploads/urbanaut-logo.jpg
+  - name: Deep Creek
+    vendor_link: http://www.dcbrewing.co.nz/
+    vendor_image: /uploads/deepcreek-logo-01.png
+  - name: Yealands
+    vendor_link: https://www.yealands.co.nz/
+    vendor_image: /uploads/yealands-logo.png
 major_partners:
 supporting_partners:
 event_partners:
