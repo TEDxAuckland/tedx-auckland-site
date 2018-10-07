@@ -1,0 +1,9 @@
+{% assign food_vendors = include.food_vendors %}
+
+<div class="food-vendors">
+  {% for vendor in food_vendors %}
+  <a class="vendor-card" href="{{vendor.vendor_link}}" target="_blank">
+    <img class="vendor-card__image" border="0" alt="{{vendor.name}}" src="{{vendor.vendor_image}}">
+  </a>
+  {% endfor %}
+</div>

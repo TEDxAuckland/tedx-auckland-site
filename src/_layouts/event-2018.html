@@ -97,6 +97,16 @@ layout: default
 </section>
 {% endif %}
 
+{% if page.food_vendors %}
+<section id="food" class="section-bg-white">
+	<div class="container">
+		<h3 class="section-heading">Food vendors</h3>
+
+		{% include food-vendors.html food_vendors = page.food_vendors %}
+	</div>
+</section>
+{% endif %}
+
 {% if page.flikr_galleries.first %}
 <section>
   <div class="container">
