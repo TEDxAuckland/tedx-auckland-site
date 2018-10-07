@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Auckland Puppy Rescue - A Puppy Pit at TEDxAuckland 2018
+title: Auckland Puppy Rescue - A Puppy-Pit at TEDxAuckland 2018
 date: 2018-10-07 12:00:00 +1300
 image: /uploads/img-9904-1.jpg
 author:
