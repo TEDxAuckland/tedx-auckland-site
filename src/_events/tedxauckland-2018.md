@@ -32,6 +32,8 @@ people:
   - andrew-barnes
   - imugi
 event_schedule:
+  - session: Event start
+    time: 8:30 am
   - session: Session 1
     time:
     speakers:
