@@ -1,30 +1,64 @@
 {% assign schedule = include.schedule %}
 
+{% assign part1 = schedule.part1 %}
+{% assign part2 = schedule.part2 %}
+
 <div class="schedule">
-  {% for session in schedule %}
-    {% if session.time %}
-    <h4>{{session.session}} - {{session.time}}</h4>
-    {% else %}
-    <h4>{{session.session}}</h4>
-    {% endif %}
+  <div class="schedule__col">
+    {% for session in part1 %}
+      {% if session.time %}
+        <h4>{{session.session}} - {{session.time}}</h4>
+      {% else %}
+        <h4>{{session.session}}</h4>
+      {% endif %}
 
-    {% if session.announcer %}
-      <h5 class="schedule__announcer">Announcer: {{ session.announcer }}</h5>
-    {% endif %}
+      {% if session.announcer %}
+        <h5 class="schedule__announcer">Announcer: {{ session.announcer }}</h5>
+      {% endif %}
 
-    {% if session.speakers %}
-    <div>
-      <ul>
-        {% for speaker in session.speakers %}
-        <li>
-          {% assign person = site.people | where_exp: "item", "item.id contains speaker.name"  | first %}
-          <h5>
-            Performance {{speaker.speaker_index}}: <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
-          </h5>
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-  {% endfor %}
+      {% if session.speakers %}
+      <div>
+        <ul>
+          {% for speaker in session.speakers %}
+          <li>
+            {% assign person = site.people | where_exp: "item", "item.id contains speaker.name"  | first %}
+            <h5>
+              Performance {{speaker.speaker_index}}: <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
+            </h5>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="schedule__col">
+    {% for session in part2 %}
+      {% if session.time %}
+        <h4>{{session.session}} - {{session.time}}</h4>
+      {% else %}
+        <h4>{{session.session}}</h4>
+      {% endif %}
+
+      {% if session.announcer %}
+        <h5 class="schedule__announcer">Announcer: {{ session.announcer }}</h5>
+      {% endif %}
+
+      {% if session.speakers %}
+      <div>
+        <ul>
+          {% for speaker in session.speakers %}
+          <li>
+            {% assign person = site.people | where_exp: "item", "item.id contains speaker.name"  | first %}
+            <h5>
+              Performance {{speaker.speaker_index}}: <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
+            </h5>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
