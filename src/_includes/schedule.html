@@ -19,7 +19,7 @@
         <li>
           {% assign person = site.people | where_exp: "item", "item.id contains speaker.name"  | first %}
           <h5>
-            <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
+            Performance {{speaker.speaker_index}}: <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
           </h5>
         </li>
         {% endfor %}
