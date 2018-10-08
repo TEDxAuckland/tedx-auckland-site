@@ -64,7 +64,8 @@ event_schedule:
         - name: katie-williams
           speaker_index: 9
         - name: aaja-nachle
-          speaker_index: 10
+          performer: true
+          speaker_index: 1
   part2:
     - session: Break 2
       time:
@@ -73,7 +74,8 @@ event_schedule:
       announcer:
       speakers:
         - name: eliot-witters
-          speaker_index: 11
+          performer: true
+          speaker_index: 2
         - name: swee-tan
           speaker_index: 12
         - name: david-downs
@@ -93,7 +95,8 @@ event_schedule:
         - name: pete-ceglinski
           speaker_index: 17
         - name: imugi
-          speaker_index: 18
+          performer: true
+          speaker_index: 3
         - name: jess-quinn
           speaker_index: 19
         - name: pania-newton
