@@ -90,6 +90,21 @@
   }
 }
 
+.schedule {
+
+  &__announcer {
+    padding-bottom: 1%;
+  }
+
+  h4 {
+    text-decoration-color: $brand-color;
+  }
+
+  li {
+    list-style: none;
+  }
+}
+
 .flickr_gallery {
   position: relative;
   width: 100%;

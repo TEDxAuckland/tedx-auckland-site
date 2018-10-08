@@ -35,29 +35,49 @@ event_schedule:
   - session: Event start
     time: 8:30 am
   - session: Session 1
-    time:
+    time: 9:30 am
+    announcer:
     speakers:
-      - name:
+      - name: hemi-kelly
+      - name: richie-hardcore
+      - name: grace-stratton
+      - name: daniel-gudsell
+      - name: jazz-thornton
   - session: Break 1
     time:
   - session: Session 2
-    time:
+    time: 11:45 am
+    announcer:
     speakers:
-      - name:
+      - name: andrew-barnes
+      - name: sarah
+      - name: fraser-mcconnell
+      - name: katie-williams
+      - name: aaja-nachle
   - session: Break 2
     time:
   - session: Session 3
-    time:
+    time: 2:15 pm
+    announcer:
     speakers:
-      - name:
+      - name: eliot-witters
+      - name: swee-tan
+      - name: david-downs
+      - name: imche-fourie
+      - name: israel-izzy-whitley
   - session: Break 3
     time:
   - session: Session 4
-    time:
+    time: 4:15 pm
+    announcer:
     speakers:
-      - name:
+      - name: zeshan-qureshi
+      - name: pete-ceglinski
+      - name: imugi
+      - name: jess-quinn
+      - name: pania-newton
   - session: After Party at Marvel Grill
-    time:
+    time: "till late"
 flikr_galleries:
   -
 food_vendors:
