@@ -32,72 +32,74 @@ people:
   - andrew-barnes
   - imugi
 event_schedule:
-  - session: Doors Open
-    time: 8:30 am
-  - session: Event Start
-    time: 9:30 am
-    announcer:
-    speakers:
-      - name: hemi-kelly
-        speaker_index: 1
-      - name: richie-hardcore
-        speaker_index: 2
-      - name: grace-stratton
-        speaker_index: 3
-      - name: daniel-gudsell
-        speaker_index: 4
-      - name: jazz-thornton
-        speaker_index: 5
-  - session: Break 1
-    time:
-  - session: Session 2
-    time: 11:45 am
-    announcer:
-    speakers:
-      - name: andrew-barnes
-        speaker_index: 6
-      - name: sarah
-        speaker_index: 7
-      - name: fraser-mcconnell
-        speaker_index: 8
-      - name: katie-williams
-        speaker_index: 9
-      - name: aaja-nachle
-        speaker_index: 10
-  - session: Break 2
-    time:
-  - session: Session 3
-    time: 2:15 pm
-    announcer:
-    speakers:
-      - name: eliot-witters
-        speaker_index: 11
-      - name: swee-tan
-        speaker_index: 12
-      - name: david-downs
-        speaker_index: 13
-      - name: imche-fourie
-        speaker_index: 14
-      - name: israel-izzy-whitley
-        speaker_index: 15
-  - session: Break 3
-    time:
-  - session: Session 4
-    time: 4:15 pm
-    announcer:
-    speakers:
-      - name: zeshan-qureshi
-        speaker_index: 16
-      - name: pete-ceglinski
-        speaker_index: 17
-      - name: imugi
-        speaker_index: 18
-      - name: jess-quinn
-        speaker_index: 19
-      - name: pania-newton
-        speaker_index: 20
-  - session: After Party at Marvel Grill
-    time: "till late"
+  part1:
+    - session: Doors Open
+      time: 8:30 am
+    - session: Event Start
+      time: 9:30 am
+      announcer:
+      speakers:
+        - name: hemi-kelly
+          speaker_index: 1
+        - name: richie-hardcore
+          speaker_index: 2
+        - name: grace-stratton
+          speaker_index: 3
+        - name: daniel-gudsell
+          speaker_index: 4
+        - name: jazz-thornton
+          speaker_index: 5
+    - session: Break 1
+      time:
+    - session: Session 2
+      time: 11:45 am
+      announcer:
+      speakers:
+        - name: andrew-barnes
+          speaker_index: 6
+        - name: sarah
+          speaker_index: 7
+        - name: fraser-mcconnell
+          speaker_index: 8
+        - name: katie-williams
+          speaker_index: 9
+        - name: aaja-nachle
+          speaker_index: 10
+  part2:
+    - session: Break 2
+      time:
+    - session: Session 3
+      time: 2:15 pm
+      announcer:
+      speakers:
+        - name: eliot-witters
+          speaker_index: 11
+        - name: swee-tan
+          speaker_index: 12
+        - name: david-downs
+          speaker_index: 13
+        - name: imche-fourie
+          speaker_index: 14
+        - name: israel-izzy-whitley
+          speaker_index: 15
+    - session: Break 3
+      time:
+    - session: Session 4
+      time: 4:15 pm
+      announcer:
+      speakers:
+        - name: zeshan-qureshi
+          speaker_index: 16
+        - name: pete-ceglinski
+          speaker_index: 17
+        - name: imugi
+          speaker_index: 18
+        - name: jess-quinn
+          speaker_index: 19
+        - name: pania-newton
+          speaker_index: 20
+    - session: After Party at Marvel Grill
+      time: "till late"
 flikr_galleries:
   -
 food_vendors:

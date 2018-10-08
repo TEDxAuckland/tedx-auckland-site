@@ -91,9 +91,18 @@
 }
 
 .schedule {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+
+  @include respond(phone) { flex: 1 0 100%; }
 
   &__announcer {
     padding-bottom: 1%;
+  }
+
+  &__column {
+    flex: 0 1 50%;
   }
 
   h4 {
