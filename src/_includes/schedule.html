@@ -4,7 +4,7 @@
 {% assign part2 = schedule.part2 %}
 
 <div class="schedule">
-  <div class="schedule__col">
+  <div class="schedule__column">
     {% for session in part1 %}
       {% if session.time %}
         <h4>{{session.session}} - {{session.time}}</h4>
@@ -38,7 +38,7 @@
     {% endfor %}
   </div>
 
-  <div class="schedule__col">
+  <div class="schedule__column">
     {% for session in part2 %}
       {% if session.time %}
         <h4>{{session.session}} - {{session.time}}</h4>
