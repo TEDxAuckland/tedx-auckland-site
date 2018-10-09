@@ -90,10 +90,12 @@
     left: 50%;
     background-color: $brand-grey-darker;
     border-top: 5px solid $brand-color;
+    color: #fff;
 
     &--bg-white {
       background-color: #fff;
       border-bottom: 1px solid $brand-grey-darker;
+      color: #000;
 
       .social-block__icon svg,
       .social-block__link a {
