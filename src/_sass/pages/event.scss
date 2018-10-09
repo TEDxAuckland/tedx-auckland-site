@@ -112,9 +112,29 @@
     text-decoration-color: $brand-color;
   }
 
-  li {
+  &__row {
     font-size: 2rem;
     list-style: none;
+    transition: all 200ms;
+
+    &:hover {
+      .schedule__link::after {
+        width: 100%;
+      }
+    }
+  }
+
+  &__link {
+    display: inline-block;
+    
+    &::after {
+      content: '';
+      width: 0px;
+      height: 2px;
+      display: block;
+      background: $brand-color;
+      transition: 300ms;
+    }
   }
 }
 

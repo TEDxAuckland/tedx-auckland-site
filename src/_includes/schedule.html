@@ -20,15 +20,15 @@
       <div>
         <ul>
           {% for speaker in session.speakers %}
-          <li>
+          <li class="schedule__row">
             {% assign person = site.people | where_exp: "item", "item.id contains speaker.name"  | first %}
             <h5>
               {% if speaker.performer %}
-                Performance:
+              Performance:
               {% else %}
-                {{speaker.speaker_index}}:
+              {{speaker.speaker_index}}:
               {% endif %}
-                <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
+              <a target="_blank" class="schedule__link" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
             </h5>
           </li>
           {% endfor %}
@@ -54,7 +54,7 @@
       <div>
         <ul>
           {% for speaker in session.speakers %}
-          <li>
+          <li class="schedule__row">
             {% assign person = site.people | where_exp: "item", "item.id contains speaker.name"  | first %}
             <h5>
               {% if speaker.performer %}
@@ -62,7 +62,7 @@
               {% else %}
                 {{speaker.speaker_index}}:
               {% endif %}
-              <a target="_blank" href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
+              <a target="_blank" class="schedule__link"  href="{{ person.url }}">{{ speaker.name | replace: '-', ' ' | capitalize_all }}</a>
             </h5>
           </li>
           {% endfor %}
