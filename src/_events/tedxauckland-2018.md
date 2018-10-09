@@ -143,6 +143,13 @@ food_vendors_pending:
   - name: Yealands
     vendor_link: 'https://www.yealands.co.nz/'
     vendor_image: /uploads/yealands-logo.png
+  - name: Healtheries
+    vendor_link: http://www.healtheries.co.nz/
+    vendor_image:
+  - name: Judge Bao
+    vendor_link: https://judgebao.co.nz/
+    vendor_image: 
+
 major_partners:
 supporting_partners:
 event_partners:
