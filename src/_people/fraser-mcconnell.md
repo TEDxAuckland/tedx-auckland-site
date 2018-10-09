@@ -6,6 +6,9 @@ description_markdown: >-
   *Social Entrepreneur / Blockchain / Birds*
 
 
+    &nbsp;
+
+
   Fraser cares about inspiring the world to choose purpose over profit. He has a
   track record in social entrepreneurship and technological innovation with
   projects such as Squawk Squad which marries technology with conservation in

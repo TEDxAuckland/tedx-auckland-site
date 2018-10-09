@@ -6,14 +6,23 @@ description_markdown: >-
   *Surfer / Environmentalist / Eco-preneur*
 
 
+    &nbsp;
+
+
   Pete Ceglinski, the Aussie surfer who in 2015 successfully crowdfunded an
   invention designed to rid our waterways of rubbish. The Seabin Project went
   viral and has quickly become one of the most environmentally promising ways of
   turning the tide in our planet's war against plastics.
 
 
+    &nbsp;
+
+
   It’s a rubbish bin that lives in the water of marinas and collects floating
   plastics, bottles, bags, oil, fuel and micro-plastics down to 2mm in size.
+
+
+    &nbsp;
 
 
   Right now our business activities are 50% for profit and 50% not for profit.

@@ -6,6 +6,9 @@ description_markdown: >-
   *Activist / Muay Thai Fighter / Public Speaker*
 
 
+    &nbsp;
+
+
   'Richie Hardcore is a board member at White Ribbon New Zealand, Ministry of
   Social Development 'It's Not Ok’ Champion, working to end men's violence
   against women. He is an educator and public speaker, focusing on exploring

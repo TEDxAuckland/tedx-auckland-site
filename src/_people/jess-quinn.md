@@ -6,11 +6,17 @@ description_markdown: >-
   *Storyteller / Life-Liver / Survivor*
 
 
+    &nbsp;
+
+
   Jess Quinn has a passion for helping people overcome adversity and insecurity
   using her own experiences. Since losing her right leg to cancer at the age of
   9, Jess has refused to let that stand in her way of living life to its fullest
   with a core passion for helping others overcome their physical and mental
   setbacks along the way.
+
+
+    &nbsp;
 
 
   Jess has developed an social media following of 180,000+ followers by speaking
@@ -20,8 +26,14 @@ description_markdown: >-
   continuing to lead by example by taking all challenges that come her way.
 
 
+    &nbsp;
+
+
   As one of New Zealand’s most engaged personalities on social media, Jess
   connects with thousands of people each day to help inspire their own journey.
+
+
+    &nbsp;
 
 
   Jess is currently on a mission to bringing awareness to image retouching in

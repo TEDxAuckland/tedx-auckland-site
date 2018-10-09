@@ -6,6 +6,9 @@ description_markdown: >-
   *Founder / Business Owner / Life Enthusiast*
 
 
+    &nbsp;
+
+
   Hailing from the small city of Gisborne on the East Coast of New Zealand,
   Israel was brought up in a close-knit family who are at foundations of his
   motivation. Israel’s humble working-class upbringing encouraged within him a

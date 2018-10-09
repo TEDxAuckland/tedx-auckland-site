@@ -6,11 +6,17 @@ description_markdown: >-
   *Surgeon / Research Scientist / Medical Humanitarian*
 
 
+    &nbsp;
+
+
   From a family of 13 children brought up in a village in Malaysia, Dr Tan
   completed medical training at Melbourne University in 1985 and subsequently in
   New Zealand where he qualified as a plastic surgeon. Following fellowships at
   Oxford and Harvard he became Hutt Hospital’s Director of Plastic Surgery in
   2000-2006 and Director of Surgery in 2007-2013.
+
+
+    &nbsp;
 
 
   He founded the Centre for the Study & Treatment of Vascular Birthmarks in
@@ -20,12 +26,18 @@ description_markdown: >-
   through paradigm-changing scientific research.
 
 
+    &nbsp;
+
+
   Discoveries by Dr Tan’s team of the stem cell origin of strawberry birthmarks
   underscore the new low-cost treatment of this tumour using anti-hypertensive
   medications. Building on this work, cancer stem cells, the proposed ‘root’ of
   cancer, have been discovered in 14 types of cancer, leading to a novel cancer
   treatment using low-cost commonly available medications. A clinical study is
   now underway for patients with glioblastoma, a deadly brain cancer.
+
+
+    &nbsp;
 
 
   Dr Tan has received many honours and awards, is a holder of six patents and an

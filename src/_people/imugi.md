@@ -6,6 +6,9 @@ description_markdown: >-
   *Electronic Duo*
 
 
+    &nbsp;
+
+
   Imugi 이무기 is a poppin’ two-piece band consisting of the colourful and
   sunkissed producer Carl Ruwhiu and smooth singer/songwriter Yery Cho. The duo
   are high school friends and bedroom artists, who released their first single
@@ -13,6 +16,9 @@ description_markdown: >-
   Imugi’s debut EP, Vacasian was self-released just under a year ago. Travelling
   across a smooth mix of synth-pop, R&B, funk and spoken word, the EP is a
   conversation with one’s self.
+
+
+    &nbsp;
 
 
   Where do we reside within the diaspora and where are we going? These songs and

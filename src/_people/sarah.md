@@ -6,11 +6,17 @@ description_markdown: >-
   *Mother / Victim / Cyclist*
 
 
+    &nbsp;
+
+
   Sarah is in her 50’s and loves being outdoors combined with physical activity.
   She recently completed her first walking half-marathon preserving for a podium
   finish despite the blisters forming at the half-way mark. Cycling whether it
   be mountain biking or road cycling is also a keen pursuit. The outdoors
   provides Sarah with perspective and vitality.
+
+
+    &nbsp;
 
 
   She kept a secret for 35 years from a traumatic event and broke her silence
@@ -19,6 +25,9 @@ description_markdown: >-
   hearing. Sarah is confident that New Zealand systems and processes can be
   improved to make it gentler and safer for victims to share their secrets of
   historic abuse.
+
+
+    &nbsp;
 
 
   Sarah works in a business environment having held a number of senior

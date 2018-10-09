@@ -6,6 +6,9 @@ description_markdown: >-
   *Innovator / Entrepreneur / Philanthropist*
 
 
+    &nbsp;
+
+
   Andrew has made a career of market-changing innovation and industry
   digitisation. Most recently, in New Zealand, he triggered a revolution of the
   entire fiduciary and legal services industries, and the transformation he has

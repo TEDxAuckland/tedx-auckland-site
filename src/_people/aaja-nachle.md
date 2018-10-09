@@ -6,15 +6,24 @@ description_markdown: >-
   *Dance Group*
 
 
+    &nbsp;
+
+
   Aaja Nachle is Auckland's leading Indian dance school with 3 studios across
   Auckland, 200 dancers, and a team of 16 part-time staff. At TEDxAuckland 2018,
   they wil share their love for music, dance, and culture.
+
+
+    &nbsp;
 
 
   As Indian kiwis, the school has a unique perspective on our culture and
   heritage and which is reflected in the dance classes and creative pieces. Aaja
   Nachle focus on tackling issues like arranged marriages, patriarchal society,
   and identity loss through their dances.
+
+
+    &nbsp;
 
 
   Run by Jignal Bhagvandas and Priyal Bhoola, two friends from high school that

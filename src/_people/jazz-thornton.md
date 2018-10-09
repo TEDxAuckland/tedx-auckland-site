@@ -6,6 +6,9 @@ description_markdown: >-
   *Co-founder / Advocate / Director*
 
 
+    &nbsp;
+
+
   Having overcome childhood abuse and multiple suicide attempts, Jazz Thornton
   has now dedicated her life to speaking hope and creating change in the area of
   mental health through her organisation Voices of Hope. Her unique experience

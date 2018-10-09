@@ -6,6 +6,9 @@ description_markdown: >-
   *Deep tech / Enthusiast / Lifter*
 
 
+    &nbsp;
+
+
   Imche is passionate about accelerating New Zealand’s science and technology
   industries. She works with young deep technology start-ups as GM of the
   technology incubator, Level Two, and is an advocate for investing in

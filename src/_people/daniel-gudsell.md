@@ -6,6 +6,9 @@ description_markdown: >-
   *Entrepreneur / Wood Enthusiast / Amateur Linguist*
 
 
+    &nbsp;
+
+
   Daniel Gudsell is a founding Director of New Zealand-based Abodo Wood - the
   leading proponent of wood modification technology in the Southern Hemisphere.
   In an industry where many exterior timbers are harvested from unsustainable

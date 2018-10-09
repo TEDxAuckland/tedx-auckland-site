@@ -6,6 +6,9 @@ description_markdown: >-
   *Genetically modified organism / Cancer conqueror / Author*
 
 
+    &nbsp;
+
+
   David is General Manager at New Zealand Trade and Enterprise (NZTE), an
   ex-comedian, TV and Radio actor, a recent cancer conqueror and documentor of
   his battle with cancer in the popular column ‘A Mild Touch of the Cancer’ on

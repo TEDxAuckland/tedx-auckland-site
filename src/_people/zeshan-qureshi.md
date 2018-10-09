@@ -3,7 +3,10 @@ name: Zeshan Qureshi
 email:
 image: /uploads/zeshan-quershi-2.jpg
 description_markdown: >-
-  *Doctor / &nbsp;Author / Activist*
+  *Doctor / Author / Activist*
+
+
+    &nbsp;
 
 
   Zeshan Qureshi is a children’s doctor in the UK with a mission to improve the
@@ -12,6 +15,9 @@ description_markdown: >-
   reflecting his belief that doctors should be both treating illness and
   preventing illness / improving quality of care through improvement of the
   medical system.
+
+
+    &nbsp;
 
 
   He has edited nine medical textbooks and has lectured over 8, 000 students

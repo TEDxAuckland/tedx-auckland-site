@@ -6,6 +6,9 @@ description_markdown: >-
   *Outspoken / Able / Driven*
 
 
+    &nbsp;
+
+
   Grace Stratton, doesn’t pull any punches. Diagnosed with Cerebral Palsy at a
   year old, Grace has been navigating life in a wheelchair for nineteen years,
   but her disability isn’t the story, what she’s done with it is. At sixteen
@@ -15,10 +18,16 @@ description_markdown: >-
   chose.
 
 
+    &nbsp;
+
+
   Three years after building that website, this statement is still true. Grace
   defined her disability for herself, in a way which for the most part defies
   social convention, Grace saw her disability as something that would strengthen
   her in industry and as a person.
+
+
+    &nbsp;
 
 
   Grace believes that all diversities hold this same strength, and that this

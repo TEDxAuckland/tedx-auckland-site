@@ -6,6 +6,9 @@ description_markdown: >-
   *Singer / Song Writer*
 
 
+    &nbsp;
+
+
   Raised by whiskey, wolves, and Wilco, Witters is a champion of dulcet tones
   most often found in the American heartland. For TEDxAuckland 2018, Eliot will
   share a selection of songs from his continually expanding & developing
@@ -15,6 +18,9 @@ description_markdown: >-
   All of which are tales that have aged this Gisborne-born crooner well beyond
   his years. Outside of his solo work, he was the bassist for Auckland barroom
   rockers "Kingsland” and the guitarist for “Napier Avalon Jones.”
+
+
+    &nbsp;
 
 
   Perhaps his biggest achievement thus far, Witters once scored a tidy 22\* not

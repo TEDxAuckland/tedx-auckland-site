@@ -6,9 +6,15 @@ description_markdown: >-
   *Volunteers’ supporter / Respecter of the elderly / Cuddle bunny*
 
 
+    &nbsp;
+
+
   Katie is the founder of the Kiwi Coffin Club (makers of fine and affordable
   underground furniture) A retired Nurse who in her career went from Midwifery,
   through the hoops to Palliative Care.
+
+
+    &nbsp;
 
 
   She is pleased that a Coffin Club can provide , not only efficiency in
@@ -17,6 +23,9 @@ description_markdown: >-
   their own mortality, be it diagnosed, pending or recent and to provide the
   means to use their own talents to enhance and celebrate their span on this
   planet of ours.
+
+
+    &nbsp;
 
 
   She believes in the ongoing wellbeing and respect for the older generation in
