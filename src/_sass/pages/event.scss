@@ -124,9 +124,13 @@
     }
   }
 
+  &__map-image {
+    width: 100%;
+  }
+
   &__link {
     display: inline-block;
-    
+
     &::after {
       content: '';
       width: 0px;
