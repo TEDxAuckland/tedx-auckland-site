@@ -133,6 +133,12 @@ food_vendors:
   - name: Collective Dairy
     vendor_link: 'http://www.thecollective.kiwi/'
     vendor_image: /uploads/collective-dairy-logo.jpeg
+  - name: Healtheries
+    vendor_link: http://www.healtheries.co.nz/
+    vendor_image: /uploads/healtheries.jpg
+  - name: Judge Bao
+    vendor_link: https://judgebao.co.nz/
+    vendor_image: /uploads/judge-bao.png
 food_vendors_pending:
   - name: Urbanaut
     vendor_link: 'https://www.urbanautbeer.com/'
@@ -143,6 +149,7 @@ food_vendors_pending:
   - name: Yealands
     vendor_link: 'https://www.yealands.co.nz/'
     vendor_image: /uploads/yealands-logo.png
+
 major_partners:
 supporting_partners:
 event_partners:
