@@ -12,12 +12,10 @@ youtube_playlist: PLcm2pIIAwlDvyvhnABusUFtL7E4k2sM_B
 </header>
 {% endcomment %}
 
-{% include heros/2018-event-gif.html %}
+<!-- {% include heros/2018-event-gif.html %} -->
+<!-- {% include upcoming-event-bar.html %} -->
 
-{% include upcoming-event-bar.html %}
-
-{% assign upcoming_event = site.events | where_exp: "e", "e.short_title == '2018'" | first %}
-
+{% assign upcoming_event = site.events | where_exp: "e", "e.upcoming == true" | first %}
 
 {% if upcoming_event.event_schedule %}
 <section id="schedule" class="section-bg-white">
@@ -29,13 +27,15 @@ youtube_playlist: PLcm2pIIAwlDvyvhnABusUFtL7E4k2sM_B
 </section>
 {% endif %}
 
-<section id="speakers" class="section-bg-white">
-  <div class="container">
-    <h3 class="section-heading section-heading--speakers">upcoming speakers</h3>
+{% if upcoming_event.speakers %}
+	<section id="speakers" class="section-bg-white">
+		<div class="container">
+			<h3 class="section-heading section-heading--speakers">upcoming speakers</h3>
 
-    {% include speakers.html speakers = upcoming_event.people bg_white = true hide_names = true %}
-  </div>
-</section>
+			{% include speakers.html speakers = upcoming_event.people bg_white = true hide_names = true %}
+		</div>
+	</section>
+{% endif %}
 
 <section id="talks" class="section-bg-white">
 	<div class="container">
