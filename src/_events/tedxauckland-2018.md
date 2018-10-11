@@ -109,6 +109,9 @@ food_vendors:
   - name: Allpress
     vendor_link: 'https://allpressespresso.com/'
     vendor_image: /uploads/content_allpress-logo-high-res.jpg
+  - name: Good Buzz Kombucha
+    vendor_link: 'https://goodbuzz.nz/'
+    vendor_image: /uploads/good-buzz-logo.jpg
   - name: Monsoon Ginger Beer
     vendor_link: 'http://www.monsoonginger.co.nz/'
     vendor_image: /uploads/monsoon-ginger-beer.jpg
@@ -142,14 +145,15 @@ food_vendors:
   - name: Deep Creek
     vendor_link: 'http://www.dcbrewing.co.nz/'
     vendor_image: /uploads/deepcreek-logo-01.png
+  - name: Yealands
+    vendor_link: 'https://www.yealands.co.nz/'
+    vendor_image: /uploads/yealands-logo.png
   - name: Part Time Rangers
     vendor_link: https://parttimerangers.co.nz/
     vendor_image: /uploads/part-time-rangers.jpg
 major_partners:
 supporting_partners:
 event_partners:
-  - yealands
-  - good_buzz
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
