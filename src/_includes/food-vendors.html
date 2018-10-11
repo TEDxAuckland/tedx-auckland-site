@@ -1,4 +1,4 @@
-{% assign food_vendors = include.food_vendors %}
+{% assign food_vendors = include.food_vendors | sort: 'name' %}
 
 <div class="food-vendors">
   {% for vendor in food_vendors %}

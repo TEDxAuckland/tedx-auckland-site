@@ -148,6 +148,9 @@ food_vendors:
   - name: Yealands
     vendor_link: 'https://www.yealands.co.nz/'
     vendor_image: /uploads/yealands-logo.png
+  - name: Part Time Rangers
+    vendor_link: https://parttimerangers.co.nz/
+    vendor_image: /uploads/part-time-rangers.jpg
 major_partners:
 supporting_partners:
 event_partners:
