@@ -119,6 +119,10 @@ a {
 		@include respond(section-overflow) { transform: translateX(.3em); }
 	}
 
+  &--vendors {
+    transform: translateX(-0.7em);
+    @include respond(section-overflow) { transform: translateX(.3em); }
+  }
 
 	&--flickr {
 	  transform: translateX(-0.74em);

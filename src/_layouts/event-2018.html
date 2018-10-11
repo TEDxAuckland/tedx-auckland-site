@@ -62,6 +62,25 @@ layout: default
 </section>
 {% endif %}
 
+{% if page.event_schedule %}
+<section id="schedule" class="section-bg-white">
+  <div class="container">
+    <h4 class="section-heading section-heading--speakers">Event Schedule</h4>
+
+    {% include schedule.html schedule = page.event_schedule %}
+  </div>
+</section>
+{% endif %}
+
+{% if page.people %}
+<section id="speakers" class="section-bg-white">
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">speakers</h3>
+
+    {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
+  </div>
+</section>
+{% endif %}
 
 {% if page.major_partners or page.supporting_partners or page.event_partners %}
 <section id="partners" class="section-bg-white">
@@ -87,30 +106,10 @@ layout: default
 </section>
 {% endif %}
 
-{% if page.event_schedule %}
-<section id="schedule" class="section-bg-white">
-  <div class="container">
-    <h4 class="section-heading section-heading--speakers">Event Schedule</h4>
-
-    {% include schedule.html schedule = page.event_schedule %}
-  </div>
-</section>
-{% endif %}
-
-{% if page.people %}
-<section id="speakers" class="section-bg-white">
-  <div class="container">
-    <h3 class="section-heading section-heading--speakers">speakers</h3>
-
-    {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
-  </div>
-</section>
-{% endif %}
-
 {% if page.food_vendors %}
 <section id="food" class="section-bg-white">
 	<div class="container">
-		<h3 class="section-heading">Food vendors</h3>
+		<h3 class="section-heading section-heading--vendors">Food vendors</h3>
 
 		{% include food-vendors.html food_vendors = page.food_vendors %}
 	</div>
