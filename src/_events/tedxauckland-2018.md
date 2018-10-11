@@ -139,7 +139,6 @@ food_vendors:
   - name: Judge Bao
     vendor_link: https://judgebao.co.nz/
     vendor_image: /uploads/judge-bao.png
-food_vendors_pending:
   - name: Urbanaut
     vendor_link: 'https://www.urbanautbeer.com/'
     vendor_image: /uploads/urbanaut-logo.jpg
@@ -149,7 +148,6 @@ food_vendors_pending:
   - name: Yealands
     vendor_link: 'https://www.yealands.co.nz/'
     vendor_image: /uploads/yealands-logo.png
-
 major_partners:
 supporting_partners:
 event_partners:
