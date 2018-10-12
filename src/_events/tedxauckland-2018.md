@@ -155,8 +155,19 @@ food_vendors:
     vendor_link: https://www.maartecatering.nz/
     vendor_image: /uploads/maarte.png
 major_partners:
+  - bizdojo
 supporting_partners:
 event_partners:
+  - auckland_live
+  - cloudcannon
+  - iticket
+  - korua
+  - lectrosonics
+  - lotech
+  - lowndes_jordan
+  - sound_techniques
+  - stopmo
+  - wear
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
