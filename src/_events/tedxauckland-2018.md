@@ -151,6 +151,9 @@ food_vendors:
   - name: Part Time Rangers
     vendor_link: https://parttimerangers.co.nz/
     vendor_image: /uploads/part-time-rangers.jpg
+  - name: Maarte Catering
+    vendor_link: https://www.maartecatering.nz/
+    vendor_image: /uploads/maarte.png
 major_partners:
 supporting_partners:
 event_partners:
