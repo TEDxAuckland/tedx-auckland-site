@@ -1,7 +1,7 @@
 ---
 title: 2018 event
 short_title: '2018'
-upcoming: true
+upcoming: false
 event_bar_right: 'Saturday October 13th, 2018 | Shed 10, Queens Wharf'
 layout: event-2018
 image: /uploads/tedx-auckland-2018-banner-3.1.jpg
