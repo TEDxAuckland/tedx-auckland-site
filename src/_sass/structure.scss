@@ -108,6 +108,12 @@ a {
 	  @include respond(section-overflow) { transform: translateX(.26em); }
 	}
 
+  &--blogs {
+    display: inline-block;
+    transform: translateX(2.3em);
+    @include respond(section-overflow) { transform: translateX(.26em); }
+  }
+
 	&--talks {
 	  transform: translateX(-0.7em);
 	  @include respond(section-overflow) { transform: translateX(.3em); }

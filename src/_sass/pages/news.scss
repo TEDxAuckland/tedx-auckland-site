@@ -110,6 +110,17 @@
   }
 }
 
+.blog-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  &--archive {
+    transform: translateY(0);
+  }
+}
+
 .news-card {
   position: relative;
   font-family: $primary-font;
