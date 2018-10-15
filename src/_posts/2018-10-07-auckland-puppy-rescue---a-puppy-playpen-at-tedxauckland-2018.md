@@ -21,7 +21,7 @@ categories:
 
 These puppies didn’t get the easiest start in life, but thanks to APR, they have been given a fighting chance to find a place to call home.
 
-If a bond is formed with one of the pups at the event, you don’t have to say goodbye. All of them are available for adoption. You’ll get to meet APR adoptions coordinator Susie Jones, and talk more about the adoption process. You’ll also be able to sign up to the team of fosterers, to care for multiple pups for a short period of time, giving them a safe place to stay while a home is still being found for them.
+If a bond is formed with one of the pups at the event, you don’t have to say goodbye. All of them are available for adoption. You’ll get to meet APR adoptions coordinator Suzie Jones, and talk more about the adoption process. You’ll also be able to sign up to the team of fosterers, to care for multiple pups for a short period of time, giving them a safe place to stay while a home is still being found for them.
 
 *Auckland Puppy Rescue* is an organisation that truly cares for the welfare of the animals they save. They aren’t only finding these puppies loving families to be a part of, they're also running a [programme](http://www.aucklandpuppyrescue.com/neuter-ninjas.php){: target="_blank"} that helps fund the desexing of dogs, so that fewer are being born outside of the care that is needed.
 
