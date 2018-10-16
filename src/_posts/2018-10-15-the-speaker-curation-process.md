@@ -45,7 +45,7 @@ What you had was a group of thought leaders and inspirational people, from multi
 
 I saw the speakers and the TEDxAkl team interact and converse with each other, and these interactions went on to greatly influence the final presentations. Friendships were formed, networks were created, and ideas continued to develop. With guidance from the rest of the TEDxAkl speaker team, advice and feedback was offered to each other, from performance tips, to restructuring and refining ideas. &nbsp;
 
-Watching the talks evolve was rewarding for everyone, and those experiencing it for the first time were surprised by the environment they had been brought into. It wasn’t clinical or overly structured, like many speakers had expected. It was warm, friendly, and became a space that nurtured transformative conversation and connection.
+Watching the talks evolve was rewarding for everyone, and those experiencing it for the first time were surprised by the environment they had been brought into. It wasn’t clinical or rigidly managed like many speakers had expected. It was warm, friendly, and became a space that nurtured transformative conversation and connection.
 
 All up, the process of speaker selection for 2018 took a few months, but I believe it will have an impact for years to come. Not just within society as a result of the final ideas presented on the platform, but also for the individuals involved, who have formed life-long friendships, and a learning experience that we will carry with us forever. &nbsp;
 
