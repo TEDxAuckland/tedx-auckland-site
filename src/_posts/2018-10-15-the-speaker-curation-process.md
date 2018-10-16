@@ -19,7 +19,7 @@ categories:
 
 ##### One of the most commonly asked questions posed to us at TEDxAuckland is *“how do you select your speakers?”*.
 
-Based on the many random pitches we got only 3 days before the event, it occurred to me that a lot of people had the wrong idea about how much work was involved. And I don’t blame them, especially because the answer is more complicated than many people would think.
+Based on the many random pitches we received only 3 days before the event, it occurred to me that a lot of people had the wrong idea about how much work was involved. And I don’t blame them, especially because the answer is more complicated than many people would think.
 
 Now, with the 2018 event wrapped, I’d like to try explaining it.
 
