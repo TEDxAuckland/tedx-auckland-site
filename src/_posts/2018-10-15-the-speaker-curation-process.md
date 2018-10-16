@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Speaker Curation Process
-date: 2018-10-07 12:00:00 +1300
+date: 2018-10-15 12:00:00 +1300
 image: /uploads/blog-post.jpg
 author:
   login:
