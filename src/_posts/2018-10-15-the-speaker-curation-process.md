@@ -17,11 +17,9 @@ categories:
 
 ![](/uploads/blog-post-1.jpg)
 
-##### One of the most commonly asked questions posed to us at TEDxAuckland is *“how do you select your speakers?”*.
+### One of the most commonly asked questions posed to us at TEDxAuckland is *“how do you select your speakers?”*.
 
-Based on the many random pitches we received only 3 days before the event, it occurred to me that a lot of people had the wrong idea about how much work was involved. And I don’t blame them, especially because the answer is more complicated than many people would think.
-
-Now, with the 2018 event wrapped, I’d like to try explaining it.
+It occurred to me that many people had the wrong idea about how much work was involved. Now, with the 2018 event wrapped, I’d like to try explaining the process.
 
 I first became part of the TEDxAkl team as a video editor, late December 2017. The 2017 event had just occurred, and as a recent graduate looking for projects to save myself from post-uni emptiness, I jumped at the opportunity to edit the talks. However, these were talks I hadn’t seen performed live, from speakers I had never met.
 
