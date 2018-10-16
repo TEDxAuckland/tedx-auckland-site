@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Speaker Curation Process
+title: 'FAQ: What is the Speaker Curation Process?'
 date: 2018-10-15 12:00:00 +1300
 image: /uploads/blog-post.jpg
 author:
