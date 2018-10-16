@@ -25,7 +25,7 @@ Now, with the 2018 event wrapped, I’d like to try explaining it.
 
 I first became part of the TEDxAkl team as a video editor, late December 2017. The 2017 event had just occurred, and as a recent graduate looking for projects to save myself from post-uni emptiness, I jumped at the opportunity to edit the talks. However, these were talks I hadn’t seen performed live, from speakers I had never met.
 
-Editing all of the incredible talks from 2017 meant watching them again and again, and as a result, I became extraordinarily familiar with the final product of the speakers’ ideas, yet knew nothing of the process that lead to it.&nbsp;[*Watch the 2017 talks here.*](https://tedxauckland.com/talks/#2017){: target="_blank"}
+Editing all of the incredible talks from 2017 meant watching them again and again, and as a result, I became extraordinarily familiar with the final product of the speakers’ ideas, yet knew nothing of the process that lead to it.&nbsp;[*Watch the 2017 talks here.*](https://youtu.be/EKBKqcaHOIg?list=PLcm2pIIAwlDtn58jNUEqyRUgUuNJ8Qjdd){: target="_blank"}
 
 When becoming a co-organiser of TEDxAuckland, I finally got insight into the selection process and what went into developing each idea into one that would suit the TEDx platform, and represent the ethos of TEDxAuckland accurately.
 
