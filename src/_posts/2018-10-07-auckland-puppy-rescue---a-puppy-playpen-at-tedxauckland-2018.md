@@ -13,9 +13,7 @@ categories:
   - our-news
 ---
 
-![](/uploads/img-9904.jpg)*Image by [John Murray](https://www.flickr.com/photos/tedxauckland/albums/72157670522855438){: target="_blank"}*
-
-***We have some ideas about where you’ll be between speaker sessions at this year’s TEDxAuckland.*** We’re guessing you’ll be at the puppy-playpen, meeting a handful of playful puppies who will be there from 9 till 4.
+![](/uploads/img-9904.jpg)***We have some ideas about where you’ll be between speaker sessions at this year’s TEDxAuckland.*** We’re guessing you’ll be at the puppy-playpen, meeting a handful of playful puppies who will be there from 9 till 4.
 
 *Rocky, Kit, Chichi, Frank, Wha,* and two tiny 8-week-old pups will be waiting to chew off your aglets and smother you with puppy kisses that will make leaving the *Auckland Puppy Rescue* **(APR)** set-up emotionally taxing for you.
 
@@ -29,4 +27,4 @@ Prove to these puppies that humans aren’t all bad at&nbsp;[TEDxAuckland 2018: 
 
 You can read more about the amazing work *Auckland Puppy Rescue* does [here](http://www.aucklandpuppyrescue.com/){: target="_blank"}.
 
-&nbsp;
+*Image by [John Murray](https://www.flickr.com/photos/tedxauckland/albums/72157670522855438){: target="_blank"}*
