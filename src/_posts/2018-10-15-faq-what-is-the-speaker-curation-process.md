@@ -56,7 +56,7 @@ A big surprise from the entire process came from the many practise sessions we h
 What you had was a group of thought leaders and inspirational people, from multiple different communities, being put in the same room to listen to each other's ideas. Of course amazing things were going to happen.
 {: .present-before-paste}
 
-I saw the speakers and the TEDxAkl team interact and converse with each other, and these interactions went on to greatly influence the final presentations. Friendships were formed, networks were created, and ideas continued to develop. With guidance from the rest of the TEDxAkl speaker team, advice and feedback was offered to each other, from performance tips, to restructuring and refining ideas. &nbsp;
+I saw the speakers and the TEDxAkl team interact and converse with each other, and these interactions went on to greatly influence the final presentations. Friendships were formed, networks were created, and ideas continued to develop. With guidance from the rest of the TEDxAkl speaker team, advice and feedback was offered to each other, from performance tips, to restructuring and refining ideas.&nbsp; &nbsp;
 {: .present-before-paste}
 
 Watching the talks evolve was rewarding for everyone, and those experiencing it for the first time were surprised by the environment they had been brought into. It wasn’t clinical or rigidly managed like many speakers had expected. It was warm, friendly, and became a space that nurtured transformative conversation and connection.
