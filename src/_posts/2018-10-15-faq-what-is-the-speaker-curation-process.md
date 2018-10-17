@@ -47,7 +47,7 @@ Other people, like [Pania Newton](https://tedxauckland.com/people/pania-newton/)
 Then there were speakers, like [Zeshan Qureshi](https://tedxauckland.com/people/zeshan-qureshi/){: target="_blank"} and [Pete Ceglinski](https://tedxauckland.com/people/pete-ceglinski/){: target="_blank"}, who were brought to our attention from past speakers or friends of TEDxAuckland, or were people that Elliott Blade had been talking to for a few years regarding getting them to present an idea. It just so happens that sometimes speakers don't feel ready to present, and want to wait until they have the perfect idea to share on the platform.&nbsp;
 {: .present-before-paste}
 
-And that is only half of the work.
+And that is only half of the work.&nbsp;
 {: .present-before-paste}
 
 A big surprise from the entire process came from the many practise sessions we had leading up to the event. It was in this environment that speakers could come in, not only to practise their talks, but also workshop their ideas together.
