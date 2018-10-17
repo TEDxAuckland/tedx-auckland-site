@@ -47,6 +47,6 @@ I saw the speakers and the TEDxAkl team interact and converse with each other, a
 
 Watching the talks evolve was rewarding for everyone, and those experiencing it for the first time were surprised by the environment they had been brought into. It wasn’t clinical or rigidly managed like many speakers had expected. It was warm, friendly, and became a space that nurtured transformative conversation and connection.
 
-All up, the process of speaker selection for 2018 took a few months, but I believe it will have an impact for years to come. Not just within society as a result of the final ideas presented on the platform, but also for the individuals involved, as this was a learning experience that we will carry with us. &nbsp;
+All up, the process of speaker selection for 2018 took a few months, but I believe it will have an impact for years to come. Not just within society as a result of the final ideas presented on the platform, but also for the individuals involved, as this was a learning experience that has left a positive impression on all of us. &nbsp;
 
 * *Image: Pania Newton listens to Richie Hardcore, Georgina Roberts, and Elliott Blade discuss her talk.*
