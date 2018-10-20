@@ -18,7 +18,7 @@ categories:
 ![](/uploads/blog-post-1.jpg)
 {: .present-before-paste}
 
-### One of the most commonly asked questions posed to us at TEDxAuckland is *“how do you select your speakers?”*.
+### A question that is regularly posed to us at TEDxAuckland is *“how do you select your speakers?”*.
 
 It occurred to me that many people had the wrong idea about how much work was involved. Now, with the 2018 event wrapped, I’d like to try explaining the process.
 {: .present-before-paste}
