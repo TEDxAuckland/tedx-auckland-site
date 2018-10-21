@@ -48,11 +48,11 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 				{{ page.description_markdown | markdownify }}
 
 				{% if page.youtube_video_id %}
-				<h3 class="person-content__title">Talk</h3>
+					<h3 class="person-content__title">Talk</h3>
 
-				<div class="person-content__video">
-					<iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-				</div>
+					<div class="person-content__video">
+						<iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					</div>
 				{% endif %}
 
 			</div>
