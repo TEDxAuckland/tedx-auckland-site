@@ -3,10 +3,10 @@
 <div class="talk-container">
 	{% assign sorted = videos | sort: 'position' %}
 	{% for video in sorted %}
-		{% assign video_url = "https://www.youtube.com/watch?v=" | append: video.video_id %}
+		{% assign video_url = "https://www.youtube.com/embed/" | append: video.video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" %}
 
 		<div class="talk-card">
-			<a href="{{ video_url }}" class="talk-card__link" target="_blank">
+			<div data-url="{{ video_url }}" class="talk-card__link">
 
 				<div class="talk-card__play-button">&nbsp;</div>
 				<img class="talk-card__image"
@@ -26,7 +26,7 @@
 					<h4 class="caption__title">{{ video.title | remove: "TEDxAuckland" | replace_first: ' |', ',' | remove: '|' | strip }}</h4>
 
 				</div>
-			</a>
+			</div>
 		</div>
 
 	{% endfor %}

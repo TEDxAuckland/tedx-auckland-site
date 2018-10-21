@@ -55,15 +55,15 @@
 			/></noscript>
 			<!-- End Facebook Pixel Code -->
 		{% endif %}
-
-		{% if jekyll.environment == "development" %}
+ 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ 		{% if jekyll.environment == "development" %}
       <script src="/assets/js/vendor/vue.js"></script>
     {% else %}
       <script src="/assets/js/vendor/vue.min.js"></script>
     {% endif %}
 		<script src="/assets/js/ted-x-components.umd.min.js"></script>
 		<script src="/assets/js/countdown.js"></script>
-
+		<script src="/assets/js/video-player.js"></script>
 	</head>
 
 	<body>
@@ -109,6 +109,15 @@
 
 			</div>
 		</nav>
+
+		<div class="overlay-video">
+		    <div class="videoWrapperExt">
+		        <div class="videoWrapper">
+							<div class="close"></div>
+		            <iframe id="player" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe>
+		        </div>
+		    </div>
+		</div>
 
 		{{ content }}
 
