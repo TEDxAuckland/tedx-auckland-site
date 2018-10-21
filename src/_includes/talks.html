@@ -1,12 +1,22 @@
 {% assign videos = include.playlist_id | youtube_videos_from_playlist %}
 
+<div class="overlay-video">
+
+    <div class="videoWrapperExt">
+        <div class="videoWrapper">
+					<div class="close"></div>
+            <iframe id="player" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+
 <div class="talk-container">
 	{% assign sorted = videos | sort: 'position' %}
 	{% for video in sorted %}
-		{% assign video_url = "https://www.youtube.com/watch?v=" | append: video.video_id %}
+		{% assign video_url = "https://www.youtube.com/embed/" | append: video.video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" %}
 
 		<div class="talk-card">
-			<a href="{{ video_url }}" class="talk-card__link" target="_blank">
+			<div data-url="{{ video_url }}" class="talk-card__link">
 
 				<div class="talk-card__play-button">&nbsp;</div>
 				<img class="talk-card__image"
@@ -26,7 +36,7 @@
 					<h4 class="caption__title">{{ video.title | remove: "TEDxAuckland" | replace_first: ' |', ',' | remove: '|' | strip }}</h4>
 
 				</div>
-			</a>
+			</div>
 		</div>
 
 	{% endfor %}
