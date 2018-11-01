@@ -38,28 +38,28 @@ Some people, like [Andrew Barnes](https://tedxauckland.com/people/andrew-barnes/
 This often happened over coffee (or a beer), and the idea was discussed further. No one was confirmed on the spot, and speakers that were eventually confirmed returned for several follow up meetings to develop their idea before a decision was finally made. &nbsp;&nbsp;&nbsp;
 {: .present-before-paste}
 
-Other people, like [Pania Newton](https://tedxauckland.com/people/pania-newton/){: target="_blank"}, [Hemi Kelly](https://tedxauckland.com/people/hemi-kelly/){: target="_blank"}, and [Imche Fourie](https://tedxauckland.com/people/imche-fourie/){: target="_blank"}, we personally reached out to after being made aware of the work they were doing in their communities. Once again, none of these speakers were confirmed on the spot, and subsequent meetings were had to dive deeper into their ideas, to focus and refine them.&nbsp;&nbsp;
+Other people, like [Pania Newton](https://tedxauckland.com/people/pania-newton/){: target="_blank"}, [Hemi Kelly](https://tedxauckland.com/people/hemi-kelly/){: target="_blank"}, and [Imche Fourie](https://tedxauckland.com/people/imche-fourie/){: target="_blank"}, the team personally reached out to after being made aware of the work they were doing in their communities. Once again, none of these speakers were confirmed on the spot, and subsequent meetings were had to dive deeper into their ideas, to focus and refine them.&nbsp;&nbsp;
 {: .present-before-paste}
 
 Then there were speakers, like [Zeshan Qureshi](https://tedxauckland.com/people/zeshan-qureshi/){: target="_blank"} and [Pete Ceglinski](https://tedxauckland.com/people/pete-ceglinski/){: target="_blank"}, who were brought to our attention from past speakers or friends of TEDxAuckland, or were people that Elliott Blade had been talking to for a few years regarding getting them to present an idea. It just so happens that sometimes speakers don't feel ready to present, and want to wait until they have the perfect idea to share on the platform.&nbsp;
 {: .present-before-paste}
 
-And that is only half of the work.&nbsp;
+And that is only half of the work involved in the curation of the speakers.&nbsp;
 {: .present-before-paste}
 
 A big surprise from the entire process came from the many practise sessions we had leading up to the event. It was in this environment that speakers could come in, not only to practise their talks, but also workshop their ideas together.
 {: .present-before-paste}
 
-What you had was a group of thought leaders and inspirational people, from multiple different communities, being put in the same room to listen to each other's ideas.
+What you had was a group of thought leaders and inspirational people, from multiple different communities, being put in the same room, listening to each other's ideas.
 {: .present-before-paste}
 
 I saw the speakers and the TEDxAkl team interact and converse with each other, and these interactions went on to greatly influence the final presentations. Friendships were formed, networks were created, and ideas continued to develop. With guidance from the rest of the TEDxAkl speaker team, advice and feedback was offered to each other, from performance tips, to restructuring and refining ideas.&nbsp; &nbsp;
 {: .present-before-paste}
 
-Watching the talks evolve was rewarding for everyone, and those experiencing it for the first time were surprised by the environment they had been brought into. It wasn’t clinical or rigidly managed like many speakers had expected. It was warm, friendly, and became a space that nurtured transformative conversation and connection.
+Watching the talks evolve was rewarding for everyone, and those experiencing it for the first time were surprised by the environment they had been brought into. It wasn’t clinical or rigidly managed like many speakers had expected. It was warm, friendly yet challenging, and became a space that nurtured transformative conversation and connection.
 {: .present-before-paste}
 
-All up, the process of speaker selection for 2018 took a few months, but I believe it will have an impact for years to come. Not just within society as a result of the final ideas presented on the platform, but also for the individuals involved, as this was a learning experience that has left a positive impression on all of us. &nbsp;
+All up, the speaker curation process for 2018 took a few months, but I believe it will have an impact for years to come. Not just from those exposed to a the final ideas presented on the platform, but also for the individuals involved, as this was a learning experience that has left a positive impression on all of us. &nbsp;
 {: .present-before-paste}
 
 * *Image: Pania Newton listens to Richie Hardcore, Georgina Roberts, and Elliott Blade discuss her talk.*
