@@ -20,22 +20,19 @@ categories:
 
 ### A question that is regularly asked to us at TEDxAuckland is *“how do you select your speakers?”*.
 
-It occurred to me that many people had the wrong idea about how much work was involved. Now, with the 2018 event wrapped, I’d like to try explaining the process.
+It occurred to us at TEDxAkl that many people had the wrong idea about how much work was involved in the curation process. Now, with the 2018 event wrapped, I’d like to try explaining the process, which is more complicated than "we find ideas worth spreading".
 {: .present-before-paste}
 
-I first became part of the TEDxAkl team as a video editor, late December 2017. The 2017 event had just occurred, and as a recent graduate looking for projects to save myself from post-uni emptiness, I jumped at the opportunity to edit the talks. However, these were talks I hadn’t seen performed live, from speakers I had never met.
-{: .present-before-paste}
-
-Editing all of the incredible talks from 2017 meant watching them again and again, and as a result, I became extraordinarily familiar with the final product of the speakers’ ideas, yet knew nothing of the process that lead to it.&nbsp;[*Watch the 2017 talks here.*](https://youtu.be/EKBKqcaHOIg?list=PLcm2pIIAwlDtn58jNUEqyRUgUuNJ8Qjdd){: target="_blank"}
+I first became part of the TEDxAkl team as a video editor, late December 2017. The 2017 event had just occurred, and as a recent graduate looking for projects to save myself from post-uni emptiness, I jumped at the opportunity to edit the talks. This meant watching them on repeat, and as a result, I became extraordinarily familiar with the final product of the speakers’ ideas, yet knew nothing of the process that lead to it.&nbsp;[*Watch the 2017 talks here.*](https://youtu.be/EKBKqcaHOIg?list=PLcm2pIIAwlDtn58jNUEqyRUgUuNJ8Qjdd){: target="_blank"}
 {: .present-before-paste}
 
 When becoming a co-organiser of TEDxAuckland, I finally got insight into the selection process and what went into developing each idea into one that would suit the TEDx platform, and represent the ethos of TEDxAuckland accurately.
 {: .present-before-paste}
 
-How the speakers were selected varied, but all were chosen based on the same thing - their idea. Very rarely was it the one they first put forward.
+How the speakers were initially selected was varied, but all were chosen based on the same thing - their idea. Very rarely was it the one they first put forward.
 {: .present-before-paste}
 
-Some people, like [Andrew Barnes](https://tedxauckland.com/people/andrew-barnes/){: target="_blank"}, [Sarah Strong](https://tedxauckland.com/people/sarah/){: target="_blank"}, and [Daniel Gudsell](https://tedxauckland.com/people/daniel-gudsell/){: target="_blank"}, were selected from hundreds of applications sent to ideas@tedxauckland.com. Speaker team [Elliott Blade](https://tedxauckland.com/an-interview-with-elliott-blade-tedxauckland-licensee/){: target="_blank"}, Georgina Robert, and Ah Shin Park reviewed each of these proposed ideas, then met with those who they felt may offer something totally unique and timely.&nbsp;
+Some people, like [Andrew Barnes](https://tedxauckland.com/people/andrew-barnes/){: target="_blank"}, [Sarah Strong](https://tedxauckland.com/people/sarah/){: target="_blank"}, and [Daniel Gudsell](https://tedxauckland.com/people/daniel-gudsell/){: target="_blank"}, were selected from hundreds of detailed pitches sent to ideas@tedxauckland.com. Speaker team [Elliott Blade](https://tedxauckland.com/an-interview-with-elliott-blade-tedxauckland-licensee/){: target="_blank"}, Georgina Robert, and Ah Shin Park reviewed each of these proposed ideas, then met with those who they felt may offer something totally unique and timely.&nbsp;
 {: .present-before-paste}
 
 This often happened over coffee (or a beer), and the idea was discussed further. No one was confirmed on the spot, and speakers that were eventually confirmed returned for several follow up meetings to develop their idea before a decision was finally made. &nbsp;&nbsp;&nbsp;
