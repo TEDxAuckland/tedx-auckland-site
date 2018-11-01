@@ -18,7 +18,7 @@ categories:
 ![](/uploads/blog-post-1.jpg)
 {: .present-before-paste}
 
-### A question that is regularly posed to us at TEDxAuckland is *“how do you select your speakers?”*.
+### A question that is regularly asked to us at TEDxAuckland is *“how do you select your speakers?”*.
 
 It occurred to me that many people had the wrong idea about how much work was involved. Now, with the 2018 event wrapped, I’d like to try explaining the process.
 {: .present-before-paste}
@@ -53,7 +53,7 @@ And that is only half of the work.&nbsp;
 A big surprise from the entire process came from the many practise sessions we had leading up to the event. It was in this environment that speakers could come in, not only to practise their talks, but also workshop their ideas together.
 {: .present-before-paste}
 
-What you had was a group of thought leaders and inspirational people, from multiple different communities, being put in the same room to listen to each other's ideas. Of course amazing things were going to happen.
+What you had was a group of thought leaders and inspirational people, from multiple different communities, being put in the same room to listen to each other's ideas.
 {: .present-before-paste}
 
 I saw the speakers and the TEDxAkl team interact and converse with each other, and these interactions went on to greatly influence the final presentations. Friendships were formed, networks were created, and ideas continued to develop. With guidance from the rest of the TEDxAkl speaker team, advice and feedback was offered to each other, from performance tips, to restructuring and refining ideas.&nbsp; &nbsp;
