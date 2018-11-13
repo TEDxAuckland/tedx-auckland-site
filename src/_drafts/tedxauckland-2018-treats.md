@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'TEDxAuckland 2018: Treats'
+title: Not Just Food For Thought
 date: 2018-10-15 12:00:00 +1300
-image: /uploads/blog-post.jpg
+image:
 author:
   login:
   email:
@@ -12,3 +12,7 @@ author:
 categories:
   - our-news
 ---
+
+TEDxAuckland isn't just food for thought
+
+The teams at Sour Heart Productions put together
