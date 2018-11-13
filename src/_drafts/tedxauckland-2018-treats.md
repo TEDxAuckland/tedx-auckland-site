@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not Just Food For Thought
+title: 'Not Just Food For Thought: The food & drink of TEDxAuckland 2018'
 date: 2018-10-15 12:00:00 +1300
 image:
 author:
