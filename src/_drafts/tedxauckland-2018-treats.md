@@ -19,13 +19,10 @@ categories:
 ***TEDxAuckland isn't just about the talks. ***
 {: .present-before-paste}
 
-Every year, we aim to showcase local food and drink companies that are innovating and creating amazing products.&nbsp;
+Every year, we aim to showcase local food and drink companies that are innovating and creating amazing products. A month on from the event, we look back at the vendors that helped make the day so special.&nbsp;
 {: .present-before-paste}
 
-Our friends at Sour Heart Productions spent the day capturing the many food and drink vendors who provided delicious sustenance to the attendees all day at TEDxAuckland 2018: Off-Piste.&nbsp;
-{: .present-before-paste}
-
-Watch the video here.&nbsp;
+Our friends at Sour Heart Productions spent the day capturing the many food and drink vendors who provided delicious sustenance to the attendees all day at TEDxAuckland 2018: Off-Piste. Watch the video here.&nbsp;
 {: .present-before-paste}
 
 **Food & Drink Partners of TEDxAuckland 2018:**
