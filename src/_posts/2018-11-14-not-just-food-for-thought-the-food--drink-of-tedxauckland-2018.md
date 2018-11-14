@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Not Just Food For Thought: The food & drink of TEDxAuckland 2018'
-date: 2018-11-11 12:00:00 +1300
+date: 2018-11-14 12:00:00 +1300
 image: /uploads/tedxauckland-2018--00-02-53-06-still002.jpg
 author:
   login:
@@ -22,7 +22,7 @@ categories:
 Every year, we aim to showcase local food and drink companies that are innovating and creating amazing products. A month on from the event, we look back at the vendors that helped make the day so special.&nbsp;
 {: .present-before-paste}
 
-Our friends at Sour Heart Productions spent the day capturing the many food and drink vendors who provided delicious sustenance to the attendees, volunteers, and crew all day at TEDxAuckland 2018: Off-Piste.&nbsp;[Watch the video here.&nbsp;](https://www.youtube.com/watch?v=3L7gdPWqT9g&amp;feature=youtu.be){: target="_blank"}
+Our friends at Sour Heart Productions spent the day capturing the many food and drink vendors who provided delicious sustenance to the attendees, volunteers, and crew all day at TEDxAuckland 2018: Off-Piste.
 {: .present-before-paste}
 
 **Food & Drink Partners of TEDxAuckland 2018:**
