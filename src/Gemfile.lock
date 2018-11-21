@@ -21,7 +21,7 @@ GEM
       execjs
     bigdecimal (1.3.5)
     colorator (1.1.0)
-    concurrent-ruby (1.0.5)
+    concurrent-ruby (1.1.3)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -41,7 +41,7 @@ GEM
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    jekyll (3.7.4)
+    jekyll (3.8.5)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
@@ -64,7 +64,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
-    jekyll-watch (2.1.1)
+    jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.1)
@@ -76,7 +76,7 @@ GEM
     minitest (5.11.3)
     multi_xml (0.6.0)
     multipart-post (2.0.0)
-    pathutil (0.16.1)
+    pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
@@ -86,7 +86,7 @@ GEM
     rouge (3.3.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.6.0)
+    sass (3.7.2)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -106,7 +106,7 @@ PLATFORMS
 DEPENDENCIES
   bigdecimal
   flickr-objects
-  jekyll (= 3.7.4)
+  jekyll (~> 3.8, >= 3.8.5)
   jekyll-autoprefixer
   jekyll-feed
   jekyll-responsive-image!
@@ -115,4 +115,4 @@ DEPENDENCIES
   yt
 
 BUNDLED WITH
-   1.16.3
+   1.17.1
