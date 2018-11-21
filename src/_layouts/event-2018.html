@@ -15,39 +15,6 @@ layout: default
 	</div>
 </section>
 
-
-{% if page.youtube_playlist %}
-<section id="talks" class="section-bg-white">
-  <div class="container">
-
-    <h3 class="section-heading section-heading--talks">Talks</h3>
-    {% include talks.html playlist_id = page.youtube_playlist %}
-
-  </div>
-</section>
-{% endif %}
-
-{% if page.other_youtube_playlist %}
-<section id="talks" class="section-bg-white">
-  <div class="container">
-
-    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
-    {% include talks.html playlist_id = page.other_youtube_playlist %}
-
-  </div>
-</section>
-{% endif %}
-
-{% if page.event_schedule %}
-<section id="schedule" class="section-bg-white">
-  <div class="container">
-    <h4 class="section-heading section-heading--speakers">event schedule</h4>
-
-    {% include schedule.html schedule = page.event_schedule %}
-  </div>
-</section>
-{% endif %}
-
 {% if page.people %}
 <section id="speakers" class="section-bg-white">
   <div class="container">
@@ -89,6 +56,38 @@ layout: default
 
 		{% include food-vendors.html food_vendors = page.food_vendors %}
 	</div>
+</section>
+{% endif %}
+
+{% if page.youtube_playlist %}
+<section id="talks" class="section-bg-white">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">Talks</h3>
+    {% include talks.html playlist_id = page.youtube_playlist %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.other_youtube_playlist %}
+<section id="talks" class="section-bg-white">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
+    {% include talks.html playlist_id = page.other_youtube_playlist %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.event_schedule %}
+<section id="schedule" class="section-bg-white">
+  <div class="container">
+    <h4 class="section-heading section-heading--speakers">event schedule</h4>
+
+    {% include schedule.html schedule = page.event_schedule %}
+  </div>
 </section>
 {% endif %}
 

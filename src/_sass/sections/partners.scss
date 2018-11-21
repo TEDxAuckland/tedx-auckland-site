@@ -45,8 +45,9 @@
   }
 
   &--major {
-    width: 80%;
-    @include respond(tab-land) { width: 100%; }
+    width: 85%;
+    @include respond(tab-land) { width: 90%; }
+    @include respond(tab-port) { width: 100%; }
     @include respond(phone) {
       flex-wrap: wrap;
       justify-content: center;
@@ -65,9 +66,9 @@
     height: auto;
 
     &--major {
-      flex: 0 1 45%;
+      flex: 0 1 30%;
       @include respond(tab-port) { flex: 0 1 35%; }
-      @include respond(phone) { flex: 0 0 75%; }
+      @include respond(phone) { flex: 0 0 60%; }
     }
 
     &--supporting {
@@ -80,13 +81,17 @@
     &--major {
       flex: 1 0 50%;
       margin: 3em;
-      font-size: 0.9em;
+      // font-size: 0.9em;
+      font-size: 1.6rem;
+      line-height: 1.7;
 
       @include respond(phone) {
         flex: 1 0 100%;
         margin: 0;
         margin-top: 3rem;
         padding: 0 1rem;
+        // font-size: 1.6rem;
+        // line-height: 1.7;
       }
     }
 
