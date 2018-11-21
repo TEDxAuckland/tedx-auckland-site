@@ -104,15 +104,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bigdecimal
-  flickr-objects
+  bigdecimal (~> 1.3, >= 1.3.5)
+  flickr-objects (~> 0.6.3)
   jekyll (~> 3.8, >= 3.8.5)
   jekyll-autoprefixer
   jekyll-feed
   jekyll-responsive-image!
   jekyll-seo-tag
   jekyll-sitemap
-  yt
+  yt (~> 0.32.2)
 
 BUNDLED WITH
    1.17.1
