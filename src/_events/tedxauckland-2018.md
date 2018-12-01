@@ -134,10 +134,10 @@ food_vendors:
     vendor_link: 'http://www.thecollective.kiwi/'
     vendor_image: /uploads/collective-dairy-logo.jpeg
   - name: Healtheries
-    vendor_link: http://www.healtheries.co.nz/
+    vendor_link: 'http://www.healtheries.co.nz/'
     vendor_image: /uploads/healtheries.jpg
   - name: Judge Bao
-    vendor_link: https://judgebao.co.nz/
+    vendor_link: 'https://judgebao.co.nz/'
     vendor_image: /uploads/judge-bao.png
   - name: Urbanaut
     vendor_link: 'https://www.urbanautbeer.com/'
@@ -149,25 +149,26 @@ food_vendors:
     vendor_link: 'https://www.yealands.co.nz/'
     vendor_image: /uploads/yealands-logo.png
   - name: Part Time Rangers
-    vendor_link: https://parttimerangers.co.nz/
+    vendor_link: 'https://parttimerangers.co.nz/'
     vendor_image: /uploads/part-time-rangers.jpg
   - name: Maarte Catering
-    vendor_link: https://www.maartecatering.nz/
+    vendor_link: 'https://www.maartecatering.nz/'
     vendor_image: /uploads/maarte.png
 major_partners:
   - bizdojo
 supporting_partners:
 event_partners:
-  - auckland_live
-  - cloudcannon
+  - pro-live-tv
+  - lowndes_jordan
   - iticket
+  - marvel-grill
   - korua
   - lectrosonics
   - lotech
-  - lowndes_jordan
   - sound_techniques
   - stopmo
   - wear
+  - cloudcannon
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
