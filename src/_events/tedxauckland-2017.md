@@ -40,14 +40,11 @@ flikr_galleries:
 major_partners:
   - nib
 supporting_partners:
+  - u-s--embassy
   - auckland-live
-  - US_Embassy
 event_partners:
   - allpress
-  - auckland_crown_plaza
   - bean-boy
-  - brancott_estate_letter_series
-  - bulldog_classic
   - fair_food
   - fine_and_dandy
   - fonterra
@@ -74,7 +71,6 @@ event_partners:
   - stopmo
   - superbher
   - tigerburgeryum
-  - tuatara_brewing
   - vinomofo
   - waiheke-herbs
   - whova-logo-box
