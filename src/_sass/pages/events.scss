@@ -1,18 +1,28 @@
-.events-summary {
+.events-list-hero {
+  padding-top: 2rem;
+}
+
+.events-list-container {
+  display: flex;
+}
+
+.events-list {
   display: flex;
   justify-content: flex-end;
   color: lighten($brand-grey-darker, 70%);
   line-height: 1.2;
   text-align: right;
+  flex: 1 0 auto;
 
   @include respond(phone) {
     flex-wrap: wrap;
   }
 
-  &__heading {
-    flex-grow: 2;
-    text-align: left;
-    color: lighten($brand-grey-darker, 20%);
+  &__upcoming,
+  &__past {
+    background-color: white;
+    padding: 4rem;
+    margin: 0 1.8rem;
   }
 
   &__upcoming {
@@ -24,23 +34,8 @@
   &__past {
     text-transform: uppercase;
   }
-
-  & > * {
-    margin: 0 1.8rem;
-
-    @include respond(phone) {
-      margin: 1.8rem 8%;
-      padding: 0;
-      border: none;
-      flex: 1 1 100%;
-    }
-  }
-
 }
 
-.event-info-link {
-  color: inherit;
-}
 
 .event-info {
   text-transform: none;
@@ -49,10 +44,13 @@
   transition: all 0.2s;
 
   &:hover {
-
     .event-info__top:after {
       width: 100%;
     }
+  }
+
+  &__link {
+    color: inherit;
   }
 
   &__top {
@@ -69,13 +67,40 @@
     }
   }
 
-  &__bottom{
+  &__bottom {
     color: lighten($brand-grey-darker, 40%);
   }
 }
 
-.upcoming-events {
-
-  &__heading {
-  }
-}
+// .all-events {
+//   &__container {
+//     display: flex;
+//     justify-content: center;
+//     flex-direction: column;
+//   }
+//
+//   &__title {
+//
+//   }
+//   &__list {
+//     display: flex;
+//     flex-wrap: wrap;
+//     justify-content: center;
+//
+//     &--item {
+//       font-size: 2.5rem;
+//       padding: 1rem 4rem;
+//       margin: 1rem;
+//       background-color: lighten($brand-grey, 10);
+//       color: $brand-color;
+//       font-weight: 800;
+//       border-radius: 1rem;
+//       font-family: $secondary-font;
+//       transition: all 0.2s;
+//
+//       &:hover {
+//         background-color: lighten($brand-grey, 20);
+//       }
+//     }
+//   }
+// }

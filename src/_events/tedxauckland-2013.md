@@ -1,6 +1,6 @@
 ---
 title: 2013 event
-short_title: 2013
+short_title: '2013'
 upcoming: false
 image: /uploads/20130803-tedx-georgias-high-77.jpg
 badge_image:

@@ -1,6 +1,6 @@
 ---
 title: 2009 event
-short_title: 2009
+short_title: '2009'
 upcoming: false
 image:
 badge_image:

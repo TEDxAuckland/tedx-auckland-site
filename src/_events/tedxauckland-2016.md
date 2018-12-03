@@ -1,6 +1,6 @@
 ---
 title: 2016 event
-short_title: 2016
+short_title: '2016'
 upcoming: false
 tagline: flipside
 image: /uploads/flipside-banner.jpg
