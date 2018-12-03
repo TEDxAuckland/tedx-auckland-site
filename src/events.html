@@ -2,21 +2,22 @@
 layout: default
 title: All Events
 image: /assets/images/bg-upcoming-events.jpg
-people_highlight:
+people:
   - hemi-kelly
   - fraser-mcconnell
   - richie-hardcore
   - grace-stratton
-years:
-  - '2009'
-  - '2010'
-  - '2012'
-  - '2013'
-  - '2014'
-  - '2015'
-  - '2016'
-  - '2017'
-  - '2018'
+events:
+  - '/events/tedxauckland-2009'
+  - '/events/tedxauckland-2010'
+  - '/events/tedxauckland-2012'
+  - '/events/tedxauckland-2013'
+  - '/events/tedxauckland-2014'
+  - '/events/tedxauckland-2015'
+  - '/events/tedxauckland-2016'
+  - '/events/tedxauckland-2017'
+  - '/events/tedxauckland-2018'
+
 ---
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
@@ -67,7 +68,7 @@ years:
   <div class="container">
     <h1 class="event-highlights__heading">2018 Speaker Highlight</h1>
 
-    {% include speakers.html speakers = page.people_highlight bg_white = true hide_names = true %}
+    {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
   </div>
 </section>
 
@@ -88,7 +89,7 @@ years:
 </section>
 {% endcomment %}
 
-{% assign filtered_events = site.events | where_exp: "item", "page.years contains item.short_title"%}
+{% assign filtered_events = site.events | where_exp: "event", "page.events contains event.id"%}
 {% assign sorted_events = filtered_events | sort: 'short_title' | reverse %}
 <section id="filter-tags" class="section-bg-grey">
   <div class="container talks-filter-container">
