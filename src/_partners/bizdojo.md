@@ -1,4 +1,5 @@
 ---
+name: 'BizDojo'
 link: 'https://www.bizdojo.com/'
 partner_logo_image: /uploads/bizdojo.png
 ---
