@@ -8,17 +8,17 @@ people:
   - richie-hardcore
   - grace-stratton
 events:
-  - '/events/tedxauckland-2009'
-  - '/events/tedxauckland-2010'
-  - '/events/tedxauckland-2012'
-  - '/events/tedxauckland-2013'
-  - '/events/tedxauckland-2014'
-  - '/events/tedxauckland-2015'
-  - '/events/tedxauckland-2016'
-  - '/events/tedxauckland-2017'
-  - '/events/tedxauckland-2018'
-
+  - tedxauckland-2009
+  - tedxauckland-2010
+  - tedxauckland-2012
+  - tedxauckland-2013
+  - tedxauckland-2014
+  - tedxauckland-2015
+  - tedxauckland-2016
+  - tedxauckland-2017
+  - tedxauckland-2018
 ---
+
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
 
@@ -89,8 +89,6 @@ events:
 </section>
 {% endcomment %}
 
-{% assign filtered_events = site.events | where_exp: "event", "page.events contains event.id"%}
-{% assign sorted_events = filtered_events | sort: 'short_title' | reverse %}
 <section id="filter-tags" class="section-bg-grey">
   <div class="container talks-filter-container">
 
@@ -101,7 +99,8 @@ events:
         <h4 class="filter-tags__title" >select year</h4>
 
         <ul class="filter-tags__tags">
-          {% for event in sorted_events %}
+          {% for event_name in page.events %}
+          {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
           <li class="filter-tags__tag">
             <a href="{{event.url}}">{{ event.short_title }}: {{ event.tagline }}</a>
