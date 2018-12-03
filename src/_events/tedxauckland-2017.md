@@ -40,7 +40,7 @@ flikr_galleries:
 major_partners:
   - nib
 supporting_partners:
-  - u-s--embassy
+  - u-s-embassy
   - auckland-live
 event_partners:
   - allpress
