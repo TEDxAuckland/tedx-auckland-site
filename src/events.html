@@ -8,15 +8,15 @@ people:
   - richie-hardcore
   - grace-stratton
 events:
-  - tedxauckland-2009
-  - tedxauckland-2010
-  - tedxauckland-2012
-  - tedxauckland-2013
-  - tedxauckland-2014
-  - tedxauckland-2015
-  - tedxauckland-2016
-  - tedxauckland-2017
   - tedxauckland-2018
+  - tedxauckland-2017
+  - tedxauckland-2016
+  - tedxauckland-2015
+  - tedxauckland-2014
+  - tedxauckland-2013
+  - tedxauckland-2012
+  - tedxauckland-2010
+  - tedxauckland-2009
 ---
 
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
@@ -89,7 +89,7 @@ events:
 </section>
 {% endcomment %}
 
-<section id="filter-tags" class="section-bg-grey">
+<section id="filter-tags" class="section-bg-white">
   <div class="container talks-filter-container">
 
     <div class="talks-filter">
