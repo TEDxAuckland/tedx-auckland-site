@@ -1,6 +1,6 @@
 ---
 title: 2015 event
-short_title: 2015
+short_title: '2015'
 upcoming: false
 image: /uploads/2015banner2.png
 badge_image:

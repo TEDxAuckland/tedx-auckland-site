@@ -1,22 +1,19 @@
 ---
 layout: default
 title: All Talks
-years:
-  - 2009
-  - 2010
-  - 2012
-  - 2013
-  - 2014
-  - 2015
-  - 2016
-  - 2017
+events:
+  - tedxauckland-2009
+  - tedxauckland-2010
+  - tedxauckland-2012
+  - tedxauckland-2013
+  - tedxauckland-2014
+  - tedxauckland-2015
+  - tedxauckland-2016
+  - tedxauckland-2017
 other_playlists:
   - PLcm2pIIAwlDuXUwTNyTkiB0EFsi8tG5pV
 image: /assets/images/bg-upcoming-events.jpg
 ---
-
-{% assign filtered_events = site.events | where_exp: "item", "page.years contains item.short_title"%}
-{% assign sorted_events = filtered_events | sort: 'short_title' | reverse %}
 
 <header class="hero hero__talks" style="background-image: url({{ page.image }})">
 </header>
@@ -31,7 +28,8 @@ image: /assets/images/bg-upcoming-events.jpg
         <h4 class="filter-tags__title" >select your category</h4>
 
         <ul class="filter-tags__tags">
-          {% for event in sorted_events %}
+          {% for event_name in page.events %}
+          {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
           <li class="filter-tags__tag">
             <a href="#{{event.short_title}}">{{ event.short_title }}: {{ event.tagline }}</a>
@@ -48,7 +46,9 @@ image: /assets/images/bg-upcoming-events.jpg
   </div>
 </section>
 
-{% for event in sorted_events %}
+{% for event_name in page.events %}
+{% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
+
   <section id="{{ event.short_title }}" class="{% cycle "section-bg-white", "section-bg-grey-lighter" %}">
   	<div class="container">
 

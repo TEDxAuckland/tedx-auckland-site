@@ -1,6 +1,6 @@
 ---
 title: 2017 event
-short_title: 2017
+short_title: '2017'
 upcoming: false
 layout: event-2017
 image: /uploads/tedxakl-2017-banner-fw.png
@@ -40,7 +40,7 @@ flikr_galleries:
 major_partners:
   - nib
 supporting_partners:
-  - u-s--embassy
+  - u-s-embassy
   - auckland-live
 event_partners:
   - allpress
