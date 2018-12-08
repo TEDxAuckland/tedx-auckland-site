@@ -38,13 +38,17 @@
     align-items: center;
 
     &:hover {
-      @include respond(tab-land) { transform: scale(1.05); }
+      transform: scale(1.02);
     }
   }
 
   &--major {
     width: 90%;
-    @include respond(tab-land) { width: 90%; }
+    padding-left: 0;
+    @include respond(tab-land) {
+      padding-left: 1.8rem;
+      width: 90%;
+    }
     @include respond(tab-port) { width: 100%; }
     @include respond(phone) {
       flex-wrap: wrap;
