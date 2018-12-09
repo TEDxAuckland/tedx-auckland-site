@@ -23,7 +23,6 @@ module Jekyll
     end
 
     def fetch_local_videos(playlist_id)
-      puts "Fetching videos locally from youtube playlist #{playlist_id}"
       file = File.read(json_path(playlist_id))
       JSON.parse(file)
     end
@@ -32,6 +31,7 @@ module Jekyll
       puts "Fetching videos remotely from youtube playlist #{playlist_id}"
       playlist = Yt::Playlist.new id: playlist_id
       playlist.playlist_items.map do |item|
+        next if item.title == "Deleted video"
         {
           "playlist_item_id" => item.id,
           "title" => item.title,
@@ -49,7 +49,7 @@ module Jekyll
           "position" => item.position,
           "tags" => item.video.tags
         }
-      end
+      end.compact
     end
 
     def write_file(data, playlist_id)
