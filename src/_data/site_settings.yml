@@ -1,9 +1,9 @@
 upcoming_event_bar:
   active: false
-  event_short_title: "2018"
+  event_short_title: '2018'
 buy_ticket_button:
   active: false
-  url: /events/2018/#buyTicket
+  url: '/events/2018/#buyTicket'
 navigation:
   - title: Talks/
     sub_title: Ideas
@@ -11,15 +11,15 @@ navigation:
   - title: Events/
     sub_title: Experiences
     url: /events/
+  - title: Partnerships/
+    sub_title: Support
+    url: /partners/
   - title: Blog/
     sub_title: News
     url: /news/
   - title: About/
     sub_title: Contact
     url: /about/
-  - title: Partnerships/
-    sub_title: Support
-    url: /partners/
   - title: Join Us/
     sub_title: /Mailing List
     url: /mailing-list/
