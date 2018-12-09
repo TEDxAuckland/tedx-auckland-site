@@ -17,6 +17,9 @@ navigation:
   - title: About/
     sub_title: Contact
     url: /about/
+  - title: Partnerships/
+    sub_title: Support
+    url: /partners/
   - title: Join Us/
     sub_title: /Mailing List
     url: /mailing-list/
