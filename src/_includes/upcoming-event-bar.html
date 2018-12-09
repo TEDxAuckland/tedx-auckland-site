@@ -1,6 +1,6 @@
 {% assign event_bar = site.data.site_settings.upcoming_event_bar %}
 
-{% if event_bar.event_short_title %}
+{% if event_bar.active %}
 	{% assign event = site.events | where_exp: "e", "e.short_title == event_bar.event_short_title" | first %}
 		<div class="event-bar">
 			<a href="{{ event.url }}" class="event-bar__link">

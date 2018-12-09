@@ -76,7 +76,7 @@
 				<div class="nav-bar__links">
 					<ul class="nav-links">
 
-						{% for nav in site.navigation %}
+						{% for nav in site.data.site_settings.navigation %}
 
 						{% assign active = nil %}
 						{% if page.url contains nav.url %}
@@ -92,20 +92,17 @@
 
 						{% endfor %}
 
-						<li class="nav-link">
-							<a href="/#join">
-								<span class="nav-link__text">Join us/</span>
-								<span class="nav-link__text nav-link__text--sub">Mailing list</span>
-							</a>
-						</li>
 					</ul>
 				</div>
 
-				<!-- <div class="nav-bar__buy-tickets">
+				{% assign ticket_button = site.data.site_settings.buy_ticket_button  %}
+				{% if ticket_button.active %}
+				<div class="nav-bar__buy-tickets">
 					<li class="nav-link nav-link__button">
-						<a href="/events/2018#buyTicket" class="button button__nav">Buy Ticket</a>
+						<a href="{{ ticket_button.url }}" class="button button__nav">Buy Ticket</a>
 					</li>
-				</div> -->
+				</div>
+				{% endif %}
 
 			</div>
 		</nav>

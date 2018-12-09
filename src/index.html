@@ -10,9 +10,7 @@ youtube_playlist: PLcm2pIIAwlDvyvhnABusUFtL7E4k2sM_B
 	{% include homepage-blog.html %}
 </section>
 
-
-<!-- {% include heros/2018-event-gif.html %} -->
-<!-- {% include upcoming-event-bar.html %} -->
+{% include upcoming-event-bar.html %}
 
 {% assign upcoming_event = site.events | where_exp: "e", "e.upcoming == true" | first %}
 
