@@ -30,6 +30,8 @@ class YoutubeVideoInfo
     puts playlist_id
     playlist = Yt::Playlist.new id: playlist_id
     playlist.playlist_items.map do |item|
+      next if item.title == "Deleted video"
+      puts "> #{item.title}"
        {
          playlist_item_id: item.id,
          playlist_id: item.playlist_id,
@@ -45,7 +47,7 @@ class YoutubeVideoInfo
          dislike_count: item.video.dislike_count,
          favorite_count: item.video.favorite_count,
          comment_count: item.video.comment_count
-       }
+       }.compact
     end
   end
 
