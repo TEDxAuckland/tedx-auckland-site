@@ -11,11 +11,11 @@ description_markdown: >-
   restaurants in major cities around the world and now holds ambassador
   positions for Le Cordon Bleu and True Pacific.
 website_url: 'http://robertoliveronline.com/'
-twitter: 'https://twitter.com/RobertOliverNZ'
-facebook: 'https://www.facebook.com/RobertOliverChef/'
+twitter_url: 'https://twitter.com/RobertOliverNZ'
+facebook_url: 'https://www.facebook.com/RobertOliverChef/'
 youtube_video_id: 'orfB1UkoKdQ'
 github_username:
-instagram: 'https://www.instagram.com/robertolivernz/'
+instagram_url: 'https://www.instagram.com/robertolivernz/'
 ---
 
 Enter your description here...

@@ -23,11 +23,11 @@ description_markdown: >-
   cycling the length of New Zealand solo, running 1,000 kilometres, or building
   a $100M venture.
 website_url: 'http://www.vaughan.ai/'
-twitter: 'https://twitter.com/nzVorn'
-facebook:
+twitter_url: 'https://twitter.com/nzVorn'
+facebook_url:
 youtube_video_id: 'lSNm12-dYWI'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

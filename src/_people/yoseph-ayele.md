@@ -17,11 +17,11 @@ description_markdown: >-
   bridges, and community.
 website_url: 'https://www.ehf.org/'
 medium_url:
-twitter: 'https://twitter.com/yosephayele'
-facebook: 'https://www.facebook.com/edmundhillaryfellowship'
+twitter_url: 'https://twitter.com/yosephayele'
+facebook_url: 'https://www.facebook.com/edmundhillaryfellowship'
 youtube_video_id: '6Vqethhad_k'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

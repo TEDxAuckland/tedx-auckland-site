@@ -14,11 +14,11 @@ description_markdown: >-
   each other – building upon a shared goal of self-realisation and the desire to
   make a positive impact on the global community.
 website_url: 'http://thechangeschool.com/'
-twitter: 'https://twitter.com/agent_grace, https://twitter.com/thechangeschool'
-facebook: 'https://www.facebook.com/thechangeschool'
+twitter_url: 'https://twitter.com/agent_grace, https://twitter.com/thechangeschool'
+facebook_url: 'https://www.facebook.com/thechangeschool'
 youtube_video_id: 'V5VKIihK6fQ'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -18,11 +18,11 @@ description_markdown: >-
 website_url: >-
   https://www.nasa.gov/content/alex-macdonald-senior-economic-advisor-office-of-the-administrator
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'LD0yGBwszCQ'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

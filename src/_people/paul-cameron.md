@@ -16,11 +16,11 @@ description_markdown: >-
   industry, before cofounding Booktrack.
 website_url: 'https://www.booktrack.com/'
 medium_url:
-twitter: 'https://twitter.com/pccameron'
-facebook:
+twitter_url: 'https://twitter.com/pccameron'
+facebook_url:
 youtube_video_id: 'pz9kG1aUVe0'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

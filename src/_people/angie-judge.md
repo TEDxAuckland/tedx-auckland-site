@@ -15,11 +15,11 @@ description_markdown: >-
   a proud supporter of getting girls into STEM careers.
 website_url: 'https://dexibit.com/'
 medium_url:
-twitter: 'https://twitter.com/angie_dexibit'
-facebook:
+twitter_url: 'https://twitter.com/angie_dexibit'
+facebook_url:
 youtube_video_id: 'EKBKqcaHOIg'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -19,11 +19,11 @@ description_markdown: >-
   disruption, getting lost and going crazy. If he’s lucky, one day, it might
   even allow him to live out of a sack.
 website_url:
-twitter: 'https://twitter.com/keith_ng'
-facebook:
+twitter_url: 'https://twitter.com/keith_ng'
+facebook_url:
 youtube_video_id: 'eRIV-k4Tbz8'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

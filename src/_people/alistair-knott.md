@@ -18,11 +18,11 @@ description_markdown: >-
   allow people to talk about what they see and do?
 website_url: 'http://www.cs.otago.ac.nz/staff/Alistair_Knott'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'qhqLoTKBRz0'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

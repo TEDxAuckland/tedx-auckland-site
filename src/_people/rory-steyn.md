@@ -21,11 +21,11 @@ description_markdown: >-
   What Rory learnt from the man, once seen as a terrorist by South African
   authorities, changed his life forever.
 website_url: 'http://nsa-global.com/'
-twitter: 'https://twitter.com/RorySteyn11'
-facebook:
+twitter_url: 'https://twitter.com/RorySteyn11'
+facebook_url:
 youtube_video_id: '4CO7f9HHI3A'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

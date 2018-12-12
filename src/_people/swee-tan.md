@@ -44,11 +44,11 @@ description_markdown: >-
   author of over 150 publications.
 website_url: 'http://www.gmri.org.nz'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

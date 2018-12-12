@@ -16,11 +16,11 @@ description_markdown: >-
   their seats.'
 website_url: 'https://www.rloseby.com/'
 medium_url:
-twitter: 'https://twitter.com/RichardLoseby'
-facebook: 'https://www.facebook.com/losebybooks/'
+twitter_url: 'https://twitter.com/RichardLoseby'
+facebook_url: 'https://www.facebook.com/losebybooks/'
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

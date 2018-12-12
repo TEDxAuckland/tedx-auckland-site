@@ -32,11 +32,11 @@ description_markdown: >-
   to bring to you 'sashaktikaran' (empowerment in hindi).
 website_url: 'http://www.aajanachle.co.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

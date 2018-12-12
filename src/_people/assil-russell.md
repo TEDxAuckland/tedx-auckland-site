@@ -12,11 +12,11 @@ description_markdown: >-
   people from all walks of life to make a real difference, one smile at a time.
 website_url: 'http://www.iraqicare.org/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'bYNRnfKh4ns'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

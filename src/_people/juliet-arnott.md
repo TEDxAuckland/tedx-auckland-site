@@ -12,11 +12,11 @@ description_markdown: >-
   linked to our active care of the world around us.
 website_url: 'https://www.rekindle.org.nz/'
 medium_url:
-twitter: 'https://twitter.com/juliet_rekindle'
-facebook: 'https://www.facebook.com/rekindlenz'
+twitter_url: 'https://twitter.com/juliet_rekindle'
+facebook_url: 'https://www.facebook.com/rekindlenz'
 youtube_video_id: 'K2uiULiNRAg'
 github_username:
-instagram: 'https://www.instagram.com/rekindle_nz/'
+instagram_url: 'https://www.instagram.com/rekindle_nz/'
 ---
 
 Enter your description here...

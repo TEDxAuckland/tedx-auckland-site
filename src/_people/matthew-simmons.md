@@ -10,11 +10,11 @@ description_markdown: >-
   Digital Cinema, Loudspeaker design, Acoustics, Optics and Viticulture.
 website_url: 'https://nyriad.com/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 's3gQu3_hJVc'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

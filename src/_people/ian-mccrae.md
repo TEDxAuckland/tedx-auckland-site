@@ -20,11 +20,11 @@ description_markdown: >-
   mathematical science, and for a lapsed mathematician like Ian that means the
   health sector just got a whole lot more interesting.
 website_url: 'https://orionhealth.com'
-twitter: 'https://twitter.com/ianmccrae'
-facebook:
+twitter_url: 'https://twitter.com/ianmccrae'
+facebook_url:
 youtube_video_id: 'Q48dXVTC03o'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

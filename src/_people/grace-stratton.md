@@ -34,11 +34,11 @@ description_markdown: >-
   should be self evident.
 website_url: 'http://gracegeorgia.co.nz'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram: 'https://www.instagram.com/graciegeorgiastratton/'
+instagram_url: 'https://www.instagram.com/graciegeorgiastratton/'
 ---
 
 Enter your description here...

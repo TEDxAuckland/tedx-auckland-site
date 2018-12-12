@@ -9,11 +9,11 @@ description_markdown: >-
   and adventure later on in life. The Hip Op-eration Crew are officially the
   worlds oldest dance troupe listed by the Guinness World Records.
 website_url: 'http://www.hipop-eration.com/'
-twitter: 'https://twitter.com/HipOpCrew'
-facebook: 'https://www.facebook.com/TheHipOpErationCrew/'
+twitter_url: 'https://twitter.com/HipOpCrew'
+facebook_url: 'https://www.facebook.com/TheHipOpErationCrew/'
 youtube_video_id: 'bsJjOxGhAE0'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

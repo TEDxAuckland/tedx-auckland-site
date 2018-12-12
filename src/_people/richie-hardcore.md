@@ -30,11 +30,11 @@ description_markdown: >-
   achieve their goals.
 website_url: 'http://richiehardcore.co.nz'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram: 'https://www.instagram.com/richiehardcore/'
+instagram_url: 'https://www.instagram.com/richiehardcore/'
 ---
 
 Enter your description here...

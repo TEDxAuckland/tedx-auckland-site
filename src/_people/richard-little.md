@@ -21,11 +21,11 @@ description_markdown: >-
   the suffering and improve the quality of life of potentially millions of
   stroke sufferers worldwide.
 website_url: 'https://www.rexbionics.com/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'WPbpGhSILqk'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

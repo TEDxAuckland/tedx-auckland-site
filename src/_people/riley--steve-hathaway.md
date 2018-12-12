@@ -13,11 +13,11 @@ description_markdown: >-
   journey that has never been previously imagined: a fun, accessible glimpse
   into the world of New Zealand’s incredible underwater species.
 website_url: 'https://www.youngoceanexplorers.com/'
-twitter: 'https://twitter.com/YngOcnExplorers'
-facebook: 'https://www.facebook.com/youngoceanexplorers'
+twitter_url: 'https://twitter.com/YngOcnExplorers'
+facebook_url: 'https://www.facebook.com/youngoceanexplorers'
 youtube_video_id: 'UzA_CTkn7vk'
 github_username:
-instagram: 'https://www.instagram.com/young_ocean_explorers/'
+instagram_url: 'https://www.instagram.com/young_ocean_explorers/'
 ---
 
 Enter your description here...

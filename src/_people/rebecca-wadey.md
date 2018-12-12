@@ -13,11 +13,11 @@ description_markdown: >-
   meditation, massage, accupuncture and nutrition and offers free programmes for
   women with cancer.
 website_url:
-twitter: 'https://twitter.com/thecentrenz'
-facebook: 'https://www.facebook.com/thecentrenz/'
+twitter_url: 'https://twitter.com/thecentrenz'
+facebook_url: 'https://www.facebook.com/thecentrenz/'
 youtube_video_id: 'z6Iip-kl-VM'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

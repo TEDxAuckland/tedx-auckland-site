@@ -18,11 +18,11 @@ description_markdown: >-
   environmental edge.
 website_url: 'http://earthraceconservation.org/'
 medium_url:
-twitter: 'https://twitter.com/PeteBethune'
-facebook: 'https://www.facebook.com/Capt.Pete.Bethune'
+twitter_url: 'https://twitter.com/PeteBethune'
+facebook_url: 'https://www.facebook.com/Capt.Pete.Bethune'
 youtube_video_id: '7eUVD74ozQU'
 github_username:
-instagram: 'https://www.instagram.com/petebethune/'
+instagram_url: 'https://www.instagram.com/petebethune/'
 ---
 
 Enter your description here...

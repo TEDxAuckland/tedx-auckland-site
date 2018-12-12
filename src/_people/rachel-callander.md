@@ -28,11 +28,11 @@ description_markdown: >-
   us about themselves and ourselves, which is to be celebrated as truly
   exceptional.
 website_url: 'http://www.rachelcallander.co/'
-twitter: 'https://twitter.com/rachelcallander'
-facebook:
+twitter_url: 'https://twitter.com/rachelcallander'
+facebook_url:
 youtube_video_id: 'wUYBpsujxdw'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

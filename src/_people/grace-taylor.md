@@ -11,11 +11,11 @@ description_markdown: >-
   in many facets of society. Grace is co-founder of the South Auckland Poets
   Collective and the Rising Voices Youth Poetry Movement.
 website_url:
-twitter:
-facebook: 'https://www.facebook.com/grace.taylor.5437923/'
+twitter_url:
+facebook_url: 'https://www.facebook.com/grace.taylor.5437923/'
 youtube_video_id: 'LivPMiYik9g'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

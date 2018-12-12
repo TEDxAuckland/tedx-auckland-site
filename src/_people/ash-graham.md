@@ -13,11 +13,11 @@ description_markdown: >-
   big NZ festivals (R n V, Blues and Brews) His music has a hook that keeps you
   wanting to come back for more.
 website_url:
-twitter: 'https://twitter.com/AshAshgraham'
-facebook:
+twitter_url: 'https://twitter.com/AshAshgraham'
+facebook_url:
 youtube_video_id: '8jjcVhpMow0'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

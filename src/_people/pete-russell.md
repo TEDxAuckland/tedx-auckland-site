@@ -12,11 +12,11 @@ description_markdown: >-
   work – a local food operation delivering to hundreds of Auckland doorsteps
   each week.
 website_url: 'https://www.ooooby.org'
-twitter: 'https://twitter.com/ohmpo'
-facebook:
+twitter_url: 'https://twitter.com/ohmpo'
+facebook_url:
 youtube_video_id: 'SpnEGb0GdwY'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

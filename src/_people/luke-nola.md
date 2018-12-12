@@ -14,11 +14,11 @@ description_markdown: >-
   enjoyed throughout the world, screening in over 73 countries and is the first
   New Zealand children’s TV format ever to be licensed by the BBC in the UK.
 website_url: 'http://lukenola.com/'
-twitter: 'https://twitter.com/gooberbrother'
-facebook:
+twitter_url: 'https://twitter.com/gooberbrother'
+facebook_url:
 youtube_video_id: '4O3n6yOYWAo'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

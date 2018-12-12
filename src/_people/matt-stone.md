@@ -22,11 +22,11 @@ description_markdown: >-
   own TV show,&nbsp;*Aussie Recipes that Rock,* a series that is aired in over
   40 countries.
 website_url:
-twitter: 'https://twitter.com/chefmattstone?lang=en'
-facebook:
+twitter_url: 'https://twitter.com/chefmattstone?lang=en'
+facebook_url:
 youtube_video_id: '56Y0TElkI90'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

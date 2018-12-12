@@ -20,11 +20,11 @@ description_markdown: >-
   At ASB James is helping the 168-year-old bank to rethink itself as a tech
   company, licensed and trusted to provide financial services.
 website_url: 'http://jamesbergin.com/'
-twitter: 'https://twitter.com/jamesbergin'
-facebook:
+twitter_url: 'https://twitter.com/jamesbergin'
+facebook_url:
 youtube_video_id: 's6ZFteZ61nA'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

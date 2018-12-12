@@ -17,11 +17,11 @@ description_markdown: >-
   ecosystem in Aotearoa.
 website_url: 'http://internationalspace.com/'
 medium_url: 'http://spacebase.co/'
-twitter: 'https://twitter.com/epaatdahlstrom'
-facebook:
+twitter_url: 'https://twitter.com/epaatdahlstrom'
+facebook_url:
 youtube_video_id: '1Q5nXNVBj9Y'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

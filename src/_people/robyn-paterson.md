@@ -11,11 +11,11 @@ description_markdown: >-
   prestigious International Documentary Festival Amsterdam and won Best
   Cinematography & Best Emerging Filmmaker at DocEdge Film Festival.
 website_url: 'http://www.robynpaterson.co.nz/'
-twitter: 'https://twitter.com/robynpaterson'
-facebook:
+twitter_url: 'https://twitter.com/robynpaterson'
+facebook_url:
 youtube_video_id: '2vFWQSXVYVk'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

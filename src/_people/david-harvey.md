@@ -23,11 +23,11 @@ description_markdown: >-
   justice. David’s blog is a unique insight to a top level new legal decision
   making in an increasingly fast changing world.
 website_url: 'https://theitcountreyjustice.wordpress.com/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'FxSra_n9oeE'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

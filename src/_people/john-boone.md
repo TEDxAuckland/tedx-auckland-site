@@ -17,11 +17,11 @@ description_markdown: >-
   In 2009, the show won the category of Best Nationwide Corporate Entertainment
   at the Corporate Events Guide People’s Choice Awards.
 website_url: 'http://rhythminteractive.co.nz/'
-twitter: 'https://twitter.com/johnnybnz'
-facebook: 'https://www.facebook.com/RhythmInteractiveLtd/'
+twitter_url: 'https://twitter.com/johnnybnz'
+facebook_url: 'https://www.facebook.com/RhythmInteractiveLtd/'
 youtube_video_id: 'EIk-K6JILj4'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

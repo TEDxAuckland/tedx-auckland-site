@@ -23,11 +23,11 @@ description_markdown: >-
   world class leader in every way.
 website_url: 'http://www.chenpalmer.com/'
 medium_url:
-twitter: 'https://twitter.com/maichennz'
-facebook:
+twitter_url: 'https://twitter.com/maichennz'
+facebook_url:
 youtube_video_id: 'yku9P9luZh4'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

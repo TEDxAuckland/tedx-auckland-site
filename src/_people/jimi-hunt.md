@@ -10,11 +10,11 @@ description_markdown: >-
   others with depression and raise awareness of New Zealand’s massive problem of
   depression, all while keeping himself sane.
 website_url: 'http://www.jimihunt.com/'
-twitter: 'https://twitter.com/thejimihunt'
-facebook:
+twitter_url: 'https://twitter.com/thejimihunt'
+facebook_url:
 youtube_video_id: 'RTjr184H5Rs'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -20,11 +20,11 @@ description_markdown: >-
   does not matter and if they do… I challenge them to say it to your face… where
   they can see your eyes and feel your breath.”
 website_url:
-twitter: 'https://twitter.com/tameiti'
-facebook: 'https://www.facebook.com/wairere.t.iti/'
+twitter_url: 'https://twitter.com/tameiti'
+facebook_url: 'https://www.facebook.com/wairere.t.iti/'
 youtube_video_id: 'qeK3SkxrZRI'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

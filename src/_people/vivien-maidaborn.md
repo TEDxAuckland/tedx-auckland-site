@@ -19,11 +19,11 @@ description_markdown: >-
   into the nature of collaboration, into the power of the crowd, and what
   invites people into engaged citizenship.
 website_url: 'https://www.loomio.org/'
-twitter: 'https://twitter.com/maidaborn?lang=en'
-facebook:
+twitter_url: 'https://twitter.com/maidaborn?lang=en'
+facebook_url:
 youtube_video_id: 'd-tGhbUMLHE'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

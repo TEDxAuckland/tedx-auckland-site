@@ -15,11 +15,11 @@ description_markdown: >-
   and growth.
 website_url: 'http://www.whatsyourprison.com/'
 medium_url:
-twitter: 'https://twitter.com/drpaulwood'
-facebook:
+twitter_url: 'https://twitter.com/drpaulwood'
+facebook_url:
 youtube_video_id: 'LjjlsW1MDmc'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

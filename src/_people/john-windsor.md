@@ -16,11 +16,11 @@ description_markdown: >-
   skills training.
 website_url: 'http://www.windsorsurgery.co.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: '87Re2-hkTlo'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

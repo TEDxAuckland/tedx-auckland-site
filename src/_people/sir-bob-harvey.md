@@ -15,11 +15,11 @@ description_markdown: >-
   in leadership, creativity and his passion for the environment will be the
   foundation of his TEDx talk.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: '9YkaMqn_hjY'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

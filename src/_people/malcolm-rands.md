@@ -11,11 +11,11 @@ description_markdown: >-
   co-founding New Zealand’s first permaculture eco-village in 1986 and was a
   foundation member of the New Zealand Sustainable Business Network.
 website_url: 'http://www.fairground.org/'
-twitter: 'https://twitter.com/nzecoman'
-facebook:
+twitter_url: 'https://twitter.com/nzecoman'
+facebook_url:
 youtube_video_id: 'A5wIBRuFAS8'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -14,11 +14,11 @@ description_markdown: >-
   research and his venture capital backed startup Quid.
 website_url: 'http://seangourley.com/'
 medium_url:
-twitter: 'https://twitter.com/sgourley'
-facebook:
+twitter_url: 'https://twitter.com/sgourley'
+facebook_url:
 youtube_video_id: 'mKZCa_ejbfg'
 github_username:
-instagram: 'https://www.instagram.com/sgourley/'
+instagram_url: 'https://www.instagram.com/sgourley/'
 ---
 
 Enter your description here...

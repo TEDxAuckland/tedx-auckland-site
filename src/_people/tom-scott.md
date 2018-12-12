@@ -16,11 +16,11 @@ description_markdown: >-
   six-part television series on Sir Edmund Hillary is currently in production. A
   gold card holder he has no plans to retire.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'n_3KSjx43Tw'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

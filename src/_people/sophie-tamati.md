@@ -11,11 +11,11 @@ description_markdown: >-
   programs – Hika EXPLORER and Hika LITE – designed to support students and
   teachers achieve their language goals.
 website_url: 'http://www.hikagroup.com/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'Cx2-XvdnH4Y'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -19,11 +19,11 @@ description_markdown: >-
   knowing the basic skills, reduce waste, eliminate plastic and chemicals, and
   eat only fresh food.
 website_url: 'http://www.gardentotable.org.nz/'
-twitter: 'https://twitter.com/gardentotablenz?lang=en'
-facebook: 'https://www.facebook.com/garden2table/'
+twitter_url: 'https://twitter.com/gardentotablenz?lang=en'
+facebook_url: 'https://www.facebook.com/garden2table/'
 youtube_video_id: 'mQHUs5bcGDY'
 github_username:
-instagram: 'https://www.instagram.com/gardentotablenz/'
+instagram_url: 'https://www.instagram.com/gardentotablenz/'
 ---
 
 Enter your description here...

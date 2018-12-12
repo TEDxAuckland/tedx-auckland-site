@@ -18,11 +18,11 @@ description_markdown: >-
   prepared for the impact it would have or the enormity of the response. The
   journey since has reframed his own life in positive ways.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: '7GVEqegzx44'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -9,11 +9,11 @@
 		"description_markdown": {{ person.description_markdown | jsonify }},
 		"website_url": "{{ person.website_url }}",
 		"medium_url": "{{ person.medium_url }}",
-		"twitter": "{{ person.twitter }}",
-		"facebook": "{{ person.facebook }}",
+		"twitter_url": "{{ person.twitter_url }}",
+		"facebook_url": "{{ person.facebook_url }}",
 		"google_plus": "{{ person.google_plus }}",
 		"github_username": "{{ person.github_username }}",
-		"instagram": "{{ person.instagram }}"
+		"instagram_url": "{{ person.instagram_url }}"
 	}{% if forloop.last != true %},{% endif %}
 	{% endfor %}
 ]

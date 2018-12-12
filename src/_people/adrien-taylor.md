@@ -17,11 +17,11 @@ description_markdown: >-
   range of super limited five panel caps. All Offcut caps are handcrafted in New
   Zealand and a tree is planted with every cap sold.
 website_url: 'https://offcut.co'
-twitter: 'https://twitter.com/Adrien_Taylor'
-facebook:
+twitter_url: 'https://twitter.com/Adrien_Taylor'
+facebook_url:
 youtube_video_id: 'XOnl7PijqIs'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

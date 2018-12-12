@@ -14,11 +14,11 @@ description_markdown: >-
   core values of love and acceptance, energy and creativity, and collaboration
   and community.
 website_url: 'https://www.ngarangatahitoa.co.nz/'
-twitter: 'https://twitter.com/ngarangatahitoa?lang=en'
-facebook: 'https://www.facebook.com/ngarangatahitoa/'
+twitter_url: 'https://twitter.com/ngarangatahitoa?lang=en'
+facebook_url: 'https://www.facebook.com/ngarangatahitoa/'
 youtube_video_id: 'Dzxe_pQTd90'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

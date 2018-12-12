@@ -23,11 +23,11 @@ description_markdown: >-
   Urzila is one of New Zealand’s funniest comedians, male or female, and is a
   true star on the rise.
 website_url: 'http://urzilacarlson.com/'
-twitter: 'https://twitter.com/UrzilaCarlson'
-facebook: 'https://www.facebook.com/UrzilaCarlsonComedian/'
+twitter_url: 'https://twitter.com/UrzilaCarlson'
+facebook_url: 'https://www.facebook.com/UrzilaCarlsonComedian/'
 youtube_video_id: 'h1fk2zFTdlI'
 github_username:
-instagram: 'https://www.instagram.com/urzilacarlson/'
+instagram_url: 'https://www.instagram.com/urzilacarlson/'
 ---
 
 Enter your description here...

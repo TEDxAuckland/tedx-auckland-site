@@ -18,11 +18,11 @@ description_markdown: >-
   allows consumers to allocate 50% of this fee to a charity of their choice.
 website_url: 'https://squawksquad.co.nz'
 medium_url: 'https://twitter.com/SquawkSquadNZ'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram: 'https://www.instagram.com/squawksquad_nz/'
+instagram_url: 'https://www.instagram.com/squawksquad_nz/'
 ---
 
 Enter your description here...

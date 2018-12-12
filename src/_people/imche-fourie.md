@@ -20,11 +20,11 @@ description_markdown: >-
   is a mentor to several young entrepreneurs.
 website_url: 'https://www.leveltwo.tech/'
 medium_url: 'https://chiasma.org.nz/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

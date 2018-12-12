@@ -16,11 +16,11 @@ description_markdown: >-
   innovative and modern solutions to a variety of customers, including the
   education sector. A frequent speaker on business and technology.
 website_url: 'http://www.dextech.co.nz/'
-twitter: 'https://twitter.com/TobySCarr'
-facebook:
+twitter_url: 'https://twitter.com/TobySCarr'
+facebook_url:
 youtube_video_id: 'WSPQhTn6J1w'
 github_username:
-instagram: 'https://www.instagram.com/toby_carr/'
+instagram_url: 'https://www.instagram.com/toby_carr/'
 ---
 
 Enter your description here...

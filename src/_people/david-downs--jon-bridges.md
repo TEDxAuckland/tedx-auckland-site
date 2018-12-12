@@ -18,11 +18,11 @@ description_markdown: >-
   that of our international peers lies through a rewiring of our famous No.8
   Wire innovation mind-set.
 website_url: 'http://www.no8rewired.kiwi/'
-twitter:
-facebook: 'https://www.facebook.com/no8rewired/'
+twitter_url:
+facebook_url: 'https://www.facebook.com/no8rewired/'
 youtube_video_id: 'AHmLCY3O7_4'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -14,11 +14,11 @@ description_markdown: >-
   likely be found on the water trying ski, surf and sail.
 website_url: 'http://simplicity.kiwi/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'GRm_5BYcFe8'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

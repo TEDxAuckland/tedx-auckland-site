@@ -18,11 +18,11 @@ description_markdown: >-
   2018.
 website_url: 'https://www.aut.ac.nz/profiles/te-ara-poutama/lecturers/hmi-kelly'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

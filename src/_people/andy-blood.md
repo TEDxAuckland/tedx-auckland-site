@@ -5,11 +5,11 @@ image:
 description_markdown:
 website_url: 'https://projeqt.com/thebloodster/blood-and-sand-title-1/l'
 medium_url:
-twitter: 'https://twitter.com/thebloodster'
-facebook:
+twitter_url: 'https://twitter.com/thebloodster'
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

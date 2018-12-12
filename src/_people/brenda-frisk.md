@@ -11,11 +11,11 @@ description_markdown: >-
   Brenda help organisations transform their vision into reality.
 website_url:
 medium_url: 'https://www.linkedin.com/in/brendafrisk/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

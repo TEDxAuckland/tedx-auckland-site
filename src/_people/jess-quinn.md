@@ -41,11 +41,11 @@ description_markdown: >-
   unrealistic idea of perfection both as a model and advocate.
 website_url: 'https://beplanbe.com/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram: 'https://www.instagram.com/jessicaemilyquinn/'
+instagram_url: 'https://www.instagram.com/jessicaemilyquinn/'
 ---
 
 Enter your description here...

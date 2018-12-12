@@ -12,11 +12,11 @@ description_markdown: >-
   dehumanised systems of learning. In 2001 he was awarded the Prime Minister’s
   inaugural Supreme Award for Tertiary Teaching Excellence.
 website_url: 'https://www.aut.ac.nz/profiles/welby-ings'
-twitter:
-facebook: 'http://sparrowfilm.nz/'
+twitter_url:
+facebook_url: 'http://sparrowfilm.nz/'
 youtube_video_id: 'aumxbgOdkRU'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

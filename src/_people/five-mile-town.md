@@ -13,11 +13,11 @@ description_markdown: >-
   racked up over 100,000 views.
 website_url:
 medium_url:
-twitter:
-facebook: 'https://www.facebook.com/fivemiletown/'
+twitter_url:
+facebook_url: 'https://www.facebook.com/fivemiletown/'
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

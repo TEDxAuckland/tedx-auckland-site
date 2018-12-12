@@ -16,11 +16,11 @@ description_markdown: >-
   dissertation on the concept of borders in South Korean horror film.
 website_url:
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'cMxUl2k4DsY'
 github_username:
-instagram: 'https://www.instagram.com/afaberfilms/'
+instagram_url: 'https://www.instagram.com/afaberfilms/'
 ---
 
 Enter your description here...

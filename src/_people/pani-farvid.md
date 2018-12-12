@@ -20,11 +20,11 @@ description_markdown: >-
   heterosexuality. She is a regular media commentator on issues related to
   gender, sexuality, gender equality and sexism.
 website_url: 'https://www.aut.ac.nz/profiles/pantea-farvid'
-twitter: 'https://twitter.com/panifarvid'
-facebook:
+twitter_url: 'https://twitter.com/panifarvid'
+facebook_url:
 youtube_video_id: 'DW5YctpK7pM'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

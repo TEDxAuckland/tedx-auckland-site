@@ -10,11 +10,11 @@ description_markdown: >-
   for periods of 24 hours or more to create an experience of audio and visual
   splendour, revealing the hidden wonders of the New Zealand landscape.
 website_url: 'http://www.joemichael.co.nz/'
-twitter: 'https://twitter.com/joemichaelmedia'
-facebook: 'https://www.facebook.com/joemichaelmedia'
+twitter_url: 'https://twitter.com/joemichaelmedia'
+facebook_url: 'https://www.facebook.com/joemichaelmedia'
 youtube_video_id: 'lQOczcZKZq4'
 github_username:
-instagram: 'https://www.instagram.com/joemichaelmedia/'
+instagram_url: 'https://www.instagram.com/joemichaelmedia/'
 ---
 
 Enter your description here...

@@ -25,11 +25,11 @@ description_markdown: >-
   Aotearoa for all.
 website_url: 'https://www.protectihumatao.com/'
 medium_url:
-twitter:
-facebook: 'https://www.facebook.com/protectIhumatao/'
+twitter_url:
+facebook_url: 'https://www.facebook.com/protectIhumatao/'
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -19,11 +19,11 @@ description_markdown: >-
   from our own historical interactions between first nation peoples and ‘alien’
   colonists?
 website_url:
-twitter: 'https://twitter.com/stevepointing'
-facebook:
+twitter_url: 'https://twitter.com/stevepointing'
+facebook_url:
 youtube_video_id: 's97kzS-6z30'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -23,11 +23,11 @@ description_markdown: >-
   over 450,000 times and aimed to spark conversation about victim-blaming,
   revenge porn, consent and sexual violence.
 website_url: 'https://www.villainesse.com/'
-twitter: 'https://twitter.com/LizzieMarvelly'
-facebook:
+twitter_url: 'https://twitter.com/LizzieMarvelly'
+facebook_url:
 youtube_video_id: '2HQjS33JJFE'
 github_username:
-instagram: 'https://www.instagram.com/lizziemarvelly/'
+instagram_url: 'https://www.instagram.com/lizziemarvelly/'
 ---
 
 Enter your description here...
