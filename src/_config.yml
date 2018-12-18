@@ -71,6 +71,9 @@ collections:
     name: People
     _hide_content: true
     output: true
+  talks:
+    name: Talks
+    output: true
 
 defaults:
   - scope:
@@ -88,6 +91,11 @@ defaults:
       type: "posts"
     values:
       permalink: :slug/
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
 
 _comments:
   short_title: Used in smaller spaces
