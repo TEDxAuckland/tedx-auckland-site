@@ -19,8 +19,6 @@ categories:
 
 ### It has been a wonderful year for the TEDxAuckland community.
 
-### &nbsp;
-
 With the success of the event behind us, I'd like to give you an insight into my role as the social media manager for TEDxAkl 2018.
 
 The annual event took place on October 13th at Shed 10. I first stumbled upon TEDxAkl in June 2018 after reaching out to them, as I felt a strong urge to be part of a community which inspires, builds and challenges ideas.
