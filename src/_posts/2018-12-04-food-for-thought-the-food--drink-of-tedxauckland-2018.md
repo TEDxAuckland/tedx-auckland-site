@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Not Just Food For Thought: The food & drink of TEDxAuckland 2018'
-date: 2018-11-14 12:00:00 +1300
+title: 'Food For Thought: The food & drink of TEDxAuckland 2018'
+date: 2018-12-04 12:00:00 +1300
 image: /uploads/tedxauckland-2018--00-02-53-06-still002.jpg
 author:
   login:
@@ -16,16 +16,16 @@ categories:
 <br>![](/uploads/tedxauckland-2018--00-02-53-06-still002.jpg)
 {: .present-before-paste}
 
-***TEDxAuckland isn't just about the talks.***
+***TEDxAuckland isn't just about the talks...***
 {: .present-before-paste}
 
-Every year, we aim to showcase local food and drink companies that are innovating and creating amazing products. A month on from the event, we look back at the vendors that helped make the day so special.&nbsp;
+Every year, we aim to showcase local food and drink companies that are innovating and creating amazing products.
 {: .present-before-paste}
 
-Our friends at Sour Heart Productions spent the day capturing the many food and drink vendors who provided delicious sustenance to the attendees, volunteers, and crew all day at TEDxAuckland 2018: Off-Piste.
+Our friends at Sour Heart Productions spent the day capturing the many food and drink vendors who provided delicious sustenance to the attendees, volunteers, and crew all day at TEDxAuckland 2018: Off-Piste. Watch their tasty video [here](https://youtu.be/Ie9nApBzfIs){: target="_blank"}.
 {: .present-before-paste}
 
-**Food & Drink Partners of TEDxAuckland 2018:**
+**A big thank you to the food & drink partners of TEDxAuckland 2018:**
 {: .present-before-paste}
 
 [Allpress Espresso&nbsp;](https://nz.allpressespresso.com/){: target="_blank"}
