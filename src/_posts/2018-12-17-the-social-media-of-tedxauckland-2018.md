@@ -17,7 +17,9 @@ categories:
 
 ![](/uploads/ishan-kokulan-tedx18-fb-29.jpg)
 
-*It has been a wonderful year for the TEDxAuckland community.*
+> ### It has been a wonderful year for the TEDxAuckland community.
+
+### &nbsp;
 
 With the success of the event behind us, I'd like to give you an insight into my role as the social media manager for TEDxAkl 2018.
 
@@ -35,7 +37,9 @@ Passing this and beyond the registry, the main downstairs area was for our food 
 
 Set-ups weren’t limited to the edible. We had local artists on site, explaining their work to interested eyes. The [BizDojo](https://www.bizdojo.com/){: target="_blank"} lounge provided a much needed chill out zone for the long day, and [Thought Wired](https://www.thought-wired.com/){: target="_blank"} had a neat interactive set-up with virtual reality and mind-controlled robots.
 
-Instagram stories gained the most attraction and it was obvious why. A majority of them were short clips to present each speaker. Unlike a still image, the video made you hear and feel a punchy moment from each speaker’s visionary idea, putting you in the room for a brief moment. We had over 2000 Instagram profile visits, and hundreds of views for each post on our stories.
+> ### Instagram stories gained the most attraction and it was obvious why.
+
+A majority of them were short clips to present each speaker. Unlike a still image, the video made you hear and feel a punchy moment from each speaker’s visionary idea, putting you in the room for a brief moment. We had over 2000 Instagram profile visits, and hundreds of views for each post on our stories.
 
 It was also great to see the attendees capture and share moments by using their own social media throughout the day - Some of which we used to repost to our main channels. To me, it proved that audiences were engaged in the event. They were looking at our content and creating their own for their own followings. It also emphasised the power of social media in terms of its reach and how quickly it can spread. *This* was what we wanted to achieve.
 
@@ -45,6 +49,8 @@ The experience of the day has made me realise how fantastic it is to be there in
 
 A number of the talks confronted very real and prevalent issues in Aotearoa and around the world. It was obvious that for some, sharing their thoughts and feelings with a group after each speaker session provided comfort, support, and connection.
 
-Social media is a great tool to use for engaging audiences who were both there and not. However, I also hope it serves as a vehicle to entice people to come and experience it in person as it was truly a memorable event that should not only be experienced via a screen.
+> ### Social media is a great tool to use for engaging audiences who were both there and not.
+
+However, I also hope it serves as a vehicle to entice people to come and experience it in person as it was truly a memorable event that should not only be experienced via a screen.
 
 Managing the social media has taught me how influential this platform can be. To use it responsively is key, as we continuously strive to release content that is unique, honest, and stimulating. I look forward to being part of the team going forward, and growing TEDxAkl’s voice on social media.
