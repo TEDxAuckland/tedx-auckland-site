@@ -20,14 +20,15 @@ class YoutubeVideoInfo
     FileUtils::mkdir_p(JSON_FOLDER)
     all_videos = []
     @files.each do |file|
-      videos = youtube_videos_from_playlist(YAML.load_file(file)['youtube_playlist'])
+      videos = fetch_video_data(YAML.load_file(file)['youtube_playlist'])
       all_videos << videos
     end
-    write_file(all_videos.flatten)
+    videos_for_save = transform_videos(all_videos.flatten.compact)
+    write_file(videos_for_save)
   end
 
-  def youtube_videos_from_playlist(playlist_id)
-    puts playlist_id
+  def fetch_video_data(playlist_id)
+    puts "\n#{playlist_id}"
     playlist = Yt::Playlist.new id: playlist_id
     playlist.playlist_items.map do |item|
       next if item.title == "Deleted video"
@@ -38,7 +39,13 @@ class YoutubeVideoInfo
          video_id: item.video_id,
          title: item.title,
          published_at: item.published_at,
-         thumbnail_url: item.thumbnail_url(:high),
+         thumbnail_url: {
+           default: item.thumbnail_url(:default),    # 120w
+           medium: item.thumbnail_url(:medium),      # 320w
+           high: item.thumbnail_url(:high),          # 480w
+           standard: item.thumbnail_url(:standard),  # 640w
+           maxres: item.thumbnail_url(:maxres),      # 1280w
+         },
          description: item.description,
          position: item.position,
          tags: item.video.tags,
@@ -52,6 +59,15 @@ class YoutubeVideoInfo
   end
 
   private
+
+  def transform_videos(videos_array)
+    videos_hash = {}
+    videos_array.each do |video|
+      video_id = video.delete(:video_id)
+      videos_hash[video_id] = video
+    end
+    videos_hash
+  end
 
   def write_file(data)
     File.open(json_path, 'w') do |f|
