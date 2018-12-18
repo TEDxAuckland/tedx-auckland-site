@@ -27,7 +27,9 @@ The annual event took place on October 13th at Shed 10. I first stumbled upon TE
 
 To cover the event on social media, intense planning was needed the week before. Our main focus was on how the atmosphere of the event could be captured organically via the online platforms to portray an authentic view of the event for anyone not attending.
 
-Content would all happen in real time, and needed to be posted quickly and regularly, therefore, following instincts and capturing things in the moment was essential. I had written a plan for myself (and three very helpful volunteers) to ensure I covered the key aspects of the event we wanted to capture, but left room for improvisation. We planned to utilise Facebook, Instagram and Twitter by posting stories, photos and tweets to generate engagement.
+> ## Content would all happen in real time, and needed to be posted quickly and regularly,
+
+therefore, following instincts and capturing things in the moment was essential. I&nbsp;had written a plan for myself (and three very helpful volunteers) to ensure I covered the key aspects of the event we wanted to capture, but left room for improvisation. We planned to utilise Facebook, Instagram and Twitter by posting stories, photos and tweets to generate engagement.
 
 Intense nerves washed over me as I waited for the day to start. Upstairs of Shed 10, the iconic TEDxAuckland sign dazzled behind the stage, and the seating arrangement was ready for the approaching audience.
 
