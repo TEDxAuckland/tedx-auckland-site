@@ -1,17 +1,13 @@
 ---
 title: 'Creating a good world one # at a time'
-presenter: Dale Pfeifer
-images: []
 youtube_video_id: VSwz4uaXVOc
-tags:
-- TEDxTalks
-- English
-- New Zealand
-- Global Issues
-- Leadership
-- Love
-- Philanthropy
-- Social Change
-- Social Entrepreneurship
-- Social Media
+description_markdown: |-
+  As founder of GoodWorld a social platform for giving, Dale explains where the idea came from and why people give.
+
+  Dale is changing the way we connect online. Her #donate software, developed to make giving easy on social media, is unleashing the next generation of generosity. Her goal is to support the evolution of the human experience with money by creating a generosity-based financial system. A native Kiwi, her company GoodWorld is based in Washington DC. Prior to going to the United States, Dale ran Victoria University's Center for the Study of Leadership. Her award-winning research took her to Harvard where she applied the theory of Allophilia to Maori leadership. This work demonstrates how the power of love and effective leadership can bring big diverse groups of people together.
+
+  This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx
+images: []
+related_blog_posts: []
+partners: []
 ---

@@ -1,41 +1,14 @@
 ---
 title: Reigniting a language
-presenter: Sophie Tamati
-images: []
 youtube_video_id: Cx2-XvdnH4Y
-tags:
-- ted x
-- Technology (Professional Field)
-- TEDxAuckland
-- EXPLORER
-- tedx talk
-- Education
-- Group
-- cultural
-- Reigniting
-- Hika
-- Tauwehe
-- App
-- tedx
-- department
-- ted talks
-- language
-- culture
-- LITE
-- ted talk
-- tedx talks
-- NZ
-- Maori
-- University
-- University of Auckland
-- New Zealand (Country)
-- Tech
-- of
-- Auckland
-- '2013'
-- Tamati
-- Sophie
-- TEDx
-- ted
-- korero
+description_markdown: |-
+  Sophie Tauwehe Tamati is an award-winning educational entrepreneur and senior lecturer at the University of Auckland. Passionate about education, Sophie worked through many cultural and technological barriers to achieve her dream of making it easier, faster and more enjoyable for students to learn other languages and connect with those around them. Sophie launched the Hika programs -- Hika EXPLORER and Hika LITE -- designed to support students and teachers achieve their language goals.
+
+  http://hikagroup.com
+  http://tedxauckland.com
+
+  In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)
+images: []
+related_blog_posts: []
+partners: []
 ---

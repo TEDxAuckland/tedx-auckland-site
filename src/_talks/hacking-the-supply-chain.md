@@ -1,43 +1,14 @@
 ---
 title: Hacking the supply chain
-presenter: Pete Russell
-images: []
 youtube_video_id: SpnEGb0GdwY
-tags:
-- ted
-- ted talk
-- backyards
-- food
-- Russell
-- tedx talk
-- Auckland
-- chain
-- Pete
-- own
-- supply
-- growers
-- TEDx Talks
-- our
-- ted x
-- the
-- tedx
-- producers
-- TED Talks
-- of
-- food industry
-- locally
-- industry
-- Ooooby
-- ted talks
-- Supply Chain (Field Of Study)
-- grown
-- local
-- Out
-- tedx talks
-- hacking
-- distribution
-- TEDxAuckland
-- TEDx
-- New Zealand (Country)
-- NZ
+description_markdown: |-
+  Pete Russell is a local food advocate, social entrepreneur and founder of Ooooby. After seeing first hand the destructive nature of globalized food and the accelerating demand for local alternatives during his time at a multi-million dollar food business, Pete became committed to working in the local food space. Driven by a passion for developing smart systems for food sales and logistics, Out of our own backyards (Ooooby) is the result of his work - a local food operation delivering to hundreds of Auckland doorsteps each week.
+
+  http://www.ooooby.org
+  http://tedxauckland.com
+
+  In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)
+images: []
+related_blog_posts: []
+partners: []
 ---

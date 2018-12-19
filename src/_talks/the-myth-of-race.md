@@ -1,23 +1,19 @@
 ---
 title: The Myth of Race
-presenter: Sharad Paul
-images: []
 youtube_video_id: 8v0ykTrTQEc
-tags:
-- TEDxTalks
-- English
-- New Zealand
-- Science (hard)
-- Behavior
-- Biology
-- Change
-- Charter for Compassion
-- Compassion
-- Consciousness
-- Culture
-- Evolution
-- Human origins
-- Race
-- Social Change
-- Society
+description_markdown: "Sharad argues that the modern perception of race is wrong and
+  that science and the story of Vitamin D and Folic acid tell their own story about
+  race and skin colour.\n\nDr. Sharad P. Paul is an academic specialising in skin
+  cancer surgery, both in New Zealand and Australia. His Skin Surgery Clinic has one
+  of the largest series of skin cancer patients worldwide, with over 100,000 consultations
+  and 35,000 operations since the clinic was established in 1996.\r\n\r\nAward winning
+  Sharad has served on the National Commission of UNESCO, and teaches creative writing
+  to disadvantaged children by personally visiting schools once a week, and by funding
+  school libraries. These initiatives are supported through the model of social entrepreneurship
+  created by projects such as The Baci Lounge, an award-winning bookstore, within
+  his own Baci Foundation.\n\nThis talk was given at a TEDx event using the TED conference
+  format but independently organized by a local community. Learn more at http://ted.com/tedx"
+images: []
+related_blog_posts: []
+partners: []
 ---

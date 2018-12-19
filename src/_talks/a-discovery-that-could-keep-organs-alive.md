@@ -1,39 +1,14 @@
 ---
 title: A discovery that could keep organs alive
-presenter: John Windsor
-images: []
 youtube_video_id: 87Re2-hkTlo
-tags:
-- NZ
-- tedx
-- Organ Failure
-- Auckland Medical School
-- '2012'
-- ted x
-- acute pancreatitis
-- University of Auckland
-- Medical School
-- John
-- TEDxAuckland 2012
-- Auckland
-- Prof. John Windsor
-- Professor John Windsor
-- TEDxTalks
-- TEDxAuckland
-- tedx talk
-- medical research
-- surgery
-- TEDx NZ
-- English
-- New Zealand
-- ted
-- Multiple Organ Failure
-- tedx talks
-- medicine
-- TED Talks
-- ted talks
-- John Windsor
-- ted talk
-- Windsor
-- Ep1307
+description_markdown: |-
+  Professor John Windsor is a surgeon who holds a personal chair in surgery at the University of Auckland. His current research includes the role of toxic mesenteric lymph in the promotion of multiple organ failure; the investigation of specific mitochondrial therapies to restore cellular bioenergetics; the mapping and modulation of gastric electrical activity; and the development of medical devices. Over the last five years, John has published 80 manuscripts, raised $6m in grants and given over 100 invited talks, including Visiting Professorships to Harvard, Oxford, Karolinska, Singapore, Cape Town and Delhi. John is also co-founder and director of the startup SIMTICS Ltd that has developed the 'Integrated Cognitive Simulator' for procedural and surgical skills training.
+
+  http://www.tedxauckland.com/
+
+  About TEDx, x = independently organized event
+  In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized.* (*Subject to certain rules and regulations)
+images: []
+related_blog_posts: []
+partners: []
 ---
