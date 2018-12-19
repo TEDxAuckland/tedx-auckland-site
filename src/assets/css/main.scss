@@ -26,6 +26,7 @@ $site-width: 1200px;
 @import 'ui/button';
 @import 'ui/form';
 @import 'ui/back-to-top';
+@import 'ui/youtube-video-embed';
 
 // Sections
 @import 'sections/about';
@@ -50,4 +51,5 @@ $site-width: 1200px;
 @import 'pages/news';
 @import 'pages/person';
 @import 'pages/post';
+@import 'pages/talk';
 @import 'pages/talks';
