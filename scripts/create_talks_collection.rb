@@ -62,6 +62,7 @@ class CreateTalksCollection
   def talk_filename(video)
     talk_title(video)
       .yield_self { |title| title.gsub("/", "|") }
+      .yield_self { |title| title.gsub("?", "") }
       .yield_self { |title| title.gsub(" ", "-") }
       .yield_self { |title| title.downcase }
       .yield_self { |title| "#{title}.md" }
