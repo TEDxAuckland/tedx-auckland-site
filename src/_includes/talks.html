@@ -1,9 +1,10 @@
-{% assign videos = include.playlist_id | youtube_videos_from_playlist %}
-
+{%- assign playlist_items = site.data.youtube_playlists.playlist_videos[include.playlist_id] -%}
 <div class="talk-container">
-	{% assign sorted = videos | sort: 'position' %}
-	{% for video in sorted %}
-		{% assign video_url = "https://www.youtube.com/embed/" | append: video.video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" %}
+	{%- for playlist_item in playlist_items -%}
+		{%- assign video = site.data.youtube_playlists.videos[playlist_item.video_id] -%}
+		{%- assign talk = site.talks | where_exp: "t", "t.youtube_video_id == playlist_item.video_id" | first -%}
+		{%- assign person = site.people | where_exp: "p", "p.youtube_video_id == playlist_item.video_id" | first -%}
+		{%- assign video_url = "https://www.youtube.com/embed/" | append: playlist_item.video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" -%}
 
 		<div class="talk-card">
 			<div data-url="{{ video_url }}" class="talk-card__link">
@@ -22,12 +23,14 @@
 						 alt="{{ video.title }} video"/>
 
 				<div class="caption">
-
-					<h4 class="caption__title">{{ video.title | remove: "TEDxAuckland" | replace_first: ' |', ',' | remove: '|' | strip }}</h4>
-
+					{%- if talk.title -%}
+					<h4 class="caption__title">{{ talk.title }}: {{ person.name }}</h4>
+					{%- else -%}
+					<h4 class="caption__title">{{ video.title }}</h4>
+					{%- endif -%}
 				</div>
 			</div>
 		</div>
 
-	{% endfor %}
+	{%- endfor -%}
 </div>
