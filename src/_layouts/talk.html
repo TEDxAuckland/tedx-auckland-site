@@ -36,13 +36,15 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 			<div class="presenter">
 				<img src="{{ presenter.image }}" alt="" class="presenter__image">
 
-				<h2 class="presenter__title">{{ presenter.name }}</h2>
-
-				<div class="presenter__bio">
-					{{ presenter.description_markdown | split: "." | first }}.
+				<h2 class="presenter__title">
+					{{ presenter.name }}
 					<a href="{{presenter.url}}" class="expanded-preview__profile-link">
 						see profile...
 					</a>
+				</h2>
+
+				<div class="presenter__bio">
+					{{ presenter.description_markdown | split: "." | first | append: "." | markdownify }}
 				</div>
 			</div>
 		</div>

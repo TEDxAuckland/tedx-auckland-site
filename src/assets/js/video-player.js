@@ -1,7 +1,7 @@
 // video overlayer: start
 
 $(document).ready(function(e) {
-  $(".talk-card__link").unbind("click").bind("click", function(e) {
+  $(".talk-card__play-button").unbind("click").bind("click", function(e) {
     e.preventDefault();
     var src = $(this).attr("data-url");
     $(".overlay-video").show();

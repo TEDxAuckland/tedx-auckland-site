@@ -7,9 +7,9 @@
 		{%- assign video_url = "https://www.youtube.com/embed/" | append: playlist_item.video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" -%}
 
 		<div class="talk-card">
-			<div data-url="{{ video_url }}" class="talk-card__link">
+			<div class="talk-card__link">
 
-				<div class="talk-card__play-button">&nbsp;</div>
+				<div data-url="{{ video_url }}" class="talk-card__play-button">&nbsp;</div>
 				<img class="talk-card__image"
 						 src="{{ video.thumbnail_url.medium }}"
 						 srcset="{{ video.thumbnail_url.medium }} 320w,
@@ -22,15 +22,14 @@
 									  400px"
 						 alt="{{ video.title }} video"/>
 
-				<div class="caption">
+				<a href="{{ talk.url }}" class="caption">
 					{%- if talk.title -%}
 					<h4 class="caption__title">{{ talk.title }}: {{ person.name }}</h4>
 					{%- else -%}
 					<h4 class="caption__title">{{ video.title }}</h4>
 					{%- endif -%}
-				</div>
+				</a>
 			</div>
 		</div>
-
 	{%- endfor -%}
 </div>
