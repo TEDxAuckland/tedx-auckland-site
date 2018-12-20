@@ -11,7 +11,7 @@ class YoutubeVideoInfo
   JSON_FOLDER = '../src/_data/youtube_playlists'
 
   def initialize
-    @file_paths = Dir["../src/_events/*"] - ["../src/_events/_defaults.md"]
+    @file_paths = Dir["../src/_events/*"] - ["../src/_events/_defaults.md"] + Dir["../src/index*"]
   end
 
   def fetch_youtube_videos
