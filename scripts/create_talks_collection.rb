@@ -3,6 +3,7 @@ require 'fileutils'
 require 'yaml'
 
 class CreateTalksCollection
+  NO_OVERWRITE = true
   JSON_FOLDER = '../src/_data/youtube_playlists'
   TALKS_FOLDER = "../src/_talks"
   PEOPLE_FOLDER = "../src/_people"
@@ -19,8 +20,9 @@ class CreateTalksCollection
       next if person["youtube_video_id"].nil?
       next if yt_json[person["youtube_video_id"]].nil?
       video = yt_json[person["youtube_video_id"]]
+      puts ""
       puts person["name"]
-      puts video["title"]
+      puts "> #{video["title"]}"
 
       person["youtube_video_ids"] = [person["youtube_video_id"]]
       talk_hash = talk_schema(video, person)
@@ -69,9 +71,14 @@ class CreateTalksCollection
   end
 
   def write_md_file(path, data)
-    File.open(path, 'w') do |f|
-      f << data.to_yaml
-      f << "---\n"
+    if File.exist?(path) && NO_OVERWRITE
+      puts "> #{path} already exists, not updating"
+    else
+      puts "> creating #{path}"
+      File.open(path, 'w') do |f|
+        f << data.to_yaml
+        f << "---\n"
+      end
     end
   end
 
