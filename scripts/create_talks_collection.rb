@@ -3,7 +3,7 @@ require 'fileutils'
 require 'yaml'
 
 class CreateTalksCollection
-  NO_OVERWRITE = true
+  NO_OVERWRITE = false
   JSON_FOLDER = '../src/_data/youtube_playlists'
   TALKS_FOLDER = "../src/_talks"
   PEOPLE_FOLDER = "../src/_people"
@@ -27,7 +27,8 @@ class CreateTalksCollection
       person["youtube_video_ids"] = [person["youtube_video_id"]]
       talk_hash = talk_schema(video, person)
       person.delete("youtube_video_id")
-      write_md_file("#{TALKS_FOLDER}/#{talk_filename(video)}", talk_hash)
+      content = video["description"]
+      write_md_file("#{TALKS_FOLDER}/#{talk_filename(video)}", talk_hash, content)
     end
   end
 
@@ -39,7 +40,8 @@ class CreateTalksCollection
     {
       "title" => talk_title(video),
       "youtube_video_id" => person["youtube_video_id"],
-      "description_markdown" => video["description"],
+      "performance" => false,
+      # "description_markdown" => video["description"],
       "images" => talk_images(person["name"].downcase.gsub(" ", "-")),
       "related_blog_posts" => [],
       "partners" => []
@@ -68,14 +70,16 @@ class CreateTalksCollection
       .yield_self { |title| "#{title}.md" }
   end
 
-  def write_md_file(path, data)
+  def write_md_file(path, yaml, content)
     if File.exist?(path) && NO_OVERWRITE
       puts "> #{path} already exists, not updating"
     else
       puts "> creating #{path}"
       File.open(path, 'w') do |f|
-        f << data.to_yaml
-        f << "---\n"
+        f << yaml.to_yaml
+        f << "---\n\n"
+        f << content
+        f << "\n"
       end
     end
   end
