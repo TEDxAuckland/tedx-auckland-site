@@ -38,12 +38,10 @@ class CreateTalksCollection
   def talk_schema(video, person)
     {
       "title" => talk_title(video),
-      # "person" => person["name"],
       "youtube_video_id" => person["youtube_video_id"],
       "description_markdown" => video["description"],
       "images" => talk_images(person["name"].downcase.gsub(" ", "-")),
       "related_blog_posts" => [],
-      # "tags" => video["tags"],
       "partners" => []
     }
   end
