@@ -26,7 +26,7 @@ website_url: 'http://www.culturesatwork.com/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: cKugJk7rKW0
 github_username:
 instagram_url:
 ---
