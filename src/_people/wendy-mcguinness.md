@@ -17,7 +17,7 @@ website_url: 'http://www.mcguinnessinstitute.org/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: uwyDU9_Wpi8
 github_username:
 instagram_url:
 ---
