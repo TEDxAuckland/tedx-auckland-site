@@ -2,7 +2,9 @@
 title: A New Age of Shareholder Democracy
 youtube_video_id: GRm_5BYcFe8
 performance: false
-images: []
+images:
+- "/uploads/sam-stubbs_talk_1.jpg"
+- "/uploads/sam-stubbs_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

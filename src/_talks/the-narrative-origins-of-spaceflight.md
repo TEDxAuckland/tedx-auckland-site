@@ -2,7 +2,9 @@
 title: The Narrative Origins of Spaceflight
 youtube_video_id: LD0yGBwszCQ
 performance: false
-images: []
+images:
+- "/uploads/alexander-macdonald_talk_2.jpg"
+- "/uploads/alexander-macdonald_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

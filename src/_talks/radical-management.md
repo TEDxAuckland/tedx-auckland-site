@@ -2,7 +2,9 @@
 title: Radical management
 youtube_video_id: d-tGhbUMLHE
 performance: false
-images: []
+images:
+- "/uploads/vivien-maidaborn_talk_1.jpg"
+- "/uploads/vivien-maidaborn_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,9 @@
 title: Democratising the Space Industry
 youtube_video_id: 1Q5nXNVBj9Y
 performance: false
-images: []
+images:
+- "/uploads/emeline-paat-dahlstrom_talk_2.jpg"
+- "/uploads/emeline-paat-dahlstrom_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,8 @@
 title: Rethinking the brain
 youtube_video_id: NT_Z6kULoVw
 performance: false
-images: []
+images:
+- "/uploads/sir-richard-faull_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

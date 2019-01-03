@@ -2,7 +2,8 @@
 title: Disobedient Thinking
 youtube_video_id: aumxbgOdkRU
 performance: false
-images: []
+images:
+- "/uploads/welby-ings_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

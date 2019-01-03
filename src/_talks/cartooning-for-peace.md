@@ -2,7 +2,9 @@
 title: Cartooning for peace
 youtube_video_id: n_3KSjx43Tw
 performance: false
-images: []
+images:
+- "/uploads/tom-scott_talk_2.jpg"
+- "/uploads/tom-scott_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

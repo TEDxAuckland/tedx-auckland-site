@@ -2,7 +2,9 @@
 title: Building business from by-products
 youtube_video_id: XOnl7PijqIs
 performance: false
-images: []
+images:
+- "/uploads/adrien-taylor_talk_2.jpg"
+- "/uploads/adrien-taylor_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

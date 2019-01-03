@@ -2,7 +2,9 @@
 title: The Origins and Evolution of Language
 youtube_video_id: nd5cklw6d6Q
 performance: false
-images: []
+images:
+- "/uploads/michael-corballis_talk_1.jpg"
+- "/uploads/michael-corballis_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

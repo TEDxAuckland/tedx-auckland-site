@@ -2,7 +2,8 @@
 title: Higgs boson, The Kiwi Connection
 youtube_video_id: qGtA4XXQRNE
 performance: false
-images: []
+images:
+- "/uploads/david-krofcheck_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

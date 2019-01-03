@@ -2,7 +2,9 @@
 title: Digital Me and the rise of precision medicine
 youtube_video_id: Q48dXVTC03o
 performance: false
-images: []
+images:
+- "/uploads/ian-mccrae_talk_2.jpg"
+- "/uploads/ian-mccrae_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

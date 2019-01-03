@@ -2,7 +2,8 @@
 title: Teaching Computers To Talk
 youtube_video_id: qhqLoTKBRz0
 performance: false
-images: []
+images:
+- "/uploads/alistair-knott_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

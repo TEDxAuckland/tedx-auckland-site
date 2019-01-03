@@ -2,7 +2,9 @@
 title: Colony Earth? Humanity after alien contact
 youtube_video_id: s97kzS-6z30
 performance: false
-images: []
+images:
+- "/uploads/steve-pointing_talk_2.jpg"
+- "/uploads/steve-pointing_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

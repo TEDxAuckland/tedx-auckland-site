@@ -2,7 +2,8 @@
 title: Ihumātao
 youtube_video_id: tT11yvE5plo
 performance: false
-images: []
+images:
+- "/uploads/pania-newton_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

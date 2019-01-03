@@ -2,7 +2,9 @@
 title: The accessibility equation
 youtube_video_id: __V07QKguBI
 performance: false
-images: []
+images:
+- "/uploads/minnie-barragwanath_talk_2.jpg"
+- "/uploads/minnie-barragwanath_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,8 @@
 title: The Wall, Making History Social
 youtube_video_id: bPNyP2q08ow
 performance: false
-images: []
+images:
+- "/uploads/victoria-spackman_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

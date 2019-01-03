@@ -2,7 +2,9 @@
 title: Release Me
 youtube_video_id: X9R84sNlLYY
 performance: false
-images: []
+images:
+- "/uploads/anna-coddington_talk_1.jpg"
+- "/uploads/anna-coddington_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

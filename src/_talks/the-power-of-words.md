@@ -2,7 +2,8 @@
 title: The power of words
 youtube_video_id: LivPMiYik9g
 performance: false
-images: []
+images:
+- "/uploads/grace-taylor_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

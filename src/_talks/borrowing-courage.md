@@ -2,7 +2,9 @@
 title: Borrowing courage
 youtube_video_id: kl42kv_1HzI
 performance: false
-images: []
+images:
+- "/uploads/muskan-devta_talk_1.jpg"
+- "/uploads/muskan-devta_talk_2.1.jpg"
 related_blog_posts: []
 partners: []
 ---

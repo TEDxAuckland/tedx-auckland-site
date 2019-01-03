@@ -2,7 +2,8 @@
 title: Rebuilding Architecture from the Ground Up
 youtube_video_id: Mu5xYDkw9ys
 performance: false
-images: []
+images:
+- "/uploads/andrew-patterson_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,10 @@
 title: Reaching out to mental wellness
 youtube_video_id: 7GVEqegzx44
 performance: false
-images: []
+images:
+- "/uploads/matt-shirtcliffe_talk_1.jpg"
+- "/uploads/matt-shirtcliffe_talk_3.jpg"
+- "/uploads/matt-shirtcliffe_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

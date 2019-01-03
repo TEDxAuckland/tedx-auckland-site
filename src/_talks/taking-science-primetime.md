@@ -2,7 +2,9 @@
 title: Taking science primetime
 youtube_video_id: GA8RsnezFIg
 performance: false
-images: []
+images:
+- "/uploads/riley-elliott_talk_2.jpg"
+- "/uploads/riley-elliott_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

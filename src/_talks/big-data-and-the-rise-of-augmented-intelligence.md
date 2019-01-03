@@ -2,7 +2,9 @@
 title: Big Data and the Rise of Augmented Intelligence
 youtube_video_id: mKZCa_ejbfg
 performance: false
-images: []
+images:
+- "/uploads/sean-gourley_talk_1.jpg"
+- "/uploads/sean-gourley_talk_2.1.jpg"
 related_blog_posts: []
 partners: []
 ---

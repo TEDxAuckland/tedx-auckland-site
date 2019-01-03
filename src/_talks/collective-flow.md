@@ -2,7 +2,10 @@
 title: Collective flow
 youtube_video_id: EIk-K6JILj4
 performance: false
-images: []
+images:
+- "/uploads/john-boone_talk_3.jpg"
+- "/uploads/john-boone_talk_1.jpg"
+- "/uploads/john-boone_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

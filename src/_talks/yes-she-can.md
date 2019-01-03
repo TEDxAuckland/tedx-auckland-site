@@ -2,7 +2,9 @@
 title: Yes she can
 youtube_video_id: rrsBQo6GVC4
 performance: false
-images: []
+images:
+- "/uploads/helen-clark_talk_1.jpg"
+- "/uploads/helen-clark_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

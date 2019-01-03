@@ -2,7 +2,8 @@
 title: Saving lives with the world's largest subwoofer
 youtube_video_id: s3gQu3_hJVc
 performance: false
-images: []
+images:
+- "/uploads/matthew-simmons_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

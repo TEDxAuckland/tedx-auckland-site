@@ -2,7 +2,9 @@
 title: Recipe for access
 youtube_video_id: k5piEUPgRvk
 performance: false
-images: []
+images:
+- "/uploads/grant-schofield_talk_1.jpg"
+- "/uploads/grant-schofield_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,9 @@
 title: Batman journalism and the pitfalls of total independence
 youtube_video_id: eRIV-k4Tbz8
 performance: false
-images: []
+images:
+- "/uploads/keith-ng_talk_1.jpg"
+- "/uploads/keith-ng_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

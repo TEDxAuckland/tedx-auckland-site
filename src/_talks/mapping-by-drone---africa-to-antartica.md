@@ -2,7 +2,9 @@
 title: Mapping by drone - Africa to Antartica
 youtube_video_id: irtsSSek1k8
 performance: false
-images: []
+images:
+- "/uploads/barbara-breen_talk_2.jpg"
+- "/uploads/barbara-breen_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

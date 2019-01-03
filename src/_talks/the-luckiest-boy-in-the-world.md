@@ -2,7 +2,9 @@
 title: The Luckiest Boy In The World
 youtube_video_id: 7nokY97BRS4
 performance: false
-images: []
+images:
+- "/uploads/samuel-gibson_talk_2.jpg"
+- "/uploads/samuel-gibson_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

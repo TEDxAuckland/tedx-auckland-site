@@ -2,7 +2,9 @@
 title: Ending war using guitars instead of guns
 youtube_video_id: yE35EaZuqTQ
 performance: false
-images: []
+images:
+- "/uploads/william-watson_talk_2.jpg"
+- "/uploads/william-watson_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

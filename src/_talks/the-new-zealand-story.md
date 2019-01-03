@@ -2,7 +2,9 @@
 title: The New Zealand story
 youtube_video_id: 6TfwRRJTF1o
 performance: false
-images: []
+images:
+- "/uploads/brian-sweeney_talk_2.jpg"
+- "/uploads/brian-sweeney_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

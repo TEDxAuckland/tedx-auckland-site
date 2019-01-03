@@ -2,7 +2,10 @@
 title: Fighting blindness with $20 and a smart phone
 youtube_video_id: j4p5PJi71FU
 performance: false
-images: []
+images:
+- "/uploads/hong-sheng-chiong_talk_1.jpg"
+- "/uploads/hong-sheng-chiong_talk_3.jpg"
+- "/uploads/hong-sheng-chiong_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

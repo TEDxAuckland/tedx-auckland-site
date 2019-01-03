@@ -2,7 +2,9 @@
 title: Small town big change
 youtube_video_id: ib-raWy_TXI
 performance: false
-images: []
+images:
+- "/uploads/dale-williams_talk_2.jpg"
+- "/uploads/dale-williams_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

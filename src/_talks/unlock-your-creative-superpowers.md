@@ -2,7 +2,9 @@
 title: Unlock your creative superpowers
 youtube_video_id: yiAWXlAXBzQ
 performance: false
-images: []
+images:
+- "/uploads/chris-pemberton_talk_2.jpg"
+- "/uploads/chris-pemberton_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

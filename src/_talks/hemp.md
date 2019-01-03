@@ -2,7 +2,9 @@
 title: Hemp
 youtube_video_id: HWiFTt2s9hY
 performance: false
-images: []
+images:
+- "/uploads/cameron-sims_talk_2.jpg"
+- "/uploads/cameron-sims_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,8 @@
 title: Recipes for development
 youtube_video_id: orfB1UkoKdQ
 performance: false
-images: []
+images:
+- "/uploads/robert-oliver_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

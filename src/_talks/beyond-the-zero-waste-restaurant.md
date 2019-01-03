@@ -2,7 +2,9 @@
 title: Beyond the zero waste restaurant
 youtube_video_id: 56Y0TElkI90
 performance: false
-images: []
+images:
+- "/uploads/matt-stone_talk_2.jpg"
+- "/uploads/matt-stone_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

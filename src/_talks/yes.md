@@ -2,7 +2,9 @@
 title: 'Yes'
 youtube_video_id: lzQSZmedcfs
 performance: false
-images: []
+images:
+- "/uploads/jayne-bailey_talk_2.jpg"
+- "/uploads/jayne-bailey_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,9 @@
 title: Small steps to the top of the world
 youtube_video_id: p1SSEbfsQY8
 performance: false
-images: []
+images:
+- "/uploads/mike-allsop_talk_1.jpg"
+- "/uploads/mike-allsop_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

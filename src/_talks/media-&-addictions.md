@@ -2,7 +2,9 @@
 title: Media & addictions
 youtube_video_id: ZKc5OUs7pJE
 performance: false
-images: []
+images:
+- "/uploads/gavin-healy_talk_1.jpg"
+- "/uploads/gavin-healy_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

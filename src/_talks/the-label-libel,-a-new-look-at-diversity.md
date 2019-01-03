@@ -2,7 +2,8 @@
 title: The Label Libel, A New look at Diversity
 youtube_video_id: hNUgOhJiQZc
 performance: false
-images: []
+images:
+- "/uploads/philip-patston_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,9 @@
 title: Putting human caring back into social services
 youtube_video_id: SgguRmmHbgA
 performance: false
-images: []
+images:
+- "/uploads/richard-aston_talk_1.jpg"
+- "/uploads/richard-aston_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

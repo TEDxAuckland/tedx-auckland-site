@@ -2,7 +2,9 @@
 title: The Myth of Race
 youtube_video_id: 8v0ykTrTQEc
 performance: false
-images: []
+images:
+- "/uploads/sharad-paul_talk_1.jpg"
+- "/uploads/sharad-paul_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

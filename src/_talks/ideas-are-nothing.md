@@ -2,7 +2,9 @@
 title: Ideas are nothing
 youtube_video_id: 4O3n6yOYWAo
 performance: false
-images: []
+images:
+- "/uploads/luke-nola_talk_2.jpg"
+- "/uploads/luke-nola_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

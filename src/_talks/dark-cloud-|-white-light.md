@@ -2,7 +2,9 @@
 title: Dark Cloud / White Light
 youtube_video_id: lQOczcZKZq4
 performance: false
-images: []
+images:
+- "/uploads/joseph-michael_talk_1.jpg"
+- "/uploads/joseph-michael_talk-2.jpg"
 related_blog_posts: []
 partners: []
 ---

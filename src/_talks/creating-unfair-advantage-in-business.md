@@ -2,7 +2,9 @@
 title: Creating unfair advantage in business
 youtube_video_id: vGXmicYX5z0
 performance: false
-images: []
+images:
+- "/uploads/shaveer-mirpuri_talk_2.jpg"
+- "/uploads/shaveer-mirpuri_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

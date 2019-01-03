@@ -2,7 +2,9 @@
 title: Building a robot army
 youtube_video_id: WPbpGhSILqk
 performance: false
-images: []
+images:
+- "/uploads/richard-little_talk_1.jpg"
+- "/uploads/richard-little_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

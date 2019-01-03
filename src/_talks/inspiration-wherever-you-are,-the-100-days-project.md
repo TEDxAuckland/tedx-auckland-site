@@ -2,7 +2,8 @@
 title: Inspiration Wherever You Are, The 100 Days Project
 youtube_video_id: bZOwMqxLIn4
 performance: false
-images: []
+images:
+- "/uploads/emma-rogan_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

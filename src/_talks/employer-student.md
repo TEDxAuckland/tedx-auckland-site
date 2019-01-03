@@ -2,7 +2,9 @@
 title: Employer student
 youtube_video_id: WSPQhTn6J1w
 performance: false
-images: []
+images:
+- "/uploads/toby-carr_talk_1.jpg"
+- "/uploads/toby-carr_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

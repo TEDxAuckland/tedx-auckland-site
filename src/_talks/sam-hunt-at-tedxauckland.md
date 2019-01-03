@@ -2,7 +2,8 @@
 title: Sam Hunt at TEDxAuckland
 youtube_video_id: pW7uouAZAWo
 performance: false
-images: []
+images:
+- "/uploads/sam-hunt_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

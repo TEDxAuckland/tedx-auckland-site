@@ -2,7 +2,9 @@
 title: 'Creating a good world one # at a time'
 youtube_video_id: VSwz4uaXVOc
 performance: false
-images: []
+images:
+- "/uploads/dale-pfeifer_talk_1.jpg"
+- "/uploads/dale-pfeifer_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

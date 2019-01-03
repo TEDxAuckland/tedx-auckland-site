@@ -2,7 +2,9 @@
 title: Ingredients to grow innovation
 youtube_video_id: mwp6VJwxGzw
 performance: false
-images: []
+images:
+- "/uploads/shaun-hendy_talk_1.jpg"
+- "/uploads/shaun-hendy_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

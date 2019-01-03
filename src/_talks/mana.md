@@ -2,7 +2,10 @@
 title: Mana
 youtube_video_id: qeK3SkxrZRI
 performance: false
-images: []
+images:
+- "/uploads/tame-iti_talk_3.jpg"
+- "/uploads/tame-iti_talk_1.jpg"
+- "/uploads/tame-iti_talk_2.1.jpg"
 related_blog_posts: []
 partners: []
 ---

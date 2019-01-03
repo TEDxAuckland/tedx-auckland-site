@@ -2,7 +2,9 @@
 title: Know your country
 youtube_video_id: 17eTVC_cOJI
 performance: false
-images: []
+images:
+- "/uploads/lillian-grace_talk_2.1.jpg"
+- "/uploads/lillian-grace_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

@@ -2,7 +2,9 @@
 title: Building community on waste with Mihi (intro) & Waiata (outro)
 youtube_video_id: ulo9jUJD38c
 performance: false
-images: []
+images:
+- "/uploads/waikare-komene_talk_2.jpg"
+- "/uploads/waikare-komene_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

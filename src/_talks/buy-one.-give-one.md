@@ -2,7 +2,9 @@
 title: Buy one. Give one
 youtube_video_id: sFw3_hlJuZQ
 performance: false
-images: []
+images:
+- "/uploads/lisa-king_talk_2.jpg"
+- "/uploads/lisa-king_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---

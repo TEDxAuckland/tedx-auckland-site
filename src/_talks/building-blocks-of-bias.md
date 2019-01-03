@@ -2,7 +2,9 @@
 title: Building blocks of bias
 youtube_video_id: F8a731O7IM8
 performance: false
-images: []
+images:
+- "/uploads/siouxsie-wiles_talk_1.jpg"
+- "/uploads/siouxsie-wiles_talk_2.jpg"
 related_blog_posts: []
 partners: []
 ---

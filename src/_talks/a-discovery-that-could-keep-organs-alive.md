@@ -2,7 +2,8 @@
 title: A discovery that could keep organs alive
 youtube_video_id: 87Re2-hkTlo
 performance: false
-images: []
+images:
+- "/uploads/john-windsor_talk_1.jpg"
 related_blog_posts: []
 partners: []
 ---
