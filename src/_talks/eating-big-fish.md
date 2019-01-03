@@ -4,7 +4,6 @@ youtube_video_id: rdF1zKk2B3c
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 TEDxAuckland September 26th, 2010.

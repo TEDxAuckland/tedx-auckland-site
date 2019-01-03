@@ -6,7 +6,6 @@ images:
 - "/uploads/mai-chen_talk_1.jpg"
 - "/uploads/mai-chen_talk_2.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 The ability to adapt has become crucial for success in this quicker-faster-all-the-time world. Lawyer and entrepreneur, Mai Chen explains how to grow your ability to adapt, including harnessing migrant experiences living, working and visiting abroad, and how to keep yourself match fit in adapting by incentivising yourself to ‘run faster’.

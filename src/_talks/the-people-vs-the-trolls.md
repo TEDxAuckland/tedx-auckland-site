@@ -6,7 +6,6 @@ images:
 - "/uploads/david-harvey_talk_1.jpg"
 - "/uploads/david-harvey_talk_2.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 David talks about online bullying and what people can do about under the current laws.

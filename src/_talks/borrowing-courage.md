@@ -6,7 +6,6 @@ images:
 - "/uploads/muskan-devta_talk_1.jpg"
 - "/uploads/muskan-devta_talk_2.1.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. At just 14 years old, Muskan has published two books and hosts her own radio show, despite being born with several serious medical conditions.

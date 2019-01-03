@@ -4,7 +4,6 @@ youtube_video_id: qP0bmN8S7ms
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 Jonathan Milne is the founder of The Learning Connexion, which has accidentally become New Zealand's biggest tertiary art school. He is equally interested in science and art and has always been captivated by the notion that life has meaning and heaven is within.

@@ -7,7 +7,6 @@ images:
 - "/uploads/sir-bob-harvey_talk_2.jpg"
 - "/uploads/sir-bob-harvey_talk_1.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 Sir Bob’s involvement in leadership, creativity and his passion for the environment will be the foundation of his TEDx talk.

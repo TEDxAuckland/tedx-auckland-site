@@ -4,7 +4,6 @@ youtube_video_id: GPRhqzmeZtY
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 TEDxAuckland 2009, Billy Gammon, 4 Men In A Boat.

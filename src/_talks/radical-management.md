@@ -6,7 +6,6 @@ images:
 - "/uploads/vivien-maidaborn_talk_1.jpg"
 - "/uploads/vivien-maidaborn_talk_2.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Loomio is an online tool for collective decision making that is transformative in it's approach to management of companies, groups or community organisations. Loomio is hitting a sweet spot between individual voice and collective decision making.

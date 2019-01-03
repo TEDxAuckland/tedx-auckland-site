@@ -6,7 +6,6 @@ images:
 - "/uploads/rebecca-wadey_talk_2.jpg"
 - "/uploads/rebecca-wadey_talk_1.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Rebecca has embraced a lifestyle of wellbeing as well as connecting with and supporting other women facing cancer. A chance friendship with raw foods “unbakery” Little Bird founder Megan May, buying a Vitamix and the essential addition of yoga marked a turning point in Rebecca’s journey and she has recently opened a yoga and wellness hub in Auckland. The Centre combines yoga, naturopathy, meditation, massage, acupuncture and nutrition and offers free programmes for women with cancer.

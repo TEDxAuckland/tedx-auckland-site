@@ -6,7 +6,6 @@ images:
 - "/uploads/sharad-paul_talk_1.jpg"
 - "/uploads/sharad-paul_talk_2.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 Sharad argues that the modern perception of race is wrong and that science and the story of Vitamin D and Folic acid tell their own story about race and skin colour.

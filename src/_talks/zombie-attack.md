@@ -4,7 +4,6 @@ youtube_video_id: by3CwhsixrQ
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 TEDxAuckland 2009, Andy Blood on Zombie Attack.

@@ -4,7 +4,6 @@ youtube_video_id: MkngOJvs2AI
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 With a PhD in Developmental Neuroscience from the University of Auckland and an MBA from Harvard Business School as a Fulbright Scholar, Privahini 'Priv' has managed to bridge the worlds of business and science.

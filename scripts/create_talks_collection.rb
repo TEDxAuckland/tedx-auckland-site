@@ -43,7 +43,6 @@ class CreateTalksCollection
       "performance" => false,
       "images" => talk_images(person["name"].downcase.gsub(" ", "-")),
       "related_blog_posts" => [],
-      "partners" => []
     }
   end
 

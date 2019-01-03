@@ -4,7 +4,6 @@ youtube_video_id: Vw6aAP-mtJ0
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 TEDxAuckland 2009, Kaila Colbin on Climate Change.

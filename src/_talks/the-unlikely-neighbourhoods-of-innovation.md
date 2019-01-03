@@ -4,7 +4,6 @@ youtube_video_id: g_fFi7vFrHA
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 What will it take for societies to be truly innovative? What will it look like to have that decentralised, citizen powered and unbiased by demographics? Andy Crowe and Rui Peng's idea is to see underprivileged communities embrace their diversity and become powerhouses of innovation. This has upended their values, blown apart their assumptions, and given them an understanding of innovation as a force for good. Andy co-founded Critical. Design in 2013 with Rui Peng, aimed at democratising manufacturing. The Design Lab is located inside decile 1 Wesley Intermediate School and brings tech such as 3D design and printing, robotics and CNC milling to their students and community. Andy has supported innovative initiatives in the education sector and continues to help teachers to think outside of the box to best prepare students for an unknown future. He has harnessed this experience to drive the social innovation initiatives that Critical pursues.

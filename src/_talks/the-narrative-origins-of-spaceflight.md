@@ -6,7 +6,6 @@ images:
 - "/uploads/alexander-macdonald_talk_2.jpg"
 - "/uploads/alexander-macdonald_talk_1.jpg"
 related_blog_posts: []
-partners: []
 ---
 
 Dr. Alexander MacDonald, Senior Economic Advisor at NASA, describes the history of spaceflight stories, how they inspired and influenced the development of space launch vehicles, and how the stories we tell as a society shape our collective future. 

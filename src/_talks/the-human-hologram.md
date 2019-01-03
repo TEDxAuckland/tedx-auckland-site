@@ -4,7 +4,6 @@ youtube_video_id: CohKXd3NnEE
 performance: false
 images: []
 related_blog_posts: []
-partners: []
 ---
 
 TEDxAuckland 2009, Dr Robin Kelly. 
