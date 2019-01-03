@@ -31,6 +31,11 @@
 
   &__title {
     font-size: 12rem;
+
+    @include respond(section-overflow) {
+      font-size: 10rem
+    }
+
     @include respond(phone) {
   		font-size: 5rem;
   	}
@@ -39,12 +44,53 @@
 
 .talk-video-section {
   background-color: $brand-grey-darker;
+  padding-bottom: 0;
 }
 
 .talk {
   &__row {
     display: flex;
     padding: 3rem 0;
+  }
+}
+
+.talk-info {
+  background-color: $brand-grey;
+  padding: 0;
+  min-height: unset;
+
+  &__container {
+    display:flex;
+  }
+
+  &__item {
+    font-weight: 800;
+    margin: 1.5rem 0rem 1.5rem 0.5rem;
+    padding: .2rem 0 .2rem 2rem;
+    text-transform: uppercase;
+    transition: all 200ms;
+
+    &::before {
+      content: ">";
+      margin-right: 0.3rem;
+    }
+
+    a {
+      color: #fff;
+    }
+
+    &:hover {
+      transform-origin: bottom left;
+      transform: scale(1.1);
+      color: $brand-color;
+      a { color: $brand-color; }
+
+
+    }
+  }
+
+  &__item:first-child {
+    margin-left: 0;
   }
 }
 

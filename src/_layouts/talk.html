@@ -5,6 +5,9 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 
 {%- assign presenter = site.people | where_exp: "p", "p.youtube_video_id == page.youtube_video_id " | first -%}
 {%- assign video = site.data.youtube_playlists.videos[page.youtube_video_id] -%}
+{%- assign presenter_name = presenter.name | slugify -%}
+{%- assign event = site.events | where_exp: "e", "e.people contains presenter_name" | first -%}
+
 <header class="talk-header">
 	<div class="container talk-header__container">
 		<h1 class="talk-header__heading">Talk</h1>
@@ -16,6 +19,21 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 	<div class="container">
 		<div class="youtube-video-embed">
 			<iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div>
+</section>
+
+<section class="talk-info">
+	<div class="container talk-info__container">
+		<div class="talk-info__item">
+			<a href="{{ presenter.url }}">
+				{{ presenter.name }}
+			</a>
+		</div>
+		<div class="talk-info__item">
+			<a href="{{ event.url }}">
+				{{ event.title }}
+			</a>
 		</div>
 	</div>
 </section>
