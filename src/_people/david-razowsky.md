@@ -20,11 +20,11 @@ description_markdown: >-
   Company.
 website_url: 'http://www.davidrazowsky.com'
 medium_url:
-twitter: 'https://twitter.com/drazowsky'
-facebook:
+twitter_url: 'https://twitter.com/drazowsky'
+facebook_url:
 youtube_video_id: 'Jp2EcuMbAmY'
 github_username:
-instagram: 'https://www.instagram.com/drazowsky/'
+instagram_url: 'https://www.instagram.com/drazowsky/'
 ---
 
 Enter your description here...

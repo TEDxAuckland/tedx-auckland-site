@@ -33,11 +33,11 @@ description_markdown: >-
   growing success.
 website_url: 'http://seabinproject.com/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram: 'https://www.instagram.com/seabin_project/'
+instagram_url: 'https://www.instagram.com/seabin_project/'
 ---
 
 Enter your description here...

@@ -21,11 +21,11 @@ description_markdown: >-
   Bats Theatre in Wellington since 2005.
 website_url: 'http://www.gibson.co.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'bPNyP2q08ow'
 github_username:
-instagram: 'https://www.instagram.com/victorianpurple/'
+instagram_url: 'https://www.instagram.com/victorianpurple/'
 ---
 
 Enter your description here...

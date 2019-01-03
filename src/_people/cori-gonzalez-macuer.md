@@ -14,11 +14,11 @@ description_markdown: >-
   premiere in New York, whereafter, he performed massive shows across New York
   and L.A.
 website_url:
-twitter: 'https://twitter.com/corigm'
-facebook: 'https://www.facebook.com/cori.gonzalezmacuer/'
+twitter_url: 'https://twitter.com/corigm'
+facebook_url: 'https://www.facebook.com/cori.gonzalezmacuer/'
 youtube_video_id: 'DmDwJPAIjmw'
 github_username:
-instagram: 'https://www.instagram.com/corigram/'
+instagram_url: 'https://www.instagram.com/corigram/'
 ---
 
 Enter your description here...

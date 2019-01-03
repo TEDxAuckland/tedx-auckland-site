@@ -20,11 +20,11 @@ description_markdown: >-
   monitor eye diseases. Fighting preventable blindness is his career's primary
   mission.
 website_url: 'http://www.odocs-tech.com/'
-twitter:
-facebook: 'https://www.facebook.com/hongshengchiong/'
+twitter_url:
+facebook_url: 'https://www.facebook.com/hongshengchiong/'
 youtube_video_id: 'j4p5PJi71FU'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

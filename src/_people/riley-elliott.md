@@ -18,11 +18,11 @@ description_markdown: >-
   this form of communication to address international issues as the presenter of
   Shark Man TV.
 website_url: 'http://www.rileyelliott.com/'
-twitter: 'https://twitter.com/rileysharks'
-facebook: 'https://www.facebook.com/rileyelliott159/'
+twitter_url: 'https://twitter.com/rileysharks'
+facebook_url: 'https://www.facebook.com/rileyelliott159/'
 youtube_video_id: 'GA8RsnezFIg'
 github_username:
-instagram: 'https://www.instagram.com/thelifeofrileynz/'
+instagram_url: 'https://www.instagram.com/thelifeofrileynz/'
 ---
 
 Enter your description here...

@@ -16,11 +16,11 @@ description_markdown: >-
   Merkel on innovation.
 website_url: www.goat.ventures
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'vGXmicYX5z0'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

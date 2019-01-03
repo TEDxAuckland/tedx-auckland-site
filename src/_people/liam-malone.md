@@ -17,11 +17,11 @@ description_markdown: >-
   earth.
 website_url: 'http://www.liammalone.co.nz/'
 medium_url:
-twitter: 'https://twitter.com/LiamMalone93'
-facebook:
+twitter_url: 'https://twitter.com/LiamMalone93'
+facebook_url:
 youtube_video_id: 'KOdzMd1KLrg'
 github_username:
-instagram: 'https://www.instagram.com/liammmalone/'
+instagram_url: 'https://www.instagram.com/liammmalone/'
 ---
 
 Enter your description here...

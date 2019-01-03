@@ -1,0 +1,89 @@
+---
+layout: default
+hero_image: /assets/images/bg-upcoming-events.jpg
+---
+
+{%- assign presenter = site.people | where_exp: "p", "p.youtube_video_id == page.youtube_video_id " | first -%}
+{%- assign video = site.data.youtube_playlists.videos[page.youtube_video_id] -%}
+{%- assign presenter_name = presenter.name | slugify -%}
+{%- assign event = site.events | where_exp: "e", "e.people contains presenter_name" | first -%}
+
+<header class="talk-header">
+	<div class="container talk-header__container">
+		<h1 class="talk-header__heading">Talk</h1>
+		<h1 class="talk-header__title">{{ page.title }}</h1>
+	</div>
+</header>
+
+<section class="talk-video-section">
+	<div class="container">
+		<div class="youtube-video-embed">
+			<iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		</div>
+	</div>
+</section>
+
+<section class="talk-info">
+	<div class="container talk-info__container">
+		<div class="talk-info__item">
+			<a href="{{ presenter.url }}">
+				{{ presenter.name }}
+			</a>
+		</div>
+		<div class="talk-info__item">
+			<a href="{{ event.url }}">
+				{{ event.title }}
+			</a>
+		</div>
+	</div>
+</section>
+
+<section class="section-bg-white">
+	<div class="container">
+
+		<div class="talk__row">
+			<div class="talk-description">
+				<h2 class="talk-description__title">
+					{{ page.title }}
+				</h2>
+				<div class="talk-description__paragraph">
+					{{ page.content }}
+				</div>
+			</div>
+
+			<div class="presenter">
+				<img src="{{ presenter.image }}" alt="" class="presenter__image">
+
+				<h2 class="presenter__title">
+					{{ presenter.name }}
+					<a href="{{presenter.url}}" class="expanded-preview__profile-link">
+						see profile...
+					</a>
+				</h2>
+
+				<div class="presenter__bio">
+					{{ presenter.description_markdown | split: "." | first | append: "." | markdownify }}
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section>
+
+
+
+{%- comment -%}
+{%- assign has_images = page.images | size -%}
+
+{%- if has_images -%}
+	{%- assign talk_photo = "/assets/images/default-talk-photo.jpg" -%}
+{%- else -%}
+	{%- assign talk_photo = page.images | first -%}
+{%- endif -%}
+
+<section class="section-bg-white">
+	<div class="container">
+		<img src="{{ talk_photo }}" alt="" class="talk-page__image">
+	</div>
+</section>
+{%- endcomment -%}

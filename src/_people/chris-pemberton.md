@@ -18,11 +18,11 @@ description_markdown: >-
   well make the journey as creative and colourful as possible”.
 website_url: 'https://www.crispcreative.club/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'yiAWXlAXBzQ'
 github_username:
-instagram: 'https://www.instagram.com/crisp.creative/'
+instagram_url: 'https://www.instagram.com/crisp.creative/'
 ---
 
 Enter your description here...

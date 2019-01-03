@@ -21,11 +21,11 @@ description_markdown: >-
   Oregon (1989).
 website_url: 'https://www.ihaveadream.org.nz/'
 medium_url:
-twitter:
-facebook:
-youtube_video_id:
+twitter_url:
+facebook_url:
+youtube_video_id: U17wQX2tQTA
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

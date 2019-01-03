@@ -19,11 +19,11 @@ description_markdown: >-
   successful today. She is on a journey to make people realise that being a
   child with a disability does not mean you are different.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'kl42kv_1HzI'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

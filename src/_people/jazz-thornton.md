@@ -23,11 +23,11 @@ description_markdown: >-
   while changing the way we have conversations about it.
 website_url: 'http://www.thevoicesofhope.org/'
 medium_url: 'https://www.instagram.com/voicesofhope/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram: 'https://www.instagram.com/jazzthornton/'
+instagram_url: 'https://www.instagram.com/jazzthornton/'
 ---
 
 Enter your description here...

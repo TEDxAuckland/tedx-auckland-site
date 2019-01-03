@@ -17,11 +17,11 @@ description_markdown: >-
   Minnie was a recipient of the Sir Peter Blake Leadership award 2013 and was
   made a Member of the NZ Order of Merit Queens Honour in 2014.
 website_url: 'http://www.beaccessible.org.nz/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: '__V07QKguBI'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

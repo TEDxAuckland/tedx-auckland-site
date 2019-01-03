@@ -24,11 +24,11 @@ description_markdown: >-
   most recent book is Knucklebnes: Poems 1962 – 2012.
 website_url: 'http://samhunt.co.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'pW7uouAZAWo'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

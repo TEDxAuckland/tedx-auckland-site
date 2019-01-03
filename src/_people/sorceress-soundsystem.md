@@ -15,11 +15,11 @@ description_markdown: >-
   the duo are embarking on a new international tour, so be ready for one of New
   Zealand’s most exiting soul acts to give you an irresistibly tuneful surprise.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

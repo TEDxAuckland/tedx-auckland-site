@@ -24,11 +24,11 @@ description_markdown: >-
   to find new ways of looking at each others bodies, that are both cheeky and
   empowering.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'Ayj4RJvEsPE'
 github_username:
-instagram: 'https://www.instagram.com/holy.jedhi/'
+instagram_url: 'https://www.instagram.com/holy.jedhi/'
 ---
 
 Enter your description here...

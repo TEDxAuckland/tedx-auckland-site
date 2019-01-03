@@ -11,11 +11,11 @@ description_markdown: >-
   University’s CoLab multidisciplinary team.
 website_url: 'http://www.ingame.co.nz/'
 medium_url:
-twitter: 'https://twitter.com/sknightly'
-facebook:
-youtube_video_id:
+twitter_url: 'https://twitter.com/sknightly'
+facebook_url:
+youtube_video_id: QhY7gAXpVD8
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

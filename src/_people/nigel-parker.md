@@ -15,11 +15,11 @@ description_markdown: >-
   capability in ways that are both tangible and magical.
 website_url:
 medium_url: 'https://medium.com/@nzigel'
-twitter: 'https://twitter.com/nzigel'
-facebook:
+twitter_url: 'https://twitter.com/nzigel'
+facebook_url:
 youtube_video_id: 'R38A2H8FKMk'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

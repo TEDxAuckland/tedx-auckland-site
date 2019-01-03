@@ -11,11 +11,11 @@ description_markdown: >-
   by reinventing the labels with which we categorise ourselves and each other.
 website_url: 'https://www.diversitynz.com/'
 medium_url: 'http://philippatston.com/blog/'
-twitter: 'https://twitter.com/PhilipPatston'
-facebook:
+twitter_url: 'https://twitter.com/PhilipPatston'
+facebook_url:
 youtube_video_id: 'hNUgOhJiQZc'
 github_username:
-instagram: 'https://www.instagram.com/philippatston/'
+instagram_url: 'https://www.instagram.com/philippatston/'
 ---
 
 Enter your description here...

@@ -29,11 +29,11 @@ description_markdown: >-
   that others too can achieve their dreams and ambitions by overcoming the fear
   of failure and breaking each goal into a series of smaller steps.
 website_url: 'http://www.mikeallsop.co.nz/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'p1SSEbfsQY8'
 github_username:
-instagram: 'https://www.instagram.com/mikeallsopnz/'
+instagram_url: 'https://www.instagram.com/mikeallsopnz/'
 ---
 
 Enter your description here...

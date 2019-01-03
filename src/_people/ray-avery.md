@@ -22,11 +22,11 @@ description_markdown: >-
   the ones that do.
 website_url: 'https://www.medicinemondiale.org/'
 medium_url:
-twitter: 'https://twitter.com/RayAvery'
-facebook:
-youtube_video_id:
+twitter_url: 'https://twitter.com/RayAvery'
+facebook_url:
+youtube_video_id: 8yEPBPBLifo
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

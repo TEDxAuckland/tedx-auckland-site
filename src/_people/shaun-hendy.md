@@ -16,11 +16,11 @@ description_markdown: >-
   and we'll need the infrastructure that connects us. If we can do this it would
   make us one of the most innovative places on the planet.
 website_url: 'http://www.tepunahamatatini.ac.nz/'
-twitter: 'https://twitter.com/hendysh'
-facebook:
+twitter_url: 'https://twitter.com/hendysh'
+facebook_url:
 youtube_video_id: 'mwp6VJwxGzw'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

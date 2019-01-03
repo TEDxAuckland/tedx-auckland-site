@@ -11,11 +11,11 @@ description_markdown: >-
   project had over 2,000 participants from all over the world.
 website_url: 'http://www.emmarogan.co.nz/'
 medium_url: 'https://100daysproject.co.nz/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'bZOwMqxLIn4'
 github_username:
-instagram: 'https://www.instagram.com/emmarogandesign/'
+instagram_url: 'https://www.instagram.com/emmarogandesign/'
 ---
 
 Enter your description here...

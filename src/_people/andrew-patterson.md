@@ -13,11 +13,11 @@ description_markdown: >-
   environment must equal or better its natural environment.
 website_url: 'http://pattersons.com/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'Mu5xYDkw9ys'
 github_username:
-instagram: 'https://www.instagram.com/pattersonassociates/'
+instagram_url: 'https://www.instagram.com/pattersonassociates/'
 ---
 
 Enter your description here...

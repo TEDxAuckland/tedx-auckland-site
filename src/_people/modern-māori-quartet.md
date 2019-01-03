@@ -24,11 +24,11 @@ description_markdown: >-
   multi-talented Māori foursome's irresistible charisma, sublime harmonies and
   universal humour.
 website_url: 'http://modernmaoriquartet.nz/'
-twitter: 'https://twitter.com/ModernMaoriQ'
-facebook: 'https://www.facebook.com/ModernMaoriQuartet'
+twitter_url: 'https://twitter.com/ModernMaoriQ'
+facebook_url: 'https://www.facebook.com/ModernMaoriQuartet'
 youtube_video_id: 'cQO3kPM3YRE'
 github_username:
-instagram: 'https://www.instagram.com/modernmaoriquartet/'
+instagram_url: 'https://www.instagram.com/modernmaoriquartet/'
 ---
 
 Enter your description here...

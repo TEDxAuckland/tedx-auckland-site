@@ -20,11 +20,11 @@ description_markdown: >-
   such as The Baci Lounge, an award-winning bookstore, within his own Baci
   Foundation.
 website_url: 'https://www.drsharadpaul.com/'
-twitter: 'https://twitter.com/DrSharadPaul'
-facebook: 'https://www.facebook.com/drsharadpaul/'
+twitter_url: 'https://twitter.com/DrSharadPaul'
+facebook_url: 'https://www.facebook.com/drsharadpaul/'
 youtube_video_id: '8v0ykTrTQEc'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

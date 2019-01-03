@@ -22,11 +22,11 @@ description_markdown: >-
   childhood home gave him hope, while leading him to his current profession and
   mission in life.
 website_url: 'https://futurecentreddesign.com/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'ZKc5OUs7pJE'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

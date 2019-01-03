@@ -15,11 +15,11 @@ description_markdown: >-
   be unleashing SOUL.
 website_url: 'http://www.soul.kiwi/'
 medium_url:
-twitter: 'https://twitter.com/JulieBartlettNZ'
-facebook:
-youtube_video_id:
+twitter_url: 'https://twitter.com/JulieBartlettNZ'
+facebook_url:
+youtube_video_id: 07nFY8dUCbo
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

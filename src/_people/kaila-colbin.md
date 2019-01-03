@@ -12,11 +12,11 @@ description_markdown: >-
   &nbsp;and a certified ExO consultant.
 website_url: 'http://www.missinglinknz.co.nz/'
 medium_url:
-twitter: 'https://twitter.com/kcolbin'
-facebook:
-youtube_video_id:
+twitter_url: 'https://twitter.com/kcolbin'
+facebook_url:
+youtube_video_id: Vw6aAP-mtJ0
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -20,11 +20,11 @@ description_markdown: >-
   way individuals and companies look at adopting sustainable approaches to both
   production and living.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'eeHsYmXQFKU'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

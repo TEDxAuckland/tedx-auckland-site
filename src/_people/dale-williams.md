@@ -11,11 +11,11 @@ description_markdown: >-
   circumstances, Dale is an advocate of non-academic vocational pathways,
   realising that not all young people are suited to tertiary education.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'ib-raWy_TXI'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -11,11 +11,11 @@ description_markdown: >-
   producer and actor.
 website_url: 'http://www.piphall.co.nz/'
 medium_url:
-twitter: 'https://twitter.com/misspiphall'
-facebook:
+twitter_url: 'https://twitter.com/misspiphall'
+facebook_url:
 youtube_video_id: 'V3QM59nehBk'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

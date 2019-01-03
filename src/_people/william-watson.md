@@ -14,11 +14,11 @@ description_markdown: >-
   intervention.
 website_url: 'https://www.tmipictures.co.nz/'
 medium_url: 'https://vimeo.com/user60313969'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'yE35EaZuqTQ'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

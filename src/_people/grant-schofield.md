@@ -34,11 +34,11 @@ description_markdown: >-
   psychology, to pack performance – allows a new lens to be cast over old
   problems.
 website_url: 'https://profgrant.com/'
-twitter: 'https://twitter.com/grantsnz'
-facebook:
+twitter_url: 'https://twitter.com/grantsnz'
+facebook_url:
 youtube_video_id: 'k5piEUPgRvk'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

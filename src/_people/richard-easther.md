@@ -15,11 +15,11 @@ description_markdown: >-
   early universe and understanding the ways in which the universe changes
   between the Big Bang and the present day.
 website_url: 'https://excursionset.com/'
-twitter: 'https://twitter.com/REasther'
-facebook:
+twitter_url: 'https://twitter.com/REasther'
+facebook_url:
 youtube_video_id: 'gol_4kh8ETY'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

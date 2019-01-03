@@ -13,11 +13,11 @@ description_markdown: >-
   World Hip Hop Championships in Las Vegas within eight months. From that point
   on her life and the lives of her dance group changed forever.
 website_url: 'https://www.billiejordan.org/, https://www.hipop-erationdance.com/'
-twitter: 'https://twitter.com/BillieJordanNZ'
-facebook: 'https://www.facebook.com/TheHipOpErationCrew/'
+twitter_url: 'https://twitter.com/BillieJordanNZ'
+facebook_url: 'https://www.facebook.com/TheHipOpErationCrew/'
 youtube_video_id: 'saRWpSqQpPA'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

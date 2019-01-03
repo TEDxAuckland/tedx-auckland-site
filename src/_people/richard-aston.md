@@ -22,11 +22,11 @@ description_markdown: >-
   winner and is a passionate father, grandfather, celebrant, gardener and
   author.
 website_url: 'https://www.astonkerr.co.nz/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'SgguRmmHbgA'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -17,11 +17,11 @@ description_markdown: >-
   numerous times. Anna is a frequent collaborator with the collective Fly My
   Pretties, a mother, environmentalist, and a second-dan Karate black belt.
 website_url: 'http://www.annacoddington.com/'
-twitter: 'https://twitter.com/AnnaCoddington'
-facebook: 'https://www.facebook.com/AnnaCoddingtonMusic'
+twitter_url: 'https://twitter.com/AnnaCoddington'
+facebook_url: 'https://www.facebook.com/AnnaCoddingtonMusic'
 youtube_video_id: 'X9R84sNlLYY'
 github_username:
-instagram: 'https://www.instagram.com/annacoddington/'
+instagram_url: 'https://www.instagram.com/annacoddington/'
 ---
 
 Enter your description here...

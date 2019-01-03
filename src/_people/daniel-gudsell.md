@@ -22,11 +22,11 @@ description_markdown: >-
   is responsible for much of Abodo’s new market development and product design.
 website_url: 'https://www.abodo.co.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram: 'https://www.instagram.com/abodowood/'
+instagram_url: 'https://www.instagram.com/abodowood/'
 ---
 
 Enter your description here...

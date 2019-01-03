@@ -1,0 +1,135 @@
+.talk-header {
+  padding: 3rem 0;
+  border-top: 1px dashed #000;
+  color: #000;
+  background-size: cover;
+
+  &__container {
+    max-width: 1800px;
+    padding-left: 3rem;
+    margin: 2rem auto 3rem auto;
+
+    @include respond(phone) {
+      margin: 1rem auto;
+  	}
+  }
+
+  &__heading, &__title {
+  	font-weight: bold;
+  	line-height: 1;
+  	margin: 0;
+  }
+
+  &__heading {
+    font-size: 8rem;
+    margin-bottom: 1rem;
+
+    @include respond(phone) {
+  		font-size: 3rem;
+  	}
+  }
+
+  &__title {
+    font-size: 12rem;
+
+    @include respond(section-overflow) {
+      font-size: 10rem
+    }
+
+    @include respond(phone) {
+  		font-size: 5rem;
+  	}
+  }
+}
+
+.talk-video-section {
+  background-color: $brand-grey-darker;
+  padding-bottom: 0;
+}
+
+.talk {
+  &__row {
+    display: flex;
+    padding: 3rem 0;
+  }
+}
+
+.talk-info {
+  background-color: $brand-grey;
+  padding: 0;
+  min-height: unset;
+
+  &__container {
+    display:flex;
+  }
+
+  &__item {
+    font-weight: 800;
+    margin: 1.5rem 0rem 1.5rem 0.5rem;
+    padding: .2rem 0 .2rem 2rem;
+    text-transform: uppercase;
+    transition: all 200ms;
+
+    &::before {
+      content: ">";
+      margin-right: 0.3rem;
+    }
+
+    a {
+      color: #fff;
+    }
+
+    &:hover {
+      transform-origin: bottom left;
+      transform: scale(1.1);
+      color: $brand-color;
+      a { color: $brand-color; }
+
+
+    }
+  }
+
+  &__item:first-child {
+    margin-left: 0;
+  }
+}
+
+.talk-description {
+  flex: 0 1 70%;
+  padding-right: 6rem;
+
+  &__container {
+    display: flex;
+    width: 100%;
+  }
+
+  &__title {
+
+  }
+
+  &__paragraph {
+
+  }
+}
+
+.presenter {
+  display: flex;
+  flex: 1 0 30%;
+  flex-direction: column;
+  height: 100%;
+
+  &__title {
+    margin: 1rem 0;
+  }
+
+  &__image {
+    width: 100%;
+  }
+
+  &__bio {
+  }
+}
+
+.talk-page__image {
+  width: 100%;
+}

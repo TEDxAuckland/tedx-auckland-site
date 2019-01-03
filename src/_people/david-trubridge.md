@@ -11,11 +11,11 @@ description_markdown: >-
   David has won many awards both nationally and internationally including New
   Zealand’s most prestigious design award, the John Britten Award.
 website_url: 'https://www.davidtrubridge.com/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'GtQG6jAxOK4'
 github_username: 'https://medium.com/@davidtrubridge'
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

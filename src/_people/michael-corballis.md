@@ -19,11 +19,11 @@ description_markdown: >-
   explores the idea that language evolved from manual gestures.
 website_url: 'http://www.michaelcorballis.com/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'nd5cklw6d6Q'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

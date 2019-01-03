@@ -5,11 +5,11 @@ image:
 description_markdown:
 website_url:
 medium_url:
-twitter: 'https://twitter.com/divyadhar'
-facebook:
-youtube_video_id:
+twitter_url: 'https://twitter.com/divyadhar'
+facebook_url:
+youtube_video_id: l_L_t3nCfMw
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

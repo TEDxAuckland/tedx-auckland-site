@@ -23,11 +23,11 @@ description_markdown: >-
   about is giving these girls a "go"- an opportunity to find and fulfil their
   potential.
 website_url: 'http://projectmoroto.com/'
-twitter:
-facebook: 'https://www.facebook.com/ProjectMoroto/'
+twitter_url:
+facebook_url: 'https://www.facebook.com/ProjectMoroto/'
 youtube_video_id: 'lzQSZmedcfs'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

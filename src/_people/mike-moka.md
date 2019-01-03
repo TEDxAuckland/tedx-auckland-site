@@ -20,11 +20,11 @@ description_markdown: >-
   Mike holds a number of governance and advisory roles for Whanau Organisations,
   Charities, Learning Institutions and Not for Profit organisations.
 website_url: 'http://indigenousgrowth.com/'
-twitter: 'https://twitter.com/michaelmmoka'
-facebook:
+twitter_url: 'https://twitter.com/michaelmmoka'
+facebook_url:
 youtube_video_id: 'M9FguL2lfHo'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

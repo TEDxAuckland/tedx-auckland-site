@@ -25,11 +25,11 @@ description_markdown: >-
   reality.
 website_url: 'http://www.criticaldesign.nz/'
 medium_url:
-twitter: 'https://twitter.com/criticalnz'
-facebook: 'https://www.facebook.com/CriticalDesignNZ/'
+twitter_url: 'https://twitter.com/criticalnz'
+facebook_url: 'https://www.facebook.com/CriticalDesignNZ/'
 youtube_video_id: 'g_fFi7vFrHA'
 github_username:
-instagram: 'https://www.instagram.com/criticalnz/'
+instagram_url: 'https://www.instagram.com/criticalnz/'
 ---
 
 Enter your description here...

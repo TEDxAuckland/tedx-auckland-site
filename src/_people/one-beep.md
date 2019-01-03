@@ -5,11 +5,11 @@ image:
 description_markdown:
 website_url: 'http://onebeep.org/'
 medium_url:
-twitter: 'https://twitter.com/VinnyLohan'
-facebook:
-youtube_video_id:
+twitter_url: 'https://twitter.com/VinnyLohan'
+facebook_url:
+youtube_video_id: zYICH2IBB6Y
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

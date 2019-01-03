@@ -1,0 +1,3 @@
+# resize to 3600px width maintaining aspect ratio, leaving images with smaller
+# widths as they are, and reducing quality ot 80%
+mogrify -path processed^Cmonitor -resize 3600x\> -quality 80 *

@@ -18,11 +18,11 @@ description_markdown: >-
   engineering design.
 website_url: 'http://www.medickinson.com/'
 medium_url:
-twitter: 'https://twitter.com/medickinson'
-facebook:
+twitter_url: 'https://twitter.com/medickinson'
+facebook_url:
 youtube_video_id: '9jV-KW1jpJo'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

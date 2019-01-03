@@ -5,11 +5,11 @@ image:
 description_markdown:
 website_url: 'http://www.robinkelly.co.nz/'
 medium_url:
-twitter: 'https://twitter.com/RobinJLKelly'
-facebook:
-youtube_video_id:
+twitter_url: 'https://twitter.com/RobinJLKelly'
+facebook_url:
+youtube_video_id: CohKXd3NnEE
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

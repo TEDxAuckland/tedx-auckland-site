@@ -14,11 +14,11 @@ description_markdown: >-
   Society Rutherford Medal.
 website_url: 'https://unidirectory.auckland.ac.nz/people/rlm-faull'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'NT_Z6kULoVw'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

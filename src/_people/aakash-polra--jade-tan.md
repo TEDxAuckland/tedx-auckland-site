@@ -10,11 +10,11 @@ description_markdown: >-
   descriptions using smartphone technology.
 website_url:
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'Xt5OuEnJbM4'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

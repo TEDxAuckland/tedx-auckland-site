@@ -23,11 +23,11 @@ description_markdown: >-
   Samuel is very passionate about and sees it as one of the most basic of human
   rights.
 website_url: 'http://www.samuelgibson.co.nz/'
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: '7nokY97BRS4'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

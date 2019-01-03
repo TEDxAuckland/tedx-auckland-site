@@ -13,11 +13,11 @@ description_markdown: >-
   Awards International' New York Independent Film Festival.
 website_url: 'https://www.theartofseeing.life/'
 medium_url: 'http://thedigitalshamans.com/'
-twitter: 'https://twitter.com/pete_longworth, https://twitter.com/tokyolovein'
-facebook:
+twitter_url: 'https://twitter.com/pete_longworth, https://twitter.com/tokyolovein'
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

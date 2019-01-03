@@ -29,11 +29,11 @@ description_markdown: >-
   your being and allowing yourself in the places where others don’t.
 website_url: 'https://imugi.bandcamp.com/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

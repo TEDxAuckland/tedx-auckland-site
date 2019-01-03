@@ -18,11 +18,11 @@ description_markdown: >-
   Production and Development Association Awards.
 website_url: 'http://www.fisheyefilms.co.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'fXYXHIX4P0A'
 github_username:
-instagram: 'https://www.instagram.com/peteryoung8515/'
+instagram_url: 'https://www.instagram.com/peteryoung8515/'
 ---
 
 Enter your description here...

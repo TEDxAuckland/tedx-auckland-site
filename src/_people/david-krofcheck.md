@@ -15,11 +15,11 @@ description_markdown: >-
   environmental riches.
 website_url: 'http://www.science.auckland.ac.nz/people/d-krofcheck'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'qGtA4XXQRNE'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

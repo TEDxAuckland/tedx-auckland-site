@@ -15,11 +15,11 @@ description_markdown: >-
   of Accrual Accounting for Government Departments for the New Zealand Treasury.
 website_url: 'http://www.mcguinnessinstitute.org/'
 medium_url:
-twitter:
-facebook:
-youtube_video_id:
+twitter_url:
+facebook_url:
+youtube_video_id: uwyDU9_Wpi8
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

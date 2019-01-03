@@ -32,11 +32,11 @@ description_markdown: >-
   For the last 19 years on weekly nationwide radio he has been answering
   listeners’ questions on etymology & the English language on RadioLive.
 website_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'PRboI1iJ5oA'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

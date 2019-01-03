@@ -20,11 +20,11 @@ description_markdown: >-
   two engaging teenage boys.
 website_url: 'http://www.photonfactory.auckland.ac.nz/en/ABOUT/about-the-photon-factory.html'
 medium_url:
-twitter: 'https://twitter.com/ptolemytortoise'
-facebook:
+twitter_url: 'https://twitter.com/ptolemytortoise'
+facebook_url:
 youtube_video_id: '9qIZpiWFQiA'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

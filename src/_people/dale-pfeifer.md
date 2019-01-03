@@ -16,11 +16,11 @@ description_markdown: >-
   demonstrates how the power of love and effective leadership can bring big
   diverse groups of people together.
 website_url: 'https://goodworld.me/'
-twitter: 'https://twitter.com/DaleNIVPfeifer'
-facebook:
+twitter_url: 'https://twitter.com/DaleNIVPfeifer'
+facebook_url:
 youtube_video_id: 'VSwz4uaXVOc'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -20,11 +20,11 @@ description_markdown: >-
 
   Rebecca is one New Zealander to watch out for.
 website_url: 'http://www.rebeccamills.co/'
-twitter: 'https://twitter.com/_rebeccamills'
-facebook:
+twitter_url: 'https://twitter.com/_rebeccamills'
+facebook_url:
 youtube_video_id: 'd53-nyFzoVI'
 github_username:
-instagram: 'https://www.instagram.com/_rebeccamills/'
+instagram_url: 'https://www.instagram.com/_rebeccamills/'
 ---
 
 Enter your description here...

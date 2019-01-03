@@ -51,11 +51,11 @@ description_markdown: >-
   topics.
 website_url: 'https://www.perpetualguardian.co.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

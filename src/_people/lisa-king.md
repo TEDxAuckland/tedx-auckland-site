@@ -19,11 +19,11 @@ description_markdown: >-
   Award in both 2016 and 2017.
 website_url: 'http://www.eatmylunch.nz/'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id: 'sFw3_hlJuZQ'
 github_username:
-instagram: 'https://www.instagram.com/lisakingnz/'
+instagram_url: 'https://www.instagram.com/lisakingnz/'
 ---
 
 Enter your description here...

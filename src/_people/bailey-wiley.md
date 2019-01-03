@@ -16,11 +16,11 @@ description_markdown: >-
   herself for her upcoming summer tour. Do not miss the chance to see a true
   star on her way up!
 website_url: 'https://www.baileywiley.com/'
-twitter: 'https://twitter.com/_BaileyWiley_'
-facebook: 'https://www.facebook.com/baileymusicnz/'
+twitter_url: 'https://twitter.com/_BaileyWiley_'
+facebook_url: 'https://www.facebook.com/baileymusicnz/'
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

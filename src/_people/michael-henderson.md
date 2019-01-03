@@ -24,11 +24,11 @@ description_markdown: >-
   Michael is married with three children.
 website_url: 'http://www.culturesatwork.com/'
 medium_url:
-twitter:
-facebook:
-youtube_video_id:
+twitter_url:
+facebook_url:
+youtube_video_id: cKugJk7rKW0
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

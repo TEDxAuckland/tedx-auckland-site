@@ -5,17 +5,17 @@
 
 	<ul class="social-block__icon-row">
 
-		{% if person.twitter %}
+		{% if person.twitter_url %}
 		<li class="social-block__icon">
-			<a href="{{ person.twitter }}" target="_blank">
+			<a href="{{ person.twitter_url }}" target="_blank">
 				{% include embed/social-icon.html icon="Twitter" %}
 			</a>
 		</li>
 		{% endif %}
 
-		{% if person.facebook %}
+		{% if person.facebook_url %}
 		<li class="social-block__icon">
-			<a href="{{ person.facebook }}" target="_blank">
+			<a href="{{ person.facebook_url }}" target="_blank">
 				{% include embed/social-icon.html icon="Facebook" %}
 			</a>
 		</li>
@@ -33,9 +33,9 @@
 		<li class="social-block__icon">github_u{{ person.github_username }}</li>
 		{% endif %}
 
-		{% if person.instagram %}
+		{% if person.instagram_url %}
 		<li class="social-block__icon">
-			<a href="{{ person.instagram }}" target="_blank">
+			<a href="{{ person.instagram_url }}" target="_blank">
 				{% include embed/social-icon.html icon="Instagram" %}
 			</a>
 		</li>

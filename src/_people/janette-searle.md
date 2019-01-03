@@ -15,11 +15,11 @@ description_markdown: >-
   collaboration is focused, and that it is people that make the world go round,
   not money.
 website_url: 'http://takemyhands.org/'
-twitter: 'https://twitter.com/takemyhandsnz'
-facebook:
+twitter_url: 'https://twitter.com/takemyhandsnz'
+facebook_url:
 youtube_video_id: 'ji8OgA0Ito8'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

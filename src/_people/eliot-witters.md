@@ -28,11 +28,11 @@ description_markdown: >-
   Social Cricket Sunday League Division 4 two years ago.
 website_url: 'https://www.youtube.com/channel/UCzn2yq12ogaJH2IsK8p48gw'
 medium_url:
-twitter:
-facebook:
+twitter_url:
+facebook_url:
 youtube_video_id:
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

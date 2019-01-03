@@ -11,11 +11,11 @@ description_markdown: >-
   degree from the University of Waikato. Brian has produced film, books,
   photography, theatre and music. He first attended TED in Kobe, Japan in 1994.
 website_url: 'http://www.sweeneyvesty.com/'
-twitter: 'http://www.nzedge.com/'
-facebook:
+twitter_url: 'http://www.nzedge.com/'
+facebook_url:
 youtube_video_id: '6TfwRRJTF1o'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...

@@ -15,11 +15,11 @@ description_markdown: >-
   their roles. For Siouxsie it will, at the very least send out the message that
   everything is possible and that means everything would be awesome.
 website_url: 'https://about.me/skeptimoo, http://www.superbugslab.org/'
-twitter: 'https://twitter.com/siouxsiew'
-facebook:
+twitter_url: 'https://twitter.com/siouxsiew'
+facebook_url:
 youtube_video_id: 'F8a731O7IM8'
 github_username:
-instagram: 'https://www.instagram.com/siouxsiew/'
+instagram_url: 'https://www.instagram.com/siouxsiew/'
 ---
 
 Enter your description here...

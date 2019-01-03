@@ -23,11 +23,11 @@ description_markdown: >-
   a self confessed techno-nerd and is an advocate for the effective use of
   drones for good in NZ and beyond.
 website_url: 'https://www.aut.ac.nz/profiles/barbara-bollard-breen'
-twitter: 'https://twitter.com/BarbaraBreen1'
-facebook:
+twitter_url: 'https://twitter.com/BarbaraBreen1'
+facebook_url:
 youtube_video_id: 'irtsSSek1k8'
 github_username:
-instagram:
+instagram_url:
 ---
 
 Enter your description here...
