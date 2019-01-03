@@ -17,7 +17,7 @@ website_url: 'http://www.soul.kiwi/'
 medium_url:
 twitter_url: 'https://twitter.com/JulieBartlettNZ'
 facebook_url:
-youtube_video_id:
+youtube_video_id: 07nFY8dUCbo
 github_username:
 instagram_url:
 ---
