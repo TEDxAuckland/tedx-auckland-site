@@ -2,8 +2,10 @@
 title: Corporate Anthropology
 youtube_video_id: cKugJk7rKW0
 performance: false
-images: []
-related_blog_posts: []
+images:
+- ''
+related_blog_posts:
+- ''
 ---
 
 TEDxAuckland 2009, Michael Henderson on Corporate Anthropology.

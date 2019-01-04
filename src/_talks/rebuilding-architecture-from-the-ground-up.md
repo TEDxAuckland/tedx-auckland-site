@@ -4,7 +4,8 @@ youtube_video_id: Mu5xYDkw9ys
 performance: false
 images:
 - "/uploads/andrew-patterson_talk_1.jpg"
-related_blog_posts: []
+related_blog_posts:
+- ''
 ---
 
 Andrew is arguably New Zealand's most internationally recognised and published Architect. Last year the worlds most searched architectural Journal, London based 'World Architecture News' named his firm, Patterson Associates as one of five Architects world wide "who's work is set to shape Global Architecture in the 21 century."

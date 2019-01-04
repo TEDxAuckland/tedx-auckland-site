@@ -5,7 +5,8 @@ performance: false
 images:
 - "/uploads/jayne-bailey_talk_2.jpg"
 - "/uploads/jayne-bailey_talk_1.jpg"
-related_blog_posts: []
+related_blog_posts:
+- ''
 ---
 
 Jayne believes all of us are faced with plenty of amazing and sometimes scary opportunities; the trick is having the courage to say yes to them. Her first yes led to a series of others, resulting in a girls' orphanage 14,000 kilometres away from her New Zealand home.

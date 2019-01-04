@@ -2,8 +2,10 @@
 title: What if... you were not employed?
 youtube_video_id: MkngOJvs2AI
 performance: false
-images: []
-related_blog_posts: []
+images:
+- ''
+related_blog_posts:
+- ''
 ---
 
 With a PhD in Developmental Neuroscience from the University of Auckland and an MBA from Harvard Business School as a Fulbright Scholar, Privahini 'Priv' has managed to bridge the worlds of business and science.

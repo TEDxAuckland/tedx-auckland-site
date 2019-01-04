@@ -5,7 +5,8 @@ performance: false
 images:
 - "/uploads/gavin-healy_talk_1.jpg"
 - "/uploads/gavin-healy_talk_2.jpg"
-related_blog_posts: []
+related_blog_posts:
+- ''
 ---
 
 Gavin's talks about media and the current continuing environmental degradation our impact has on the planet while explaining his solution for making media a force for good and not continuing on the same path.

@@ -3,7 +3,7 @@ require 'fileutils'
 require 'yaml'
 
 class CreateTalksCollection
-  NO_OVERWRITE = true
+  NO_OVERWRITE = false
   JSON_FOLDER = '../src/_data/youtube_playlists'
   TALKS_FOLDER = "../src/_talks"
   PEOPLE_FOLDER = "../src/_people"
@@ -42,14 +42,15 @@ class CreateTalksCollection
       "youtube_video_id" => person["youtube_video_id"],
       "performance" => false,
       "images" => talk_images(person["name"].downcase.gsub(" ", "-")),
-      "related_blog_posts" => [],
+      "related_blog_posts" => [""],
     }
   end
 
   def talk_images(name)
-    Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
+    names = Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
       path.gsub("../src", "")
     end
+    names.empty? ? [''] : names
   end
 
   def talk_title(video)

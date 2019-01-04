@@ -5,7 +5,8 @@ performance: false
 images:
 - "/uploads/jess-holly-bates_talk_2.jpg"
 - "/uploads/jess-holly-bates_talk_1.jpg"
-related_blog_posts: []
+related_blog_posts:
+- ''
 ---
 
 We all have personas, masks, different people we are when are around different groups. Jess breaks this wide open with a unique talk/performance about how we can slip between different projections of ourselves. See her new project on Boosted here http://www.boosted.org.nz/projects/the-offensive-nipple-show-road-to-melbourne
