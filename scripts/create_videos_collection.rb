@@ -2,10 +2,10 @@ require 'json'
 require 'fileutils'
 require 'yaml'
 
-class CreateTalksCollection
+class CreateVideosCollection
   NO_OVERWRITE = false
   JSON_FOLDER = '../src/_data/youtube_playlists'
-  TALKS_FOLDER = "../src/_talks"
+  VIDEOS_FOLDER = "../src/_videos"
   PEOPLE_FOLDER = "../src/_people"
   IMAGES_FOLDER = "../src/uploads"
 
@@ -25,10 +25,10 @@ class CreateTalksCollection
       puts "> #{video["title"]}"
 
       person["youtube_video_ids"] = [person["youtube_video_id"]]
-      talk_hash = talk_schema(video, person)
+      video_hash = video_schema(video, person)
       person.delete("youtube_video_id")
       content = video["description"]
-      write_md_file("#{TALKS_FOLDER}/#{talk_filename(video)}", talk_hash, content)
+      write_md_file("#{VIDEOS_FOLDER}/#{video_filename(video)}", video_hash, content)
     end
   end
 
@@ -36,32 +36,32 @@ class CreateTalksCollection
 
   attr_reader :people_hashes, :yt_json
 
-  def talk_schema(video, person)
+  def video_schema(video, person)
     {
-      "title" => talk_title(video),
+      "title" => video_title(video),
       "youtube_video_id" => person["youtube_video_id"],
       "performance" => false,
-      "images" => talk_images(person["name"].downcase.gsub(" ", "-")),
+      "images" => video_images(person["name"].downcase.gsub(" ", "-")),
       "related_blog_posts" => [""],
     }
   end
 
-  def talk_images(name)
+  def video_images(name)
     names = Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
       path.gsub("../src", "")
     end
     names.empty? ? [''] : names
   end
 
-  def talk_title(video)
+  def video_title(video)
     video["title"]
       .yield_self { |title| title.split("|").first}
       .yield_self { |title| title.split(":").first}
       .yield_self { |title| title.strip }
   end
 
-  def talk_filename(video)
-    talk_title(video)
+  def video_filename(video)
+    video_title(video)
       .yield_self { |title| title.gsub("/", "|") }
       .yield_self { |title| title.gsub("?", "") }
       .yield_self { |title| title.gsub(" ", "-") }
@@ -88,4 +88,4 @@ class CreateTalksCollection
   end
 end
 
-CreateTalksCollection.new.call
+CreateVideosCollection.new.call
