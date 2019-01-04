@@ -2,6 +2,7 @@
 title: Homepage
 tagline: ...
 layout: default
+description: bla bla bla
 image: '/assets/images/bg-upcoming-events.jpg'
 description: hello
 videos:
@@ -10,6 +11,15 @@ videos:
   - cultural-capital-for-corporates
   - finding-your-place-to-lead-from
 ---
+
+<section id="talks" class="section-bg-white">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">ideas</h3>
+    {% include videos.html video_names = page.videos %}
+
+  </div>
+</section>
 
 <section id="blog" class="section-padding--rm-top">
   {% include homepage-blog.html %}
@@ -38,15 +48,6 @@ videos:
     </div>
   </section>
 {% endif %}
-
-<section id="talks" class="section-bg-white">
-  <div class="container">
-
-    <h3 class="section-heading section-heading--talks">talks</h3>
-    {% include videos.html video_names = page.videos %}
-
-  </div>
-</section>
 
 <section id="join" class="section-bg-white">
   <div class="container">
