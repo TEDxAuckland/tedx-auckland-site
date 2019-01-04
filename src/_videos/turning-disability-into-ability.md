@@ -2,6 +2,7 @@
 title: Turning disability into ability
 youtube_video_id: KOdzMd1KLrg
 performance: false
+highlight: false
 images:
 - "/uploads/liam-malone_talk_1.jpg"
 - "/uploads/liam-malone_talk_2.jpg"

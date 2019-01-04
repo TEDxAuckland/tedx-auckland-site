@@ -2,6 +2,7 @@
 title: The way we think about immigration is flawed
 youtube_video_id: 6Vqethhad_k
 performance: false
+highlight: false
 images:
 - "/uploads/yoseph-ayele_talk_1.jpg"
 - "/uploads/yoseph-ayele_talk_2.jpg"

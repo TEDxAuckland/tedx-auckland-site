@@ -2,6 +2,7 @@
 title: Find a cause worth dying for
 youtube_video_id: 7eUVD74ozQU
 performance: false
+highlight: false
 images:
 - "/uploads/pete-bethune_talk_1.jpg"
 - "/uploads/pete-bethune_talk_2.jpg"

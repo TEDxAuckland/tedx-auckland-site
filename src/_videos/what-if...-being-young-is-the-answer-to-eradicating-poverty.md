@@ -2,6 +2,7 @@
 title: What if... being young is the answer to eradicating poverty?
 youtube_video_id: l_L_t3nCfMw
 performance: false
+highlight: false
 images: []
 related_blog_posts: []
 ---

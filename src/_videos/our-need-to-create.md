@@ -2,6 +2,7 @@
 title: Our need to create
 youtube_video_id: GtQG6jAxOK4
 performance: false
+highlight: false
 images:
 - "/uploads/david-trubridge_talk_1.jpg"
 related_blog_posts: []

@@ -2,6 +2,7 @@
 title: Growth through lazy innovation
 youtube_video_id: eeHsYmXQFKU
 performance: false
+highlight: false
 images:
 - "/uploads/georgia-lala_talk_2.jpg"
 - "/uploads/georgia-lala_talk_1.jpg"

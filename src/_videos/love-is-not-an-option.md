@@ -2,6 +2,7 @@
 title: Love is not an option
 youtube_video_id: Dzxe_pQTd90
 performance: false
+highlight: false
 images:
 - "/uploads/sarah-longbottom_talk_2.jpg"
 - "/uploads/sarah-longbottom_talk_1.jpg"

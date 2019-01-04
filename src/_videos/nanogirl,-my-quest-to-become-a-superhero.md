@@ -2,6 +2,7 @@
 title: Nanogirl, My Quest to Become a Superhero
 youtube_video_id: 9jV-KW1jpJo
 performance: false
+highlight: false
 images:
 - "/uploads/michelle-dickinson_talk_1.jpg"
 related_blog_posts: []

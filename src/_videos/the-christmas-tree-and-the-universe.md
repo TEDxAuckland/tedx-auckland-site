@@ -2,6 +2,7 @@
 title: The christmas tree and the universe
 youtube_video_id: gol_4kh8ETY
 performance: false
+highlight: false
 images:
 - "/uploads/richard-easther_talk_2.jpg"
 - "/uploads/richard-easther_talk_1.jpg"

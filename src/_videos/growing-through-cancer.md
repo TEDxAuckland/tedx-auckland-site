@@ -2,6 +2,7 @@
 title: Growing through cancer
 youtube_video_id: z6Iip-kl-VM
 performance: false
+highlight: false
 images:
 - "/uploads/rebecca-wadey_talk_2.jpg"
 - "/uploads/rebecca-wadey_talk_1.jpg"

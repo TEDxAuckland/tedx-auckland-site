@@ -2,6 +2,7 @@
 title: Super power baby project
 youtube_video_id: wUYBpsujxdw
 performance: false
+highlight: false
 images:
 - "/uploads/rachel-callander_talk_2.jpg"
 - "/uploads/rachel-callander_talk_1.jpg"

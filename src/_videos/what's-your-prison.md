@@ -2,6 +2,7 @@
 title: What's Your Prison?
 youtube_video_id: LjjlsW1MDmc
 performance: false
+highlight: false
 images:
 - "/uploads/paul-wood_talk_1.jpg"
 related_blog_posts: []

@@ -2,6 +2,7 @@
 title: D Floor Damager
 youtube_video_id: bsJjOxGhAE0
 performance: false
+highlight: false
 images:
 - "/uploads/the-hip-op-eration-crew_talk_1.jpg"
 - "/uploads/the-hip-op-eration-crew_talk_2.jpg"

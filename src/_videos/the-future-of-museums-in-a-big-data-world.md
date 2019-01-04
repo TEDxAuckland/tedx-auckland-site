@@ -2,6 +2,7 @@
 title: The future of museums in a big data world
 youtube_video_id: EKBKqcaHOIg
 performance: false
+highlight: false
 images:
 - "/uploads/angie-judge_talk_1.jpg"
 - "/uploads/angie-judge_talk_2.jpg"

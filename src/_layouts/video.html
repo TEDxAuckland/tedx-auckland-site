@@ -23,6 +23,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 	</div>
 </section>
 
+{%- if page.highlight == false -%}
 <section class="talk-info">
 	<div class="container talk-info__container">
 		<div class="talk-info__item">
@@ -37,6 +38,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 		</div>
 	</div>
 </section>
+{%- endif -%}
 
 <section class="section-bg-white">
 	<div class="container">
@@ -51,6 +53,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 				</div>
 			</div>
 
+			{%- if page.highlight == false -%}
 			<div class="presenter">
 				<img src="{{ presenter.image }}" alt="" class="presenter__image">
 
@@ -66,6 +69,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 				</div>
 			</div>
 		</div>
+		{%- endif -%}
 
 	</div>
 </section>

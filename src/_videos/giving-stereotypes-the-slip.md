@@ -2,6 +2,7 @@
 title: Giving stereotypes the slip
 youtube_video_id: Ayj4RJvEsPE
 performance: false
+highlight: false
 images:
 - "/uploads/jess-holly-bates_talk_2.jpg"
 - "/uploads/jess-holly-bates_talk_1.jpg"

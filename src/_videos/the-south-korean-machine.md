@@ -2,6 +2,7 @@
 title: The South Korean Machine
 youtube_video_id: cMxUl2k4DsY
 performance: false
+highlight: false
 images:
 - "/uploads/anna-faber_talk_2.jpg"
 - "/uploads/anna-faber_talk_1.jpg"

@@ -2,6 +2,7 @@
 title: Mana
 youtube_video_id: qeK3SkxrZRI
 performance: false
+highlight: false
 images:
 - "/uploads/tame-iti_talk_3.jpg"
 - "/uploads/tame-iti_talk_1.jpg"

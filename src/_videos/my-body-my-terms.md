@@ -2,6 +2,7 @@
 title: My body my terms
 youtube_video_id: 2HQjS33JJFE
 performance: false
+highlight: false
 images:
 - "/uploads/lizzie-marvelly_talk_1.jpg"
 - "/uploads/lizzie-marvelly_talk_2.jpg"

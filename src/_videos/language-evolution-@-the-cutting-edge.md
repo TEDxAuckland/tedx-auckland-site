@@ -2,6 +2,7 @@
 title: Language evolution @ the cutting edge
 youtube_video_id: PRboI1iJ5oA
 performance: false
+highlight: false
 images:
 - "/uploads/max-cryer_talk_3.jpg"
 - "/uploads/max-cryer_talk_1.jpg"

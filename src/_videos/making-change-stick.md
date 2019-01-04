@@ -2,6 +2,7 @@
 title: Making Change Stick
 youtube_video_id: R38A2H8FKMk
 performance: false
+highlight: false
 images:
 - "/uploads/nigel-parker_talk_2.jpg"
 - "/uploads/nigel-parker_talk_1.jpg"

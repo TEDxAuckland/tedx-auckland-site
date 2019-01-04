@@ -2,6 +2,7 @@
 title: Using spare hands to make a difference
 youtube_video_id: ji8OgA0Ito8
 performance: false
+highlight: false
 images:
 - "/uploads/janette-searle_talk_1.jpg"
 - "/uploads/janette-searle_talk_2.jpg"

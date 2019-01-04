@@ -2,6 +2,7 @@
 title: Food for thought | TEDxAuckland 2018
 youtube_video_id: Ie9nApBzfIs
 performance: false
+highlight: true
 images: []
 related_blog_posts:
   - food-for-thought-the-food-drink-of-tedxauckland-2018/

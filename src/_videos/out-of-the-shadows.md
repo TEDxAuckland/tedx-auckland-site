@@ -2,6 +2,7 @@
 title: Out of the shadows
 youtube_video_id: DmDwJPAIjmw
 performance: false
+highlight: false
 images:
 - "/uploads/cori-gonzalez-macuer_talk_2.jpg"
 - "/uploads/cori-gonzalez-macuer_talk_1.jpg"

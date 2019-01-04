@@ -2,6 +2,7 @@
 title: Systems thinking for a better world
 youtube_video_id: d53-nyFzoVI
 performance: false
+highlight: false
 images:
 - "/uploads/rebecca-mills_talk_2.jpg"
 - "/uploads/rebecca-mills_talk_1.jpg"

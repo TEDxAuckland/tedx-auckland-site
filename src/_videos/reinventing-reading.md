@@ -2,6 +2,7 @@
 title: Reinventing Reading
 youtube_video_id: pz9kG1aUVe0
 performance: false
+highlight: false
 images:
 - "/uploads/paul-cameron_talk_1.jpg"
 related_blog_posts: []

@@ -2,6 +2,7 @@
 title: A new model for business
 youtube_video_id: A5wIBRuFAS8
 performance: false
+highlight: false
 images:
 - "/uploads/malcolm-rands_talk_1.jpg"
 related_blog_posts: []

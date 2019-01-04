@@ -2,6 +2,7 @@
 title: Global Adventurer & Story Teller
 youtube_video_id: Afaf8WxCR4U
 performance: false
+highlight: false
 images: []
 related_blog_posts: []
 ---

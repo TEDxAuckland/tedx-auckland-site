@@ -2,6 +2,7 @@
 title: The Danger of Now
 youtube_video_id: uwyDU9_Wpi8
 performance: false
+highlight: false
 images: []
 related_blog_posts: []
 ---

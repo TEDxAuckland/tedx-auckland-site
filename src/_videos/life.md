@@ -2,6 +2,7 @@
 title: Life
 youtube_video_id: Jp2EcuMbAmY
 performance: false
+highlight: false
 images:
 - "/uploads/david-razowsky_talk_2.jpg"
 - "/uploads/david-razowsky_talk_3.jpg"

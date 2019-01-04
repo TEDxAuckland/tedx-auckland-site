@@ -2,6 +2,7 @@
 title: World's biggest waterslide
 youtube_video_id: RTjr184H5Rs
 performance: false
+highlight: false
 images:
 - "/uploads/jimi-hunt_talk_2.jpg"
 - "/uploads/jimi-hunt_talk_1.jpg"

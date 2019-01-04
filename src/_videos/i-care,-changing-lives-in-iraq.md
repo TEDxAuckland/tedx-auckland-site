@@ -2,6 +2,7 @@
 title: I CARE, Changing Lives In Iraq
 youtube_video_id: bYNRnfKh4ns
 performance: false
+highlight: false
 images:
 - "/uploads/assil-russell_talk_1.jpg"
 related_blog_posts: []

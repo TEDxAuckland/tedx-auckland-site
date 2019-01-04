@@ -2,6 +2,7 @@
 title: Exploring identity through form
 youtube_video_id: YBqm7hTHCpg
 performance: false
+highlight: false
 images:
 - "/uploads/jahra-‘rager’-wasasala_talk_1.jpg"
 - "/uploads/jahra-‘rager’-wasasala_talk_2.jpg"

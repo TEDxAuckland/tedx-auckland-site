@@ -2,6 +2,7 @@
 title: Throwing a rock at the tiger
 youtube_video_id: yku9P9luZh4
 performance: false
+highlight: false
 images:
 - "/uploads/mai-chen_talk_1.jpg"
 - "/uploads/mai-chen_talk_2.jpg"

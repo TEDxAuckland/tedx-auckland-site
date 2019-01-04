@@ -2,6 +2,7 @@
 title: Living impossibly
 youtube_video_id: lSNm12-dYWI
 performance: false
+highlight: false
 images:
 - "/uploads/vaughan-rowsell_talk_1.jpg"
 - "/uploads/vaughan-rowsell_talk_2.jpg"

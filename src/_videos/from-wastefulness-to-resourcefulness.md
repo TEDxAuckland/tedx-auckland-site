@@ -2,6 +2,7 @@
 title: From wastefulness to resourcefulness
 youtube_video_id: K2uiULiNRAg
 performance: false
+highlight: false
 images:
 - "/uploads/juliet-arnott_talk_1.jpg"
 - "/uploads/juliet-arnott_talk_2.jpg"

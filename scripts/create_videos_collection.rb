@@ -41,6 +41,7 @@ class CreateVideosCollection
       "title" => video_title(video),
       "youtube_video_id" => person["youtube_video_id"],
       "performance" => false,
+      "highlight" => false,
       "images" => video_images(person["name"].downcase.gsub(" ", "-")),
       "related_blog_posts" => [],
     }

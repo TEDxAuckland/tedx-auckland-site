@@ -2,6 +2,7 @@
 title: No regrets
 youtube_video_id: h1fk2zFTdlI
 performance: false
+highlight: false
 images:
 - "/uploads/urzila-carlson_talk_2.jpg"
 - "/uploads/urzila-carlson_talk_1.jpg"

@@ -2,6 +2,7 @@
 title: Corporate Anthropology
 youtube_video_id: cKugJk7rKW0
 performance: false
+highlight: false
 images: []
 related_blog_posts: []
 ---

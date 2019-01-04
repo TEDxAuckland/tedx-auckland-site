@@ -2,6 +2,7 @@
 title: The Human Hologram
 youtube_video_id: CohKXd3NnEE
 performance: false
+highlight: false
 images: []
 related_blog_posts: []
 ---

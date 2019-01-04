@@ -2,6 +2,7 @@
 title: Garden to table
 youtube_video_id: mQHUs5bcGDY
 performance: false
+highlight: false
 images:
 - "/uploads/catherine-bell_talk_1.jpg"
 related_blog_posts: []

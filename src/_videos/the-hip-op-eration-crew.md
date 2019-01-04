@@ -2,6 +2,7 @@
 title: The Hip Op-eration Crew
 youtube_video_id: saRWpSqQpPA
 performance: false
+highlight: false
 images:
 - "/uploads/billie-jordan_talk_2.jpg"
 - "/uploads/billie-jordan_talk_4.jpg"

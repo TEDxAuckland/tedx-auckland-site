@@ -2,6 +2,7 @@
 title: Walking with Mandela
 youtube_video_id: 4CO7f9HHI3A
 performance: false
+highlight: false
 images:
 - "/uploads/rory-steyn_talk_2.jpg"
 - "/uploads/rory-steyn_talk_1.jpg"

@@ -2,6 +2,7 @@
 title: The Last Ocean
 youtube_video_id: fXYXHIX4P0A
 performance: false
+highlight: false
 images:
 - "/uploads/peter-young_talk_1.jpg"
 related_blog_posts: []

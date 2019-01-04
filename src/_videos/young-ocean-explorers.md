@@ -2,6 +2,7 @@
 title: Young Ocean Explorers
 youtube_video_id: UzA_CTkn7vk
 performance: false
+highlight: false
 images: []
 related_blog_posts: []
 ---
