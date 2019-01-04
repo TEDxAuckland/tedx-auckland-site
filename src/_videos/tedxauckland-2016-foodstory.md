@@ -2,10 +2,8 @@
 title: TEDxAuckland 2016 FoodStory
 youtube_video_id: J0s-ob4FGcg
 performance: false
-images:
-  -
-related_blog_posts:
-  -
+images: []
+related_blog_posts: []
 ---
 
 Food. It’s an essential ingredient to life, growing ideas, people and #TEDxAkl. Check out our Food Video from the 2016 Long Lunch.
