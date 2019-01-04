@@ -10,8 +10,10 @@
   color: #000;
   font-family: $secondary-font;
   border: 1px solid #000;
-  flex: 1 1 33.33%;
+  flex: 1 1 33%;
   z-index: 100;
+  background-color: $brand-grey-darker;
+  margin: 0 .1rem .5rem .1rem;
 
   transition: all 0.2s;
 
@@ -91,6 +93,7 @@
     line-height: 1.2em;
     height: 2.4em;
     padding-right: 1.5em;
+    color: $brand-white;
   }
 }
 
