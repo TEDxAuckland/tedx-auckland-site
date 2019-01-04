@@ -3,12 +3,16 @@ title: Homepage
 tagline: ...
 layout: default
 image: '/assets/images/bg-upcoming-events.jpg'
-youtube_playlist: PLcm2pIIAwlDvyvhnABusUFtL7E4k2sM_B
 description: hello
+videos:
+  - ihumātao
+  - ash-graham-at-tedxauckland
+  - cultural-capital-for-corporates
+  - finding-your-place-to-lead-from
 ---
 
 <section id="blog" class="section-padding--rm-top">
-	{% include homepage-blog.html %}
+  {% include homepage-blog.html %}
 </section>
 
 {% include upcoming-event-bar.html %}
@@ -26,29 +30,29 @@ description: hello
 {% endif %}
 
 {% if upcoming_event.speakers %}
-	<section id="speakers" class="section-bg-white">
-		<div class="container">
-			<h3 class="section-heading section-heading--speakers">past speakers</h3>
+  <section id="speakers" class="section-bg-white">
+    <div class="container">
+      <h3 class="section-heading section-heading--speakers">past speakers</h3>
 
-			{% include speakers.html speakers = upcoming_event.people bg_white = true hide_names = true %}
-		</div>
-	</section>
+      {% include speakers.html speakers = upcoming_event.people bg_white = true hide_names = true %}
+    </div>
+  </section>
 {% endif %}
 
 <section id="talks" class="section-bg-white">
-	<div class="container">
+  <div class="container">
 
-		<h3 class="section-heading section-heading--talks">talks</h3>
-		{% include talks.html playlist_id = page.youtube_playlist %}
+    <h3 class="section-heading section-heading--talks">talks</h3>
+    {% include videos.html video_names = page.videos %}
 
-	</div>
+  </div>
 </section>
 
 <section id="join" class="section-bg-white">
-	<div class="container">
-		<h3 class="has-red-stripe">join our community</h3>
-		<div class="center-form">
-			{% include embed/extended-mailchimp-form.html %}
-		</div>
-	</div>
+  <div class="container">
+    <h3 class="has-red-stripe">join our community</h3>
+    <div class="center-form">
+      {% include embed/extended-mailchimp-form.html %}
+    </div>
+  </div>
 </section>
