@@ -5,8 +5,7 @@ performance: false
 images:
 - "/uploads/yoseph-ayele_talk_1.jpg"
 - "/uploads/yoseph-ayele_talk_2.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 Born in Ethiopia, Yoseph Ayele was kicked out of the United States because his Harvard degree and entrepreneurial work did not satisfy US immigration requirements. He moved to New Zealand to design the Global Impact Visa - the first immigration policy in the world to select people on their potential to create a positive impact in society. This visa is run by the Edmund Hillary Fellowship (www.ehf.org) in a new model for taking a human-centric and entrepreneurial approach to doing immigration in the 21st century. 

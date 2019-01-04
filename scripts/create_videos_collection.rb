@@ -42,15 +42,14 @@ class CreateVideosCollection
       "youtube_video_id" => person["youtube_video_id"],
       "performance" => false,
       "images" => video_images(person["name"].downcase.gsub(" ", "-")),
-      "related_blog_posts" => [""],
+      "related_blog_posts" => [],
     }
   end
 
   def video_images(name)
-    names = Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
+    Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
       path.gsub("../src", "")
     end
-    names.empty? ? [''] : names
   end
 
   def video_title(video)

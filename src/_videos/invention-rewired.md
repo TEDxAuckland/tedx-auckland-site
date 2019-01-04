@@ -2,10 +2,8 @@
 title: Invention rewired
 youtube_video_id: AHmLCY3O7_4
 performance: false
-images:
-- ''
-related_blog_posts:
-- ''
+images: []
+related_blog_posts: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. New Zealand prides itself on its ingenuity and an ability to solve problems with very limited resources. In their talk, Jon Bridges and David Downs suggest that this "number 8 wire" mentality is overdue for a rethink.

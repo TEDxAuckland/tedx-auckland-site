@@ -5,8 +5,7 @@ performance: false
 images:
 - "/uploads/minnie-barragwanath_talk_2.jpg"
 - "/uploads/minnie-barragwanath_talk_1.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 When you look at the world through disabilities, you look at he world through opportunities that haven't been taken yet. Minnie breaks this down to an amazing world that we all live in of untapped opportunity of accessibility opportunity that makes us all better.

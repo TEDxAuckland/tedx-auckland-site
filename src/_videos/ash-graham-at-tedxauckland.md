@@ -2,10 +2,8 @@
 title: Ash Graham at TEDxAuckland
 youtube_video_id: 8jjcVhpMow0
 performance: false
-images:
-- ''
-related_blog_posts:
-- ''
+images: []
+related_blog_posts: []
 ---
 
 Ash Graham with Petra Bullock.

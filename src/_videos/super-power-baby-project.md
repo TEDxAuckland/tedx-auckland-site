@@ -5,8 +5,7 @@ performance: false
 images:
 - "/uploads/rachel-callander_talk_2.jpg"
 - "/uploads/rachel-callander_talk_1.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. When her daughter Evie was born with a significant genetic imbalance, photographer Rachel Callander turned to language to look beyond her disabilities and instead see her "superpowers." Rachel's talk describes how Evie inspired her to connect with and photograph other "superpower babies."

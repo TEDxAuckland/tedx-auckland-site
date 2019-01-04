@@ -4,8 +4,7 @@ youtube_video_id: hNUgOhJiQZc
 performance: false
 images:
 - "/uploads/philip-patston_talk_1.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 Watch As Love Draws Near by Philip Patston here http://www.youtube.com/watch?v=jZPxTPr5MRw

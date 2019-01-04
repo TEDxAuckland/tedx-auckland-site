@@ -2,10 +2,8 @@
 title: Imagineers
 youtube_video_id: zYICH2IBB6Y
 performance: false
-images:
-- ''
-related_blog_posts:
-- ''
+images: []
+related_blog_posts: []
 ---
 
 TEDxAuckland September 26th, 2010.

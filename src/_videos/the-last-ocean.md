@@ -4,8 +4,7 @@ youtube_video_id: fXYXHIX4P0A
 performance: false
 images:
 - "/uploads/peter-young_talk_1.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 Peter Young established Fisheye Films in Christchurch in 1997 and has worked as a freelance director and cameraman. He came to filmmaking the long way, spending the first ten years of his working life mustering, shearing, fishing and fencing. Over this time he developed a strong connection to the land and the people that work on it and this bond remained even with his shift to film and television.

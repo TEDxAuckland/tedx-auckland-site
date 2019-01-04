@@ -6,8 +6,7 @@ images:
 - "/uploads/hong-sheng-chiong_talk_1.jpg"
 - "/uploads/hong-sheng-chiong_talk_3.jpg"
 - "/uploads/hong-sheng-chiong_talk_2.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 How Hong has managed to fight blindness with 20$ and a smart phone and in the process is changing how we think and create medical equipment.

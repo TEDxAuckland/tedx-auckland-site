@@ -5,8 +5,7 @@ performance: false
 images:
 - "/uploads/urzila-carlson_talk_2.jpg"
 - "/uploads/urzila-carlson_talk_1.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Urzila talks about her life and how she came to be a comedian and her philosophy on giving things ago and having no regrets.

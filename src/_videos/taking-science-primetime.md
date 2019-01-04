@@ -5,8 +5,7 @@ performance: false
 images:
 - "/uploads/riley-elliott_talk_2.jpg"
 - "/uploads/riley-elliott_talk_1.jpg"
-related_blog_posts:
-- ''
+related_blog_posts: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Riley combines scientific research with media savvy to take his ideas to a mass audience. His talk describes how he balances the two sometimes opposing worlds of media and science.
