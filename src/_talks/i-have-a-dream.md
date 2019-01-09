@@ -3,7 +3,7 @@ title: I Have A Dream
 youtube_video_id: U17wQX2tQTA
 performance: false
 images: []
-related_blog_posts: []
+related_posts: []
 ---
 
 TEDxAuckland 2009, Scott Gilmour on I Have A Dream.

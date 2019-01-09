@@ -6,7 +6,7 @@ highlight: false
 images:
 - "/uploads/mike-allsop_talk_1.jpg"
 - "/uploads/mike-allsop_talk_2.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Mike crash landed a commercial place in the pacific ocean, after that he re thought about his life and became an adventurer. Climbing Mt Everest, running 7 marathons in 7 continents in 7 days, Mike gives is story and his idea on how he achieves these goals and lives his life.

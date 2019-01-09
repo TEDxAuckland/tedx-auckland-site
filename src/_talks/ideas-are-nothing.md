@@ -5,7 +5,7 @@ performance: false
 images:
 - "/uploads/luke-nola_talk_2.jpg"
 - "/uploads/luke-nola_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Luke turned his back on a successful advertising career to follow his passion for making things. His TV idea is now a worldwide success.

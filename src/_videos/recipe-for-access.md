@@ -6,7 +6,7 @@ highlight: false
 images:
 - "/uploads/grant-schofield_talk_1.jpg"
 - "/uploads/grant-schofield_talk_2.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 Grant argues that in the modern world there should be more public citizens involved in shaping public health.

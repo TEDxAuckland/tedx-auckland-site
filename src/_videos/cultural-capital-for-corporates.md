@@ -6,7 +6,7 @@ highlight: false
 images:
 - "/uploads/michael-moka_talk_1.jpg"
 - "/uploads/michael-moka_talk_2.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 Michael's talk focuses on a cultural and people approach to solving two issues.

@@ -3,7 +3,7 @@ title: What if...games could do good?
 youtube_video_id: QhY7gAXpVD8
 performance: false
 images: []
-related_blog_posts: []
+related_posts: []
 ---
 
 TEDxAuckland September 26th, 2010.

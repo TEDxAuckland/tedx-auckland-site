@@ -6,7 +6,7 @@ highlight: false
 images:
 - "/uploads/keith-ng_talk_1.jpg"
 - "/uploads/keith-ng_talk_2.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 There are many advantages and disadvantages by being an independent journalist. Keith's talk blows them away and the media industry itself by showcasing the pros and cons of it.

@@ -7,7 +7,7 @@ images:
 - "/uploads/pete-bethune_talk_1.jpg"
 - "/uploads/pete-bethune_talk_2.jpg"
 - "/uploads/pete-bethune_talk_3.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 10 days before delivering his talk at TEDxAuckland 2017, conservationist Captain Pete Bethune was knifed in the chest while chasing wildlife smugglers in the Amazon. In one of most emotional speeches you will hear, Pete argues that we can all lead extraordinary and meaningful lives, but the key is to find and stand for a cause you truly believe in. From serving months in a maximum security prison for fighting Japanese whalers, to saving endangered red monkeys from poachers in the Amazon, Pete Bethune’s story will thrill, move, and inspire you.

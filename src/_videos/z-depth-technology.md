@@ -4,7 +4,7 @@ youtube_video_id: YS3Fqf6hwOM
 performance: false
 highlight: false
 images: []
-related_blog_posts: []
+related_posts: []
 ---
 
 TEDxAuckland 2009, Brenda Frisk on Z Depth Technology.

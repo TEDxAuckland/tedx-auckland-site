@@ -6,7 +6,7 @@ highlight: false
 images:
 - "/uploads/waikare-komene_talk_2.jpg"
 - "/uploads/waikare-komene_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 The Roots Creative Entrepreneurs describes itself a “a creative business, a movement and a network,” and is based on the five values of roots, creativity, sustainability, intergenerational and community.

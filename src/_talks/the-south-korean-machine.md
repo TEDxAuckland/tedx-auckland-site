@@ -5,7 +5,7 @@ performance: false
 images:
 - "/uploads/anna-faber_talk_2.jpg"
 - "/uploads/anna-faber_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 In recent years, the South Korean media industry has become a global phenomenon. Anna Faber’s psychoanalytic research of South Korean media, it’s inception, development, and success draws controversial and challenging ideas about the impact of the industry on contemporary society, and its significance in the foundation of a nationwide establishment of normativity.

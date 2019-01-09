@@ -5,7 +5,7 @@ performance: false
 highlight: false
 images:
 - "/uploads/victoria-spackman_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 As Chief Executive of the Gibson Group, Victoria leads a group of diverse and talented producers, creatives and technicians. The Gibson Group's innovative visitor attractions and museum works, and its hugely popular television programmes and films have been exported around the world.  Recent projects include an immersive museum outreach project in Copenhagen which has won three prestigious international awards, including one from the United Nations, and a soon-to-be-released comedy horror feature film called Fresh Meat.

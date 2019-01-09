@@ -6,7 +6,7 @@ highlight: false
 images:
 - "/uploads/barbara-breen_talk_2.jpg"
 - "/uploads/barbara-breen_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 While some drones are used to destroy, Barbara's team uses them – complete with military guidance technology – to map threatened ecosystems in Africa, Australia and Antarctica.

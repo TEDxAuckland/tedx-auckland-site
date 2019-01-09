@@ -5,7 +5,7 @@ performance: false
 images:
 - "/uploads/georgia-lala_talk_2.jpg"
 - "/uploads/georgia-lala_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 As a 13 year old, Georgia Lala wanted to change the world – but says she was just too lazy. So she started a journey of lazy innovation: world changing ideas that can happen with minimal effort, sometimes right on your kitchen bench.

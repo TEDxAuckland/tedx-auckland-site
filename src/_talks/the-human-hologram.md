@@ -3,7 +3,7 @@ title: The Human Hologram
 youtube_video_id: CohKXd3NnEE
 performance: false
 images: []
-related_blog_posts: []
+related_posts: []
 ---
 
 TEDxAuckland 2009, Dr Robin Kelly. 

@@ -5,7 +5,7 @@ performance: false
 highlight: false
 images:
 - "/uploads/jazz-thornton_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 It was one conversation that changed and ultimately saved Jazz Thornton's life. She learnt the vital difference between surviving and fighting and now shares the practical ways she fought through 9 years of suicidal tendencies. Jazz has since co-founded mental health charity Voices of Hope with the purpose of providing hope and provoking change. Voices of hope has since gained international recognition for its video content and campaigns. 

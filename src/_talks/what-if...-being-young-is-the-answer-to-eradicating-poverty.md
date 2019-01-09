@@ -3,7 +3,7 @@ title: What if... being young is the answer to eradicating poverty?
 youtube_video_id: l_L_t3nCfMw
 performance: false
 images: []
-related_blog_posts: []
+related_posts: []
 ---
 
 TEDxAuckland September 26th, 2010.

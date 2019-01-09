@@ -4,7 +4,7 @@ youtube_video_id: bZOwMqxLIn4
 performance: false
 images:
 - "/uploads/emma-rogan_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 Emma Rogan is a partner at Auckland design company Apropos and founder of New Zealand's 100 Days Project. Her work has been awarded and recognised by the NZ Best Awards, Communication Arts, The Webby Awards and Adobe.

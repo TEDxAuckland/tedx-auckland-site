@@ -4,7 +4,7 @@ youtube_video_id: J0s-ob4FGcg
 performance: false
 highlight: true
 images: []
-related_blog_posts: []
+related_posts: []
 ---
 
 Food. It’s an essential ingredient to life, growing ideas, people and #TEDxAkl. Check out our Food Video from the 2016 Long Lunch.

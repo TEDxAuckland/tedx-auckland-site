@@ -6,7 +6,7 @@ highlight: false
 images:
 - "/uploads/rebecca-mills_talk_2.jpg"
 - "/uploads/rebecca-mills_talk_1.jpg"
-related_blog_posts: []
+related_posts: []
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Rebecca finds leverage points which that can result in high impact, transformative and scalable models for individuals, business, cities and countries.
