@@ -2,7 +2,7 @@
 <div class="talk-container">
 	{%- for playlist_item in playlist_items -%}
 		{%- assign video = site.data.youtube_playlists.videos[playlist_item.video_id] -%}
-		{%- assign talk = site.talks | where_exp: "t", "t.youtube_video_id == playlist_item.video_id" | first -%}
+		{%- assign talk = site.videos | where_exp: "t", "t.youtube_video_id == playlist_item.video_id" | first -%}
 		{%- assign person = site.people | where_exp: "p", "p.youtube_video_id == playlist_item.video_id" | first -%}
 		{%- assign video_url = "https://www.youtube.com/embed/" | append: playlist_item.video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" -%}
 
