@@ -10,7 +10,7 @@
   color: #000;
   font-family: $secondary-font;
   border: 1px solid #000;
-  flex: 1 1 33%;
+  flex: 0 1 33%;
   z-index: 100;
   background-color: $brand-grey-darker;
   margin: 0 .1rem .5rem .1rem;
@@ -18,7 +18,7 @@
   transition: all 0.2s;
 
   @include respond(tab-port) {
-    flex: 1 1 46%;
+    flex: 0 1 46%;
     margin: 0 2%;
   }
 
