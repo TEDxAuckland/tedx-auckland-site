@@ -3,7 +3,8 @@ title: The Unlikely Neighbourhoods of Innovation
 youtube_video_id: g_fFi7vFrHA
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts:
 - post: ''
 ---

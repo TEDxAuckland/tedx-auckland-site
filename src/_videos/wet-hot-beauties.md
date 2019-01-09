@@ -3,7 +3,8 @@ title: Wet Hot Beauties
 youtube_video_id: V3QM59nehBk
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts:
 - post: ''
 ---

@@ -3,7 +3,8 @@ title: Zombie Attack
 youtube_video_id: by3CwhsixrQ
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts:
 - post: ''
 ---

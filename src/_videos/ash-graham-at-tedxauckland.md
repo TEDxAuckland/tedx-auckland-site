@@ -3,7 +3,8 @@ title: Ash Graham at TEDxAuckland
 youtube_video_id: 8jjcVhpMow0
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts:
 - post: ''
 ---
