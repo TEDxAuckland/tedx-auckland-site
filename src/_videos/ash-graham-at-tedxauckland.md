@@ -4,9 +4,9 @@ youtube_video_id: 8jjcVhpMow0
 performance: false
 highlight: false
 images:
-  image: ''
+  image: 
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 Ash Graham with Petra Bullock.

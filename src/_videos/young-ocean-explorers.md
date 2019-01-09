@@ -4,9 +4,9 @@ youtube_video_id: UzA_CTkn7vk
 performance: false
 highlight: false
 images:
-  image: ''
+  image: 
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 When Steve put his daughter Riley as the front person for the show, his idea started to take off. Riley was a far better communicator to other children than an adult presenter.

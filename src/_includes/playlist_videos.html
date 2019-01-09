@@ -1,7 +1,9 @@
-{%- assign video_names = include.video_names -%}
+{%- assign playlist_id = include.playlist_id -%}
+{%- assign playlist_items = site.data.youtube_playlists.playlist_videos[playlist_id] -%}
 <div class="talk-container">
-	{%- for video_name in video_names -%}
-		{%- assign video = site.videos | where_exp: "v", "v.slug == video_name" | first -%}
+	{%- for playlist_item in playlist_items -%}
+
+		{%- assign video = site.videos | where_exp: "v", "v.youtube_video_id == playlist_item.video_id" | first -%}
 		{%- assign video_id = video.youtube_video_id -%}
 		{%- assign youtube_data = site.data.youtube_playlists.videos[video_id] -%}
 		{%- assign person = site.people | where_exp: "p", "p.youtube_video_id == video_id" | first -%}
@@ -14,7 +16,12 @@
 
 				{%- assign no_of_images = video.images | size -%}
 				{%- assign first_image = video.images | first -%}
+				<!-- <p style="color:lime;">VIDEO: {{video.title}}</p>
+				<p style="color:lime;">PERSON: {{person.name}}</p> -->
 				{%- if first_image.image != nil -%}
+				<!-- <p style="color:salmon;">PASSED IMAGE PRESENT TEST</p>
+				<p style="color:salmon;">IMG OBJECT: {{first_image}}</p>
+				<p style="color:salmon;">IMG PATH: {{first_image.image}}</p> -->
 
 					{%- assign video_image = first_image["image"] | remove_first: "/" -%}
 					{% responsive_image path: video_image
@@ -26,6 +33,7 @@
 																			(max-width: 600px) 100vw,
 																			400px"
 					%}
+
 
 				{%- else -%}
 					<img class="talk-card__image"

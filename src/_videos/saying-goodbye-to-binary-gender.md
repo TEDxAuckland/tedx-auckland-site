@@ -7,7 +7,7 @@ images:
 - image: "/uploads/pani-farvid_talk_2.jpg"
 - image: "/uploads/pani-farvid_talk_1.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 Pani talks about how the dominant heterosexual societal way of our culture has many downsides and proposes using more masculine and feminine ways of describing characteristics and not people could have benefits for all.

@@ -7,7 +7,7 @@ images:
 - image: "/uploads/richard-easther_talk_2.jpg"
 - image: "/uploads/richard-easther_talk_1.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Richard’s work focuses on the physics of the very early universe and understanding the ways in which the universe changes between the Big Bang and the present day.

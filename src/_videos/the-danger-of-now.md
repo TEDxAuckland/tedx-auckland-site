@@ -4,9 +4,9 @@ youtube_video_id: uwyDU9_Wpi8
 performance: false
 highlight: false
 images:
-  image: ''
+  image: 
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 TEDxAuckland 2009, Wendy McGuinness on The Danger of Now.

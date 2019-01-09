@@ -7,7 +7,7 @@ images:
 - image: "/uploads/sarah-longbottom_talk_2.jpg"
 - image: "/uploads/sarah-longbottom_talk_1.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Sarah takes her learnings to develop an innovative model of youth development based on the core values of love and acceptance, energy and creativity, and collaboration and community.
