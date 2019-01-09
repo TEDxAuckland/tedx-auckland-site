@@ -3,7 +3,8 @@ title:
 youtube_video_id:
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts: []
 ---
 

@@ -3,7 +3,8 @@ title: Medical Innovation & Applied Knowledge
 youtube_video_id: 8yEPBPBLifo
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts: []
 ---
 

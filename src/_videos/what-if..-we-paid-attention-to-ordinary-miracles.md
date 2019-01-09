@@ -3,7 +3,8 @@ title: What if.. we paid attention to ordinary miracles?
 youtube_video_id: qP0bmN8S7ms
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts: []
 ---
 

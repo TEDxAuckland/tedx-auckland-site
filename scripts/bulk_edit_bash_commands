@@ -1,0 +1,10 @@
+
+# multiline find and replace
+# convert images structure
+find ./*.md -type f -print0 | xargs -0 -n 1 sed -i -e 's/images: \[\]/images: \n- image: ""/g'
+
+# finds and formats the paths
+find ./*.md -type f -print0 | xargs -0 -n 1
+
+# uses regex 's/from/to/g' changes instances of 'from' to 'to'
+sed -i -e 's/images: \[\]/images: \n- image: ""/g'

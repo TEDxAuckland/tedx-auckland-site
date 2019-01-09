@@ -3,7 +3,8 @@ title: I Have A Dream
 youtube_video_id: U17wQX2tQTA
 performance: false
 highlight: false
-images: []
+images: 
+- image: ""
 related_posts: []
 ---
 
