@@ -3,7 +3,8 @@ title: Invention rewired
 youtube_video_id: AHmLCY3O7_4
 performance: false
 highlight: false
-images: []
+images:
+  image: ''
 related_posts:
 - blog_post: ''
 ---

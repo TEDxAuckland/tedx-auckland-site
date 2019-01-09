@@ -3,7 +3,8 @@ title: Stepping Up to Global Citizenship
 youtube_video_id: V5VKIihK6fQ
 performance: false
 highlight: false
-images: []
+images:
+  image: ''
 related_posts:
 - blog_post: ''
 ---

@@ -3,7 +3,8 @@ title: The Mind Leading the Blind
 youtube_video_id: Xt5OuEnJbM4
 performance: false
 highlight: false
-images: []
+images:
+  image: ''
 related_posts:
 - blog_post: ''
 ---

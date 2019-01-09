@@ -3,7 +3,8 @@ title: What if... you were not employed?
 youtube_video_id: MkngOJvs2AI
 performance: false
 highlight: false
-images: []
+images:
+  image: ''
 related_posts:
 - blog_post: ''
 ---

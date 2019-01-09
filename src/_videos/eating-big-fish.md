@@ -3,7 +3,8 @@ title: Eating Big Fish
 youtube_video_id: rdF1zKk2B3c
 performance: false
 highlight: false
-images: []
+images:
+  image: ''
 related_posts:
 - blog_post: ''
 ---

@@ -48,9 +48,10 @@ class CreateVideosCollection
   end
 
   def video_images(name)
-    Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
+    images = Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
       { "image" => path.gsub("../src", "") }
     end
+    images.empty? ? { "image" => "" } : images
   end
 
   def video_title(video)
