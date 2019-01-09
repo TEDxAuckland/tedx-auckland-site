@@ -12,7 +12,7 @@ class YoutubeVideoInfo
   VIDEOS_FOLDER = "../src/_videos"
 
   def initialize
-    @playlist_paths = Dir["../src/_events/*"] - ["../src/_events/_defaults.md"] + Dir["../src/index*"]
+    @playlist_paths = Dir["../src/_events/*"] - ["../src/_events/_defaults.md"] + Dir["../src/talks.html"]
     @video_paths = Dir["#{VIDEOS_FOLDER}/*.md"] - ["../src/_events/_defaults.md"]
     @all_video_ids = videos_collection_ids
   end
@@ -98,8 +98,17 @@ class YoutubeVideoInfo
 
   def event_playlist_ids
     @playlist_paths.map do |path|
-      YAML.load_file(path)["youtube_playlist"]
-    end.compact
+      yaml = YAML.load_file(path)
+      playlist_ids = []
+      playlist_ids << yaml["youtube_playlist"]
+      playlist_ids << yaml["other_youtube_playlist"]
+      if yaml["other_playlists"]
+        yaml["other_playlists"].each do |playlist_id|
+          playlist_ids << playlist_id
+        end
+      end
+      playlist_ids
+    end.flatten.compact
   end
 
   def video_hash(video)

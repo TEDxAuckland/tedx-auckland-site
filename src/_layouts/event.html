@@ -66,7 +66,7 @@ layout: default
   <div class="container">
 
     <h3 class="section-heading section-heading--talks">Talks</h3>
-    {% include talks.html playlist_id = page.youtube_playlist %}
+    {% include playlist_videos.html playlist_id = page.youtube_playlist %}
 
   </div>
 </section>
@@ -77,7 +77,7 @@ layout: default
   <div class="container">
 
     <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
-    {% include talks.html playlist_id = page.other_youtube_playlist %}
+    {% include playlist_videos.html playlist_id = page.other_youtube_playlist %}
 
   </div>
 </section>
