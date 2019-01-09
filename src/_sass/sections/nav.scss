@@ -1,3 +1,12 @@
+.icon {
+	display: none;
+
+	@include respond(phone) {
+		float: right;
+ 		display: block;
+	}
+}
+
 .nav-bar {
 	background-color: $brand-white;
 	padding: 20px 0;
@@ -69,6 +78,14 @@
 }
 
 .nav-links {
+	@include respond(phone) {
+		display: none;
+
+		.responsive {
+			display: block !important;
+		}
+	}
+
 	margin: 0;
 	padding: 0;
 	display: inline-flex;

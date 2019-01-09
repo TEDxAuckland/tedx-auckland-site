@@ -46,6 +46,17 @@
 		<script src="/assets/js/ted-x-components.umd.min.js"></script>
 		<script src="/assets/js/countdown.js"></script>
 		<script src="/assets/js/video-player.js"></script>
+
+		<script>
+		function hamburger_menu() {
+			var x = document.getElementById("nav-links");
+			if (x.className === "nav-links") {
+				x.className += " responsive";
+			} else {
+				x.className = "nav-links";
+			}
+		}
+		</script>
 	</head>
 
 	<body>
@@ -63,7 +74,7 @@
 				</a>
 
 				<div class="nav-bar__links">
-					<ul class="nav-links">
+					<ul class="nav-links" id="nav-links">
 
 						{% for nav in site.data.site_settings.navigation %}
 
@@ -92,6 +103,10 @@
 					</li>
 				</div>
 				{% endif %}
+
+				<a href="javascript:void(0);" class="icon" onclick="hamburger_menu()">
+					<i class="fa fa-bars"></i>
+				</a>
 
 			</div>
 		</nav>
