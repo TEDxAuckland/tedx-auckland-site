@@ -3,9 +3,9 @@
 <div class="talk-container">
 	{%- for playlist_item in playlist_items -%}
 
-		{%- assign video = site.videos | where_exp: "v", "v.youtube_video_id == playlist_item.video_id" | first -%}
-		{%- assign video_id = video.youtube_video_id -%}
+		{%- assign video_id = playlist_item.video_id -%}
 		{%- assign youtube_data = site.data.youtube_playlists.videos[video_id] -%}
+		{%- assign video = site.videos | where_exp: "v", "v.youtube_video_id == video_id" | first -%}
 		{%- assign person = site.people | where_exp: "p", "p.youtube_video_id == video_id" | first -%}
 		{%- assign video_url = "https://www.youtube.com/embed/" | append: video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" -%}
 
@@ -16,15 +16,10 @@
 
 				{%- assign no_of_images = video.images | size -%}
 				{%- assign first_image = video.images | first -%}
-				<!-- <p style="color:lime;">VIDEO: {{video.title}}</p>
-				<p style="color:lime;">PERSON: {{person.name}}</p> -->
 				{%- if first_image.image != nil -%}
-				<!-- <p style="color:salmon;">PASSED IMAGE PRESENT TEST</p>
-				<p style="color:salmon;">IMG OBJECT: {{first_image}}</p>
-				<p style="color:salmon;">IMG PATH: {{first_image.image}}</p> -->
 
 					{%- assign video_image = first_image["image"] | remove_first: "/" -%}
-					{% responsive_image path: video_image
+					{%- responsive_image path: video_image
 															class: "talk-card__image"
 															alt: youtube_data.title
 															widths: "300, 600, 900, 1200"
@@ -32,7 +27,7 @@
 																			(max-width: 900px) 50vw,
 																			(max-width: 600px) 100vw,
 																			400px"
-					%}
+					-%}
 
 
 				{%- else -%}
@@ -50,7 +45,13 @@
 				{%- endif -%}
 
 				<a href="{{ video.url }}" class="caption">
-					<h4 class="caption__title">{{ video.title }}: {{ person.name }}</h4>
+					<h4 class="caption__title">
+						{%- if video -%}
+							{{ video.title }}{% if person %}: {{ person.name }} {% endif %}
+						{%- else -%}
+							{{ youtube_data.title }}{% if person %}: {{ person.name }} {% endif %}
+						{%- endif -%}
+					</h4>
 				</a>
 			</div>
 		</div>
