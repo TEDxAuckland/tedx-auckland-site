@@ -13,6 +13,7 @@
 
 				<div data-url="{{ video_url }}" class="talk-card__play-button">&nbsp;</div>
 
+{% comment %}
 				{%- assign no_of_images = video.images | size -%}
 				{%- if no_of_images >= 1 -%}
 
@@ -40,6 +41,22 @@
 											400px"
 							 alt="{{ youtube_data.title }} video"/>
 				{%- endif -%}
+
+
+{% endcomment %}
+
+<img class="talk-card__image"
+		 src="{{ youtube_data.thumbnail_url.medium }}"
+		 srcset="{{ youtube_data.thumbnail_url.medium }} 320w,
+						 {{ youtube_data.thumbnail_url.high }} 480w,
+						 {{ youtube_data.thumbnail_url.standard }} 640w,
+						 {{ youtube_data.thumbnail_url.maxres }} 1280w"
+		 sizes="(max-width: 1200px) 33.33vw,
+						(max-width: 900px) 50vw,
+						(max-width: 600px) 100vw,
+						400px"
+		 alt="{{ youtube_data.title }} video"/>
+
 
 				<a href="{{ video.url }}" class="caption">
 					<h4 class="caption__title">{{ video.title }}: {{ person.name }}</h4>

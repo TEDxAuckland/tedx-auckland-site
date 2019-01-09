@@ -3,7 +3,8 @@ title: TEDxAuckland 2016 FoodStory
 youtube_video_id: J0s-ob4FGcg
 performance: false
 highlight: true
-images: []
+images:
+  - image: ''
 related_posts: []
 ---
 
