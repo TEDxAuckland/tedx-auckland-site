@@ -8,7 +8,7 @@ images:
 - image: "/uploads/john-boone_talk_1.jpg"
 - image: "/uploads/john-boone_talk_2.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Rhythm Interactive is an interactive percussion experience.

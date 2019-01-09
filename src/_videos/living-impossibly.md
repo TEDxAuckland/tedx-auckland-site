@@ -7,7 +7,7 @@ images:
 - image: "/uploads/vaughan-rowsell_talk_1.jpg"
 - image: "/uploads/vaughan-rowsell_talk_2.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Building a global tech company from one of the most remote countries in the world is just one of the impossible things Vaughan Rowsell has achieved so far. In this talk he tells the story of three impossible people, and how one inspires him every day.

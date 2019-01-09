@@ -43,7 +43,7 @@ class CreateVideosCollection
       "performance" => false,
       "highlight" => false,
       "images" => video_images(person["name"].downcase.gsub(" ", "-")),
-      "related_posts" => [ { "post" => "" }],
+      "related_posts" => [ { "blog_post" => "" }],
     }
   end
 

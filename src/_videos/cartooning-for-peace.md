@@ -7,7 +7,7 @@ images:
 - image: "/uploads/tom-scott_talk_2.jpg"
 - image: "/uploads/tom-scott_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Tom Scott explains what the words freedom of expression mean to him and how he as a cartoonist is an activist for peace and freedom of expression.

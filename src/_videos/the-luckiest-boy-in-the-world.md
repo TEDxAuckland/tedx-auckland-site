@@ -7,7 +7,7 @@ images:
 - image: "/uploads/samuel-gibson_talk_2.jpg"
 - image: "/uploads/samuel-gibson_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Born with a rare condition called Osteogenesis Imperfecta and has broken nearly every bone in his body. For those who know Samuel, ‘Disabled’ would one of the least appropriate words to describe him. World traveller, Adventurer, Entrepreneur, Husband, Father of two gorgeous little girls – Samuel considers himself the luckiest boy in the world.

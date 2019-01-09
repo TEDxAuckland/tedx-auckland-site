@@ -7,7 +7,7 @@ images:
 - image: "/uploads/richard-aston_talk_1.jpg"
 - image: "/uploads/richard-aston_talk_2.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Richard took over the reins of Big Buddy in 2002. His belief is the strength of human caring; he believes passionately that humans step up with less bureaucracy, judgement or expectation to make far better outcomes socially for us all.

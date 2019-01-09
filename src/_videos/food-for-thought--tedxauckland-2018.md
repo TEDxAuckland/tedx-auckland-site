@@ -3,10 +3,10 @@ title: Food for thought | TEDxAuckland 2018
 youtube_video_id: Ie9nApBzfIs
 performance: false
 highlight: true
-images: 
+images:
 - image: ""
-related_blog_posts:
-  - food-for-thought-the-food-drink-of-tedxauckland-2018/
+related_posts:
+- blog_post: 'food-for-thought-the-food-drink-of-tedxauckland-2018'
 ---
 
 Look back at the food and drink set-ups that brought the good vibes and sustenance all day for attendees, volunteers and crew at TEDxAuckland 2018: Off-Piste. Auckland's festival of ideas isn't limited to the talks, and the innovative vendors of our 2018 event are proof of that. In this video, Sour Heart Productions (https://bit.ly/2Eonfj3) highlights some of the great foodies doing great things.

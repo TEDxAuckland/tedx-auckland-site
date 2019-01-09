@@ -6,7 +6,7 @@ highlight: false
 images: 
 - image: ""
 related_posts: 
-- post: ""
+- blog_post: ""
 ---
 
 Enter your description here...

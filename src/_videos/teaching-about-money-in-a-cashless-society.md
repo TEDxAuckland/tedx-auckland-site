@@ -7,7 +7,7 @@ images:
 - image: "/uploads/james-bergin_talk_2.jpg"
 - image: "/uploads/james-bergin_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Money makes the world go around (maybe!) but many children today have never seen cash... instead watching as their parents pay for things electronically and invisibly. So how can parents make money tangible to their children? James's approach centres on a "cashless moneybox," designed to make money seem real and help children understand the tangibility of money. 

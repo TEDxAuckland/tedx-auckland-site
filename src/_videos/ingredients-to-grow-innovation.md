@@ -7,7 +7,7 @@ images:
 - image: "/uploads/shaun-hendy_talk_1.jpg"
 - image: "/uploads/shaun-hendy_talk_2.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Shaun's research on innovation and why it exists in some places greater than others reveals some interesting points and ultimately a  cohesive idea on what makes some places innovative.

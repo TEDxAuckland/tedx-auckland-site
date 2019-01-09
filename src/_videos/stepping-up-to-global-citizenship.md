@@ -3,10 +3,9 @@ title: Stepping Up to Global Citizenship
 youtube_video_id: V5VKIihK6fQ
 performance: false
 highlight: false
-images: 
-- image: ""
+images: []
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Grace & Solonia have both been working for a while on a more global mindset for individuals and society. An increase in empathy and other peoples culture is what is needed right now in our modern world of increased culture interaction and uncertainty.

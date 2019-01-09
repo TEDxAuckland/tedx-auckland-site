@@ -3,10 +3,9 @@ title: Eating Big Fish
 youtube_video_id: rdF1zKk2B3c
 performance: false
 highlight: false
-images: 
-- image: ""
+images: []
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 TEDxAuckland September 26th, 2010.

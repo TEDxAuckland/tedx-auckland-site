@@ -3,10 +3,9 @@ title: Medical Innovation & Applied Knowledge
 youtube_video_id: 8yEPBPBLifo
 performance: false
 highlight: false
-images: 
-- image: ""
+images: []
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 TEDxAuckland 2009, Ray Avery on Medical Innovation & Applied Knowledge.

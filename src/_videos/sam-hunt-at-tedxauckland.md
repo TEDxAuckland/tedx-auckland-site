@@ -6,7 +6,7 @@ highlight: false
 images:
 - image: "/uploads/sam-hunt_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Sam was born in 1946 and grew up in Castor Bay, Auckland. It was a coastal childhood filled with poems. Both parents and their colourful circle of family and friends often had poems on their lips - usually told from memory. The Catholic Mass made its mark on Sam too.

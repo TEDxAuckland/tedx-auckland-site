@@ -7,7 +7,7 @@ images:
 - image: "/uploads/william-watson_talk_2.jpg"
 - image: "/uploads/william-watson_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 A civil war you've probably never heard of, and the peace mission that successfully ended it. Journalist, humanitarian, and award-winning filmmaker, Will Watson details the radical peace plan that used music, women and cultural understanding to end the Pacific’s worst civil war. This story explores how ending war, one of humanity's greatest challenges, can be achieved with new ways of thinking. 

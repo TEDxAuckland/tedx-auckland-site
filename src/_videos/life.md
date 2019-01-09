@@ -8,7 +8,7 @@ images:
 - image: "/uploads/david-razowsky_talk_3.jpg"
 - image: "/uploads/david-razowsky_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Improvisation guru David Razowsky’s focus of being in the moment, staying in the moment, and, no matter how uncomfortable, “sitting in the moment,” is credited for not only his boundless passion for life, but also saving it. Razowsky's compelling talk reminds you that you already have all you need to respond to life’s challenges. For David Razowsky, all that matters is now. The respected Los Angeles-based improv guru has performed and directed in 10 Chicago Second City revues with the likes of Steve Carell, Stephen Colbert, Saturday Night Live alum Rachel Dratch and Amy Sedaris as well as being artistic director of The Second City Los Angeles for a decade. David’s philosophy is this: Your present awareness is the only thing you need to create compelling, smart, truthful, and surprising scenes. No games, no preconceived premises, no ideas, no ego.

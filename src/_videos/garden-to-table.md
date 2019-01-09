@@ -6,7 +6,7 @@ highlight: false
 images:
 - image: "/uploads/catherine-bell_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Catherine hopes that through the Garden to Table Trust, children can go up knowing the basic skills of growing and cooking their own food, reducing waste and chemicals in their diets and the environment.

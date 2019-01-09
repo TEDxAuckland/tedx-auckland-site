@@ -7,7 +7,7 @@ images:
 - image: "/uploads/adrien-taylor_talk_2.jpg"
 - image: "/uploads/adrien-taylor_talk_1.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 Adrien Taylor thought it was ridiculous that so many perfectly good off-cuts from fabric were thrown out to landfill, so he got his best mate Matt Purcell involved to launch their range of super limited caps made from off-cuts.

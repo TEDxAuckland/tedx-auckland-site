@@ -7,7 +7,7 @@ images:
 - image: "/uploads/toby-carr_talk_1.jpg"
 - image: "/uploads/toby-carr_talk_2.jpg"
 related_posts:
-- post: ''
+- blog_post: ''
 ---
 
 At 16, New Zealand high school student Toby  Carr had already moved on from his first business failure to found a nationwide company providing IT hardware to secondary schools and employing 17 people. Toby believes the lessons he's learnt along the way have prepared him far more thoroughly for a career in business than years in the classroom ever could have, and passionately believes in giving young people the opportunity to learn on the real world. 
