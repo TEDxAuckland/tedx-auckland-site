@@ -4,8 +4,8 @@ youtube_video_id: ji8OgA0Ito8
 performance: false
 highlight: false
 images:
-- "/uploads/janette-searle_talk_1.jpg"
-- "/uploads/janette-searle_talk_2.jpg"
+- image: "/uploads/janette-searle_talk_1.jpg"
+- image: "/uploads/janette-searle_talk_2.jpg"
 related_posts: []
 ---
 

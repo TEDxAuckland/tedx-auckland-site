@@ -4,8 +4,8 @@ youtube_video_id: WSPQhTn6J1w
 performance: false
 highlight: false
 images:
-- "/uploads/toby-carr_talk_1.jpg"
-- "/uploads/toby-carr_talk_2.jpg"
+- image: "/uploads/toby-carr_talk_1.jpg"
+- image: "/uploads/toby-carr_talk_2.jpg"
 related_posts: []
 ---
 

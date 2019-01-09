@@ -4,8 +4,8 @@ youtube_video_id: XOnl7PijqIs
 performance: false
 highlight: false
 images:
-- "/uploads/adrien-taylor_talk_2.jpg"
-- "/uploads/adrien-taylor_talk_1.jpg"
+- image: "/uploads/adrien-taylor_talk_2.jpg"
+- image: "/uploads/adrien-taylor_talk_1.jpg"
 related_posts: []
 ---
 

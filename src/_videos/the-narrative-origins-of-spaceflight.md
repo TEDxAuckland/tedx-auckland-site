@@ -4,8 +4,8 @@ youtube_video_id: LD0yGBwszCQ
 performance: false
 highlight: false
 images:
-- "/uploads/alexander-macdonald_talk_2.jpg"
-- "/uploads/alexander-macdonald_talk_1.jpg"
+- image: "/uploads/alexander-macdonald_talk_2.jpg"
+- image: "/uploads/alexander-macdonald_talk_1.jpg"
 related_posts: []
 ---
 

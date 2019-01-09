@@ -4,7 +4,7 @@ youtube_video_id: fXYXHIX4P0A
 performance: false
 highlight: false
 images:
-- "/uploads/peter-young_talk_1.jpg"
+- image: "/uploads/peter-young_talk_1.jpg"
 related_posts: []
 ---
 

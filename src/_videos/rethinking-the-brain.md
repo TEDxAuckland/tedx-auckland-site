@@ -4,7 +4,7 @@ youtube_video_id: NT_Z6kULoVw
 performance: false
 highlight: false
 images:
-- "/uploads/sir-richard-faull_talk_1.jpg"
+- image: "/uploads/sir-richard-faull_talk_1.jpg"
 related_posts: []
 ---
 

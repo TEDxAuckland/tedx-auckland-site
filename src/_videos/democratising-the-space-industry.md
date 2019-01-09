@@ -4,8 +4,8 @@ youtube_video_id: 1Q5nXNVBj9Y
 performance: false
 highlight: false
 images:
-- "/uploads/emeline-paat-dahlstrom_talk_2.jpg"
-- "/uploads/emeline-paat-dahlstrom_talk_1.jpg"
+- image: "/uploads/emeline-paat-dahlstrom_talk_2.jpg"
+- image: "/uploads/emeline-paat-dahlstrom_talk_1.jpg"
 related_posts: []
 ---
 

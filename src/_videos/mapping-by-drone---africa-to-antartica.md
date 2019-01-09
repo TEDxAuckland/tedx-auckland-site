@@ -4,8 +4,8 @@ youtube_video_id: irtsSSek1k8
 performance: false
 highlight: false
 images:
-- "/uploads/barbara-breen_talk_2.jpg"
-- "/uploads/barbara-breen_talk_1.jpg"
+- image: "/uploads/barbara-breen_talk_2.jpg"
+- image: "/uploads/barbara-breen_talk_1.jpg"
 related_posts: []
 ---
 

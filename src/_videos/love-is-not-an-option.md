@@ -4,8 +4,8 @@ youtube_video_id: Dzxe_pQTd90
 performance: false
 highlight: false
 images:
-- "/uploads/sarah-longbottom_talk_2.jpg"
-- "/uploads/sarah-longbottom_talk_1.jpg"
+- image: "/uploads/sarah-longbottom_talk_2.jpg"
+- image: "/uploads/sarah-longbottom_talk_1.jpg"
 related_posts: []
 ---
 

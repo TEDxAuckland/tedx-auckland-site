@@ -4,7 +4,7 @@ youtube_video_id: qhqLoTKBRz0
 performance: false
 highlight: false
 images:
-- "/uploads/alistair-knott_talk_1.jpg"
+- image: "/uploads/alistair-knott_talk_1.jpg"
 related_posts: []
 ---
 

@@ -4,8 +4,8 @@ youtube_video_id: sFw3_hlJuZQ
 performance: false
 highlight: false
 images:
-- "/uploads/lisa-king_talk_2.jpg"
-- "/uploads/lisa-king_talk_1.jpg"
+- image: "/uploads/lisa-king_talk_2.jpg"
+- image: "/uploads/lisa-king_talk_1.jpg"
 related_posts: []
 ---
 

@@ -4,9 +4,9 @@ youtube_video_id: Jp2EcuMbAmY
 performance: false
 highlight: false
 images:
-- "/uploads/david-razowsky_talk_2.jpg"
-- "/uploads/david-razowsky_talk_3.jpg"
-- "/uploads/david-razowsky_talk_1.jpg"
+- image: "/uploads/david-razowsky_talk_2.jpg"
+- image: "/uploads/david-razowsky_talk_3.jpg"
+- image: "/uploads/david-razowsky_talk_1.jpg"
 related_posts: []
 ---
 

@@ -4,7 +4,7 @@ youtube_video_id: s3gQu3_hJVc
 performance: false
 highlight: false
 images:
-- "/uploads/matthew-simmons_talk_1.jpg"
+- image: "/uploads/matthew-simmons_talk_1.jpg"
 related_posts: []
 ---
 

@@ -4,7 +4,7 @@ youtube_video_id: SpnEGb0GdwY
 performance: false
 highlight: false
 images:
-- "/uploads/pete-russell_talk_1.jpg"
+- image: "/uploads/pete-russell_talk_1.jpg"
 related_posts: []
 ---
 

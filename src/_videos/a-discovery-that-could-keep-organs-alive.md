@@ -4,7 +4,7 @@ youtube_video_id: 87Re2-hkTlo
 performance: false
 highlight: false
 images:
-- "/uploads/john-windsor_talk_1.jpg"
+- image: "/uploads/john-windsor_talk_1.jpg"
 related_posts: []
 ---
 

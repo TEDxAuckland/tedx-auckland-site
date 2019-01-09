@@ -4,8 +4,8 @@ youtube_video_id: DW5YctpK7pM
 performance: false
 highlight: false
 images:
-- "/uploads/pani-farvid_talk_2.jpg"
-- "/uploads/pani-farvid_talk_1.jpg"
+- image: "/uploads/pani-farvid_talk_2.jpg"
+- image: "/uploads/pani-farvid_talk_1.jpg"
 related_posts: []
 ---
 

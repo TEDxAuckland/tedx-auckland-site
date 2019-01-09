@@ -4,7 +4,7 @@ youtube_video_id: orfB1UkoKdQ
 performance: false
 highlight: false
 images:
-- "/uploads/robert-oliver_talk_1.jpg"
+- image: "/uploads/robert-oliver_talk_1.jpg"
 related_posts: []
 ---
 

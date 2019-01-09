@@ -4,8 +4,8 @@ youtube_video_id: 8v0ykTrTQEc
 performance: false
 highlight: false
 images:
-- "/uploads/sharad-paul_talk_1.jpg"
-- "/uploads/sharad-paul_talk_2.jpg"
+- image: "/uploads/sharad-paul_talk_1.jpg"
+- image: "/uploads/sharad-paul_talk_2.jpg"
 related_posts: []
 ---
 

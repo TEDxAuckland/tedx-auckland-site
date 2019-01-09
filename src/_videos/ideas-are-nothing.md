@@ -4,8 +4,8 @@ youtube_video_id: 4O3n6yOYWAo
 performance: false
 highlight: false
 images:
-- "/uploads/luke-nola_talk_2.jpg"
-- "/uploads/luke-nola_talk_1.jpg"
+- image: "/uploads/luke-nola_talk_2.jpg"
+- image: "/uploads/luke-nola_talk_1.jpg"
 related_posts: []
 ---
 

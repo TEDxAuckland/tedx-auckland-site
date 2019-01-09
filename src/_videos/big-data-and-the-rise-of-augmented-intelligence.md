@@ -4,8 +4,8 @@ youtube_video_id: mKZCa_ejbfg
 performance: false
 highlight: false
 images:
-- "/uploads/sean-gourley_talk_1.jpg"
-- "/uploads/sean-gourley_talk_2.1.jpg"
+- image: "/uploads/sean-gourley_talk_1.jpg"
+- image: "/uploads/sean-gourley_talk_2.1.jpg"
 related_posts: []
 ---
 

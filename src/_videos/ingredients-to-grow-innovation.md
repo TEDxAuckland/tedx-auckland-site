@@ -4,8 +4,8 @@ youtube_video_id: mwp6VJwxGzw
 performance: false
 highlight: false
 images:
-- "/uploads/shaun-hendy_talk_1.jpg"
-- "/uploads/shaun-hendy_talk_2.jpg"
+- image: "/uploads/shaun-hendy_talk_1.jpg"
+- image: "/uploads/shaun-hendy_talk_2.jpg"
 related_posts: []
 ---
 

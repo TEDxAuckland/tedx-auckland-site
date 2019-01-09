@@ -4,8 +4,8 @@ youtube_video_id: d-tGhbUMLHE
 performance: false
 highlight: false
 images:
-- "/uploads/vivien-maidaborn_talk_1.jpg"
-- "/uploads/vivien-maidaborn_talk_2.jpg"
+- image: "/uploads/vivien-maidaborn_talk_1.jpg"
+- image: "/uploads/vivien-maidaborn_talk_2.jpg"
 related_posts: []
 ---
 

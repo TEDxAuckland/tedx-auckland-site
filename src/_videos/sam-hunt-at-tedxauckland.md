@@ -4,7 +4,7 @@ youtube_video_id: pW7uouAZAWo
 performance: false
 highlight: false
 images:
-- "/uploads/sam-hunt_talk_1.jpg"
+- image: "/uploads/sam-hunt_talk_1.jpg"
 related_posts: []
 ---
 

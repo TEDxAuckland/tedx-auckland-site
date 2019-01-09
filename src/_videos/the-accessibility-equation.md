@@ -4,8 +4,8 @@ youtube_video_id: __V07QKguBI
 performance: false
 highlight: false
 images:
-- "/uploads/minnie-barragwanath_talk_2.jpg"
-- "/uploads/minnie-barragwanath_talk_1.jpg"
+- image: "/uploads/minnie-barragwanath_talk_2.jpg"
+- image: "/uploads/minnie-barragwanath_talk_1.jpg"
 related_posts: []
 ---
 

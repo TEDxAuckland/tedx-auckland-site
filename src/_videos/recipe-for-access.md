@@ -4,8 +4,8 @@ youtube_video_id: k5piEUPgRvk
 performance: false
 highlight: false
 images:
-- "/uploads/grant-schofield_talk_1.jpg"
-- "/uploads/grant-schofield_talk_2.jpg"
+- image: "/uploads/grant-schofield_talk_1.jpg"
+- image: "/uploads/grant-schofield_talk_2.jpg"
 related_posts: []
 ---
 

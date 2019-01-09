@@ -4,8 +4,8 @@ youtube_video_id: s6ZFteZ61nA
 performance: false
 highlight: false
 images:
-- "/uploads/james-bergin_talk_2.jpg"
-- "/uploads/james-bergin_talk_1.jpg"
+- image: "/uploads/james-bergin_talk_2.jpg"
+- image: "/uploads/james-bergin_talk_1.jpg"
 related_posts: []
 ---
 

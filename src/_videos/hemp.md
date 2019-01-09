@@ -4,8 +4,8 @@ youtube_video_id: HWiFTt2s9hY
 performance: false
 highlight: false
 images:
-- "/uploads/cameron-sims_talk_2.jpg"
-- "/uploads/cameron-sims_talk_1.jpg"
+- image: "/uploads/cameron-sims_talk_2.jpg"
+- image: "/uploads/cameron-sims_talk_1.jpg"
 related_posts: []
 ---
 

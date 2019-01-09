@@ -4,8 +4,8 @@ youtube_video_id: WPbpGhSILqk
 performance: false
 highlight: false
 images:
-- "/uploads/richard-little_talk_1.jpg"
-- "/uploads/richard-little_talk_2.jpg"
+- image: "/uploads/richard-little_talk_1.jpg"
+- image: "/uploads/richard-little_talk_2.jpg"
 related_posts: []
 ---
 

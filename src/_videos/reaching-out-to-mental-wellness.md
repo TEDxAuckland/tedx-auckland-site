@@ -4,9 +4,9 @@ youtube_video_id: 7GVEqegzx44
 performance: false
 highlight: false
 images:
-- "/uploads/matt-shirtcliffe_talk_1.jpg"
-- "/uploads/matt-shirtcliffe_talk_3.jpg"
-- "/uploads/matt-shirtcliffe_talk_2.jpg"
+- image: "/uploads/matt-shirtcliffe_talk_1.jpg"
+- image: "/uploads/matt-shirtcliffe_talk_3.jpg"
+- image: "/uploads/matt-shirtcliffe_talk_2.jpg"
 related_posts: []
 ---
 

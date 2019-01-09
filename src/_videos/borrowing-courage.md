@@ -4,8 +4,8 @@ youtube_video_id: kl42kv_1HzI
 performance: false
 highlight: false
 images:
-- "/uploads/muskan-devta_talk_1.jpg"
-- "/uploads/muskan-devta_talk_2.1.jpg"
+- image: "/uploads/muskan-devta_talk_1.jpg"
+- image: "/uploads/muskan-devta_talk_2.1.jpg"
 related_posts: []
 ---
 

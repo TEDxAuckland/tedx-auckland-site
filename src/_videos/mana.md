@@ -4,9 +4,9 @@ youtube_video_id: qeK3SkxrZRI
 performance: false
 highlight: false
 images:
-- "/uploads/tame-iti_talk_3.jpg"
-- "/uploads/tame-iti_talk_1.jpg"
-- "/uploads/tame-iti_talk_2.1.jpg"
+- image: "/uploads/tame-iti_talk_3.jpg"
+- image: "/uploads/tame-iti_talk_1.jpg"
+- image: "/uploads/tame-iti_talk_2.1.jpg"
 related_posts: []
 ---
 

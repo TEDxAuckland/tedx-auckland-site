@@ -4,8 +4,8 @@ youtube_video_id: vGXmicYX5z0
 performance: false
 highlight: false
 images:
-- "/uploads/shaveer-mirpuri_talk_2.jpg"
-- "/uploads/shaveer-mirpuri_talk_1.jpg"
+- image: "/uploads/shaveer-mirpuri_talk_2.jpg"
+- image: "/uploads/shaveer-mirpuri_talk_1.jpg"
 related_posts: []
 ---
 

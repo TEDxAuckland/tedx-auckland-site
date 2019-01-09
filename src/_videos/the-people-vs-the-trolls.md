@@ -4,8 +4,8 @@ youtube_video_id: FxSra_n9oeE
 performance: false
 highlight: false
 images:
-- "/uploads/david-harvey_talk_1.jpg"
-- "/uploads/david-harvey_talk_2.jpg"
+- image: "/uploads/david-harvey_talk_1.jpg"
+- image: "/uploads/david-harvey_talk_2.jpg"
 related_posts: []
 ---
 

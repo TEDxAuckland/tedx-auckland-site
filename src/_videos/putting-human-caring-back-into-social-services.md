@@ -4,8 +4,8 @@ youtube_video_id: SgguRmmHbgA
 performance: false
 highlight: false
 images:
-- "/uploads/richard-aston_talk_1.jpg"
-- "/uploads/richard-aston_talk_2.jpg"
+- image: "/uploads/richard-aston_talk_1.jpg"
+- image: "/uploads/richard-aston_talk_2.jpg"
 related_posts: []
 ---
 

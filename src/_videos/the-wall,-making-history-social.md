@@ -4,7 +4,7 @@ youtube_video_id: bPNyP2q08ow
 performance: false
 highlight: false
 images:
-- "/uploads/victoria-spackman_talk_1.jpg"
+- image: "/uploads/victoria-spackman_talk_1.jpg"
 related_posts: []
 ---
 

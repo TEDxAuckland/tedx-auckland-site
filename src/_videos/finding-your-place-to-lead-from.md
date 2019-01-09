@@ -4,9 +4,10 @@ youtube_video_id: 9YkaMqn_hjY
 performance: false
 highlight: false
 images:
-- "/uploads/sir-bob-harvey_talk_2.jpg"
-- "/uploads/sir-bob-harvey_talk_1.jpg"
-- "/uploads/sir-bob-harvey_talk_3.jpg"
+- image: "/uploads/sir-bob-harvey_talk_3.1.jpg"
+- image: "/uploads/sir-bob-harvey_talk_2.jpg"
+- image: "/uploads/sir-bob-harvey_talk_1.jpg"
+- image: "/uploads/sir-bob-harvey_talk_3.jpg"
 related_posts: []
 ---
 

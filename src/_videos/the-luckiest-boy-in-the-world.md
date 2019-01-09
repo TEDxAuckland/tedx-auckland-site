@@ -4,8 +4,8 @@ youtube_video_id: 7nokY97BRS4
 performance: false
 highlight: false
 images:
-- "/uploads/samuel-gibson_talk_2.jpg"
-- "/uploads/samuel-gibson_talk_1.jpg"
+- image: "/uploads/samuel-gibson_talk_2.jpg"
+- image: "/uploads/samuel-gibson_talk_1.jpg"
 related_posts: []
 ---
 

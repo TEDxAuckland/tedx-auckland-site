@@ -4,7 +4,7 @@ youtube_video_id: Mu5xYDkw9ys
 performance: false
 highlight: false
 images:
-- "/uploads/andrew-patterson_talk_1.jpg"
+- image: "/uploads/andrew-patterson_talk_1.jpg"
 related_posts: []
 ---
 

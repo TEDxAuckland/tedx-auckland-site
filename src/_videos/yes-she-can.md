@@ -4,8 +4,8 @@ youtube_video_id: rrsBQo6GVC4
 performance: false
 highlight: false
 images:
-- "/uploads/helen-clark_talk_1.jpg"
-- "/uploads/helen-clark_talk_2.jpg"
+- image: "/uploads/helen-clark_talk_1.jpg"
+- image: "/uploads/helen-clark_talk_2.jpg"
 related_posts: []
 ---
 

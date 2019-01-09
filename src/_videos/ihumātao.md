@@ -4,7 +4,7 @@ youtube_video_id: tT11yvE5plo
 performance: false
 highlight: false
 images:
-- "/uploads/pania-newton_talk_1.jpg"
+- image: "/uploads/pania-newton_talk_1.jpg"
 related_posts: []
 ---
 

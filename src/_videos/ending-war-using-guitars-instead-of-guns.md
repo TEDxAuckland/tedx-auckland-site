@@ -4,8 +4,8 @@ youtube_video_id: yE35EaZuqTQ
 performance: false
 highlight: false
 images:
-- "/uploads/william-watson_talk_2.jpg"
-- "/uploads/william-watson_talk_1.jpg"
+- image: "/uploads/william-watson_talk_2.jpg"
+- image: "/uploads/william-watson_talk_1.jpg"
 related_posts: []
 ---
 

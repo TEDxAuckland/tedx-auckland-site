@@ -4,8 +4,8 @@ youtube_video_id: 56Y0TElkI90
 performance: false
 highlight: false
 images:
-- "/uploads/matt-stone_talk_2.jpg"
-- "/uploads/matt-stone_talk_1.jpg"
+- image: "/uploads/matt-stone_talk_2.jpg"
+- image: "/uploads/matt-stone_talk_1.jpg"
 related_posts: []
 ---
 

@@ -4,8 +4,8 @@ youtube_video_id: eRIV-k4Tbz8
 performance: false
 highlight: false
 images:
-- "/uploads/keith-ng_talk_1.jpg"
-- "/uploads/keith-ng_talk_2.jpg"
+- image: "/uploads/keith-ng_talk_1.jpg"
+- image: "/uploads/keith-ng_talk_2.jpg"
 related_posts: []
 ---
 

@@ -4,8 +4,8 @@ youtube_video_id: cMxUl2k4DsY
 performance: false
 highlight: false
 images:
-- "/uploads/anna-faber_talk_2.jpg"
-- "/uploads/anna-faber_talk_1.jpg"
+- image: "/uploads/anna-faber_talk_2.jpg"
+- image: "/uploads/anna-faber_talk_1.jpg"
 related_posts: []
 ---
 

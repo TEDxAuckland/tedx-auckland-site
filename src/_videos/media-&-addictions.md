@@ -4,8 +4,8 @@ youtube_video_id: ZKc5OUs7pJE
 performance: false
 highlight: false
 images:
-- "/uploads/gavin-healy_talk_1.jpg"
-- "/uploads/gavin-healy_talk_2.jpg"
+- image: "/uploads/gavin-healy_talk_1.jpg"
+- image: "/uploads/gavin-healy_talk_2.jpg"
 related_posts: []
 ---
 

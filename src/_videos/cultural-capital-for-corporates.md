@@ -4,8 +4,8 @@ youtube_video_id: M9FguL2lfHo
 performance: false
 highlight: false
 images:
-- "/uploads/michael-moka_talk_1.jpg"
-- "/uploads/michael-moka_talk_2.jpg"
+- image: "/uploads/michael-moka_talk_1.jpg"
+- image: "/uploads/michael-moka_talk_2.jpg"
 related_posts: []
 ---
 

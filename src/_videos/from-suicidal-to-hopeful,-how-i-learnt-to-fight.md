@@ -4,7 +4,7 @@ youtube_video_id: h2au58zB_kk
 performance: false
 highlight: false
 images:
-- "/uploads/jazz-thornton_talk_1.jpg"
+- image: "/uploads/jazz-thornton_talk_1.jpg"
 related_posts: []
 ---
 

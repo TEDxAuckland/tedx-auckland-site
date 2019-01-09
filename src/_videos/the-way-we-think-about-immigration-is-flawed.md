@@ -4,8 +4,8 @@ youtube_video_id: 6Vqethhad_k
 performance: false
 highlight: false
 images:
-- "/uploads/yoseph-ayele_talk_1.jpg"
-- "/uploads/yoseph-ayele_talk_2.jpg"
+- image: "/uploads/yoseph-ayele_talk_1.jpg"
+- image: "/uploads/yoseph-ayele_talk_2.jpg"
 related_posts: []
 ---
 

@@ -4,8 +4,8 @@ youtube_video_id: gol_4kh8ETY
 performance: false
 highlight: false
 images:
-- "/uploads/richard-easther_talk_2.jpg"
-- "/uploads/richard-easther_talk_1.jpg"
+- image: "/uploads/richard-easther_talk_2.jpg"
+- image: "/uploads/richard-easther_talk_1.jpg"
 related_posts: []
 ---
 

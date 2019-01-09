@@ -4,8 +4,8 @@ youtube_video_id: X9R84sNlLYY
 performance: false
 highlight: false
 images:
-- "/uploads/anna-coddington_talk_1.jpg"
-- "/uploads/anna-coddington_talk_2.jpg"
+- image: "/uploads/anna-coddington_talk_1.jpg"
+- image: "/uploads/anna-coddington_talk_2.jpg"
 related_posts: []
 ---
 

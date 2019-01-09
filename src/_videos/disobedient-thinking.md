@@ -4,7 +4,7 @@ youtube_video_id: aumxbgOdkRU
 performance: false
 highlight: false
 images:
-- "/uploads/welby-ings_talk_1.jpg"
+- image: "/uploads/welby-ings_talk_1.jpg"
 related_posts: []
 ---
 

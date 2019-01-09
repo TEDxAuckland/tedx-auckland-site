@@ -4,8 +4,8 @@ youtube_video_id: K2uiULiNRAg
 performance: false
 highlight: false
 images:
-- "/uploads/juliet-arnott_talk_1.jpg"
-- "/uploads/juliet-arnott_talk_2.jpg"
+- image: "/uploads/juliet-arnott_talk_1.jpg"
+- image: "/uploads/juliet-arnott_talk_2.jpg"
 related_posts: []
 ---
 

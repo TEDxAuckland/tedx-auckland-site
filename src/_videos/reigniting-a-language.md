@@ -4,7 +4,7 @@ youtube_video_id: Cx2-XvdnH4Y
 performance: false
 highlight: false
 images:
-- "/uploads/sophie-tamati_talk_1.jpg"
+- image: "/uploads/sophie-tamati_talk_1.jpg"
 related_posts: []
 ---
 

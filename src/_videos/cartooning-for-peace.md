@@ -4,8 +4,8 @@ youtube_video_id: n_3KSjx43Tw
 performance: false
 highlight: false
 images:
-- "/uploads/tom-scott_talk_2.jpg"
-- "/uploads/tom-scott_talk_1.jpg"
+- image: "/uploads/tom-scott_talk_2.jpg"
+- image: "/uploads/tom-scott_talk_1.jpg"
 related_posts: []
 ---
 

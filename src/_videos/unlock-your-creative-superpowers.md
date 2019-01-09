@@ -4,8 +4,8 @@ youtube_video_id: yiAWXlAXBzQ
 performance: false
 highlight: false
 images:
-- "/uploads/chris-pemberton_talk_2.jpg"
-- "/uploads/chris-pemberton_talk_1.jpg"
+- image: "/uploads/chris-pemberton_talk_2.jpg"
+- image: "/uploads/chris-pemberton_talk_1.jpg"
 related_posts: []
 ---
 

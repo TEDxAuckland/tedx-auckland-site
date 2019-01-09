@@ -4,7 +4,7 @@ youtube_video_id: GtQG6jAxOK4
 performance: false
 highlight: false
 images:
-- "/uploads/david-trubridge_talk_1.jpg"
+- image: "/uploads/david-trubridge_talk_1.jpg"
 related_posts: []
 ---
 

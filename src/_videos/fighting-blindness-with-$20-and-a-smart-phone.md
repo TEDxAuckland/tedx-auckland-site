@@ -4,9 +4,9 @@ youtube_video_id: j4p5PJi71FU
 performance: false
 highlight: false
 images:
-- "/uploads/hong-sheng-chiong_talk_1.jpg"
-- "/uploads/hong-sheng-chiong_talk_3.jpg"
-- "/uploads/hong-sheng-chiong_talk_2.jpg"
+- image: "/uploads/hong-sheng-chiong_talk_1.jpg"
+- image: "/uploads/hong-sheng-chiong_talk_3.jpg"
+- image: "/uploads/hong-sheng-chiong_talk_2.jpg"
 related_posts: []
 ---
 

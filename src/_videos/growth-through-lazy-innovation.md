@@ -4,8 +4,8 @@ youtube_video_id: eeHsYmXQFKU
 performance: false
 highlight: false
 images:
-- "/uploads/georgia-lala_talk_2.jpg"
-- "/uploads/georgia-lala_talk_1.jpg"
+- image: "/uploads/georgia-lala_talk_2.jpg"
+- image: "/uploads/georgia-lala_talk_1.jpg"
 related_posts: []
 ---
 

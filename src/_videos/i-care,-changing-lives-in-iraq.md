@@ -4,7 +4,7 @@ youtube_video_id: bYNRnfKh4ns
 performance: false
 highlight: false
 images:
-- "/uploads/assil-russell_talk_1.jpg"
+- image: "/uploads/assil-russell_talk_1.jpg"
 related_posts: []
 ---
 

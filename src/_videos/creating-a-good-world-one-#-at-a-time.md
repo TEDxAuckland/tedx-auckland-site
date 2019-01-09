@@ -4,8 +4,8 @@ youtube_video_id: VSwz4uaXVOc
 performance: false
 highlight: false
 images:
-- "/uploads/dale-pfeifer_talk_1.jpg"
-- "/uploads/dale-pfeifer_talk_2.jpg"
+- image: "/uploads/dale-pfeifer_talk_1.jpg"
+- image: "/uploads/dale-pfeifer_talk_2.jpg"
 related_posts: []
 ---
 

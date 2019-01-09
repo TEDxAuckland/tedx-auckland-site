@@ -4,9 +4,9 @@ youtube_video_id: 7eUVD74ozQU
 performance: false
 highlight: false
 images:
-- "/uploads/pete-bethune_talk_1.jpg"
-- "/uploads/pete-bethune_talk_2.jpg"
-- "/uploads/pete-bethune_talk_3.jpg"
+- image: "/uploads/pete-bethune_talk_1.jpg"
+- image: "/uploads/pete-bethune_talk_2.jpg"
+- image: "/uploads/pete-bethune_talk_3.jpg"
 related_posts: []
 ---
 

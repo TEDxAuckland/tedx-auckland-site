@@ -4,7 +4,7 @@ youtube_video_id: LjjlsW1MDmc
 performance: false
 highlight: false
 images:
-- "/uploads/paul-wood_talk_1.jpg"
+- image: "/uploads/paul-wood_talk_1.jpg"
 related_posts: []
 ---
 
