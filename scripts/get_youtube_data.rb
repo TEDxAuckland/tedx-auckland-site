@@ -14,18 +14,47 @@ class YoutubeVideoInfo
   def initialize
     @playlist_paths = Dir["../src/_events/*"] - ["../src/_events/_defaults.md"] + Dir["../src/index*"]
     @video_paths = Dir["#{VIDEOS_FOLDER}/*.md"] - ["../src/_events/_defaults.md"]
+    @all_video_ids = videos_collection_ids
   end
 
   def call
     FileUtils::mkdir_p(JSON_FOLDER)
-    process_playlists
-    process_videos_collection
+    process_playlists(event_playlist_ids)
+    process_video_ids(all_video_ids.uniq)
   end
 
-  def process_videos_collection
+  def process_playlists(playlist_ids)
+    puts @playlist_paths
+
+    playlist_structure = playlist_ids.map do |playlist_id|
+      puts "\n#{playlist_id}"
+
+      playlist = Yt::Playlist.new id: playlist_id
+
+      playlist.playlist_items.map.with_index do |item, index|
+        next if item.title == "Deleted video"
+        puts "> #{item.title}"
+        all_video_ids << item.video_id
+        {
+          playlist_item_id: item.id,
+          playlist_id: item.playlist_id,
+          video_id: item.video_id,
+          position: item.position,
+        }
+      end
+    end.flatten.compact
+
+
+    write_json(
+      "playlist_videos.json",
+      video_hash_by_playlist_id(playlist_structure)
+    )
+  end
+
+  def process_video_ids(video_ids)
     puts @video_paths
 
-    all_videos = videos_collection_ids.map do |video_id|
+    all_videos = video_ids.map do |video_id|
       puts "processing #{video_id}"
       video_hash(Yt::Video.new(id: video_id))
     end
@@ -37,28 +66,9 @@ class YoutubeVideoInfo
 
   end
 
-  def process_playlists
-    puts @playlist_paths
-
-    all_videos = playlist_ids.map do |playlist_id|
-      puts "\n#{playlist_id}"
-
-      playlist = Yt::Playlist.new id: playlist_id
-
-      playlist.playlist_items.map.with_index do |item, index|
-        next if item.title == "Deleted video"
-        puts "> #{item.title}"
-        playlist_item_hash(item)
-      end
-    end.flatten.compact
-
-    write_json(
-      "playlist_videos.json",
-      video_hash_by_playlist_id(all_videos)
-    )
-  end
-
   private
+
+  attr_accessor :all_video_ids
 
   def video_hash_by_video_id(videos_array)
     videos_hash = {}
@@ -86,19 +96,10 @@ class YoutubeVideoInfo
     end.compact
   end
 
-  def playlist_ids
+  def event_playlist_ids
     @playlist_paths.map do |path|
       YAML.load_file(path)["youtube_playlist"]
     end.compact
-  end
-
-  def playlist_item_hash(playlist_item)
-    {
-      playlist_item_id: playlist_item.id,
-      playlist_id: playlist_item.playlist_id,
-      video_id: playlist_item.video_id,
-      position: playlist_item.position,
-    }
   end
 
   def video_hash(video)
