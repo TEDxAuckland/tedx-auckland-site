@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/liam-malone_talk_1.jpg"
 - image: "/uploads/liam-malone_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Paralympian gold medalist, Liam Malone believes that technological advancement and determination is the key to his success in sport and life in general. After having both legs amputated in early childhood, Liam felt like an outcast among his peers. However, with the betterment of artificial limb technology, and the advent of Running Blades, Liam found himself excelling in sporting achievement, representing New Zealand at the 2016 Summer Paralympics in Rio de Janeiro, and breaking records originally set by disgraced sprinter Oscar Pistorius. But what is the future of this technology? How can it be used to improve the lives of differently-abled people? And how can it be harnessed for future sporting milestones?

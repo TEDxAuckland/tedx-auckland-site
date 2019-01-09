@@ -7,7 +7,8 @@ images:
 - image: "/uploads/tame-iti_talk_3.jpg"
 - image: "/uploads/tame-iti_talk_1.jpg"
 - image: "/uploads/tame-iti_talk_2.1.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Tame explores how the old saying of "Te ka nohi ki te ka nohi" (Dealing with it eye to eye) creates a far more productive space for open dialogue around any issue.

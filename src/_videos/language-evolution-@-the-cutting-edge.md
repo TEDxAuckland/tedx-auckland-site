@@ -7,7 +7,8 @@ images:
 - image: "/uploads/max-cryer_talk_3.jpg"
 - image: "/uploads/max-cryer_talk_1.jpg"
 - image: "/uploads/max-cryer_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Max explains the evolution of the English language and the increasing change of the language since the inception of the internet.

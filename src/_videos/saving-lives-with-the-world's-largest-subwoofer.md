@@ -5,7 +5,8 @@ performance: false
 highlight: false
 images:
 - image: "/uploads/matthew-simmons_talk_1.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Matthew Simmons is co-founder of Arvus Group International, a business he started when he was 12 years old in 1983.  Together with a core team of 30+ engineers working in 14 countries and Julie Simmons, his wife and business partner of 20years, Arvus Group creates unique technologies and solutions in a wide array of industries that include Audio, Optics, Geothermal and Nuclear power, Material sciences, Cinema, Signal Processing and Atmospheric Sciences. Based in Hamilton, New Zealand with a vibrant global network, Arvus Group's International clients includes, Dolby, Sony, Disney, Imagineering, SingTel, Real Image and Park Road Post.

@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/anna-coddington_talk_1.jpg"
 - image: "/uploads/anna-coddington_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Anna Coddington's new single ‘Release Me’. The yacht-rock inspired ‘Release Me’ features a driving rhythm sitting alongside a riff which lures in the listener. Performed live for the first time with Fly My Pretties early in 2016, ‘Release Me’ is another welcome addition to the catalogue of Anna.

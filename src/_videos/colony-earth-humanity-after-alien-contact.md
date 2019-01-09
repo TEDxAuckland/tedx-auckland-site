@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/steve-pointing_talk_2.jpg"
 - image: "/uploads/steve-pointing_talk_1.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Steve has led an astrobiology research team collaborating with NASA for over a decade, and broadened his interests to consider the societal impacts of discovering life on other planets: How will this change our perception of humanity? What practical steps should we consider in preparation for this? Might we view the discovery of primitive and advanced alien life differently? What can we learn from our own historical interactions between first nation peoples and ‘alien’ colonists?

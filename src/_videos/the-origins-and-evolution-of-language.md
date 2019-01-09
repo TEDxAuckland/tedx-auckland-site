@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/michael-corballis_talk_1.jpg"
 - image: "/uploads/michael-corballis_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Nearly everybody can communicate, and most do so through some form of language, and yet the question of where language came from is one of the most difficult questions in science. Psychologist and author, Michael Corballis explores the many theories of language's origins, including his own, and details how language and communication have continued to evolve, from primates' use of gestures, to the advent of communicative technologies. Michael Corballis, emeritus professor at the Department of Psychology at The University of Auckland is one of the foremost global experts on the evolution of human language. 

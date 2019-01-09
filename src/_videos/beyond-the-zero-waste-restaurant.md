@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/matt-stone_talk_2.jpg"
 - image: "/uploads/matt-stone_talk_1.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 This talk was given at a local TEDx event, produced independently of the TED Conferences. Matt explains how he reduces waste in his restaurants to zero and in turn makes the food, eco system and community better.

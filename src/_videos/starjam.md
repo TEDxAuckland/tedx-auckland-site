@@ -3,9 +3,9 @@ title: StarJam
 youtube_video_id: 07nFY8dUCbo
 performance: false
 highlight: false
-images: 
-- image: ""
-related_posts: []
+images: []
+related_posts:
+- post: ''
 ---
 
 TEDxAuckland September 26th, 2010.

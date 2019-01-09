@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/janette-searle_talk_1.jpg"
 - image: "/uploads/janette-searle_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Janette tells us how her charity Take My Hands started and how they running it on virtually no funds and using spare capacity of people and companies to achieve their goals.

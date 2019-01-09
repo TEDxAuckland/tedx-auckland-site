@@ -3,9 +3,9 @@ title: Climate Change
 youtube_video_id: Vw6aAP-mtJ0
 performance: false
 highlight: false
-images: 
-- image: ""
-related_posts: []
+images: []
+related_posts:
+- post: ''
 ---
 
 TEDxAuckland 2009, Kaila Colbin on Climate Change.

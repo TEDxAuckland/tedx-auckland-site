@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/dale-pfeifer_talk_1.jpg"
 - image: "/uploads/dale-pfeifer_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 As founder of GoodWorld a social platform for giving, Dale explains where the idea came from and why people give.

@@ -7,7 +7,8 @@ images:
 - image: "/uploads/matt-shirtcliffe_talk_1.jpg"
 - image: "/uploads/matt-shirtcliffe_talk_3.jpg"
 - image: "/uploads/matt-shirtcliffe_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 After Matt's wife Mary died of depression a year ago, Matt reflected on what he could take out of it to help others. The result was a programme that encourages people across the farming community to reach out to both ask for and offer help when they need it.

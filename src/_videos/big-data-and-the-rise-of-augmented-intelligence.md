@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/sean-gourley_talk_1.jpg"
 - image: "/uploads/sean-gourley_talk_2.1.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Dr. Sean Gourley is the founder and CTO of Quid. He is a Physicist by training and has studied the mathematical patterns of war and terrorism. This research has taken him all over the world from the Pentagon, to the United Nations and Iraq. Previously, Sean worked at NASA on self-repairing nano-circuits and is a two-time New Zealand track and field champion. Sean is now based in San Francisco where he is building tools to augment human intelligence.

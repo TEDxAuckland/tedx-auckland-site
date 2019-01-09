@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/angie-judge_talk_1.jpg"
 - image: "/uploads/angie-judge_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 In a story that weaves together an Arabian princess, the ancient Egyptians and Donald Trump, technology entrepreneur Angie Judge shares her unique perspective on the intersection of artificial intelligence in museums to democratise curation with data. Take a journey back in time at the history of history itself to see how museums have changed over the ages, a stark look at the perilous state of this sector and a view forward at the forces which are shaping our cultural future. 

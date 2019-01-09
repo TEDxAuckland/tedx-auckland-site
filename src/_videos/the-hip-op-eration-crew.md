@@ -8,7 +8,8 @@ images:
 - image: "/uploads/billie-jordan_talk_4.jpg"
 - image: "/uploads/billie-jordan_talk_3.jpg"
 - image: "/uploads/billie-jordan_talk_1.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Watch the Hip Op-eration Crew performance 'D Floor Damager' here https://www.youtube.com/watch?v=bsJjOxGhAE0 Billie formed the Hip Op-eration Crew as a flash mob initially in response to society's outcasting of elderly people. What grew from there was an amazing dance group and community that is centred around the idea of having big goals and  adventure later on in life. The Hip Op-eration Crew are officially the worlds oldest dance troupe listed by the Guinness World Records. http://www.guinnessworldrecords.com/world-records/111063-oldest-dance-troupe

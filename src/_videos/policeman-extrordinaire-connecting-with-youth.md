@@ -3,9 +3,9 @@ title: Policeman Extrordinaire Connecting With Youth
 youtube_video_id: KiNOTD39Qdw
 performance: false
 highlight: false
-images: 
-- image: ""
-related_posts: []
+images: []
+related_posts:
+- post: ''
 ---
 
 TEDxAuckland 2009, Glen Compain, Policeman Extrordinaire Connecting With Youth.

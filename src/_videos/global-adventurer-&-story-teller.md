@@ -3,9 +3,9 @@ title: Global Adventurer & Story Teller
 youtube_video_id: Afaf8WxCR4U
 performance: false
 highlight: false
-images: 
-- image: ""
-related_posts: []
+images: []
+related_posts:
+- post: ''
 ---
 
 TEDxAuckland September 26th, 2010.

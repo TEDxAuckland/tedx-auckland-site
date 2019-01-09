@@ -3,7 +3,7 @@ title: Finding Mercy
 youtube_video_id: 2vFWQSXVYVk
 performance: false
 highlight: false
-images: 
+images:
 - image: ""
 related_posts: []
 ---

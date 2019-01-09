@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/juliet-arnott_talk_1.jpg"
 - image: "/uploads/juliet-arnott_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 We know waste is a serious problem for the health of the planet, and yet we don’t recognise the impact of wastefulness on human wellbeing. Occupational therapist and founder of Rekindle, Juliet Arnott describes waste as not only a waste of earth’s resources, but also as a waste of ourselves and our capabilities. She offers resourcefulness as the solution.

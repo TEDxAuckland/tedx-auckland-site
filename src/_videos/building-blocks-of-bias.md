@@ -6,7 +6,8 @@ highlight: false
 images:
 - image: "/uploads/siouxsie-wiles_talk_1.jpg"
 - image: "/uploads/siouxsie-wiles_talk_2.jpg"
-related_posts: []
+related_posts:
+- post: ''
 ---
 
 Siouxsie highlights how Lego has changed over the decades since she used to play with it as a kid and how the modern Lego is creating more gender bias in what genders do for careers.
