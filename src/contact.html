@@ -17,20 +17,21 @@ layout: default
 				<option value="Sponsorship">Sponsorship</option>
 			</select>
 
-			<div class="input-split">
+			<div class="form-field input-split">
 				<div>
 					<label for="first-name">First Name</label>
 					<input type="text" name="first-name" id="first-name">
 				</div>
 
-				<div>
+				<div class="form-field">
 					<label for="last-name">Last Name</label>
 					<input type="text" name="last-name" id="last-name">
 				</div>
 			</div>
-
-			<label for="message">Message</label>
-			<textarea type="text" name="message" id="message"></textarea>
+			<div class="textarea-form">
+				<label for="message">Message</label>
+				<textarea type="text" name="message" id="message"></textarea>
+			</div>
 
 			<button type="submit" class="button">Send message</button>
 		</form>
