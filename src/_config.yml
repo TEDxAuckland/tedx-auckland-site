@@ -74,6 +74,8 @@ collections:
   videos:
     name: Videos
     output: true
+  posts:
+    name: Posts
 
 defaults:
   - scope:
