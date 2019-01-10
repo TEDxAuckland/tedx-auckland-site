@@ -7,7 +7,7 @@ images:
 - image: "/uploads/ian-mccrae_talk_2.jpg"
 - image: "/uploads/ian-mccrae_talk_1.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 Our bodies contain two terabytes of data. What if everyone involved in our healthcare – including us – could access that data and use it to make better lifestyle and treatment decisions? Precision medicine aims to answer that question and turn information into better health outcomes for everyone.

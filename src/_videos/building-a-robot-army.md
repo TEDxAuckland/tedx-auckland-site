@@ -7,7 +7,7 @@ images:
 - image: "/uploads/richard-little_talk_1.jpg"
 - image: "/uploads/richard-little_talk_2.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 Why not gardner the best of robots and humans to make rehabilitation the best it can be.

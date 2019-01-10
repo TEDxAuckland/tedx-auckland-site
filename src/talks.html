@@ -54,7 +54,7 @@ image: /assets/images/bg-upcoming-events.jpg
   	<div class="container">
 
   		<h3 class="section-heading section-heading--talks">{{ event.short_title }}</h3>
-      {% include talks.html playlist_id = event.youtube_playlist %}
+      {% include playlist_videos.html playlist_id = event.youtube_playlist %}
 
     </div>
   </section>
@@ -66,7 +66,7 @@ image: /assets/images/bg-upcoming-events.jpg
   	<div class="container">
 
   		<h3 class="section-heading section-heading--talks">Other Talks</h3>
-      {% include talks.html playlist_id = list %}
+      {% include playlist_videos.html playlist_id = list %}
 
     </div>
   </section>

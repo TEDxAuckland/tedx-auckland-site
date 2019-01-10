@@ -1,4 +1,3 @@
-{%- assign video_ids = include.video_ids -%}
 {%- assign video_names = include.video_names -%}
 <div class="talk-container">
 	{%- for video_name in video_names -%}
@@ -15,7 +14,7 @@
 
 				{%- assign no_of_images = video.images | size -%}
 				{%- assign first_image = video.images | first -%}
-				{%- if first_image["image"] != '' -%}
+				{%- if first_image.image != nil -%}
 
 					{%- assign video_image = first_image["image"] | remove_first: "/" -%}
 					{% responsive_image path: video_image

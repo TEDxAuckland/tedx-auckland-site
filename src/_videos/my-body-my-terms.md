@@ -7,7 +7,7 @@ images:
 - image: "/uploads/lizzie-marvelly_talk_1.jpg"
 - image: "/uploads/lizzie-marvelly_talk_2.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 Lizzie's campaign #MyBodyMyTerms was aimed to spark conversation about victim-blaming, revenge porn, consent and sexual violence.

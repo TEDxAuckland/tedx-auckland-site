@@ -7,7 +7,7 @@ images:
 - image: "/uploads/cori-gonzalez-macuer_talk_2.jpg"
 - image: "/uploads/cori-gonzalez-macuer_talk_1.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 Cori describes his own personal experience into a dark place where his father committed suicide and how he dealt with it.

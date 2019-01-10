@@ -8,7 +8,7 @@ images:
 - image: "/uploads/the-hip-op-eration-crew_talk_2.jpg"
 - image: "/uploads/the-hip-op-eration-crew_talk_3.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 The Hip Op-eration Crew dance performance at TEDxAuckland 2015. Watch Billie Jordan's talk on why the Hip Op-eration Crew formed here https://www.youtube.com/watch?v=saRWpSqQpPA

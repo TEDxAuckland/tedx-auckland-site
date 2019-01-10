@@ -43,7 +43,7 @@ class CreateVideosCollection
       "performance" => false,
       "highlight" => false,
       "images" => video_images(person["name"].downcase.gsub(" ", "-")),
-      "related_posts" => [ { "blog_post" => "" }],
+      "related_posts" => [ { "blog_post" => nil }],
     }
   end
 
@@ -51,7 +51,7 @@ class CreateVideosCollection
     images = Dir["#{IMAGES_FOLDER}/#{name}_talk*"].map do |path|
       { "image" => path.gsub("../src", "") }
     end
-    images.empty? ? { "image" => "" } : images
+    images.empty? ? { "image" => nil } : images
   end
 
   def video_title(video)

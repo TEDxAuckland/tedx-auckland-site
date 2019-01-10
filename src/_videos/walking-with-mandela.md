@@ -7,7 +7,7 @@ images:
 - image: "/uploads/rory-steyn_talk_2.jpg"
 - image: "/uploads/rory-steyn_talk_1.jpg"
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 Rory watched Mandela, up close and personal, as he led the racially divided nation from the brink of bloodshed to unexpected levels of peace and stability.

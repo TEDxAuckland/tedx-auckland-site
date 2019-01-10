@@ -4,9 +4,9 @@ youtube_video_id: 8yEPBPBLifo
 performance: false
 highlight: false
 images:
-  image: ''
+  image: 
 related_posts:
-- blog_post: ''
+- blog_post: 
 ---
 
 TEDxAuckland 2009, Ray Avery on Medical Innovation & Applied Knowledge.
