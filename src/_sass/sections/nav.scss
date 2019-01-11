@@ -81,7 +81,7 @@
 	@include respond(phone) {
 		display: none;
 
-		.responsive {
+		&.show-mobile-nav {
 			display: block !important;
 		}
 	}
