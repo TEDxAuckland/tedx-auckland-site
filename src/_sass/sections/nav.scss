@@ -82,7 +82,7 @@
 		display: none;
 
 		&.show-mobile-nav {
-			display: block !important;
+			display: inline;
 		}
 	}
 
@@ -98,7 +98,17 @@
 	align-items: center;
 	transition: all 0.2s;
 
+	@include respond(phone) {
+		justify-content: space-around;
+		padding: 0.4em;
+	}
+
 	&__text {
+		@include respond(phone) {
+			display: inline-block;
+			font-size: 2em;
+		}
+
 		display: block;
 		text-transform: uppercase;
 		line-height: 1.8rem;
