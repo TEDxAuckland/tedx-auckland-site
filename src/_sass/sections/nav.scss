@@ -1,15 +1,17 @@
-.icon {
-	display: none;
-
-	@include respond(phone) {
-		float: right;
- 		display: block;
-	}
-}
-
 .nav-bar {
 	background-color: $brand-white;
 	padding: 20px 0;
+
+	&__hamburger-icon {
+		display: none;
+		font-size: 2.7em;
+		line-height: 0;
+
+		@include respond(phone) {
+			float: right;
+			display: block;
+		}
+	}
 
 	&__container {
 		display: flex;
@@ -100,7 +102,7 @@
 
 	@include respond(phone) {
 		justify-content: space-around;
-		padding: 0.4em;
+		padding: 1em;
 	}
 
 	&__text {
