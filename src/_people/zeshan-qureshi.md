@@ -6,18 +6,12 @@ description_markdown: >-
   *Doctor / Author / Activist*
 
 
-    &nbsp;
-
-
   Zeshan Qureshi is a children’s doctor in the UK with a mission to improve the
   mental health epidemic harming healthcare practitioners. As well as working at
   a London hospital, he engages with media, politicians, and medical students -
   reflecting his belief that doctors should be both treating illness and
   preventing illness / improving quality of care through improvement of the
   medical system.
-
-
-    &nbsp;
 
 
   He has edited nine medical textbooks and has lectured over 8, 000 students
@@ -32,7 +26,7 @@ website_url: 'http://zeshanqureshi.com/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: uctoTk64GVM
 github_username:
 instagram_url:
 ---
