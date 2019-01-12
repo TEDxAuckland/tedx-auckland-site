@@ -41,6 +41,11 @@
 
 .person-content {
   font-weight: 500;
+
+  p {
+    margin-bottom: 2rem;
+  }
+
   @include respond(phone) {
     background-color: white;
     color: black;
