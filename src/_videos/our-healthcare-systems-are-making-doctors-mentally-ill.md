@@ -4,7 +4,8 @@ youtube_video_id: uctoTk64GVM
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/zeshan-qureshi-talk-1.jpg
+  - image: /uploads/zeshan-qureshi-talk-2.jpg
 related_posts:
 ---
 
