@@ -28,7 +28,7 @@ layout: default
 		</div>
 
 		<div class="post-content">
-			{{ content }}
+			{{ content | replace: '(read_more)', '' | markdownify }}
 		</div>
 
 		<nav class="post-navigation">
