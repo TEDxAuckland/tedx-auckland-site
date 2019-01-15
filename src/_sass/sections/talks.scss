@@ -18,8 +18,7 @@
   transition: all 0.2s;
 
   @include respond(tab-port) {
-    flex: 0 1 46%;
-    margin: 0 2%;
+    flex: 0 1 49%;
   }
 
   @include respond(phone) {
@@ -60,6 +59,10 @@
     height: 26.7rem;
     width: 100%;
     object-fit: cover;
+
+    @include respond(tab-port) {
+      height: 34.7rem;
+    }
   }
 
   &:hover {
