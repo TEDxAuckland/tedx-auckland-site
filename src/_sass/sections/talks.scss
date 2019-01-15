@@ -8,7 +8,7 @@
   position: relative;
   background-color: $brand-white;
   color: #000;
-  font-family: $secondary-font;
+  font-family: $primary-font;
   border: 1px solid #000;
   flex: 0 1 33%;
   z-index: 100;
@@ -63,7 +63,7 @@
   }
 
   &:hover {
-    transform: translateY(-0.9rem);
+    transform: translateY(-0.4rem);
   }
 
   &:hover &__play-button {
@@ -75,6 +75,7 @@
   display: flex;
   height: 2.5em;
   margin-top: 0.2em;
+  margin-bottom: 1.7rem;
 
   transition: all 0.4s;
 
@@ -88,9 +89,9 @@
 
   &__title {
     margin: 0;
-    font-size: 1.26rem;
+    font-size: 1.5rem;
     font-weight: bold;
-    line-height: 1.2em;
+    line-height: 1.4em;
     height: 2.4em;
     padding-right: 1.5em;
     color: $brand-white;

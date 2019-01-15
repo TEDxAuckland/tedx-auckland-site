@@ -23,7 +23,7 @@ With the success of the event behind us, I'd like to give you an insight into my
 
 The annual event took place on October 13th at Shed 10. I first stumbled upon TEDxAkl in June 2018 after reaching out to them, as I felt a strong urge to be part of a community which inspires, builds and challenges ideas.
 
-To cover the event on social media, intense planning was needed the week before. Our main focus was on how the atmosphere of the event could be captured organically via the online platforms to portray an authentic view of the event for anyone not attending.
+To cover the event on social media, intense planning was needed the week before. Our main focus was on how the atmosphere of the event could be captured organically via the online platforms to portray an authentic view of the event for anyone not attending.(read_more)
 
 Content would all happen in real time, and needed to be posted quickly and regularly, therefore, following instincts and capturing things in the moment was essential. I&nbsp;had written a plan for myself (and three very helpful volunteers) to ensure I covered the key aspects of the event we wanted to capture, but left room for improvisation. We planned to utilise Facebook, Instagram and Twitter by posting stories, photos and tweets to generate engagement.
 

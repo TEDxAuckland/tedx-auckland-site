@@ -96,13 +96,27 @@
       margin: 1rem o;
     }
   }
+
+  &__row {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+.read-more-button {
+  font-weight: 600;
+  transition: all 200ms;
+  &:hover {
+    transform: translateY(-0.4rem);
+    box-shadow: 0px .4rem 0.4rem rgba(0, 0, 0, 0.2);
+  }
 }
 
 .news-card-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: stretch;
   transform: translateY(-25.2rem);
 
   &--archive {
@@ -114,7 +128,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  align-items: flex-start;
+  align-items: stretch;
 
   &--archive {
     transform: translateY(0);

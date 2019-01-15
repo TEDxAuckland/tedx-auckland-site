@@ -112,7 +112,7 @@ a {
 	}
 
 	&--speakers {
-	  transform: translateX(-0.74em);
+	  transform: translateX(-0.5em);
 	  @include respond(section-overflow) { transform: translateX(.26em); }
 	}
 
@@ -123,23 +123,23 @@ a {
   }
 
 	&--talks {
-	  transform: translateX(-0.7em);
+	  transform: translateX(-0.5em);
 	  @include respond(section-overflow) { transform: translateX(.3em); }
 	}
 
 	&--partners {
-	  transform: translateX(-0.7em);
+	  transform: translateX(-0.5em);
 	  margin-bottom: 1.8rem;
 		@include respond(section-overflow) { transform: translateX(.3em); }
 	}
 
   &--vendors {
-    transform: translateX(-0.7em);
+    transform: translateX(-0.5em);
     @include respond(section-overflow) { transform: translateX(.3em); }
   }
 
 	&--flickr {
-	  transform: translateX(-0.74em);
+	  transform: translateX(-0.5em);
 		@include respond(section-overflow) { transform: translateX(.3em); }
 	}
 

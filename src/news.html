@@ -32,11 +32,25 @@ title: News
 
       <div class="highlight-content">
 
-        {{ highlight.content | split:'<!--base32-c9gq6t9k68pp6ebm6tgq4rk25nh62wv56ct0-base32-->' | first }}
+        {%- if highlight.content contains '(read_more)' -%}
 
-        {% if highlight.content contains '<!--base32-c9gq6t9k68pp6ebm6tgq4rk25nh62wv56ct0-base32-->' %}
-          <a class="button" href="{{ highlight.url }}">read more</a>
-        {% endif %}
+          {{ highlight.content | split: '(read_more)' | first }}
+
+        {%- else -%}
+
+          {%- capture content_highlight -%}
+            {%- assign content_array = highlight.content | split: '.' -%}
+            {%- for item in content_array limit: 5 -%}
+              {{ item }}
+            {%- endfor -%}
+          {%- endcapture -%}
+
+          {{ content_highlight | markdownify }}
+
+        {%- endif -%}
+        <div class="highlight-content__row">
+          <a class="button read-more-button" href="{{ highlight.url }}">read more</a>
+        </div>
       </div>
     </div>
   </div>
