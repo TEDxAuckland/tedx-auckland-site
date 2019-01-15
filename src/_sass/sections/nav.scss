@@ -135,14 +135,18 @@
 	}
 
 	&--active {
+		@include respond(phone) {
+			border-top: none;
+			margin-top: 0
+		}
+
 		border-top: 3px solid $brand-color;
 		margin-top: 1.8rem;
 		padding-top: 0.9rem;
 
-			&:hover {
-				transform: scale(1);
-			}
-
+		&:hover {
+			transform: scale(1);
+		}
 	}
 }
 
