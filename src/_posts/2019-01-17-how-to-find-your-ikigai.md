@@ -25,9 +25,9 @@ Your ikigai might be something that you have already discovered at a young age. 
 
 As Hector Garcia, the co-author of ikigai: The Japanese Secret to a Long and Happy Life, says, ‘According to those born on Okinawa, an island in Japan with the most centenarians in the world, our ikigai is the reason we get up in the morning’.
 
-![](/uploads/ikigai-image.png)<br> 
+![](/uploads/ikigai-image.png)<br>
 
-##### To find your ikigai, ask yourself:
+#### To find your ikigai, ask yourself:
 
 1. What do I love?
 
@@ -47,7 +47,7 @@ If you are like me and have yet to find your ikigai, I hope 2019 brings you clos
 
 To conclude, I’ll leave you with this list compiled by Hector Garcia and Frances Miralles based off the advice from the centenarians living on Okinawa.
 
-##### The ten rules of ikigai:
+#### The ten rules of ikigai:
 
 1. Stay active and don’t retire
 
