@@ -25,7 +25,7 @@ Your ikigai might be something that you have already discovered at a young age. 
 
 As Hector Garcia, the co-author of ikigai: The Japanese Secret to a Long and Happy Life, says, ‘According to those born on Okinawa, an island in Japan with the most centenarians in the world, our ikigai is the reason we get up in the morning’.
 
-![](/uploads/ikigai-image.png)![](/uploads/ikigai-image.png)<br>&nbsp;
+![](/uploads/ikigai-image.png)<br>&nbsp;
 
 ##### To find your ikigai, ask yourself:
 
