@@ -17,15 +17,15 @@ categories:
 
 I first came across the term ‘ikigai’ when my sister sent me a Japanese diagram.
 
-We were discussing our passions, and our purpose in life. It’s something that I’ve become more aware of in the past 3 years, however, I believe everyone seeks this from a young age in one way or another. I wasn't very conscious about the idea of my purpose until the feeling of needing one started to grow inside me. Instead of blindly following the motions of life and allow society or others dictate what I should be doing, I’ve recalibrated my perspective to pursue what I feel is my life’s purpose. I believe I can work towards anything my heart desires, but that's difficult when you don't know what that thing is. This is where ikigai can help. (read\_more)
+We were discussing our passions, and our purpose in life. It’s something that I’ve become more aware of in the past 3 years, however, I believe everyone seeks this from a young age in one way or another. I wasn't very conscious about the idea of my purpose until the feeling of *needing* one started to grow inside me. Instead of blindly following the motions of life and allow society or others dictate what I should be doing, I’ve recalibrated my perspective to pursue what I feel is my life’s purpose. I believe I can work towards anything my heart desires, but that's difficult when you don't know what that thing is. This is where ikigai can help. (read\_more)
 
-Ikigai (pronounced ickee-guy), is a Japanese concept which roughly translates to ‘the happiness of always being busy’.
+**Ikigai (pronounced ickee-guy), is a Japanese concept which roughly translates to ‘the happiness of always being busy’.**
 
 Your ikigai might be something that you have already discovered at a young age. We all know those kids who have always been in love with something, and religiously practised their craft. They might aspire to be a dancer, a singer, an artist, a writer, a pianist, a chef, an athlete. To them, not doing that thing is impossible. For a dancer not to dance, or a singer not to sing is like for a bee not to buzz, or the wind not to blow - It is innate. These people live and breathe their passion. For others, their ikigai is hidden deeply, and to find it requires a patient search. I fall into the latter category.
 
 As Hector Garcia, the co-author of ikigai: The Japanese Secret to a Long and Happy Life, says, ‘According to those born on Okinawa, an island in Japan with the most centenarians in the world, our ikigai is the reason we get up in the morning’.
 
-![](/uploads/ikigai-image.png)<br>
+![](/uploads/ikigai-image.png)
 
 #### To find your ikigai, ask yourself:
 
