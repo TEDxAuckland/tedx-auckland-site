@@ -47,6 +47,7 @@ image: /assets/images/bg-upcoming-events.jpg
   </div>
 </section>
 
+{% comment %}
 {% for event_name in page.events %}
 {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
@@ -59,6 +60,7 @@ image: /assets/images/bg-upcoming-events.jpg
     </div>
   </section>
 {% endfor %}
+{% endcomment %}
 
 
 {% for list in page.other_playlists %}

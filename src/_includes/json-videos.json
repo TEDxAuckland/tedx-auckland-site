@@ -1,0 +1,24 @@
+[
+  {%- for video in site.videos -%}
+  {
+    "id": "{{ video.id | remove: "/talks/" }}",
+    "url": "{{ video.url }}",
+    "title": "{{ video.title }}",
+    "performance": "{{ video.performance }}",
+    "highlight": "{{ video.highlight }}",
+    "youtubeVideoId": "{{ video.youtube_video_id }}",
+    {%- assign first_image = video.images | first -%}
+    {%- if first_image.image -%}
+    "images": {{ video.images | jsonify }},
+    {%- else -%}
+    "images": null,
+    {%- endif -%}
+    {%- assign first_post = video.related_posts | first -%}
+    {%- if first_post.blog_post -%}
+    "relatedPosts": {{ video.related_posts | jsonify }}
+    {%- else -%}
+    "relatedPosts": null
+    {%- endif -%}
+  }{% if forloop.last != true %},{% endif %}
+  {% endfor %}
+]
