@@ -67,7 +67,10 @@ title: News
           <a href="{{ post.url }}">
 
             {% if post.image %}
-            {% assign post_image = post.image | remove_first: "/" %}
+              {% assign post_image = post.image | remove_first: "/" %}
+            {% else %}
+              {% assign post_image = "/assets/images/default-talk-photo.jpg" | remove_first: "/" %}
+            {% endif %}
             {% responsive_image path: post_image
                                 class: "news-card__image"
                                 widths: "400, 800, 1200"
@@ -76,13 +79,12 @@ title: News
                                         (max-width: 600px) 97vw,
                                         200px"
             %}
-            {% endif %}
 
             <div class="news-card__content">
 
-              <h4>{{ post.title }}</h4>
+              <h4 class="news-card__content-title">{{ post.title }}</h4>
 
-              <p>
+              <p class="news-card__content-time">
                 <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
                   {{ post.date | date_to_long_string }}
                 </time>
