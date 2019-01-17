@@ -13,11 +13,6 @@ categories:
   - our-news
 ---
 
-### &nbsp;
-
-![](/uploads/blog-post-1.jpg)
-{: .present-before-paste}
-
 ### A question that is regularly asked to us at TEDxAuckland is *“how do you select your speakers?”*.
 
 It occurred to us at TEDxAkl that many people had the wrong idea about how much work was involved in the curation process. Now, with the 2018 event wrapped, I’d like to try explaining the process, which is more complicated than "we find ideas worth spreading".

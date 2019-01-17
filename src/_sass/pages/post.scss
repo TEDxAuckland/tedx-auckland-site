@@ -13,8 +13,7 @@
 .post-metadata {
   display: flex;
   border-bottom: 2px solid red;
-  margin-bottom: 2em;
-  margin-top: 1em;
+  margin: 2rem;
   font-weight: bold;
 
   .author {
@@ -102,6 +101,12 @@
   iframe {
     display: block;
     margin: auto;
+    max-width: 100%;
+    height: 37rem;
+
+    @include respond(phone) {
+      height: 52vw;
+    }
   }
 
   img {

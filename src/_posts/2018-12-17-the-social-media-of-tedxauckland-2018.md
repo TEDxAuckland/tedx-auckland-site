@@ -15,8 +15,6 @@ categories:
 
 ***What is it like running the social media for a major event like TEDxAuckland?***
 
-![](/uploads/ishan-kokulan-tedx18-fb-29.jpg)
-
 ### It has been a wonderful year for the TEDxAuckland community.
 
 With the success of the event behind us, I'd like to give you an insight into my role as the social media manager for TEDxAkl 2018.

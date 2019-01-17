@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<header class="container post__hero" style="background-image: url({{ page.image }});">
+<header class="container post__hero" style="background-image: url({% if page.image%}{{ page.image }}{% else %} /assets/images/default-talk-photo.jpg {% endif %});">
 
 </header>
 

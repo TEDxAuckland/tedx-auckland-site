@@ -13,7 +13,7 @@ categories:
   - our-news
 ---
 
-![](/uploads/img-9904.jpg)***We have some ideas about where you’ll be between speaker sessions at this year’s TEDxAuckland.*** We’re guessing you’ll be at the puppy-playpen, meeting a handful of playful puppies who will be there from 9 till 4.
+***We have some ideas about where you’ll be between speaker sessions at this year’s TEDxAuckland.*** We’re guessing you’ll be at the puppy-playpen, meeting a handful of playful puppies who will be there from 9 till 4.
 
 *Rocky, Kit, Chichi, Frank, Wha,* and two tiny 8-week-old pups will be waiting to chew off your aglets and smother you with puppy kisses that will make leaving the *Auckland Puppy Rescue* **(APR)** set-up emotionally taxing for you.
 

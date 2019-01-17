@@ -13,8 +13,6 @@ categories:
   - our-news
 ---
 
-![](/uploads/elliot-blog.jpg)
-
 #### *“A good idea is something that makes you look at the world differently . . . it puts you in someone else’s shoes or opens your mind up to something you hadn’t thought of or experienced before.”&nbsp;*
 
 Elliott explains what makes a good talk and the behind the scenes process behind TEDxAuckland’s annual festival of ideas.

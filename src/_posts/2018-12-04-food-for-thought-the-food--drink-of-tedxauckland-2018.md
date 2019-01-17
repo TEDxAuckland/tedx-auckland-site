@@ -13,9 +13,6 @@ categories:
   - our-news
 ---
 
-<br>![](/uploads/tedxauckland-2018--00-02-53-06-still002.jpg)
-{: .present-before-paste}
-
 ***TEDxAuckland isn't just about the talks...***
 {: .present-before-paste}
 

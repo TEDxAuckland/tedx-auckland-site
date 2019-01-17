@@ -13,8 +13,6 @@ categories:
   - our-news
 ---
 
-![](/uploads/43149318-275541049761622-4091425982638981120-n.jpg)
-
 **As a platform that values the spreading of unique and new ideas, we aren’t typically keen on repeating speakers in the lineup of our annual event.** So then what does it mean when a speaker from events past returns to the TEDxAuckland stage?
 
 In 2014, Co-Founder of the Classic Comedy Club, [David Downs](https://tedxauckland.com/people/david-downs/){: target="_blank"} spoke at TEDxAkl with friend and fellow CCC Co-Founder, Jon Bridges. In their talk, they challenged the established idea that New Zealand is a leading country of invention and innovation. You can [watch it here](https://www.youtube.com/watch?v=AHmLCY3O7_4){: target="_blank"} for more context.
