@@ -1,12 +1,9 @@
 ---
 layout: default
 ---
-<header class="post__hero" style="background-image: url({% if page.image%}{{ page.image }}{% else %} /assets/images/default-talk-photo.jpg {% endif %});">
+<header class="post-hero">
+	<div class="post-hero__text">
 
-</header>
-
-<section id="post" class="post section-bg-white">
-	<div class="container post-container">
 		<h3 class="section-heading section-heading--post">{{ page.title }}</h3>
 
 		<div class="post-metadata">
@@ -29,6 +26,27 @@ layout: default
 					<time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time>
 				</div>
 		</div>
+
+	</div>
+	<div class="post-hero__image">
+		{% if page.image %}
+			{% assign post_image = page.image | remove_first: "/" %}
+		{% else %}
+			{% assign post_image = "/assets/images/default-talk-photo.jpg" | remove_first: "/" %}
+		{% endif %}
+		{% responsive_image path: post_image
+												class: "news-card__image"
+												widths: "400, 800, 1200, 1800, 2700"
+												sizes: "(max-width: 1800px) 50vw,
+																(max-width: 600px) 100vw,
+																900px"
+		%}
+	</div>
+</header>
+
+<section id="post" class="post section-bg-white">
+	<div class="container post-container">
+
 
 		<div class="post-content">
 			{{ content | replace: '(read_more)', '' | markdownify }}
