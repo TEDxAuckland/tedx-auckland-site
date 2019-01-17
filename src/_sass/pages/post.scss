@@ -1,8 +1,12 @@
-.post-container {
+.post__hero {
+  background-size: cover;
+  background-position: center;
+  min-height: 65rem;
+  padding: 16rem 0 3rem 0;
 
-  img {
+  @include respond(tab-land) {
     width: 100%;
-    height: auto;
+    margin: 0;
   }
 }
 
@@ -24,6 +28,56 @@
 }
 
 .post-content {
+  width: 66rem;
+  margin: 0 auto;
+
+  @include respond(phone) {
+    width: unset;
+    margin: 0 2rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.3;
+    margin: .6em 0 .5em 0;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  h2 {
+    font-size: 3.6rem;
+  }
+
+  h3 {
+    font-size: 3rem;
+  }
+
+  h4 {
+    font-size: 2.5rem;
+  }
+
+  h5 {
+    font-size: 2rem;
+  }
+
+  h6 {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  blockquote {
+    display: flex;
+    font-weight: 600;
+
+    &::before {
+      content: "";
+      width: 2rem;
+      background-color: $brand-grey-darker;
+      transform: translateX(-1rem);
+    }
+  }
+
   p {
     line-height: 2;
     padding: 1em;
@@ -38,9 +92,23 @@
     list-style: none;
   }
 
+  li {
+    p {
+      padding-top: 0;
+      padding-bottom: .5rem;
+    }
+  }
+
   iframe {
     display: block;
     margin: auto;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+
+    margin: 0 auto;
   }
 }
 
