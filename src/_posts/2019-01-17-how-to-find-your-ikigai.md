@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Journey to Finding Your Ikigai
+title: How to Find Your Ikigai
 date: 2019-01-17 12:00:00 +1300
-image: /uploads/find-your-ikigai.jpg
+image: /uploads/ikigai-tedx-6905.jpg
 author:
   login:
   email:
@@ -25,8 +25,7 @@ Your ikigai might be something that you have already discovered at a young age. 
 
 As Hector Garcia, the co-author of ikigai: The Japanese Secret to a Long and Happy Life, says, ‘According to those born on Okinawa, an island in Japan with the most centenarians in the world, our ikigai is the reason we get up in the morning’.
 
-![](/uploads/ikigai-image.png)<br>&nbsp;
-
+![](/uploads/ikigai-image.png)<br> 
 
 ##### To find your ikigai, ask yourself:
 
