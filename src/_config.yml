@@ -60,6 +60,7 @@ exclude:
   - Gemfile.lock
   - readme.md
   - vendor
+  - _posts/their news/
 
 collections:
   events:
