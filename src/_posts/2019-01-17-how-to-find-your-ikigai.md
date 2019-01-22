@@ -3,12 +3,11 @@ layout: post
 title: How to Find Your Ikigai
 date: 2019-01-17 12:00:00 +1300
 image: /uploads/ikigai-tedx-6905.jpg
+image_caption: "Photo Credit: Cindy Leong"
 author:
-  login:
-  email:
-  display_name: Cindy Leong
-  first_name:
-  last_name:
+  name: Cindy Leong
+  tagline:
+  link:
 categories:
   - our-news
 ---

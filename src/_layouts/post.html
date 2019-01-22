@@ -13,10 +13,11 @@ layout: default
 			{% else %}
 				<div class="author">
 					{% if page.author %}
-						{% if page.author.email %}
+						{% if page.author.link %}
+							By <a href="{{ page.author.link }}">{{ page.author.name }} - {{ page.auther.tagline }}</a>
 							By <a href="mailto:{{ page.author.email }}">{{ page.author.first_name }} {{ page.author.last_name }} {{ page.author.display_name }}</a>
 						{% else %}
-							By {{ page.author.first_name }} {{ page.author.last_name }} {{ page.author.display_name }}
+							By {{ page.author.name }} - {{ page.auther.tagline }}
 							{% endif %}
 					{% endif %}
 				</div>
@@ -41,6 +42,11 @@ layout: default
 																(max-width: 600px) 100vw,
 																900px"
 		%}
+		{% if page.image_caption %}
+			<div class="post-hero__image-caption">
+				{{ page.image_caption }}
+			</div>
+		{% endif %}
 	</div>
 </header>
 

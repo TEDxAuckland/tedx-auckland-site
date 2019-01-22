@@ -47,6 +47,12 @@
       height: auto;
       @include respond(tab-land) { height: 100%; }
     }
+
+		&-caption {
+			color: lighten($brand-grey, 20);
+			font-size: 1.3rem;
+			font-weight: 500;
+		}
   }
 }
 
