@@ -52,25 +52,39 @@
 			color: lighten($brand-grey, 20);
 			font-size: 1.3rem;
 			font-weight: 500;
+			@include respond(tab-land) { text-align: center; }
+
+			a {
+				transition: all 200ms;
+				color: lighten($brand-grey, 20);
+			}
+
+			a:hover {
+				color: $brand-color;
+			}
 		}
   }
 }
 
-.post-metadata {
-  display: flex;
-  border-bottom: 2px solid red;
+.author-info {
   margin: 2rem;
   font-weight: bold;
   font-size: 1.6rem;
 
-  .author {
-    float: left;
-  }
+	&__top {
+		display: flex;
+		justify-content: space-between;
+		border-bottom: 2px solid $brand-color;
+	}
 
-  .post-date {
-    margin-left: auto;
-    justify-content: flex-end;
-  }
+	a {
+		transition: all 200ms;
+		color: lighten($brand-grey, 20);
+	}
+
+	a:hover {
+		color: $brand-color;
+	}
 }
 
 .post-content {

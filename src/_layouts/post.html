@@ -6,35 +6,31 @@ layout: default
 
 		<h3 class="section-heading section-heading--post">{{ page.title }}</h3>
 
-		<div class="post-metadata">
-
-			{% if page.alturl %}
-				<p>Article from {{ page.altauthor }}: <a href="{{ page.alturl }}">{{ page.alturl }}</a></p>
-			{% else %}
-				<div class="author">
-					{% if page.author %}
-						{% if page.author.link %}
-							By <a href="{{ page.author.link }}">{{ page.author.name }} - {{ page.auther.tagline }}</a>
-							By <a href="mailto:{{ page.author.email }}">{{ page.author.first_name }} {{ page.author.last_name }} {{ page.author.display_name }}</a>
-						{% else %}
-							By {{ page.author.name }} - {{ page.auther.tagline }}
-							{% endif %}
-					{% endif %}
+		<div class="author-info">
+			<div class="author-info__top">
+				<div class="author-info__top-left">
+					{%- if page.author -%}
+					{%- if page.author.link -%}
+					By <a href="{{ page.author.link }}" target="_blank">{{ page.author.name }} {%- if page.author.tagline -%} <small>{{ page.author.tagline | prepend: " - " }} </small> {%- endif -%}</a>
+					{%- else -%}
+					By {{ page.author.name }} {%- if page.author.tagline -%} <small>{{ page.author.tagline | prepend: " - " }} </small> {%- endif -%}
+					{%- endif -%}
+					{%- endif -%}
 				</div>
-			{% endif %}
 
-				<div class="post-date">
+				<div class="author-info__top-right">
 					<time datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date_to_long_string }}</time>
 				</div>
+			</div>
 		</div>
 
 	</div>
 	<div class="post-hero__image">
-		{% if page.image %}
-			{% assign post_image = page.image | remove_first: "/" %}
-		{% else %}
+		{%- if page.image -%}
+			{%- assign post_image = page.image | remove_first: "/" -%}
+		{%- else -%}
 			{% assign post_image = "/assets/images/default-talk-photo.jpg" | remove_first: "/" %}
-		{% endif %}
+		{%- endif -%}
 		{% responsive_image path: post_image
 												class: "news-card__image"
 												widths: "400, 800, 1200, 1800, 2700"
@@ -42,11 +38,15 @@ layout: default
 																(max-width: 600px) 100vw,
 																900px"
 		%}
-		{% if page.image_caption %}
+		{%- if page.image_caption -%}
 			<div class="post-hero__image-caption">
+				{%- if page.image_caption_link -%}
+				<a href="{{ page.image_caption_link }}" target="_blank">{{ page.image_caption }}</a>
+				{%- else -%}
 				{{ page.image_caption }}
+				{%- endif -%}
 			</div>
-		{% endif %}
+		{%- endif -%}
 	</div>
 </header>
 
@@ -59,12 +59,12 @@ layout: default
 		</div>
 
 		<nav class="post-navigation">
-		  {% if page.previous.url %}
+		  {%- if page.previous.url -%}
 		    <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
-		  {% endif %}
-		  {% if page.next.url %}
+		  {%- endif -%}
+		  {%- if page.next.url -%}
 		    <a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
-		  {% endif %}
+		  {%- endif -%}
 		</nav>
 	</div>
 </section>
