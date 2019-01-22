@@ -1,5 +1,4 @@
 ---
-layout: post
 title: An Interview With Elliott Blade - TEDxAuckland Licensee
 image: /uploads/elliot-blog.jpg
 image_caption:

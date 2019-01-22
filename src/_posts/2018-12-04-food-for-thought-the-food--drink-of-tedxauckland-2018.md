@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Food For Thought: The food & drink of TEDxAuckland 2018'
 image: /uploads/tedxauckland-2018--00-02-53-06-still002.jpg
 image_caption:

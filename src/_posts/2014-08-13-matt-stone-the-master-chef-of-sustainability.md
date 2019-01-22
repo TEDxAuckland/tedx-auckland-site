@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Matt Stone. The Master Chef of Sustainability.
 image:
 image_caption:

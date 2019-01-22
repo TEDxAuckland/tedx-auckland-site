@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Scaling the unknown with Rebecca Mills, Sustainability Strategist
 image:
 image_caption:

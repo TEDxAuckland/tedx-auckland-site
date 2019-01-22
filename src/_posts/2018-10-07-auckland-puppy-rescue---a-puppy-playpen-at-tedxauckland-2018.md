@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Auckland Puppy Rescue - A Puppy-Playpen at TEDxAuckland 2018
 image: /uploads/img-9904-1.jpg
 image_caption:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'TEDxAuckland 2015: The Food'
 image:
 image_caption:

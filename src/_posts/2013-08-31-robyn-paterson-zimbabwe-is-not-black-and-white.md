@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Robyn Paterson: Zimbabwe is not black and white'
 image:
 image_caption:

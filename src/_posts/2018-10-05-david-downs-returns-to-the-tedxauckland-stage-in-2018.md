@@ -1,5 +1,4 @@
 ---
-layout: post
 title: David Downs Returns To The TEDxAuckland Stage In 2018
 image: /uploads/43149318-275541049761622-4091425982638981120-n.jpg
 image_caption:

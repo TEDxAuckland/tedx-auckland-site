@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Speaker Update | Georgia Lala
 image: /assets/wordpress/Georgia-Lala-2016-68pc.jpg
 image_caption:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The social media of TEDxAuckland 2018
 image: /uploads/ishan-kokulan-tedx18-fb-28.jpg
 image_caption:

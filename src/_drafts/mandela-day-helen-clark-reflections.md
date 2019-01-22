@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mandela Day: Helen Clark reflections'
 image:
 image_caption:

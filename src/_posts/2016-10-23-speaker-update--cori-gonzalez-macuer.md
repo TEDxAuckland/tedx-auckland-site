@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Speaker Update | Cori Gonzalez-Macuer
 image: /assets/wordpress/4G5A4602-2400-60pc.jpg
 image_caption:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:
 image:
 image_caption:

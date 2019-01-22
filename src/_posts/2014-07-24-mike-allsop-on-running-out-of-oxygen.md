@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Mike Allsop, on running out of oxygen
 image:
 image_caption:

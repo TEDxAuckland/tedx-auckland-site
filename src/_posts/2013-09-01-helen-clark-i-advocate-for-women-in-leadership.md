@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Helen Clark: I advocate for women in leadership'
 image:
 image_caption:

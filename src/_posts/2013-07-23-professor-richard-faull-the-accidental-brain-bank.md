@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Professor Richard Faull: The accidental brain bank'
 image:
 image_caption:

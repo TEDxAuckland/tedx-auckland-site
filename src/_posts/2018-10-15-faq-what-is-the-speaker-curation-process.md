@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'FAQ: What is the Speaker Curation Process?'
 image: /uploads/blog-post.jpg
 image_caption:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: TEDxAkl 2016 Food Story Video
 image:
 image_caption:

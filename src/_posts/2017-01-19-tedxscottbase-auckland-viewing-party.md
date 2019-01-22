@@ -1,5 +1,4 @@
 ---
-layout: post
 title: TEDxScottBase Auckland viewing party
 image: /assets/wordpress/TEDxScottBasePoster-Akl2017-@2400px-50.jpg
 image_caption:

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Robert Oliver: “Homelessness was bizarre to me!”'
 image:
 image_caption:

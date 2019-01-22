@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to Find Your Ikigai
 image: /uploads/ikigai-tedx-6905.jpg
 image_caption: "Photo Credit: Cindy Leong"

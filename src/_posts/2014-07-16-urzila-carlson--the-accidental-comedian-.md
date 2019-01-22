@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Urzila Carlson. The accidental comedian.
 image:
 image_caption:

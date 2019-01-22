@@ -9,12 +9,12 @@ layout: default
 		<div class="author-info">
 			<div class="author-info__top">
 				<div class="author-info__top-left">
-					{%- if page.author -%}
-					{%- if page.author.link -%}
-					By <a href="{{ page.author.link }}" target="_blank">{{ page.author.name }} {%- if page.author.tagline -%} <small>{{ page.author.tagline | prepend: " - " }} </small> {%- endif -%}</a>
+					{%- if page.author and page.author.link and page.author.tagline -%}
+						By <a href="{{ page.author.link }}" target="_blank">{{ page.author.name }}</a> <small>{{ page.author.tagline | prepend: " - " }}</small>
+					{%- elsif page.author and page.author.tagline -%}
+						By {{ page.author.name }} <small>{{ page.author.tagline | prepend: " - " }}</small>
 					{%- else -%}
-					By {{ page.author.name }} {%- if page.author.tagline -%} <small>{{ page.author.tagline | prepend: " - " }} </small> {%- endif -%}
-					{%- endif -%}
+						By {{ page.author.name }}
 					{%- endif -%}
 				</div>
 
@@ -29,7 +29,7 @@ layout: default
 		{%- if page.image -%}
 			{%- assign post_image = page.image | remove_first: "/" -%}
 		{%- else -%}
-			{% assign post_image = "/assets/images/default-talk-photo.jpg" | remove_first: "/" %}
+			{% assign post_image = "assets/images/default-talk-photo.jpg" %}
 		{%- endif -%}
 		{% responsive_image path: post_image
 												class: "news-card__image"
@@ -41,9 +41,9 @@ layout: default
 		{%- if page.image_caption -%}
 			<div class="post-hero__image-caption">
 				{%- if page.image_caption_link -%}
-				<a href="{{ page.image_caption_link }}" target="_blank">{{ page.image_caption }}</a>
+					<a href="{{ page.image_caption_link }}" target="_blank">{{ page.image_caption }}</a>
 				{%- else -%}
-				{{ page.image_caption }}
+					{{ page.image_caption }}
 				{%- endif -%}
 			</div>
 		{%- endif -%}
