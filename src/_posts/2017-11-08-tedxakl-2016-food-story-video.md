@@ -1,15 +1,15 @@
 ---
 layout: post
 title: TEDxAkl 2016 Food Story Video
-date: 2017-11-08 17:25:47.000000000 +13:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: elliott
-  email: elliott@tedxauckland.com
-  display_name: elliott
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: Elliott
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 
 Food. It’s an essential ingredient to life, growing ideas, people and **#TEDxAkl**. Check out our Food Video from last years Long Lunch.

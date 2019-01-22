@@ -1,14 +1,13 @@
 ---
 layout: post
 title: The social media of TEDxAuckland 2018
-date: 2018-12-17 12:00:00 +1300
 image: /uploads/ishan-kokulan-tedx18-fb-28.jpg
+image_caption:
+image_caption_link:
 author:
-  login:
-  email:
-  display_name: Tara Ranchhod - Social media manager 2018
-  first_name:
-  last_name:
+  name: Tara Ranchhod
+  tagline: Social media manager 2018
+  link:
 categories:
   - our-news
 ---

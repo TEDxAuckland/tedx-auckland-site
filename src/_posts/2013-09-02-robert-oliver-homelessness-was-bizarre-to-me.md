@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Robert Oliver: “Homelessness was bizarre to me!”'
-date: 2013-09-02 22:43:03.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: tedxauckland
-  email: lloyd@wolf.net.nz
-  display_name: tedxauckland
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: TEDxAuckland
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 
 I recall a dinner I had with chef and author Robert Oliver a few days before he took to the stage at TEDxAuckland and presented his blueprint for food tourism culture.

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Matt Stone. The Master Chef of Sustainability.
-date: 2014-08-13 22:34:52.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: tedxauckland
-  email: lloyd@wolf.net.nz
-  display_name: tedxauckland
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: TEDxAuckland
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 One of Matt Stone’s favourite TED Talks is by Sir Ken Robinson, ‘school is killing creativity’, and so it’s not surprising that Australia’s hottest young chef has been working in the industry since he was just 15. Matt will be turning up the heat at TEDxAuckland this weekend, and armed with pioneering experience and a bold sense of adventure, this eco-warrior will challenge industry to go where very few have gone before.
 

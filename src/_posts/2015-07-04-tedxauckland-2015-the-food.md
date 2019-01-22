@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'TEDxAuckland 2015: The Food'
-date: 2015-07-04 04:24:14.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: elliott
-  email: elliott@tedxauckland.com
-  display_name: elliott
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: Elliott
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 
 We collaborated with The Food Truck this year to make a healthy delicious lunch at TEDxAuckland 2015.

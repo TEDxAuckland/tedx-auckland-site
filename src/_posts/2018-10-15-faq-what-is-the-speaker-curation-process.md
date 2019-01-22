@@ -1,14 +1,13 @@
 ---
 layout: post
 title: 'FAQ: What is the Speaker Curation Process?'
-date: 2018-10-15 12:00:00 +1300
 image: /uploads/blog-post.jpg
+image_caption:
+image_caption_link:
 author:
-  login:
-  email:
-  display_name: Ethan Alderson-Hughes - Co-Organiser of TEDxAuckland
-  first_name:
-  last_name:
+  name: Ethan Alderson-Hughes
+  tagline: Co-Organiser of TEDxAuckland
+  link:
 categories:
   - our-news
 ---

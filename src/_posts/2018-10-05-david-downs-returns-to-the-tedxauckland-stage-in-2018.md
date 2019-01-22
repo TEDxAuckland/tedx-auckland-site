@@ -1,14 +1,13 @@
 ---
 layout: post
 title: David Downs Returns To The TEDxAuckland Stage In 2018
-date: 2018-10-05 12:00:00 +1300
 image: /uploads/43149318-275541049761622-4091425982638981120-n.jpg
+image_caption:
+image_caption_link:
 author:
-  login:
-  email: ethan@tedxauckland.com
-  display_name: Ethan Alderson-Hughes - Co-Organiser of TEDxAuckland
-  first_name:
-  last_name:
+  name: Ethan Alderson-Hughes
+  tagline: Co-Organiser of TEDxAuckland
+  link:
 categories:
   - our-news
 ---

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Helen Clark: I advocate for women in leadership'
-date: 2013-09-01 12:26:33.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: tedxauckland
-  email: lloyd@wolf.net.nz
-  display_name: tedxauckland
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: TEDxAuckland
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 Words: Jamie Joseph
 

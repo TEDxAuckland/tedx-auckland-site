@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Scaling the unknown with Rebecca Mills, Sustainability Strategist
-date: 2014-07-08 22:47:51.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: tedxauckland
-  email: lloyd@wolf.net.nz
-  display_name: tedxauckland
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: TEDxAuckland
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 By Jamie Joseph
 

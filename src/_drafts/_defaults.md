@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mandela Day: Helen Clark reflections'
+title:
 image:
 image_caption:
 image_caption_link:
@@ -12,4 +12,4 @@ categories:
   - our-news
 ---
 
-Enter your description here...
+Enter blog post here...

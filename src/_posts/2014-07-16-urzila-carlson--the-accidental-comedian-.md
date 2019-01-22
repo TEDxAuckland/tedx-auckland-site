@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Urzila Carlson. The accidental comedian.
-date: 2014-07-16 22:49:29.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: tedxauckland
-  email: lloyd@wolf.net.nz
-  display_name: tedxauckland
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: TEDxAuckland
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 
 Originally from South Africa, Urzila Carlson is the accidental comedian who stepped up to the stage for the first time in 2008, and then went on to win best new comer award. At the time she was employed as a graphic designer, and the only reason she agreed to perform open mic –“ just that once” – was because she was bullied into it by her zealous, supportive work colleagues.

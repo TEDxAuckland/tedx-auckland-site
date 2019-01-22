@@ -1,15 +1,15 @@
 ---
 layout: post
 title: TEDxScottBase Auckland viewing party
-date: 2017-01-19 01:41:33.000000000 +13:00
 image: /assets/wordpress/TEDxScottBasePoster-Akl2017-@2400px-50.jpg
+image_caption:
+image_caption_link:
 author:
-  login: elliott
-  email: elliott@tedxauckland.com
-  display_name: elliott
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: Elliott
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 
 We're joining over 50 other TEDxOrganisers around the world to bring you a special Viewing Party for TEDxScottBase, our Facebook Event here.

@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Auckland Puppy Rescue - A Puppy-Playpen at TEDxAuckland 2018
-date: 2018-10-07 12:00:00 +1300
 image: /uploads/img-9904-1.jpg
+image_caption:
+image_caption_link:
 author:
-  login:
-  email:
-  display_name: Ethan Alderson-Hughes - Co-Organiser of TEDxAuckland
-  first_name:
-  last_name:
+  name: Ethan Alderson-Hughes
+  tagline: Co-Organiser of TEDxAuckland
+  link:
 categories:
   - our-news
 ---

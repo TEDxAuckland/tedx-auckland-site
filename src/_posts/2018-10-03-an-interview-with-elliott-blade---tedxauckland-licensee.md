@@ -1,14 +1,13 @@
 ---
 layout: post
 title: An Interview With Elliott Blade - TEDxAuckland Licensee
-date: 2018-10-03 00:00:00 +1300
 image: /uploads/elliot-blog.jpg
+image_caption:
+image_caption_link:
 author:
-  login:
-  email:
-  display_name: Jean Bell
-  first_name:
-  last_name:
+  name: Jean Bell
+  tagline:
+  link:
 categories:
   - our-news
 ---

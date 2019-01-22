@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Professor Richard Faull: The accidental brain bank'
-date: 2013-07-23 22:41:11.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: tedxauckland
-  email: lloyd@wolf.net.nz
-  display_name: tedxauckland
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: TEDxAuckland
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 
 Just as I was heading over to Auckland University for my interview with brain scientist Richard Faull, a fellow colleague stopped me at the lift. She told me that she had recently attended a Huntington’s conference where the Professor was a guest speaker - the Huntington’s gene is in her family. This means that there is a 50% possibility of her inheriting the neurodegenerative disorder. But she was hopeful that if anyone could make real progress in the battle against Huntington’s it would be Richard Faull and his team at the Brain Bank.

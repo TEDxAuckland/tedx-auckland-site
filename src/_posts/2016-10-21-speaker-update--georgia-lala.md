@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Speaker Update | Georgia Lala
-date: 2016-10-21 00:35:00 +1300
 image: /assets/wordpress/Georgia-Lala-2016-68pc.jpg
+image_caption:
+image_caption_link:
 author:
-  login:
-  email:
-  display_name: Ciara Pratt
-  first_name:
-  last_name:
-categories: [our-news]
+  name: Ciara Pratt
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 
 19-year-old Georgia Lala has made sustainability the name of her game.

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Mike Allsop, on running out of oxygen
-date: 2014-07-24 22:38:41.000000000 +12:00
 image:
+image_caption:
+image_caption_link:
 author:
-  login: tedxauckland
-  email: lloyd@wolf.net.nz
-  display_name: tedxauckland
-  first_name: ''
-  last_name: ''
-categories: [our-news]
+  name: TEDxAuckland
+  tagline:
+  link:
+categories:
+  - our-news
 ---
 By Jamie Joseph
 
