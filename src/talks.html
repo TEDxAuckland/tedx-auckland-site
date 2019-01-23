@@ -47,7 +47,6 @@ image: /assets/images/bg-upcoming-events.jpg
   </div>
 </section>
 
-{% comment %}
 {% for event_name in page.events %}
 {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
@@ -55,12 +54,11 @@ image: /assets/images/bg-upcoming-events.jpg
   	<div class="container">
 
   		<h3 class="section-heading section-heading--talks">{{ event.short_title }}</h3>
-      {% include playlist_videos.html playlist_id = event.youtube_playlist %}
+      {% include playlist_videos.html playlist_id = event.youtube_playlist unique_id = forloop.index %}
 
     </div>
   </section>
 {% endfor %}
-{% endcomment %}
 
 
 {% for list in page.other_playlists %}

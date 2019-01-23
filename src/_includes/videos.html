@@ -1,55 +1,24 @@
-{%- assign video_names = include.video_names -%}
-<div class="talk-container">
-	{%- for video_name in video_names -%}
-		{%- assign video = site.videos | where_exp: "v", "v.slug == video_name" | first -%}
-		{%- assign video_id = video.youtube_video_id -%}
-		{%- assign youtube_data = site.data.youtube_playlists.videos[video_id] -%}
-		{%- assign person = site.people | where_exp: "p", "p.youtube_video_id == video_id" | first -%}
-		{%- assign video_url = "https://www.youtube.com/embed/" | append: video_id | append: "?rel=0&amp;showinfo=0&amp;autoplay=1" -%}
-
-		<div class="talk-card">
-			<div class="talk-card__link">
-
-
-				{%- assign no_of_images = video.images | size -%}
-				{%- assign first_image = video.images | first -%}
-				{%- if first_image.image != nil -%}
-				<div class="talk-card__image-container">
-					<div data-url="{{ video_url }}" class="talk-card__play-button">&nbsp;</div>
-
-					{%- assign video_image = first_image["image"] | remove_first: "/" -%}
-					{% responsive_image path: video_image
-															class: "talk-card__image"
-															alt: youtube_data.title
-															widths: "300, 600, 900, 1200"
-															sizes: "(max-width: 1200px) 33.33vw,
-																			(max-width: 900px) 50vw,
-																			(max-width: 600px) 100vw,
-																			400px"
-					%}
-				</div>
-
-				{%- else -%}
-				<div class="talk-card__image-container">
-					<div data-url="{{ video_url }}" class="talk-card__play-button">&nbsp;</div>
-					<img class="talk-card__image"
-							 src="{{ youtube_data.thumbnail_url.medium }}"
-							 srcset="{{ youtube_data.thumbnail_url.medium }} 320w,
-											 {{ youtube_data.thumbnail_url.high }} 480w,
-											 {{ youtube_data.thumbnail_url.standard }} 640w,
-											 {{ youtube_data.thumbnail_url.maxres }} 1280w"
-							 sizes="(max-width: 1200px) 33.33vw,
-											(max-width: 900px) 50vw,
-											(max-width: 600px) 100vw,
-											400px"
-							 alt="{{ youtube_data.title }} video"/>
-				</div>
-				{%- endif -%}
-
-				<a href="{{ video.url }}" class="caption">
-					<h4 class="caption__title">{{ video.title }}: {{ person.name }}</h4>
-				</a>
-			</div>
-		</div>
-	{%- endfor -%}
+{%- assign unique_id = 'videos-component-' | append: include.unique_id -%}
+<div id="{{ unique_id }}">
+	<videos-list
+          :video-names="videoNames"
+          :videos-collection="videosCollection"
+          :videos-json="videosJson"
+          :people="people"
+        />
 </div>
+
+<script>
+var videoNames = {{ include.video_names | jsonify }}
+var videosCollection = {% include json-videos.json %}
+var videosJson = {{ site.data.youtube_playlists.videos | jsonify }}
+var people = {% include json-people.json %}
+new Vue({
+	data: {
+		videoNames: videoNames,
+		videosCollection: videosCollection,
+		videosJson: videosJson,
+		people: people
+	}
+}).$mount('#{{unique_id}}')
+</script>
