@@ -6,7 +6,7 @@ description_markdown: >-
   *Storyteller / Life-Liver / Survivor*
 
 
-    &nbsp;
+  &nbsp;
 
 
   Jess Quinn has a passion for helping people overcome adversity and insecurity
@@ -16,7 +16,7 @@ description_markdown: >-
   setbacks along the way.
 
 
-    &nbsp;
+  &nbsp;
 
 
   Jess has developed an social media following of 180,000+ followers by speaking
@@ -26,14 +26,14 @@ description_markdown: >-
   continuing to lead by example by taking all challenges that come her way.
 
 
-    &nbsp;
+  &nbsp;
 
 
   As one of New Zealand’s most engaged personalities on social media, Jess
   connects with thousands of people each day to help inspire their own journey.
 
 
-    &nbsp;
+  &nbsp;
 
 
   Jess is currently on a mission to bringing awareness to image retouching in
@@ -43,7 +43,7 @@ website_url: 'https://beplanbe.com/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: ujQAvQteeZY
 github_username:
 instagram_url: 'https://www.instagram.com/jessicaemilyquinn/'
 ---
