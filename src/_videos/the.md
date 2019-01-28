@@ -1,8 +1,8 @@
 ---
 title: The Four-Day Week
 youtube_video_id: xjgqCgoxElw
-performance: true
-highlight: true
+performance: false
+highlight: false
 images:
   - image:
 related_posts:
