@@ -6,9 +6,6 @@ description_markdown: >-
   *Innovator / Entrepreneur / Philanthropist*
 
 
-    &nbsp;
-
-
   Andrew has made a career of market-changing innovation and industry
   digitisation. Most recently, in New Zealand, he triggered a revolution of the
   entire fiduciary and legal services industries, and the transformation he has
@@ -17,9 +14,6 @@ description_markdown: >-
   week, which made headlines around the world reaching an audience of over 4
   billion people from 35 different countries and leading change in government
   thinking in the Europe, Australia and New Zealand.
-
-
-  &nbsp;
 
 
   Andrew is a director of Complectus Limited, the company encompassing Perpetual
@@ -31,18 +25,12 @@ description_markdown: >-
   resort to pay day lenders (which charge up to 700% interest on small loans).
 
 
-  &nbsp;
-
-
   Earlier in his career, Andrew identified the opportunity for the evolution of
   real estate in Australia and was chairman of realestate.com.au at the time of
   its IPO on the ASX. Later, he became CEO of Bestinvest, a UK-based investment
   management and advisory company, leading the sale to private capital in 2007,
   and was managing director of Australian Wealth Management Limited, a major
   Australian wealth management and trustee business that he led to IPO in 2005.
-
-
-  &nbsp;
 
 
   Andrew is a sought-after keynote speaker and is regularly asked to address
@@ -53,7 +41,7 @@ website_url: 'https://www.perpetualguardian.co.nz/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: xjgqCgoxElw
 github_username:
 instagram_url:
 ---
