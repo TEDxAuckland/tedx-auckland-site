@@ -15,6 +15,28 @@ layout: default
 	</div>
 </section>
 
+{% if page.youtube_playlist %}
+<section id="talks" class="section-bg-white">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">talks</h3>
+    {% include playlist_videos.html playlist_id = page.youtube_playlist %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.other_youtube_playlist %}
+<section id="talks" class="section-bg-white">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
+    {% include playlist_videos.html playlist_id = page.other_youtube_playlist %}
+
+  </div>
+</section>
+{% endif %}
+
 {% if page.people %}
 <section id="speakers" class="section-bg-white">
   <div class="container">
@@ -56,28 +78,6 @@ layout: default
 
 		{% include food-vendors.html food_vendors = page.food_vendors %}
 	</div>
-</section>
-{% endif %}
-
-{% if page.youtube_playlist %}
-<section id="talks" class="section-bg-white">
-  <div class="container">
-
-    <h3 class="section-heading section-heading--talks">talks</h3>
-    {% include playlist_videos.html playlist_id = page.youtube_playlist %}
-
-  </div>
-</section>
-{% endif %}
-
-{% if page.other_youtube_playlist %}
-<section id="talks" class="section-bg-white">
-  <div class="container">
-
-    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
-    {% include playlist_videos.html playlist_id = page.other_youtube_playlist %}
-
-  </div>
 </section>
 {% endif %}
 
