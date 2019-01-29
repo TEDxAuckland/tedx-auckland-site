@@ -4,7 +4,7 @@ youtube_video_id: xjgqCgoxElw
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/andrew-barnes-talk-1.jpg
 related_posts:
 ---
 
