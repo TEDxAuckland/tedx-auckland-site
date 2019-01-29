@@ -5,7 +5,7 @@
   background-size: cover;
 
   &__container {
-    max-width: 1800px;
+    max-width: 1600px;
     padding-left: 3rem;
     margin: 2rem auto 3rem auto;
 
@@ -14,26 +14,14 @@
   	}
   }
 
-  &__heading, &__title {
-  	font-weight: bold;
-  	line-height: 1;
-  	margin: 0;
-  }
-
-  &__heading {
-    font-size: 8rem;
-    margin-bottom: 1rem;
-
-    @include respond(phone) {
-  		font-size: 3rem;
-  	}
-  }
-
   &__title {
-    font-size: 12rem;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0;
+    font-size: 10rem;
 
     @include respond(section-overflow) {
-      font-size: 10rem
+      font-size: 8rem;
     }
 
     @include respond(phone) {

@@ -10,11 +10,12 @@
 		<div class="talk-card">
 			<div class="talk-card__link">
 
-				<div data-url="{{ video_url }}" class="talk-card__play-button">&nbsp;</div>
 
 				{%- assign no_of_images = video.images | size -%}
 				{%- assign first_image = video.images | first -%}
 				{%- if first_image.image != nil -%}
+				<div class="talk-card__image-container">
+					<div data-url="{{ video_url }}" class="talk-card__play-button">&nbsp;</div>
 
 					{%- assign video_image = first_image["image"] | remove_first: "/" -%}
 					{% responsive_image path: video_image
@@ -26,8 +27,11 @@
 																			(max-width: 600px) 100vw,
 																			400px"
 					%}
+				</div>
 
 				{%- else -%}
+				<div class="talk-card__image-container">
+					<div data-url="{{ video_url }}" class="talk-card__play-button">&nbsp;</div>
 					<img class="talk-card__image"
 							 src="{{ youtube_data.thumbnail_url.medium }}"
 							 srcset="{{ youtube_data.thumbnail_url.medium }} 320w,
@@ -39,6 +43,7 @@
 											(max-width: 600px) 100vw,
 											400px"
 							 alt="{{ youtube_data.title }} video"/>
+				</div>
 				{%- endif -%}
 
 				<a href="{{ video.url }}" class="caption">

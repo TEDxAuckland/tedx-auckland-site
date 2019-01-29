@@ -9,8 +9,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 {%- assign event = site.events | where_exp: "e", "e.people contains presenter_name" | first -%}
 
 <header class="talk-header">
-	<div class="container talk-header__container">
-		<h1 class="talk-header__heading">Talk</h1>
+	<div class="container talk-header__container"> 
 		<h1 class="talk-header__title">{{ page.title }}</h1>
 	</div>
 </header>

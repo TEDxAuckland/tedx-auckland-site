@@ -23,7 +23,7 @@
 
   @include respond(phone) {
     flex: 1 1 100%;
-    margin: 2rem 10%;
+    margin: 1rem 1rem 0 1rem;
   }
 
   &__link {
@@ -32,12 +32,13 @@
 
   &__play-button {
     cursor: pointer;
+    z-index: 100;
     background-color: rgba(0, 0, 0, 0.5);
     width: 5.4rem;
     height: 5.4rem;
     position: absolute;
-    top: 20.5rem;
-    left: 0.9rem;
+    bottom: 1rem;
+    left: 1rem;
 
     display: flex;
     justify-content: center;
@@ -55,14 +56,21 @@
     }
   }
 
-  &__image {
-    height: 26.7rem;
-    width: 100%;
-    object-fit: cover;
+  &__image-container {
+    height: 0;
+    overflow: hidden;
+    padding-top: 66.7%;
+    position: relative;
+    margin-bottom: 1rem;
+  }
 
-    @include respond(tab-port) {
-      height: 34.7rem;
-    }
+  &__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
   }
 
   &:hover {
@@ -76,7 +84,6 @@
 
 .caption {
   display: flex;
-  height: 2.5em;
   margin-top: 0.2em;
   margin-bottom: 1.7rem;
 
@@ -95,7 +102,6 @@
     font-size: 1.5rem;
     font-weight: bold;
     line-height: 1.4em;
-    height: 2.4em;
     padding-right: 1.5em;
     color: $brand-white;
   }
