@@ -2,23 +2,14 @@
 <div id="{{ unique_id }}">
 	<videos-list
           :video-names="videoNames"
-          :videos-collection="videosCollection"
-          :videos-json="videosJson"
-          :people="people"
         />
 </div>
 
 <script>
 var videoNames = {{ include.video_names | jsonify }}
-var videosCollection = {% include json-videos.json %}
-var videosJson = {{ site.data.youtube_playlists.videos | jsonify }}
-var people = {% include json-people.json %}
 new Vue({
 	data: {
 		videoNames: videoNames,
-		videosCollection: videosCollection,
-		videosJson: videosJson,
-		people: people
 	}
 }).$mount('#{{unique_id}}')
 </script>
