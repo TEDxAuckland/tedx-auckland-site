@@ -1,0 +1,6 @@
+<script>
+var playlistJson = {{ site.data.youtube_playlists.playlist_videos | jsonify }}
+var videosCollection = {% include json-videos.json %}
+var videosJson = {{ site.data.youtube_playlists.videos | jsonify }}
+var people = {% include json-people.json %}
+</script>
