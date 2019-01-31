@@ -4,7 +4,7 @@ youtube_video_id: cQO3kPM3YRE
 performance: false
 highlight: false
 images:
-  image:
+  image: /uploads/modern-māori-quartet-talk-2.jpg
 related_posts:
 ---
 
