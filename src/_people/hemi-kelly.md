@@ -6,9 +6,6 @@ description_markdown: >-
   *Teacher / Author / Translator*
 
 
-    &nbsp;
-
-
   Hēmi Kelly (Ngāti Maniapoto, Ngāti Tahu, Ngāti Whāoa) is a lecturer in te reo
   Māori at AUT. He is also involved in a number of Māori language planning and
   revitalisation initiatives within the community and enjoys sharing his love
@@ -18,7 +15,7 @@ description_markdown: >-
   2018.
 website_url: 'https://www.aut.ac.nz/profiles/te-ara-poutama/lecturers/hmi-kelly'
 medium_url:
-twitter_url:
+twitter_url: 'https://twitter.com/HemiKelly'
 facebook_url:
 youtube_video_id:
 github_username:
