@@ -1,13 +1,12 @@
 ---
-title: The accessibility equation
+title: 'The accessibility equation: valuing an accessible world for all'
 youtube_video_id: __V07QKguBI
 performance: false
 highlight: false
 images:
-- image: "/uploads/minnie-barragwanath_talk_2.jpg"
-- image: "/uploads/minnie-barragwanath_talk_1.jpg"
+  - image: /uploads/minnie-barragwanath_talk_2.jpg
+  - image: /uploads/minnie-barragwanath_talk_1.jpg
 related_posts:
-- blog_post: 
 ---
 
 When you look at the world through disabilities, you look at he world through opportunities that haven't been taken yet. Minnie breaks this down to an amazing world that we all live in of untapped opportunity of accessibility opportunity that makes us all better.
