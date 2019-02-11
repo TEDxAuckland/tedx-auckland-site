@@ -7,6 +7,7 @@
     "performance": "{{ video.performance }}",
     "highlight": "{{ video.highlight }}",
     "youtubeVideoId": "{{ video.youtube_video_id }}",
+    "content": {{ video.raw_content | jsonify }},
     {%- assign first_image = video.images | first -%}
     {%- if first_image.image -%}
     "images": {{ video.images | jsonify }},

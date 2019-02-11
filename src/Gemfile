@@ -12,3 +12,5 @@ group :jekyll_plugins do
   gem 'jekyll-responsive-image', github: 'JacobKorn/jekyll-responsive-image', branch: 'custom-sizes'
   gem 'jekyll-seo-tag'
 end
+
+gem 'pry'

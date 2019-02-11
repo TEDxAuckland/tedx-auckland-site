@@ -1,0 +1,82 @@
+.talks-expanded-preview {
+  &__header {
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+  }
+
+  &__profile-link {
+    font-size: 1.2rem;
+    text-decoration: underline;
+    line-height: 1;
+    margin-left: 1rem;
+    margin-bottom: 2.5rem;
+    font-style: italic;
+    transition: all .2s;
+
+    &:hover {
+      transform: translateY(-0.2rem);
+    }
+  }
+
+  &__video-column {
+    flex: 1 0 100%;
+    margin-bottom: 3rem;
+  }
+
+  &__iframe-wrapper {
+    height: 0;
+    width: 75%;
+    position: relative;
+    padding-top: 42.7%;
+    margin: 0 auto;
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  &__content {
+    flex: 1 0 100%;
+    padding: 0 6rem;
+    box-sizing: border-box;
+
+    @include respond(tab-small) {
+      flex: 1 0 100%;
+      padding: 0 8rem;
+      margin-top: 2rem;
+    }
+
+    @include respond(phone) {
+      padding: 0 4rem;
+    }
+
+    &--full-width {
+      flex: 0 1 70%;
+      margin: 0 auto;
+      @include respond(tab-small) {
+        flex: 1 0 100%;
+      }
+    }
+  }
+
+  &__social {
+    display: flex;
+    margin-top: 3rem;
+    @include respond(phone) { justify-content: space-around; }
+    @include respond(phone-small) { flex-wrap: wrap; }
+
+
+    &>:not(:first-child) {
+      margin-left: 4rem;
+      @include respond(phone-small) {
+        flex: 1 0 100%;
+        margin-left: 0;
+      }
+    }
+  }
+}
