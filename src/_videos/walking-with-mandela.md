@@ -1,13 +1,12 @@
 ---
-title: Walking with Mandela
+title: 'Walking with Mandela: small moments with a great man'
 youtube_video_id: 4CO7f9HHI3A
 performance: false
 highlight: false
 images:
-- image: "/uploads/rory-steyn_talk_2.jpg"
-- image: "/uploads/rory-steyn_talk_1.jpg"
+  - image: /uploads/rory-steyn_talk_2.jpg
+  - image: /uploads/rory-steyn_talk_1.jpg
 related_posts:
-- blog_post: 
 ---
 
 Rory watched Mandela, up close and personal, as he led the racially divided nation from the brink of bloodshed to unexpected levels of peace and stability.
