@@ -1,13 +1,12 @@
 ---
-title: The People vs The Trolls
+title: 'The People vs The Trolls: cyberbullying and the law'
 youtube_video_id: FxSra_n9oeE
 performance: false
 highlight: false
 images:
-- image: "/uploads/david-harvey_talk_1.jpg"
-- image: "/uploads/david-harvey_talk_2.jpg"
+  - image: /uploads/david-harvey_talk_1.jpg
+  - image: /uploads/david-harvey_talk_2.jpg
 related_posts:
-- blog_post: 
 ---
 
 David talks about online bullying and what people can do about under the current laws.
