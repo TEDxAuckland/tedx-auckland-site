@@ -5,6 +5,7 @@
 }
 
 .talk-card {
+  cursor: pointer;
   position: relative;
   background-color: $brand-white;
   color: #000;
@@ -31,7 +32,6 @@
   }
 
   &__play-button {
-    cursor: pointer;
     z-index: 100;
     background-color: rgba(0, 0, 0, 0.5);
     width: 5.4rem;
