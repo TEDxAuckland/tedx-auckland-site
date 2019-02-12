@@ -1,7 +1,7 @@
 require 'nokogiri'
 
 # A quick tool to see which paths are on the wordpress site but not on the new site.
-# Run using ruby analyse-sitemaps.rb from withing the scripts folder. 
+# Run using ruby analyse-sitemaps.rb from withing the scripts folder.
 
 class Sitemap
 
@@ -49,7 +49,8 @@ end
 
 sd = SitemapDiff.new(
   new_path: "../dist/site/sitemap.xml",
-  old_path: "wordpress-sitemap.xml"
+  old_path: "sitemap-pre-name-fixes.xml"
+  # old_path: "wordpress-sitemap.xml"
 )
 
 puts sd.diff_paths
