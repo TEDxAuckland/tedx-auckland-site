@@ -31,6 +31,11 @@
     padding-top: 42.7%;
     margin: 0 auto;
 
+    @include respond(phone) {
+      width: 100%;
+      padding-top: 56.7%;
+    }
+
     iframe {
       position: absolute;
       top: 0;
@@ -52,7 +57,7 @@
     }
 
     @include respond(phone) {
-      padding: 0 4rem;
+      padding: 0 2rem;
     }
 
     &--full-width {
