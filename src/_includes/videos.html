@@ -1,9 +1,6 @@
 {%- assign unique_id = 'videos-component-' | append: include.unique_id -%}
 <div id="{{ unique_id }}">
-	<videos
-          :video-names="videoNames"
-        />
-
+	<videos :video-names="videoNames" />
 </div>
 
 <script>
