@@ -32,13 +32,25 @@
 
 .talk-video-section {
   background-color: $brand-grey-darker;
+  min-height: unset;
   padding-bottom: 0;
+  @include respond(phone) {
+    padding-top: 0;
+  }
 }
 
 .talk {
   &__row {
     display: flex;
     padding: 3rem 0;
+
+    @include respond(tab-land) {
+      margin: 0 2rem;
+    }
+
+    @include respond(phone) {
+      flex-wrap: wrap;
+    }
   }
 }
 
@@ -72,8 +84,6 @@
       transform: scale(1.1);
       color: $brand-color;
       a { color: $brand-color; }
-
-
     }
   }
 
@@ -85,6 +95,16 @@
 .talk-description {
   flex: 0 1 70%;
   padding-right: 6rem;
+
+  @include respond(tab-land) {
+    padding-right: 4rem;
+  }
+
+  @include respond(phone) {
+    flex: 1 0 100%;
+    padding: 0;
+    margin-bottom: 2rem;
+  }
 
   &__container {
     display: flex;
