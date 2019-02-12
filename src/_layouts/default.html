@@ -36,7 +36,7 @@
 		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 		<link rel="stylesheet" href="/assets/css/main.css">
 
-			
+
  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
  		{% if jekyll.environment == "development" %}
       <script src="/assets/js/vendor/vue.js"></script>
@@ -45,7 +45,6 @@
     {% endif %}
 		<script src="/assets/js/ted-x-components.umd.min.js"></script>
 		<script src="/assets/js/countdown.js"></script>
-		<script src="/assets/js/video-player.js"></script>
 
 		<script>
 		function hamburger_menu() {
@@ -110,15 +109,6 @@
 
 			</div>
 		</nav>
-
-		<div class="overlay-video">
-		    <div class="videoWrapperExt">
-		        <div class="videoWrapper">
-							<div class="close"></div>
-		            <iframe id="player" width="853" height="480" src="" frameborder="0" allowfullscreen></iframe>
-		        </div>
-		    </div>
-		</div>
 
 		{{ content }}
 

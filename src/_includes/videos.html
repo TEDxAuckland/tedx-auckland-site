@@ -1,4 +1,19 @@
 {%- assign unique_id = 'videos-component-' | append: include.unique_id -%}
+{%- assign video_names = include.video_names -%}
+{%- for video_name in video_names -%}
+	{%- assign video = site.videos | where_exp: "v", "v.slug == video_name" | first -%}
+	{%- assign no_of_images = video.images | size -%}
+	{%- assign first_image = video.images | first -%}
+	{%- if first_image.image != nil -%}
+
+		{%- assign video_image = first_image["image"] | remove_first: "/" -%}
+		{% responsive_image template: "_includes/responsive-image.trigger"
+												path: video_image
+												widths: "200, 300, 600, 900, 1200"
+		%}
+	{%- endif -%}
+{%- endfor -%}
+
 <div id="{{ unique_id }}">
 	<videos :video-names="videoNames" />
 </div>
