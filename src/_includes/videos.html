@@ -1,7 +1,11 @@
 {%- assign unique_id = 'videos-component-' | append: include.unique_id -%}
 {%- assign video_names = include.video_names -%}
+
+<div id="noJsVideoLinks{{ unique_id }}">
 {%- for video_name in video_names -%}
 	{%- assign video = site.videos | where_exp: "v", "v.slug == video_name" | first -%}
+	<a href="{{ video.url }}" class="no-js-video-link">{{ video.title }}</a> <br>
+
 	{%- assign no_of_images = video.images | size -%}
 	{%- assign first_image = video.images | first -%}
 	{%- if first_image.image != nil -%}
@@ -13,16 +17,21 @@
 		%}
 	{%- endif -%}
 {%- endfor -%}
+</div>
 
 <div id="{{ unique_id }}">
-	<videos :video-names="videoNames" />
+	<videos :video-names="videoNames">
+	</videos>
 </div>
 
 <script>
-var videoNames = {{ include.video_names | jsonify }}
-new Vue({
-	data: {
-		videoNames: videoNames,
-	}
-}).$mount('#{{unique_id}}')
+	var videoNames = {{ include.video_names | jsonify }}
+	new Vue({
+		beforeMount: function() {
+			document.getElementById("noJsVideoLinks{{ unique_id }}").remove()
+		},
+		data: {
+			videoNames: videoNames,
+		}
+	}).$mount('#{{unique_id}}')
 </script>

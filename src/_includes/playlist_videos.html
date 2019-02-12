@@ -1,17 +1,40 @@
 {%- assign unique_id = 'videos-playlist-component-' | append: include.unique_id -%}
+{%- assign playlist = site.data.youtube_playlists.playlist_videos[include.playlist_id] -%}
+
+<div id="noJsVideoLinks{{ unique_id }}">
+{%- for video_item in playlist -%}
+	{%- assign video = site.videos | where_exp: "v", "v.youtube_video_id == video_item.video_id" | first -%}
+	<a href="{{ video.url }}" class="no-js-video-link">{{ video.title }}</a> <br>
+
+	{%- assign no_of_images = video.images | size -%}
+	{%- assign first_image = video.images | first -%}
+	{%- if first_image.image != nil -%}
+
+		{%- assign video_image = first_image["image"] | remove_first: "/" -%}
+		{% responsive_image template: "_includes/responsive-image.trigger"
+												path: video_image
+												widths: "200, 300, 600, 900, 1200"
+		%}
+	{%- endif -%}
+{%- endfor -%}
+</div>
+
 <div id="{{ unique_id }}">
 	<videos-playlist
           :playlist-id="playlistId"
 					:playlist-json="playlistJson"
           :videos-collection="videosCollection"
           :videos-json="videosJson"
-          :people="people"
-        />
+          :people="people">
+	</videos-playlist>
 </div>
 
 <script>
 var playlistId = "{{ include.playlist_id }}"
 new Vue({
+	beforeMount: function() {
+		document.getElementById("noJsVideoLinks{{ unique_id }}").remove()
+	},
 	data: {
 		playlistId: playlistId,
 		playlistJson: playlistJson,
