@@ -1,5 +1,5 @@
 ---
-title: Buy one. Give one
+title: 'Buy one. Give one: A business model feeding hungry kids'
 youtube_video_id: sFw3_hlJuZQ
 performance: false
 highlight: false

@@ -1,13 +1,12 @@
 ---
-title: Building blocks of bias
+title: 'Building blocks of bias: Lego and gender'
 youtube_video_id: F8a731O7IM8
 performance: false
 highlight: false
 images:
-- image: "/uploads/siouxsie-wiles_talk_1.jpg"
-- image: "/uploads/siouxsie-wiles_talk_2.jpg"
+  - image: /uploads/siouxsie-wiles_talk_1.jpg
+  - image: /uploads/siouxsie-wiles_talk_2.jpg
 related_posts:
-- blog_post: 
 ---
 
 Siouxsie highlights how Lego has changed over the decades since she used to play with it as a kid and how the modern Lego is creating more gender bias in what genders do for careers.

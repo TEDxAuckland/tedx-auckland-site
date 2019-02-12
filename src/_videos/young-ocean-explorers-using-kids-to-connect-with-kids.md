@@ -1,5 +1,5 @@
 ---
-title: Young Ocean Explorers
+title: 'Young Ocean Explorers: Using kids to connect with kids'
 youtube_video_id: UzA_CTkn7vk
 performance: false
 highlight: false

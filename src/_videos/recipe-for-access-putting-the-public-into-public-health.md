@@ -1,13 +1,12 @@
 ---
-title: Recipe for access
+title: 'Recipe for access: putting the public into public health'
 youtube_video_id: k5piEUPgRvk
 performance: false
 highlight: false
 images:
-- image: "/uploads/grant-schofield_talk_1.jpg"
-- image: "/uploads/grant-schofield_talk_2.jpg"
+  - image: /uploads/grant-schofield_talk_1.jpg
+  - image: /uploads/grant-schofield_talk_2.jpg
 related_posts:
-- blog_post: 
 ---
 
 Grant argues that in the modern world there should be more public citizens involved in shaping public health.
