@@ -73,6 +73,18 @@
     object-fit: cover;
   }
 
+  &__active-arrow {
+    $triangle-width: 10rem;
+    background-color: $brand-color;
+    position: absolute;
+    width: $triangle-width;
+    height: $triangle-width / 2;
+    transform: translateX(-($triangle-width / 2));
+    left: 50%;
+    bottom: -4rem;
+    clip-path: polygon(0% 0%, 100% 0%, 50% 100%);
+  }
+
   &:hover {
     transform: translateY(-0.4rem);
   }
