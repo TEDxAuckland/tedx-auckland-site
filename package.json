@@ -22,6 +22,7 @@
     "gulp": "^3.9.1"
   },
   "dependencies": {
+    "@cloudcannon/suite": "git+ssh://git@github.com/CloudCannon/cloudcannon-suite.git",
     "cryptiles": "^4.1.2",
     "deep-extend": "^0.6.0",
     "randomatic": "^3.1.0",

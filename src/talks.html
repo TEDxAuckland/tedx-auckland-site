@@ -15,7 +15,7 @@ other_playlists:
   - PLcm2pIIAwlDuXUwTNyTkiB0EFsi8tG5pV
 image: /assets/images/bg-upcoming-events.jpg
 ---
-
+{% include playlist_videos_data.html %}
 <header class="hero hero__talks" style="background-image: url({{ page.image }})">
 </header>
 
@@ -54,7 +54,7 @@ image: /assets/images/bg-upcoming-events.jpg
   	<div class="container">
 
   		<h3 class="section-heading section-heading--talks">{{ event.short_title }}</h3>
-      {% include playlist_videos.html playlist_id = event.youtube_playlist %}
+      {% include playlist_videos.html playlist_id = event.youtube_playlist unique_id = forloop.index %}
 
     </div>
   </section>

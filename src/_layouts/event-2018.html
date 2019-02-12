@@ -15,23 +15,24 @@ layout: default
 	</div>
 </section>
 
+{% include playlist_videos_data.html %}
 {% if page.youtube_playlist %}
 <section id="talks" class="section-bg-white">
   <div class="container">
 
     <h3 class="section-heading section-heading--talks">talks</h3>
-    {% include playlist_videos.html playlist_id = page.youtube_playlist %}
+    {% include playlist_videos.html playlist_id = page.youtube_playlist unique_id = "talks" %}
 
   </div>
 </section>
 {% endif %}
 
 {% if page.other_youtube_playlist %}
-<section id="talks" class="section-bg-white">
+<section id="extraPlaylist" class="section-bg-white">
   <div class="container">
 
     <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
-    {% include playlist_videos.html playlist_id = page.other_youtube_playlist %}
+    {% include playlist_videos.html playlist_id = page.other_youtube_playlist unique_id = "extra" %}
 
   </div>
 </section>
