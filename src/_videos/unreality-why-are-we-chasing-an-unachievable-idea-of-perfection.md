@@ -23,5 +23,3 @@ Jess has developed a social media following of 180,000+ followers by speaking of
 As one of New Zealand’s most engaged personalities on social media, Jess connects with thousands of people each day to help inspire their own journey.
 
 Jess is currently on a mission to bringing awareness to image retouching in the advertising industry and why we are chasing an unachievable and unrealistic idea of perfection both as a model and advocate.
-
-If you want to help Jess achieve her goal, you can sign her petition here: [https://www.parliament.nz/en/pb/petitions/document/PET\_82711/petition-of-jessica-quinn-transparency-around-retouching](https://www.parliament.nz/en/pb/petitions/document/PET_82711/petition-of-jessica-quinn-transparency-around-retouching){: target="_blank"}
