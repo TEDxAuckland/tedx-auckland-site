@@ -24,8 +24,8 @@ description_markdown: >-
   professional’s mental health crisis.
 website_url: 'http://zeshanqureshi.com/'
 medium_url:
-twitter_url:
-facebook_url:
+twitter_url: 'https://twitter.com/DrZeshanQureshi'
+facebook_url: 'https://www.facebook.com/DrZeshanQureshi'
 youtube_video_id: uctoTk64GVM
 github_username:
 instagram_url:
