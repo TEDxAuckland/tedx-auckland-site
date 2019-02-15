@@ -17,7 +17,7 @@ website_url: 'https://www.aut.ac.nz/profiles/te-ara-poutama/lecturers/hmi-kelly'
 medium_url:
 twitter_url: 'https://twitter.com/HemiKelly'
 facebook_url:
-youtube_video_id:
+youtube_video_id: 93u5sM4JJbU
 github_username:
 instagram_url:
 ---
