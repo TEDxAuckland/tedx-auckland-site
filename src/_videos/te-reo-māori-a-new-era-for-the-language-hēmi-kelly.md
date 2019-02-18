@@ -4,7 +4,7 @@ youtube_video_id: 93u5sM4JJbU
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/hemi-kelly-talk-1.jpg
 related_posts:
 ---
 
