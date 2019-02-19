@@ -43,6 +43,16 @@ a {
   text-decoration: inherit;
 }
 
+a:active, a:focus {
+  outline: 0;
+  border: none;
+}
+
+p {
+  text-align: justify;
+  margin-bottom: 1rem;
+}
+
 .container {
 	font-size: 1.6rem;
 	width: 98%;
@@ -101,8 +111,8 @@ a {
 }
 
 .section-heading {
-	font-size: 12rem;
-	font-weight: bold;
+	font-size: 8rem;
+	font-weight: 400;
 	line-height: 1;
 	margin: 0;
   max-width: 90vw;

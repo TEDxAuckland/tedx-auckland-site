@@ -19,11 +19,11 @@ image: /assets/images/bg-upcoming-events.jpg
 <header class="hero hero__talks" style="background-image: url({{ page.image }})">
 </header>
 
-<section id="filter-tags" class="{% cycle "section-bg-grey", "section-bg-black" %}">
+<section id="filter-tags" class="section-bg-white">
   <div class="container talks-filter-container">
 
     <div class="talks-filter">
-      <h1 class="talks-filter__title">talks</h1>
+      <h1 class="talks-filter__title">event</h1>
 
       <div class="filter-tags">
         <h4 class="filter-tags__title" >select your category</h4>
@@ -33,7 +33,7 @@ image: /assets/images/bg-upcoming-events.jpg
           {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
           <li class="filter-tags__tag">
-            <a href="#{{event.short_title}}">{{ event.short_title }}: {{ event.tagline }}</a>
+            <a href="#{{event.short_title}}">{{ event.short_title }} {{ event.tagline | prepend: ": " }}</a>
           </li>
 
           {% endfor %}
@@ -50,10 +50,10 @@ image: /assets/images/bg-upcoming-events.jpg
 {% for event_name in page.events %}
 {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
-  <section id="{{ event.short_title }}" class="{% cycle "section-bg-white", "section-bg-grey-lighter" %}">
+  <section id="{{ event.short_title }}" class="section-bg-white">
   	<div class="container">
 
-  		<h3 class="section-heading section-heading--talks">{{ event.short_title }}</h3>
+  		<h3 class="section-heading">{{ event.short_title }}</h3>
       {% include playlist_videos.html playlist_id = event.youtube_playlist unique_id = forloop.index %}
 
     </div>
@@ -62,10 +62,10 @@ image: /assets/images/bg-upcoming-events.jpg
 
 
 {% for list in page.other_playlists %}
-  <section id="other_talks" class="{% cycle "section-bg-grey", "section-bg-black" %}">
+  <section id="other_talks" class="section-bg-white">
   	<div class="container">
 
-  		<h3 class="section-heading section-heading--talks">Other Talks</h3>
+  		<h3 class="section-heading">Other Talks</h3>
       {% include playlist_videos.html playlist_id = list %}
 
     </div>
