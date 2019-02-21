@@ -29,10 +29,10 @@ layout: default
 
 {% include playlist_videos_data.html %}
 {% if page.youtube_playlist %}
-<section id="talks" class="section-bg-white">
+<section id="talks">
   <div class="container">
 
-    <h3 class="section-heading section-heading--talks">Talks</h3>
+    <h3 class="section-heading">Talks</h3>
     {% include playlist_videos.html playlist_id = page.youtube_playlist unique_id = "talks" %}
 
   </div>
@@ -40,7 +40,7 @@ layout: default
 {% endif %}
 
 {% if page.people %}
-<section id="speakers" class="section-bg-swirl">
+<section id="speakers">
   <div class="container">
     <h3 class="section-heading section-heading--speakers">speakers</h3>
 
@@ -50,10 +50,10 @@ layout: default
 {% endif %}
 
 {% if page.other_youtube_playlist %}
-<section id="extraPlaylist" class="section-bg-white">
+<section id="extraPlaylist">
   <div class="container">
 
-    <h3 class="section-heading section-heading--talks">{{ page.other_youtube_playlist_title }}</h3>
+    <h3 class="section-heading">{{ page.other_youtube_playlist_title }}</h3>
     {% include playlist_videos.html playlist_id = page.other_youtube_playlist unique_id = "extra" %}
 
   </div>
@@ -61,10 +61,10 @@ layout: default
 {% endif %}
 
 {% if page.major_partners or page.supporting_partners or page.event_partners %}
-<section id="partners" class="section-bg-white">
+<section id="partners">
   <div class="container">
 
-    <h3 class="section-heading section-heading--dark section-heading--partners">
+    <h3 class="section-heading section-heading--dark">
       partners
     </h3>
 
@@ -87,7 +87,7 @@ layout: default
 {% if page.flikr_galleries.first %}
 <section>
   <div class="container">
-    <h3 class="section-heading section-heading--flickr">flickr</h3>
+    <h3 class="section-heading">flickr</h3>
 
     {% include flickr.html galleries = page.flikr_galleries %}
   </div>

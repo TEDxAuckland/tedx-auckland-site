@@ -32,7 +32,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background: $brand-white;
-	color: $brand-white;
+	color: $brand-grey-darker;
 	font-family: $primary-font;
 	line-height: 1.75;
 	scroll-behavior: smooth;
@@ -68,16 +68,12 @@ p {
 
 .section-bg-grey {
 	background-color: $brand-grey-darker;
+  color: $brand-white;
 }
 
 .section-bg-grey-lighter {
   background-color: $brand-grey-lighter;
   color: #000;
-}
-
-.section-bg-white {
-	background-color: $brand-white;
-	color: #000;
 }
 
 .section-bg-black {
@@ -98,18 +94,6 @@ p {
   max-width: 500px;
 }
 
-.section-bg-swirl {
-  background: url("/assets/images/bg-swirl.png");
-  background-position: top;
-  background-repeat: no-repeat;
-	background-size: cover;
-	margin-top: 4rem;
-
-	@include respond(tab-land) {
-		margin-top: 0;
-	}
-}
-
 .section-heading {
 	font-size: 8rem;
 	font-weight: 400;
@@ -119,46 +103,6 @@ p {
 
 	@include respond(phone) {
 		font-size: 5rem;
-	}
-
-	&--speakers {
-	  transform: translateX(-0.5em);
-	  @include respond(section-overflow) { transform: translateX(.26em); }
-	}
-
-  &--blogs {
-    display: inline-block;
-    transform: translateX(2.3em);
-    @include respond(section-overflow) { transform: translateX(.26em); }
-  }
-
-	&--talks {
-	  transform: translateX(-0.5em);
-	  @include respond(section-overflow) { transform: translateX(.3em); }
-	}
-
-	&--partners {
-	  transform: translateX(-0.5em);
-	  margin-bottom: 1.8rem;
-		@include respond(section-overflow) { transform: translateX(.3em); }
-	}
-
-  &--vendors {
-    transform: translateX(-0.5em);
-    @include respond(section-overflow) { transform: translateX(.3em); }
-  }
-
-	&--flickr {
-	  transform: translateX(-0.5em);
-		@include respond(section-overflow) { transform: translateX(.3em); }
-	}
-
-	&--post {
-	  font-size: 7.2rem;
-    margin: 1rem 1rem 3rem 1rem;
-    @include respond(phone) {
-      font-size: 5.2rem;
-    }
 	}
 
 	&--dark {
@@ -178,29 +122,6 @@ section {
 		font-size: 5rem;
 		margin: 0 0 10px 0;
 	}
-
-	.overhang-heading {
-		position: relative;
-		line-height: 1;
-		margin-top: 0;
-
-		&.overhang-heading-effect-only {
-			margin-top: 160px;
-		}
-
-		.overhang-heading-background {
-			height: 80%;
-			display: block;
-			position: absolute;
-			bottom: 100%;
-			overflow: hidden;
-		}
-
-		// force content into foreground for sizing
-		.overhang-heading-foreground:after {
-			content: "\00a0";
-		}
-	}
 }
 
 h4 {
@@ -210,14 +131,6 @@ h4 {
 
 .has-red-stripe {
 	border-bottom: 4px solid $brand-color;
-}
-
-.date-badge {
-	background: $brand-color;
-	display: inline-block;
-	padding: 10px 20px;
-	font-weight: bold;
-	margin: 0;
 }
 
 strong {

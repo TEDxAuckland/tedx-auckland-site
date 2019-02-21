@@ -19,7 +19,7 @@ image: /assets/images/bg-upcoming-events.jpg
 <header class="hero hero__talks" style="background-image: url({{ page.image }})">
 </header>
 
-<section id="filter-tags" class="section-bg-white">
+<section id="filter-tags">
   <div class="container talks-filter-container">
 
     <div class="talks-filter">
@@ -50,7 +50,7 @@ image: /assets/images/bg-upcoming-events.jpg
 {% for event_name in page.events %}
 {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
-  <section id="{{ event.short_title }}" class="section-bg-white">
+  <section id="{{ event.short_title }}">
   	<div class="container">
 
   		<h3 class="section-heading">{{ event.short_title }}</h3>
@@ -62,7 +62,7 @@ image: /assets/images/bg-upcoming-events.jpg
 
 
 {% for list in page.other_playlists %}
-  <section id="other_talks" class="section-bg-white">
+  <section id="other_talks">
   	<div class="container">
 
   		<h3 class="section-heading">Other Talks</h3>

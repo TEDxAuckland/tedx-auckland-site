@@ -3,7 +3,7 @@ layout: default
 title: About Us
 ---
 
-<section id="about" class="section-bg-white">
+<section id="about">
 	<div class="container">
 		<h3 class="section-heading">about us</h3>
 
@@ -25,13 +25,14 @@ title: About Us
 			</div>
 		</div>
 
-		<h3 class="has-red-stripe">Contact us</h3>
-	 <div class="center-form">
-		 {% include contact.html %}
-	 </div>
+		<h3 class="section-heading">Contact us</h3>
+		<div class="post-content editable">
+			<p>Speakers please email us at <span class="highlight">speakers @ tedxauckland dot com </span></p>
+			<p>General inquiries please email us at <span class="highlight"> ideas @ tedxauckland dot com</span></p>
+		</div>
 
 
-		<h3 class="has-red-stripe with-padding">Join our community</h3>
+		<h3 class="section-heading with-padding">Join our community</h3>
 		<div class="center-form">
 			{% include embed/extended-mailchimp-form.html %}
 		</div>

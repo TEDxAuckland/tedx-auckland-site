@@ -37,10 +37,10 @@ image: /assets/images/bg-upcoming-events.jpg
 {% for event_name in page.events %}
 {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
-  <section id="{{ event.short_title }}" class="section-bg-white section-border--dashed">
+  <section id="{{ event.short_title }}" class="section-border--dashed">
   	<div class="container">
 
-  		<h3 class="section-heading section-heading--talks">{{ event.short_title }}</h3>
+  		<h3 class="section-heading">{{ event.short_title }}</h3>
 
       {% if event.major_partners or event.supporting_partners or event.event_partners %}
 

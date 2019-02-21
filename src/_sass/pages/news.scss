@@ -122,15 +122,8 @@
   &--archive {
     transform: translateY(0);
   }
-}
 
-.blog-card-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-  align-items: stretch;
-
-  &--archive {
+  &--homepage {
     transform: translateY(0);
   }
 }

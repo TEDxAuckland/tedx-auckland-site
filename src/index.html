@@ -16,17 +16,20 @@ videos:
   - what-if..-we-paid-attention-to-ordinary-miracles
 ---
 
-<section id="talks" class="section-bg-white">
+<section id="talks">
   <div class="container">
 
-    <h3 class="section-heading section-heading--talks">ideas</h3>
+    <h3 class="section-heading">ideas</h3>
     {% include videos.html video_names = page.videos unique_id = "homepage" %}
 
   </div>
 </section>
 
 <section id="blog" class="section-padding--rm-top">
-  {% include homepage-blog.html %}
+  <div class="container">
+    <h3 class="section-heading">blog</h3>
+    {% include homepage-blog.html %}
+  </div>
 </section>
 
 {% include upcoming-event-bar.html %}
@@ -34,7 +37,7 @@ videos:
 {% assign upcoming_event = site.events | where_exp: "e", "e.upcoming == true" | first %}
 
 {% if upcoming_event.event_schedule %}
-<section id="schedule" class="section-bg-white">
+<section id="schedule">
   <div class="container">
     <h4 class="section-heading section-heading--speakers">2018 event schedule</h4>
 
@@ -44,7 +47,7 @@ videos:
 {% endif %}
 
 {% if upcoming_event.speakers %}
-  <section id="speakers" class="section-bg-white">
+  <section id="speakers">
     <div class="container">
       <h3 class="section-heading section-heading--speakers">past speakers</h3>
 
@@ -53,9 +56,9 @@ videos:
   </section>
 {% endif %}
 
-<section id="join" class="section-bg-white">
+<section id="join">
   <div class="container">
-    <h3 class="has-red-stripe">join our community</h3>
+    <h3 class="section-heading">join our community</h3>
     <div class="center-form">
       {% include embed/extended-mailchimp-form.html %}
     </div>
