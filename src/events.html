@@ -64,31 +64,6 @@ events:
   </div>
 </header>
 
-<section>
-  <div class="container">
-    <h1 class="event-highlights__heading">2018 Speaker Highlight</h1>
-
-    {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
-  </div>
-</section>
-
-{% comment %}
-<section>
-  <div class="container all-events__container">
-    <h1 class="all-events__list">All Events</h1>
-    <ul class="all-events__list">
-      {% for event in site.events %}
-        <ul class="all-events__list--item">
-          <a href="{{event.url}}">
-            {{event.short_title}}
-          </a>
-        </ul>
-      {% endfor %}
-    </ul>
-  </div>
-</section>
-{% endcomment %}
-
 <section id="filter-tags">
   <div class="container talks-filter-container">
 
@@ -111,5 +86,13 @@ events:
         </ul>
       </div>
     </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h1 class="event-highlights__heading">2018 Speaker Highlight</h1>
+
+    {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
   </div>
 </section>
