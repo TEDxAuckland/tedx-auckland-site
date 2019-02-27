@@ -17,7 +17,7 @@ I’ve travelled before, but it was only on my most recent adventure that I came
 
 ![](/uploads/4cdfe443-d722-4ec7-a4f8-0ff95ef55342.jpeg)
 
-My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. I had an unforgettable experience embracing the new sights and smells, people and culture.
+My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. I had an unforgettable experience embracing the new sights and smells, people and culture. (read\_more)
 
 With only a limited amount of time in each country, I decided to visit some of the most popular places. To me, this felt like the easiest way to get introduced to the country quickly.
 
@@ -27,7 +27,7 @@ After spending some time thinking about it post trip, here are 3 key reasons I b
 
 #### Reason #1: Lack of authentic culture
 
-Visiting touristic areas leads to inauthentic cultural experiences.
+Some people believe that visiting touristic areas leads to inauthentic cultural experiences.
 
 I think it’s important to question why these touristic hotspots have become popular in the first place. In a lot of cases, it’s precisely because they are seen as cultural landmarks - Teaching us about the history of a place, and how it has shaped its culture.
 
