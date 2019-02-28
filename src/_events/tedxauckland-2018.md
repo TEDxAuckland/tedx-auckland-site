@@ -169,6 +169,7 @@ event_partners:
   - stopmo
   - wear
   - cloudcannon
+  - allpress
 youtube_playlist: PLcm2pIIAwlDutXJI4AWeUPpEmBZCIF2ry
 other_youtube_playlist_title:
 other_youtube_playlist:
