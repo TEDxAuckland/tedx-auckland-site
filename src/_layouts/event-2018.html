@@ -4,7 +4,7 @@ layout: default
 
 {% include heros/2018-event-gif.html %}
 
-<section id="more">
+<section id="more" class="section">
 
 	<div class="container event-info__container">
 
@@ -17,7 +17,7 @@ layout: default
 
 {% include playlist_videos_data.html %}
 {% if page.youtube_playlist %}
-<section id="talks">
+<section id="talks" class="section">
   <div class="container">
 
     <h3 class="section-heading">talks</h3>
@@ -28,7 +28,7 @@ layout: default
 {% endif %}
 
 {% if page.other_youtube_playlist %}
-<section id="extraPlaylist">
+<section id="extraPlaylist" class="section">
   <div class="container">
 
     <h3 class="section-heading">{{ page.other_youtube_playlist_title }}</h3>
@@ -39,7 +39,7 @@ layout: default
 {% endif %}
 
 {% if page.people %}
-<section id="speakers">
+<section id="speakers" class="section">
   <div class="container">
     <h3 class="section-heading section-heading--speakers">speakers</h3>
 
@@ -49,7 +49,7 @@ layout: default
 {% endif %}
 
 {% if page.major_partners or page.supporting_partners or page.event_partners %}
-<section id="partners">
+<section id="partners" class="section">
   <div class="container">
 
     <h3 class="section-heading section-heading--dark">
@@ -76,7 +76,7 @@ layout: default
 {% endif %}
 
 {% if page.food_vendors %}
-<section id="food">
+<section id="food" class="section">
 	<div class="container">
 		<h3 class="section-heading">food and drink partners</h3>
 
@@ -86,7 +86,7 @@ layout: default
 {% endif %}
 
 {% if page.event_schedule %}
-<section id="schedule">
+<section id="schedule" class="section">
   <div class="container">
     <h4 class="section-heading section-heading--speakers">event schedule</h4>
 
@@ -96,7 +96,7 @@ layout: default
 {% endif %}
 
 {% if page.flikr_galleries.first %}
-<section>
+<section class="section">
   <div class="container">
     <h3 class="section-heading">flickr</h3>
 

@@ -3,24 +3,19 @@ layout: default
 permalink: /news/archive/
 ---
 
-<header class="blog-header">
+<header class="blog-header section">
   <div class="container">
-    <div class="extra-padding">
-      <h3 class="blog-header__title">Blog Archive</h3>
-      <p class="blog-header__paragraph editable">
-        Here we will post news and information about the event as well as discuss topics, themes, ideas and local events and matters we think you may be intereste in. We hope you enjoy our articles and would love to hear your thoughts in the comments!
-      </p>
-    </div>
+    <h3 class="section-heading editable">Blog Archive</h3>
   </div>
 </header>
 
 <section id="posts">
   <div class="container">
 
-    <div class="news-card-container news-card-container--archive">
+    <div class="news-card-container">
 
       {% assign our_posts = site.posts | where_exp: "p", "p.categories contains 'our-news'" %}
-      {% for post in our_posts offset: 9 %}
+      {% for post in our_posts offset: 10 %}
         <div class="card news-card">
           <a href="{{ post.url }}">
 
@@ -53,9 +48,5 @@ permalink: /news/archive/
         </div>
       {% endfor %}
     </div>
-
-
-    <p><a href="/news/archive">Go to archive</a></p>
-
   </div>
 </section>

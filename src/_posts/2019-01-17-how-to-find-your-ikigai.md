@@ -13,9 +13,9 @@ categories:
 
 > *Cindy Leong is a contributor to TEDx and recently joined the Marketing Communications team. She has a background in marketing & photography with a passion for creative expression.*
 
-I first came across the term ‘ikigai’ when my sister sent me a Japanese diagram.
+I first came across the term ‘ikigai’ when my sister sent me a Japanese diagram.(read\_more)
 
-We were discussing our passions, and our purpose in life. It’s something that I’ve become more aware of in the past 3 years, however, I believe everyone seeks this from a young age in one way or another. I wasn't very conscious about the idea of my purpose until the feeling of *needing* one started to grow inside me. Instead of blindly following the motions of life and allow society or others dictate what I should be doing, I’ve recalibrated my perspective to pursue what I feel is my life’s purpose. I believe I can work towards anything my heart desires, but that's difficult when you don't know what that thing is. This is where ikigai can help. (read\_more)
+We were discussing our passions, and our purpose in life. It’s something that I’ve become more aware of in the past 3 years, however, I believe everyone seeks this from a young age in one way or another. I wasn't very conscious about the idea of my purpose until the feeling of *needing* one started to grow inside me. Instead of blindly following the motions of life and allow society or others dictate what I should be doing, I’ve recalibrated my perspective to pursue what I feel is my life’s purpose. I believe I can work towards anything my heart desires, but that's difficult when you don't know what that thing is. This is where ikigai can help.
 
 **Ikigai (pronounced ickee-guy), is a Japanese concept which roughly translates to ‘the happiness of always being busy’.**
 

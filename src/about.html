@@ -3,7 +3,7 @@ layout: default
 title: About Us
 ---
 
-<section id="about">
+<section id="about" class="section">
 	<div class="container">
 		<h3 class="section-heading">about us</h3>
 
@@ -23,23 +23,31 @@ title: About Us
 				</div>
 			</div>
 		</div>
+	</div>
+</section>
 
+<section id="contact" class="section">
+	<div class="container">
 		<h3 class="section-heading">Contact us</h3>
-		<div class="post-content editable">
-			<p>General inquiries please email us at <span class="highlight"> ideas @ tedxauckland dot com</span></p>
-			<p>Please present your idea or nominate your person to the email below.</p>
-			<p>What we are looking for</p>
-			<p>1. An Idea</p>
-			<p>2. An Idea</p>
-			<p>3. An Idea</p>
-			<p>4. The reason why it&rsquo;s your Idea</p>
+		<div class="content content--about editable">
+			<p>General inquiries please email us at <span class="highlight"> ideas @ tedxauckland dot com</span>. Please present your idea or nominate your person to the email below.</p>
+			<p class="--no-margin">What we are looking for</p>
+			<ol>
+				<li><strong>An Idea</strong></li>
+				<li><strong>An Idea</strong></li>
+				<li><strong>An Idea</strong></li>
+				<li><strong>The reason why it&rsquo;s your Idea</strong></li>
+			</ol>
 			<p>If you have an amazing story great! There are lots of amazing Storytelling platforms out there and we here at TEDxAuckland are great fans of an awesome story! This is not one of them.</p>
 			<p>TEDxAuckland is an Ideas sharing platform to bring together and share new Ideas that will have an impact on the world.</p>
-			<p>If you want to submit your IDEA, email it ideas @ tedxauckland dot com</p>
+			<p>If you want to submit your IDEA, email it <span class="highlight">ideas @ tedxauckland dot com</span></p>
 			<p>You can put a little bit of information about yourself but we are not so much interested in that as your Idea.</p>
 		</div>
+	</div>
+</section>
 
-
+<section id="mailingList" class="section">
+	<div class="container">
 		<h3 class="section-heading with-padding">Join our community</h3>
 		<div class="center-form">
 			{% include embed/extended-mailchimp-form.html %}

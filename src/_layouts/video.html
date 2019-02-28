@@ -47,7 +47,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 				<h2 class="talk-description__title">
 					{{ page.title }}
 				</h2>
-				<div class="talk-description__paragraph">
+				<div class="content">
 					{{ page.content }}
 				</div>
 			</div>
@@ -63,7 +63,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 					</a>
 				</h2>
 
-				<div class="presenter__bio">
+				<div class="content">
 					{{ presenter.description_markdown | split: "." | first | append: "." | markdownify }}
 				</div>
 			</div>

@@ -1,0 +1,119 @@
+.content {
+  line-height: 1.75;
+
+  @include respond(phone) {
+    text-align: left;
+  }
+
+  &--post {
+    width: 80rem;
+    margin: 7rem auto;
+    @include respond(tab-land) {
+      margin: 0 2rem;
+      width: unset;
+    }
+  }
+
+  &--about {
+    margin: 2rem;
+    width: 75%;
+    @include respond(tab-port) {
+      width: 100%;
+    }
+  }
+
+  .--no-padding {
+    padding: 0;
+  }
+
+  .--no-margin {
+    margin: 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.3;
+    margin: .6em 0 .5em 0;
+  }
+
+  p, ul, ol {
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  h2 {
+    font-size: 3.6rem;
+  }
+
+  h3 {
+    font-size: 3rem;
+  }
+
+  h4 {
+    font-size: 2.5rem;
+  }
+
+  h5 {
+    font-size: 2rem;
+  }
+
+  h6 {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+
+  blockquote {
+    display: flex;
+    font-weight: 600;
+
+    &::before {
+      content: "";
+      width: 2rem;
+      background-color: $brand-grey-darker;
+      transform: translateX(-1rem);
+    }
+  }
+
+  p {
+    margin-bottom: 1.4rem;
+  }
+
+  ul {
+    padding: 0.5em;
+    list-style: none;
+  }
+
+  ol {
+    margin-left: 1em;
+  }
+
+  li {
+    p {
+      padding-top: 0;
+      padding-bottom: .5rem;
+    }
+  }
+
+  strong {
+    color: black;
+  }
+
+  iframe {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: 37rem;
+
+    @include respond(phone) {
+      height: 52vw;
+    }
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}

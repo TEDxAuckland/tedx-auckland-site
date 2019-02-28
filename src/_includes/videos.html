@@ -1,6 +1,7 @@
 {%- assign unique_id = 'videos-component-' | append: include.unique_id -%}
 {%- assign video_names = include.video_names -%}
 
+{% comment %}
 <div id="noJsVideoLinks{{ unique_id }}">
 {%- for video_name in video_names -%}
 	{%- assign video = site.videos | where_exp: "v", "v.slug == video_name" | first -%}
@@ -18,6 +19,7 @@
 	{%- endif -%}
 {%- endfor -%}
 </div>
+{% endcomment %}
 
 <div id="{{ unique_id }}">
 	<videos :video-names="videoNames">

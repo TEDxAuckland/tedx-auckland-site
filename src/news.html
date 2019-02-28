@@ -3,67 +3,81 @@ layout: default
 title: News
 ---
 
-<header class="blog-header">
+<header class="blog-header section">
   <div class="container">
-    <div class="extra-padding">
-      <h3 class="blog-header__title">Blog</h3>
-      <p class="blog-header__paragraph editable">
-      	Here we will post news and information about the event, as well as discuss topics, themes, ideas and local events and matters we think you may be interested in. We hope you enjoy our articles and would love to hear your thoughts in the comments!
-      </p>
-    </div>
+    <h3 class="section-heading editable">Blog</h3>
   </div>
 </header>
 
-<section id="highlights" class="highlight-section">
-  <div class="container">
-    <div class="extra-padding">
-      <h4 class="highlight-heading">Highlight</h4>
-      {% assign highlight = site.posts[0] %}
-
-      <div class="highlight-info">
-        <h4 class="highlight-info__title"><a href="{{ highlight.url }}">{{ highlight.title }}</a></h4>
-        <div class="highlight-info__bar">
-          <i class="far fa-calendar-alt"></i>
-          <time datetime="{{ highlight.date | date: "%Y-%m-%d" }}">
-            {{ highlight.date | date_to_long_string }}
-          </time>
+{% assign highlight = site.posts[0] %}
+<section id="highlights" class="section">
+  <a href="{{ highlight.url }}">
+    <div class="container">
+      <div class="highlight-container card--outline anim--lift-up">
+        <div class="highlight__image-column">
+          {% if highlight.image %}
+          {% assign highlight_image = highlight.image | remove_first: "/" %}
+          {% else %}
+          {% assign highlight_image = "/assets/images/default-talk-photo.jpg" | remove_first: "/" %}
+          {% endif %}
+          {% responsive_image path: highlight_image
+                              class: "highlight_img"
+                              widths: "600, 800, 1200, 1800"
+                              sizes: "(max-width: 1200px) 50vw,
+                              (max-width: 1200px) 50vw,
+                              (max-width: 900px) 100vw,
+                              600px"
+          %}
         </div>
-      </div>
 
-      <div class="highlight-content">
+          <div class="highlight__content-column">
+            <h4 class="highlight-heading">Highlight</h4>
+            {% assign highlight = site.posts[0] %}
 
-        {%- if highlight.content contains '(read_more)' -%}
+            <div class="highlight-info">
+              <h4 class="highlight-info__title">{{ highlight.title }}</h4>
+              <div class="highlight-info__bar">
+                <i class="far fa-calendar-alt"></i>
+                <time datetime="{{ highlight.date | date: "%Y-%m-%d" }}">
+                  {{ highlight.date | date_to_long_string }}
+                </time>
+              </div>
+            </div>
 
-          {{ highlight.content | split: '(read_more)' | first }}
+            <div class="highlight-content content">
 
-        {%- else -%}
+              {%- if highlight.content contains '(read_more)' -%}
 
-          {%- capture content_highlight -%}
-            {%- assign content_array = highlight.content | split: '.' -%}
-            {%- for item in content_array limit: 5 -%}
+              {{ highlight.content | split: '(read_more)' | first }}
+
+              {%- else -%}
+
+              {%- capture content_highlight -%}
+              {%- assign content_array = highlight.content | split: '.' -%}
+              {%- for item in content_array limit: 5 -%}
               {{ item }}
-            {%- endfor -%}
-          {%- endcapture -%}
+              {%- endfor -%}
+              {%- endcapture -%}
 
-          {{ content_highlight | markdownify }}
+              {{ content_highlight | markdownify }}
 
-        {%- endif -%}
-        <div class="highlight-content__row">
-          <a class="button read-more-button" href="{{ highlight.url }}">read more</a>
-        </div>
+              {%- endif -%}
+            </div>
+          </div>
       </div>
     </div>
-  </div>
+
+  </a>
 </section>
 
-<section id="posts">
+<section id="posts" class="section">
   <div class="container">
 
     <div class="news-card-container">
 
       {% assign our_posts = site.posts | where_exp: "p", "p.categories contains 'our-news'" %}
       {% for post in our_posts limit: 9 offset: 1 %}
-        <div class="news-card">
+        <div class="news-card card--outline anim--lift-up">
           <a href="{{ post.url }}">
 
             {% if post.image %}
@@ -85,6 +99,7 @@ title: News
               <h4 class="news-card__content-title">{{ post.title }}</h4>
 
               <p class="news-card__content-time">
+                <i class="far fa-calendar-alt"></i>
                 <time datetime="{{ post.date | date: "%Y-%m-%d" }}">
                   {{ post.date | date_to_long_string }}
                 </time>

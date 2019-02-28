@@ -1,0 +1,12 @@
+.anim--lift-up {
+  transition: all 0.2s;
+
+  &:hover {
+    transform: translateY(-1rem);
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.5);
+  }
+}
+
+.card--outline {
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.20);
+}
