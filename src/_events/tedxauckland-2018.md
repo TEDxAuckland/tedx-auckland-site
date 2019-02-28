@@ -155,8 +155,9 @@ food_vendors:
     vendor_link: 'https://www.maartecatering.nz/'
     vendor_image: /uploads/maarte.png
 major_partners:
-  - bizdojo
+  - vodafone
 supporting_partners:
+  - bizdojo
 event_partners:
   - pro-live-tv
   - lowndes_jordan
