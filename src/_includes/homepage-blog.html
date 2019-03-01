@@ -2,7 +2,7 @@
 
 	{% assign our_posts = site.posts | where_exp: "p", "p.categories contains 'our-news'" %}
 	{% for post in our_posts limit: 3 %}
-	<div class="news-card">
+	<div class="news-card card--outline anim--lift-up">
 		<a href="{{ post.url }}">
 
 			{% if post.image %}
