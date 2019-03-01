@@ -2,7 +2,6 @@
 {%- assign playlist = site.data.youtube_playlists.playlist_videos[include.playlist_id] -%}
 
 
-{% comment %}
 <div id="noJsVideoLinks{{ unique_id }}">
 {%- for video_item in playlist -%}
 	{%- assign video = site.videos | where_exp: "v", "v.youtube_video_id == video_item.video_id" | first -%}
@@ -20,7 +19,6 @@
 	{%- endif -%}
 {%- endfor -%}
 </div>
-{% endcomment %}
 
 <div id="{{ unique_id }}">
 	<videos-playlist
