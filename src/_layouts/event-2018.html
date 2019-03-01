@@ -56,16 +56,19 @@ layout: default
       partners
     </h3>
 
-    {% if page.major_partners %}
-      {% include partners/major.html partners = page.major_partners %}
+		{% if page.major_partners %}
+    <h4 class="partner-heading">major</h4>
+    {% include partners/full-width-blurb-logo-center.html partners = page.major_partners %}
     {% endif %}
 
     {% if page.supporting_partners %}
-      {% include partners/supporting.html partners = page.supporting_partners %}
+    <h4 class="partner-heading">supporting</h4>
+    {% include partners/full-width-blurb.html partners = page.supporting_partners %}
     {% endif %}
 
     {% if page.event_partners %}
-      {% include partners/event.html partners = page.event_partners %}
+    <h4 class="partner-heading">event</h4>
+    {% include partners/grid.html partners = page.event_partners %}
     {% endif %}
 
   </div>

@@ -1,0 +1,26 @@
+<div class="partners partners--full-width-logo-center">
+	{% for partner_name in include.partners %}
+	{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+	{% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
+	{% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
+
+	<div class="partner-card partner-card--full-width-logo-center">
+		<a class="partner-card__image partner-card__image--full-width-logo-center" href="{{ partner.link }}" target="_blank">
+			{% responsive_image path: partner_logo
+													alt: partner_alt
+													widths: "300, 900, 1200"
+													sizes: "(max-width: 1200px) 25vw,
+													(max-width: 600px) 100vw,
+													300px"
+
+			%}
+			</a>
+
+			{%- if partner.content -%}
+			<div class="partner-card__paragraph partner-card__paragraph--full-width-logo-center">
+				{{ partner.content }}
+			</div>
+			{%- endif -%}
+	</div>
+	{% endfor %}
+</div>

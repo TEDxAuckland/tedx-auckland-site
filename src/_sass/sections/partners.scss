@@ -31,7 +31,8 @@
     transform: scale(1.2);
   }
 
-  &--major,
+  &--full-width,
+  &--full-width-logo-center,
   &--supporting {
     display: flex;
     justify-content: flex-start;
@@ -42,9 +43,10 @@
     }
   }
 
-  &--major {
+  &--full-width {
     width: 90%;
     padding-left: 0;
+    margin-bottom: 4rem;
     @include respond(tab-land) {
       padding-left: 1.8rem;
       width: 90%;
@@ -56,6 +58,11 @@
     }
   }
 
+  &--full-width-logo-center {
+    flex: 0 0 100%;
+    flex-wrap: wrap;
+  }
+
   &--supporting {
     width: 33.33%;
     @include respond(tab-port) { width: 50%; }
@@ -63,13 +70,22 @@
   }
 
   &__image {
-    height: 100%;
-    width: 100%;
-    height: auto;
 
-    &--major {
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    &--full-width {
       flex: 0 1 30%;
+      padding: 0 5rem;
       @include respond(tab-port) { flex: 0 1 35%; }
+      @include respond(phone) { flex: 0 0 60%; }
+    }
+
+    &--full-width-logo-center {
+      margin: 1rem auto 7rem auto;
+      flex: 0 0 25%;
       @include respond(phone) { flex: 0 0 60%; }
     }
 
@@ -80,11 +96,12 @@
   }
 
   &__paragraph {
-    &--major {
+    font-size: 1.6rem;
+    line-height: 1.7;
+
+    &--full-width {
       flex: 1 0 50%;
       margin: 3em;
-      font-size: 1.6rem;
-      line-height: 1.7;
 
       @include respond(phone) {
         flex: 1 0 100%;
@@ -94,10 +111,18 @@
       }
     }
 
+    &--full-width-logo-center {
+      padding: 0 10%;
+      flex: 1 0 100%;
+
+      @include respond(phone) {
+        padding: 0 1rem;
+      }
+    }
+
     &--supporting {
       flex: 1 0 35%;
       margin: 2.6em;
-      font-size: 1.4rem;
     }
   }
 }

@@ -1,63 +1,36 @@
 ---
 layout: default
 title: Partnerships
-events:
-  - tedxauckland-2018
-  - tedxauckland-2017
+major_partners:
+  - vodafone
+supporting_partners:
+  - bizdojo
+event_partners:
 image: /assets/images/bg-upcoming-events.jpg
 ---
 
 <header class="hero hero__talks" style="background-image: url({{ page.image }})">
 </header>
 
-<section id="filter-tags" class="{% cycle "section-bg-grey", "section-bg-black" %}">
-  <div class="container talks-filter-container">
+<section id="{{ event.short_title }}" class="section-border--dashed">
+  <div class="container">
 
-    <div class="talks-filter">
-      <h1 class="talks-filter__title">partners</h1>
+    <h3 class="section-heading">Partners</h3>
 
-      <div class="filter-tags">
-        <h4 class="filter-tags__title" >select event</h4>
+    {% if page.major_partners %}
+    <h4 class="partner-heading">principle</h4>
+    {% include partners/full-width-blurb-logo-center.html partners = page.major_partners %}
+    {% endif %}
 
-        <ul class="filter-tags__tags">
-          {% for event_name in page.events %}
-          {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
+    {% if page.supporting_partners %}
+    <h4 class="partner-heading">significant</h4>
+    {% include partners/full-width-blurb.html partners = page.supporting_partners %}
+    {% endif %}
 
-          <li class="filter-tags__tag">
-            <a href="#{{event.short_title}}">{{ event.short_title }}: {{ event.tagline }}</a>
-          </li>
+    {% if page.event_partners %}
+    <h4 class="partner-heading">event</h4>
+    {% include partners/grid.html partners = page.event_partners %}
+    {% endif %}
 
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
   </div>
 </section>
-
-{% for event_name in page.events %}
-{% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
-
-  <section id="{{ event.short_title }}" class="section-border--dashed">
-  	<div class="container">
-
-  		<h3 class="section-heading">{{ event.short_title }}</h3>
-
-      {% if event.major_partners or event.supporting_partners or event.event_partners %}
-
-        {% if event.major_partners %}
-          {% include partners/major.html partners = event.major_partners %}
-        {% endif %}
-
-        {% if event.supporting_partners %}
-          {% include partners/supporting.html partners = event.supporting_partners %}
-        {% endif %}
-
-        {% if event.event_partners %}
-          {% include partners/event.html partners = event.event_partners %}
-        {% endif %}
-
-      {% endif %}
-
-    </div>
-  </section>
-{% endfor %}

@@ -1,4 +1,3 @@
-<h4 class="partner-heading">event</h4>
 <div class="partners">
 	{% for partner_name in include.partners %}
 		{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
