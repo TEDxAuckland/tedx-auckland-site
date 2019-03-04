@@ -1,22 +1,19 @@
 ---
 title: march 2019 event
-short_title: 2018
+short_title: 04-2019
 upcoming: true
 image:
 badge_image:
 tagline:
-start_date:
-end_date:
-address: '50 Mayoral Dr, Auckland, New Zealand'
+start_date: 2019-04-14 00:00:00 +1200
+end_date: 2019-04-14 00:00:00 +1200
+address:
 people:
 flikr_galleries:
   -
 major_partners:
-  -
 supporting_partners:
-  -
 event_partners:
-  -
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
@@ -29,4 +26,4 @@ seo:
     -
 ---
 
-Enter your description here...
+Enter your description here…
