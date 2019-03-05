@@ -1,8 +1,8 @@
 ---
 title: april 2019 event
-short_title: '04-2019'
+short_title: 04-2019
 upcoming: true
-event_bar_right: 'Sunday April 14th, 2019 | Whoa! Studios, Henderson'
+event_bar_right: 'Sunday April 14th, 2019 | Whoa! Studios & The Grounds, Henderson'
 image:
 badge_image:
 tagline:
