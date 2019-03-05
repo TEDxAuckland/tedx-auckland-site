@@ -2,6 +2,7 @@
 title: TedX Auckland
 short_title:
 upcoming: true
+event_bar_right:
 image:
 badge_image:
 tagline:
