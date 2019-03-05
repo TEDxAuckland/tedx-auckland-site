@@ -36,4 +36,6 @@ In 2019, TEDxAuckland reaches its 10th year anniversary. To celebrate we’re ho
 
 Our first event, April 14th will host 4~5 amazing speakers at Whoa! Studios, a state of the art studio and theatre that produces numerous New Zealand and international films, television and stage productions.
 
-After the event, all attendees will socialize with our speakers at the inclusive dinner in The Grounds Eatery. This 5-course themed shared dinner, accompanied with wine and drinks, will be orchestrated by the acclaimed and multi-award winning Kiwi chef, Ben Bayly, conjuring it up with local produce from West Auckland.
+After the event, all attendees will socialise with our speakers at the inclusive dinner in The Grounds Eatery. This five course shared dinner, accompanied with wine and drinks, will be orchestrated by the acclaimed and multi-award winning Kiwi chef, Ben Bayly, conjuring it up with local produce from West Auckland.
+
+Only 160 seats available so apply to attend here.
