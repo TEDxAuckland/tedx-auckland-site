@@ -75,4 +75,4 @@ When you think of a place as being “too touristy”, what does this means to y
 
 My advice? Be open to new experiences, increase your tolerance towards other tourists, have cultural sensitivity, and some knowledge of the area - as this can help you to become a good tourist. If you generalise tourism as being negative and forget to identify some of the positive aspects, you can miss out on some truly memorable experiences.
 
-> Tara is the Social Media Manager for TEDxAuckland. She is interested in creating thought-provoking stories through her writing and photography.
+> Tara Ranchhod is the Social Media Manager for TEDxAuckland. She is interested in creating thought-provoking stories through her writing and photography.
