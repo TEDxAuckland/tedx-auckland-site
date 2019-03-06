@@ -13,13 +13,11 @@ categories:
 
 ‘Tourist’ seems to be a dirty word.
 
-I’ve travelled before, but it was only on my most recent adventure that I came face to face with what it means for something to be ‘too touristy’.
+I’ve travelled before, but it was only on my most recent adventure that I came face to face with what it means for something to be ‘too touristy’. (read\_more)
 
 ![](/uploads/4cdfe443-d722-4ec7-a4f8-0ff95ef55342.jpeg)
 
-&nbsp;
-
-My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. Like most people, I had an unforgettable experience embracing the new sights and smells, people and culture. (read\_more)
+My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. Like most people, I had an unforgettable experience embracing the new sights and smells, people and culture.&nbsp;
 
 With only a limited amount of time in each country, I decided to visit some of the most popular places. To me, this felt like the easiest and safest way to get introduced to the country quickly.
 
