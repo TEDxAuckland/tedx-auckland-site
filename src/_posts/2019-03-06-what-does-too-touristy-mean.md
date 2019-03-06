@@ -11,8 +11,6 @@ categories:
   - our-news
 ---
 
-&nbsp;
-
 ‘Tourist’ seems to be a dirty word.
 
 I’ve travelled before, but it was only on my most recent adventure that I came face to face with what it means for something to be ‘too touristy’.
@@ -21,7 +19,7 @@ I’ve travelled before, but it was only on my most recent adventure that I came
 
 &nbsp;
 
-My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. Like most people, I had an unforgettable experience embracing the new sights and smells, people and culture.
+My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. Like most people, I had an unforgettable experience embracing the new sights and smells, people and culture. (read\_more)
 
 With only a limited amount of time in each country, I decided to visit some of the most popular places. To me, this felt like the easiest and safest way to get introduced to the country quickly.
 
@@ -32,8 +30,6 @@ So after spending some time thinking about it after I got back, I wanted to shar
 #### Reason #1: Lack of authentic culture
 
 Some people believe that visiting touristic areas leads to inauthentic cultural experiences.
-
-&nbsp;
 
 I think it’s important to question why these touristic hotspots have become popular in the first place. In a lot of cases, it’s precisely because they are seen as cultural landmarks - teaching us about the history of a place, and how it has shaped its culture.
 
@@ -61,7 +57,7 @@ Tourism in Vietnam has been around for longer, therefore locals have observed th
 
 This behaviour in Vietnam is an example of why some travellers reject these types of places, and in some cases, tourism has brought out a negative side to local communities. Laos on the other hand has shown me that tourism doesn’t necessarily have to be like this.
 
-Personally, this had little negative effect on me overall. I see it as being just another interesting part of the travelling experience.&nbsp;Also, sites like TripAdvisor helped me to view people’s opinions, and gave me knowledge on what to expect and be weary of in these places. &nbsp;
+Personally, this had little negative effect on me overall. I see it as being just another interesting part of the travelling experience. Also, sites like TripAdvisor helped me to view people’s opinions, and gave me knowledge on what to expect and be weary of in these places. &nbsp;
 
 Locals pushing you to buy things can feel alarming, but I found that focusing on other aspects enhanced my overall experience. The chaotic vibe of the people, noises and smells left me enthralled. This trip also shows me that we as tourists, should change our behaviour towards consumption if we want local communities to do the same.
 
@@ -80,7 +76,5 @@ Overall, I’m still glad to have experienced those tours, as I connected with l
 #### So, how should we be good tourists?
 
 When you think of a place as being “too touristy”, what does this means to you? I have touched on some of the negative aspects of tourism, but being a tourist in itself is not something to be viewed as negative. Traveling for pleasure should be encouraged as it brings a lot of meaningful experiences, despite the downfalls.
-
-&nbsp;
 
 My advice? Be open to new experiences, increase your tolerance towards other tourists, have cultural sensitivity, and some knowledge of the area - as this can help you to become a good tourist. If you generalise tourism as being negative and forget to identify some of the positive aspects, you can miss out on some truly memorable experiences.
