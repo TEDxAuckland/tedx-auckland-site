@@ -71,7 +71,7 @@ Overall, I’m still glad to have experienced those tours, as I connected with l
 
 #### So, how should we be good tourists?
 
-When you think of a place as being “too touristy”, what does this means to you? I have touched on some of the negative aspects of tourism, but being a tourist in itself is not something to be viewed as negative. Traveling for pleasure should be encouraged as it brings a lot of meaningful experiences, despite the downfalls.
+When you think of a place as being “too touristy”, what does this mean to you? I have touched on some of the negative aspects of tourism, but being a tourist in itself is not something to be viewed as negative. Traveling for pleasure should be encouraged as it brings a lot of meaningful experiences, despite the downfalls.
 
 My advice? Be open to new experiences, increase your tolerance towards other tourists, have cultural sensitivity, and some knowledge of the area - as this can help you to become a good tourist. If you generalise tourism as being negative and forget to identify some of the positive aspects, you can miss out on some truly memorable experiences.
 
