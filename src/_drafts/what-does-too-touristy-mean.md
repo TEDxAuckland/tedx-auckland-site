@@ -11,29 +11,35 @@ categories:
   - our-news
 ---
 
-‘Tourist’ seems to be a dirty word.&nbsp;
+&nbsp;
+
+‘Tourist’ seems to be a dirty word.
 
 I’ve travelled before, but it was only on my most recent adventure that I came face to face with what it means for something to be ‘too touristy’.
 
 ![](/uploads/4cdfe443-d722-4ec7-a4f8-0ff95ef55342.jpeg)
 
-My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. Like most people, I had an unforgettable experience embracing the new sights and smells, people and culture. (read\_more)
+&nbsp;
 
-With only a limited amount of time in each country, I decided to visit some of the most popular places. To me, this felt like the easiest way to get introduced to the country quickly.
+My first experience of travelling in Southeast Asia happened recently when I visited Vietnam and Laos. Like most people, I had an unforgettable experience embracing the new sights and smells, people and culture.
+
+With only a limited amount of time in each country, I decided to visit some of the most popular places. To me, this felt like the easiest and safest way to get introduced to the country quickly.
 
 But I noticed something interesting. In hostels, other travellers would talk about rejecting these places. And while I’ve made the same judgements in the past, I was curious to understand where this negativity comes from.
 
-So after spending some time thinking about it after I got back, I wanted to share my thoughts on what I think are the 3 key reasons that have lead to this negativity.
+So after spending some time thinking about it after I got back, I wanted to share my thoughts on what I think are 3 key reasons that have lead to this negativity.
 
 #### Reason #1: Lack of authentic culture
 
 Some people believe that visiting touristic areas leads to inauthentic cultural experiences.
 
+&nbsp;
+
 I think it’s important to question why these touristic hotspots have become popular in the first place. In a lot of cases, it’s precisely because they are seen as cultural landmarks - teaching us about the history of a place, and how it has shaped its culture.
 
 ![](/uploads/img-20181230-101002-1.jpg)
 
-In Vietnam and Laos, I visited incredible museums and temples. People are shaped by their history, so to learn about it is to begin to understand the country as it is today. However, this inevitably results in these places attracting tourists, who then bring with them their own cultural artefacts, noticeably to the detriment of the landmark in questions. For example,&nbsp;[Ho Chi Minh City](https://www.lonelyplanet.com/vietnam/ho-chi-minh-city) and [Hanoi](https://www.lonelyplanet.com/vietnam/hanoi) are two of Vietnam’s most popular cities, so naturally, Western fast-food franchises were splattered around the city to cater to tourists’ established tastes (I can get a Whopper Jr anywhere).&nbsp;
+In Vietnam and Laos, I visited incredible museums and temples. People are shaped by their history, so to learn about it is to begin to understand the country as it is today. However, this inevitably results in these places attracting tourists, who then bring with them their own culture, some of which is a detriment to the landmark in questions. For example,&nbsp;[Ho Chi Minh City](https://www.lonelyplanet.com/vietnam/ho-chi-minh-city) and [Hanoi](https://www.lonelyplanet.com/vietnam/hanoi) are two of Vietnam’s most popular cities, so naturally, Western fast-food franchises were splattered around the city to cater to tourists’ established tastes (I can get a Whopper Jr anywhere).&nbsp;
 
 But unless an area is to be completely shut off from tourists altogether (along with the huge economic benefits they bring) it seems inevitable that this will happen. In [Bhutan](https://www.lonelyplanet.com/bhutan){: target="_blank"}, the government has been wary of the growth and development of tourism. In fact, the country has [only welcomed tourists since the 60's](https://www.bhutan.travel/page/getting-into-bhutan), and you must now pay an entry fee (of up to $250 USD a day). This decision has proved controversial as commentators have become increasingly concerned about how this has, and continues to impact the authenticity of their culture.&nbsp;
 
@@ -55,7 +61,7 @@ Tourism in Vietnam has been around for longer, therefore locals have observed th
 
 This behaviour in Vietnam is an example of why some travellers reject these types of places, and in some cases, tourism has brought out a negative side to local communities. Laos on the other hand has shown me that tourism doesn’t necessarily have to be like this.
 
-Personally, this had little negative effect on me overall. I see it as being just another interesting part of the travelling experience. Also, sites like TripAdvisor helped me to view people’s opinions, what to expect and be weary of in touristic places. &nbsp;
+Personally, this had little negative effect on me overall. I see it as being just another interesting part of the travelling experience.&nbsp;Also, sites like TripAdvisor helped me to view people’s opinions, and gave me knowledge on what to expect and be weary of in these places. &nbsp;
 
 Locals pushing you to buy things can feel alarming, but I found that focusing on other aspects enhanced my overall experience. The chaotic vibe of the people, noises and smells left me enthralled. This trip also shows me that we as tourists, should change our behaviour towards consumption if we want local communities to do the same.
 
@@ -63,16 +69,18 @@ Locals pushing you to buy things can feel alarming, but I found that focusing on
 
 I don’t mind crowds, however they are made especially unpleasant when other tourists behave in a disrespectful manner. In Vietnam, I visited the [Củ Chi Tunnels](https://www.history.com/topics/vietnam-war/cu-chi-tunnels), an area used by the Viet Cong to hide and plot against American forces. Some tourists were smiling for pictures in front of American war tanks, and others were shooting rifles on a firing range.
 
-Similarly, in Laos, I witnessed an [alms giving ceremony](http://www.visit-laos.com/luang-prabang/alms-giving-ceremony.htm), where monks walked the streets to receive food donations. During this procession, groups of tourists chose to use flash photography and kept talking loudly. I didn't think it was appropriate to be acting in this manner. If anything, it’s insensitive to the struggles experienced by the locals during the Vietnam War, and rude to Laotian customs. It’s important to be a good tourist by paying respect to these historical places.
+Similarly, in Laos, I witnessed an [alms giving ceremony](http://www.visit-laos.com/luang-prabang/alms-giving-ceremony.htm), where monks walked the streets to receive food donations. During this procession, groups of tourists chose to use flash photography and kept talking loudly. I didn’t think it was appropriate to be acting in this manner. If anything, it’s insensitive to the struggles experienced by the locals during the Vietnam War, and rude to Laotian customs. It’s important to be a good tourist by paying respect to these historical places.
 
-I think crowds foster this type of negative behaviour because people are grouped together in an unknown place and are less likely to be held accountable for their actions. This feeling of anonymity seems to facilitate no long-term repercussions for their behaviour. &nbsp;
+This environment fosters this type of negative behaviour in crowds because people are less likely to be held accountable for their actions. It’s sometimes encouraged by local tour guides. In the Củ Chi Tunnels the guide would ask if we wanted to take photos and shoot rifles. I later asked him why people choose to do this, to which he responded by saying “tourists like it”. It’s important to remember that people from all different cultures are coming together in an unfamiliar place, and with their learned behaviour act in a way which is different to you and I, and at times it’s difficult to comprehend. But this lack of accountability means there are no long-term repercussions being felt for their negative behaviour.
 
-I also overheard travellers talk about not wanting to share a space which held too many other tourists. But I don’t think that’s a justified reason to reject those places. Other travellers have a right to experience the site, and sharing the space with others can sometimes add value to your overall experience. In the Củ Chi Tunnels, I met some lovely travellers who added a positive note to the uncomfortable tour.
+I’d also overhear travellers talk about not wanting to visit a place which held too many other tourists because it’s irritating. But I don’t think that’s a justified reason to reject those places. Other travellers have a right to experience the site, and sharing the space with others can sometimes add value to your overall experience. In the Củ Chi Tunnels, I met some lovely travellers who added a positive note to the uncomfortable tour. On a positive note, everything was organized for me on the tour, which made it easier to relax and enjoy the experience.
 
-I’m still glad to have experienced those tours, as I connected with like-minded people, and reflected on how we ought to conduct ourselves in historically significant areas. It seems to me that it isn't the number of tourists that makes for a negative experience, but the type of tourist.
+Overall, I’m still glad to have experienced those tours, as I connected with like-minded people, and reflected on how we ought to conduct ourselves in historically significant areas. It seems to me that it isn’t the number of tourists that makes for a negative experience, but the type of tourist.
 
 #### So, how should we be good tourists?
 
-When you think of a place as being “too touristy”, what does this means to you? I have touched on some of the negative aspects of tourism, but being in touristic places in itself is not something to be viewed as negative because you can gain a lot of enriching experiences from these places, despite their downfalls. In a lot of tours I felt very comfortable because everything was organised for me, and it allowed me to relax and appreciate the moment.&nbsp;
+When you think of a place as being “too touristy”, what does this means to you? I have touched on some of the negative aspects of tourism, but being a tourist in itself is not something to be viewed as negative. Traveling for pleasure should be encouraged as it brings a lot of meaningful experiences, despite the downfalls.
 
-My advice? Be open to new experiences, have cultural sensitivity, and some knowledge of the area - as this can help you to become a good tourist. If you generalise tourism as being negative and forget to identify some of the positive aspects, you can miss out on some truly memorable experiences.
+&nbsp;
+
+My advice? Be open to new experiences, increase your tolerance towards other tourists, have cultural sensitivity, and some knowledge of the area - as this can help you to become a good tourist. If you generalise tourism as being negative and forget to identify some of the positive aspects, you can miss out on some truly memorable experiences.
