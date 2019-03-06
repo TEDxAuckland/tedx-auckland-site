@@ -31,8 +31,6 @@ Some people believe that visiting touristic areas leads to inauthentic cultural 
 
 I think it’s important to question why these touristic hotspots have become popular in the first place. In a lot of cases, it’s precisely because they are seen as cultural landmarks - teaching us about the history of a place, and how it has shaped its culture.
 
-![](/uploads/img-20181230-101002-1.jpg)
-
 In Vietnam and Laos, I visited incredible museums and temples. People are shaped by their history, so to learn about it is to begin to understand the country as it is today. However, this inevitably results in these places attracting tourists, who then bring with them their own culture, some of which is a detriment to the landmark in questions. For example,&nbsp;[Ho Chi Minh City](https://www.lonelyplanet.com/vietnam/ho-chi-minh-city) and [Hanoi](https://www.lonelyplanet.com/vietnam/hanoi) are two of Vietnam’s most popular cities, so naturally, Western fast-food franchises were splattered around the city to cater to tourists’ established tastes (I can get a Whopper Jr anywhere).&nbsp;
 
 But unless an area is to be completely shut off from tourists altogether (along with the huge economic benefits they bring) it seems inevitable that this will happen. In [Bhutan](https://www.lonelyplanet.com/bhutan){: target="_blank"}, the government has been wary of the growth and development of tourism. In fact, the country has [only welcomed tourists since the 60's](https://www.bhutan.travel/page/getting-into-bhutan), and you must now pay an entry fee (of up to $250 USD a day). This decision has proved controversial as commentators have become increasingly concerned about how this has, and continues to impact the authenticity of their culture.&nbsp;
