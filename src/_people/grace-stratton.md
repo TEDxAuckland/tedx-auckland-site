@@ -6,7 +6,7 @@ description_markdown: >-
   *Outspoken / Able / Driven*
 
 
-    &nbsp;
+  &nbsp;
 
 
   Grace Stratton, doesn’t pull any punches. Diagnosed with Cerebral Palsy at a
@@ -18,7 +18,7 @@ description_markdown: >-
   chose.
 
 
-    &nbsp;
+  &nbsp;
 
 
   Three years after building that website, this statement is still true. Grace
@@ -27,7 +27,7 @@ description_markdown: >-
   her in industry and as a person.
 
 
-    &nbsp;
+  &nbsp;
 
 
   Grace believes that all diversities hold this same strength, and that this
@@ -36,7 +36,7 @@ website_url: 'http://gracegeorgia.co.nz'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: g3DXKzLBMgc
 github_username:
 instagram_url: 'https://www.instagram.com/graciegeorgiastratton/'
 ---
