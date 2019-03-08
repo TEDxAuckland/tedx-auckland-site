@@ -4,7 +4,7 @@ youtube_video_id: g3DXKzLBMgc
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/screen-shot-2019-03-08-at-3-25-18-pm.png
 related_posts:
 ---
 
