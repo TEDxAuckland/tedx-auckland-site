@@ -1,5 +1,5 @@
 ---
-title: April 2019 event
+title: May 2019 event
 short_title: 04-2019
 upcoming: true
 event_bar_right: 'Sunday April 14th, 2019 | Whoa! Studios & The Grounds, Henderson'
@@ -29,8 +29,6 @@ seo:
   links:
     -
 ---
-
-&nbsp;
 
 In 2019, TEDxAuckland reaches its 10th year anniversary. To celebrate we’re holding not one but multiple events around Auckland!
 
