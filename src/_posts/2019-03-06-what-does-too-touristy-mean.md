@@ -61,7 +61,7 @@ Locals pushing you to buy things can feel alarming, but I found that focusing on
 
 I don’t mind crowds, however they are made especially unpleasant when other tourists behave in a disrespectful manner. In Vietnam, I visited the [Củ Chi Tunnels](https://www.history.com/topics/vietnam-war/cu-chi-tunnels), an area used by the Viet Cong to hide and plot against American forces. Some tourists were smiling for pictures in front of American war tanks, and others were shooting rifles on a firing range.
 
-![](/uploads/54727887-1031969140330922-7440055771074658304-n-copy.jpg)![](/uploads/54727887-1031969140330922-7440055771074658304-n-copy-1.jpg)
+![](/uploads/54727887-1031969140330922-7440055771074658304-n-copy.jpg)
 
 Similarly, in Laos, I witnessed an [alms giving ceremony](http://www.visit-laos.com/luang-prabang/alms-giving-ceremony.htm), where monks walked the streets to receive food donations. During this procession, groups of tourists chose to use flash photography and kept talking loudly. I didn’t think it was appropriate to be acting in this manner. If anything, it’s insensitive to the struggles experienced by the locals during the Vietnam War, and rude to Laotian customs. It’s important to be a good tourist by paying respect to these historical places.
 
@@ -71,7 +71,7 @@ I’d also overhear travellers talk about not wanting to visit a place which hel
 
 Overall, I’m still glad to have experienced those tours, as I connected with like-minded people, and reflected on how we ought to conduct ourselves in historically significant areas. It seems to me that it isn’t the number of tourists that makes for a negative experience, but the type of tourist.
 
-![](/uploads/53905738-861055540953182-6681550970209435648-n-copy.jpg)![](/uploads/53905738-861055540953182-6681550970209435648-n-copy-1.jpg)
+&nbsp;
 
 #### So, how should we be good tourists?
 
