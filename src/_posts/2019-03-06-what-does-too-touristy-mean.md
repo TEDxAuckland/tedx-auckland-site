@@ -71,7 +71,7 @@ I’d also overhear travellers talk about not wanting to visit a place which hel
 
 Overall, I’m still glad to have experienced those tours, as I connected with like-minded people, and reflected on how we ought to conduct ourselves in historically significant areas. It seems to me that it isn’t the number of tourists that makes for a negative experience, but the type of tourist.
 
-&nbsp;
+![](/uploads/53905738-861055540953182-6681550970209435648-n-copy-2.jpg)
 
 #### So, how should we be good tourists?
 
