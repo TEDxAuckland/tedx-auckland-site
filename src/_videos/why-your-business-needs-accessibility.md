@@ -4,9 +4,7 @@ youtube_video_id: g3DXKzLBMgc
 performance: false
 highlight: false
 images:
-  - image:
-  - image: /uploads/grace-stratton-talk-1.jpg
-  - image:
+  - image: /uploads/grace-stratton-talk-1-1.jpg
 related_posts:
 ---
 
