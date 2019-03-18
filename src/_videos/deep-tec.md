@@ -4,7 +4,7 @@ youtube_video_id: 6IN5k-qOcdA
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/imche-fourie-talk-1.jpg
 related_posts:
 ---
 
