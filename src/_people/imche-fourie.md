@@ -6,7 +6,7 @@ description_markdown: >-
   *Deep tech / Enthusiast / Lifter*
 
 
-    &nbsp;
+  &nbsp;
 
 
   Imche is passionate about accelerating New Zealand’s science and technology
@@ -22,7 +22,7 @@ website_url: 'https://www.leveltwo.tech/'
 medium_url: 'https://chiasma.org.nz/'
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: 6IN5k-qOcdA
 github_username:
 instagram_url:
 ---
