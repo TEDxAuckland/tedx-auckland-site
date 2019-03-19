@@ -8,4 +8,4 @@ images:
 related_posts:
 ---
 
-Enter your description here…
+Nigel is a technologist. Just as importantly, he is unafraid of failure - having seen it first hand in the dot-com bubble. Now working with Microsoft, he develops some of the most useful and exciting technologies around. His unusual advice is to 'fail fast' and drive innovation forward.
