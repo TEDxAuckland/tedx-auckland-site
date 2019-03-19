@@ -1,5 +1,5 @@
 ---
-title: 'Deep Tech: Investing in our future | Imche Fourie'
+title: 'Deep Tech: Investing in our future'
 youtube_video_id: 6IN5k-qOcdA
 performance: false
 highlight: false
