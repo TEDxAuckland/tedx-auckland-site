@@ -2,7 +2,7 @@
 title: 'Deep Tech: Investing in our future'
 youtube_video_id: 6IN5k-qOcdA
 performance: false
-highlight: false
+highlight: true
 images:
   - image: /uploads/imche-fourie-talk-1.jpg
 related_posts:
