@@ -1,13 +1,14 @@
 ---
 title: May 2019 event
 short_title: 04-2019
+layout: event-05-2019
 upcoming: true
 event_bar_right: 'Sunday April 14th, 2019 | Whoa! Studios & The Grounds, Henderson'
-image:
+image: /uploads/TEDxAkl-may-19-banner.jpg
 badge_image:
 tagline:
-start_date: 2019-04-14 00:00:00 +1200
-end_date: 2019-04-14 00:00:00 +1200
+start_date: 2019-05-01 00:00:00 +1200
+end_date: 2019-05-01 00:00:00 +1200
 address: '8 Henderson Valley Rd, Henderson, Auckland'
 people:
 flikr_galleries:
@@ -22,13 +23,15 @@ youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
-permalink: /events/04-2018/
+permalink: /events/05-2019/
 seo:
   name: TEDxAuckland
   type: Event
   links:
     -
 ---
+
+# TEDxAuckland May 2019
 
 In 2019, TEDxAuckland reaches its 10th year anniversary. To celebrate we’re holding not one but multiple events around Auckland!
 
