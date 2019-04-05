@@ -13,18 +13,23 @@
 
   &__img {
     width: 100%;
+  }
+}
 
-    &-may {
-      width: 70%;
-      margin: 17rem auto 10rem auto;
-      @include respond(tab-port) {
-        width: 80%;
-      }
-      @include respond(phone) {
-        width: 90%;
-        margin: 4rem auto 2rem auto;
-      }
-    }
+.may-banner {
+  width: 70%;
+  margin: 20rem -5rem 10rem auto;
+  &__tedx {
+    width: 40rem;
+  }
+
+  &__text {
+    margin: 3rem 0;
+    font-weight: 600;
+  }
+
+  &__vodafone {
+    width: 9rem;
   }
 }
 
