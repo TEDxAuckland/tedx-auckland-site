@@ -16,6 +16,8 @@ videos:
   - reaching-out-to-mental-wellness
 ---
 
+{% include upcoming-event-bar.html %}
+
 <section id="talks" class="section">
   <div class="container">
 
@@ -27,21 +29,19 @@ videos:
   </div>
 </section>
 
-<section id="blog" class="section">
+<section id="blog editable" class="section">
   <div class="container">
     <h3 class="section-heading">blog</h3>
     {% include homepage-blog.html %}
   </div>
 </section>
 
-{% include upcoming-event-bar.html %}
-
 {% assign upcoming_event = site.events | where_exp: "e", "e.upcoming == true" | first %}
 
 {% if upcoming_event.event_schedule %}
 <section id="schedule" class="section">
   <div class="container">
-    <h4 class="section-heading section-heading--speakers">2018 event schedule</h4>
+    <h3 class="section-heading editable">2018 event schedule</h3>
 
     {% include schedule.html schedule = upcoming_event.event_schedule %}
   </div>
@@ -51,7 +51,7 @@ videos:
 {% if upcoming_event.speakers %}
   <section id="speakers" class="section">
     <div class="container">
-      <h3 class="section-heading section-heading--speakers">past speakers</h3>
+      <h3 class="section-heading editable">upcoming speakers</h3>
 
       {% include speakers.html speakers = upcoming_event.people bg_white = true hide_names = true %}
     </div>
@@ -60,7 +60,7 @@ videos:
 
 <section id="join" class="section">
   <div class="container">
-    <h3 class="section-heading">join our community</h3>
+    <h3 class="section-heading editable">join our community</h3>
     <div class="center-form">
       {% include embed/extended-mailchimp-form.html %}
     </div>
