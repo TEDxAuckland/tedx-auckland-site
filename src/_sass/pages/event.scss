@@ -5,7 +5,7 @@
   align-items: center;
   overflow: hidden;
 
-  &__05-2019 {
+  &__may {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +14,7 @@
   &__img {
     width: 100%;
 
-    &-05-2019 {
+    &-may {
       width: 70%;
       margin: 17rem auto 10rem auto;
       @include respond(tab-port) {
