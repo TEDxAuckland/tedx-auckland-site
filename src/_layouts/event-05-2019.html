@@ -3,7 +3,15 @@ layout: default
 ---
 
 {% if page.image %}
-<header class="event-hero__may container">
+<header class="event-hero container">
+  {% assign image = page.image | remove_first: "/" %}
+  {% responsive_image path: image
+                      class: "event-hero__img"
+                      widths: "400, 600, 900, 1200, 1800, 2700, 3800"
+                      sizes: "100vw"
+  %}
+</header>
+<!-- <header class="event-hero__may container">
   <div class="may-banner">
     <img class="may-banner__tedx" src="/assets/images/tedx-auckland-logo-black.svg" alt="TEDxAuckland">
     <p class="may-banner__text">
@@ -11,7 +19,7 @@ layout: default
     </p>
     <img class="may-banner__vodafone" src="/uploads/vodafone-logo-1200w.png" alt="Vodafone Logo">
   </div>
-</header>
+</header> -->
 {% endif %}
 
 {% assign page_content = page.content | strip_newlines %}

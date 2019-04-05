@@ -4,7 +4,7 @@ short_title: 04-2019
 layout: event-05-2019
 upcoming: true
 event_bar_right: 'Sunday April 14th, 2019 | Whoa! Studios & The Grounds, Henderson'
-image: /uploads/TEDxAkl-may-19-banner.svg
+image: /uploads/TEDxAkl-may-19-banner.png
 badge_image:
 tagline:
 start_date: 2019-05-01 00:00:00 +1200
