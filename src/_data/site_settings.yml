@@ -1,6 +1,6 @@
 upcoming_event_bar:
   active: true
-  event_short_title: '04-2019'
+  event_short_title: 05-2019
 buy_ticket_button:
   active: false
   url: '/events/04-2018/#buyTicket'
