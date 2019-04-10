@@ -3,27 +3,26 @@ name: Annamarie Jamieson
 email:
 image: /uploads/am-1200-90.jpg
 description_markdown: >-
-  Annamarie firmly believes that everyone has the right to contribute to
-  society, to follow a passion, and to be connected to our communities in some
-  shape or form.
+  Andrea Reid started a movement in New Zealand that aims to connect the city's
+  parks, reserves and urban agricultural centres together to form Pollinator
+  Paths. These paths will help bring crucial pollinators into our urban areas to
+  enable our growing urban food network to thrive.
 
 
-  In her position as the People & Culture Director for
-  [Stuff.co.nz](http://stuff.co.nz/), she launched and implemented the
-  award-winning *Creative Spirit programme*, which gives young adults with
-  intellectual disabilities a chance to contribute to society in a meaningful
-  way.
+  The concept started in 2014 as a University thesis for her final year of a
+  Bachelor of Landscape Architecture degree, and has now grown into a fully
+  fledged movement.
 
 
-  This was followed by *The Coffee CO-OP*, Stuff’s Auckland office cafe, which
-  is staffed by deaf baristas, and received the *2017 Attitude ACC Employer
-  Award*, and in the same year was a *Diversity and Inclusion Leadership Award*
-  Finalist.
+  Andrea is currently collaborating with the Waitemata Local Board, Auckland
+  Council, Auckland Transport, Gecko NZ Trust, For the Love of Bees, Kelmarna
+  Gardens, several local community groups, sponsors & a bunch of passionate
+  volunteers to create a series of prototypes to install throughout Auckland
+  City starting.
 
 
-  She also won Fairfax Media’s inaugural *Women of Influence Community Leader*
-  award in recognition of this work, which supports the employment of people
-  with disabilities.
+  The project has won multiple awards and has been featured on Whanau Living,
+  RadioNZ, NZ Herald, Stuff & the NZ Gardner Magazine.
 website_url:
 medium_url:
 twitter_url:
