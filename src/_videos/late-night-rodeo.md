@@ -1,6 +1,6 @@
 ---
 title: Late Night Rodeo
-youtube_video_id: v=eR0nGJPtKg8
+youtube_video_id: eR0nGJPtKg8
 performance: true
 highlight: false
 images:

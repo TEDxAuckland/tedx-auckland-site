@@ -1,6 +1,6 @@
 ---
 title: Casanova Walks East 14th
-youtube_video_id: v=0cC-s0T6aVE
+youtube_video_id: 0cC-s0T6aVE
 performance: true
 highlight: false
 images:

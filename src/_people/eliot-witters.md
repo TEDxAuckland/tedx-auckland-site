@@ -30,7 +30,7 @@ website_url: 'https://www.youtube.com/channel/UCzn2yq12ogaJH2IsK8p48gw'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: 0cC-s0T6aVE
 github_username:
 instagram_url:
 ---
