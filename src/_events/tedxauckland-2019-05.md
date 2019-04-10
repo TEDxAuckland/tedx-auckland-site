@@ -9,8 +9,11 @@ badge_image:
 tagline:
 start_date: 2019-05-01 00:00:00 +1200
 end_date: 2019-05-01 00:00:00 +1200
-address: '8 Henderson Valley Rd, Henderson, Auckland'
+address: '8-14 Henderson Valley Rd, Henderson, Auckland'
 people:
+  - james-hurman
+  - andrea-reid
+  - annamarie-jamieson
 flikr_galleries:
   -
 major_partners:
