@@ -4,7 +4,7 @@ youtube_video_id: HKn6ibHJ-Zg
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/katie-williams-talk-1.jpg
 related_posts:
 ---
 
