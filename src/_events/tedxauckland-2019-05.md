@@ -3,7 +3,7 @@ title: May 2019 event
 short_title: 05-2019
 layout: event-05-2019
 upcoming: true
-event_bar_right: 'Sunday May 1st, 2019 | Whoa! Studios & The Grounds, Henderson'
+event_bar_right: 'Wednesday May 1st, 2019 | Whoa! Studios & The Grounds, Henderson'
 image: /uploads/TEDxAkl-may-19-banner.png
 badge_image:
 tagline:
