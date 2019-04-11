@@ -4,7 +4,7 @@ youtube_video_id: 0cC-s0T6aVE
 performance: true
 highlight: false
 images:
-  - image:
+  - image: /uploads/eliot-witters2.jpg
 related_posts:
 ---
 
