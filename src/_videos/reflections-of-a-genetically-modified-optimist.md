@@ -4,7 +4,7 @@ youtube_video_id: r2Wv_wwFH1I
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/david-downs-talk-1.jpg
 related_posts:
 ---
 
