@@ -6,9 +6,6 @@ description_markdown: >-
   *Surgeon / Research Scientist / Medical Humanitarian*
 
 
-    &nbsp;
-
-
   From a family of 13 children brought up in a village in Malaysia, Dr Tan
   completed medical training at Melbourne University in 1985 and subsequently in
   New Zealand where he qualified as a plastic surgeon. Following fellowships at
@@ -16,17 +13,11 @@ description_markdown: >-
   2000-2006 and Director of Surgery in 2007-2013.
 
 
-    &nbsp;
-
-
   He founded the Centre for the Study & Treatment of Vascular Birthmarks in
   1996. Unsatisfied with the treatment for strawberry birthmarks he retrained as
   a scientist, receiving a PhD from Otago University in 2001. In 2013 he founded
   the Gillies McIndoe Research Institute, dedicated to relieving human suffering
   through paradigm-changing scientific research.
-
-
-    &nbsp;
 
 
   Discoveries by Dr Tan’s team of the stem cell origin of strawberry birthmarks
@@ -37,16 +28,13 @@ description_markdown: >-
   now underway for patients with glioblastoma, a deadly brain cancer.
 
 
-    &nbsp;
-
-
   Dr Tan has received many honours and awards, is a holder of six patents and an
   author of over 150 publications.
 website_url: 'http://www.gmri.org.nz'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: U3RUJ5PLFgU
 github_username:
 instagram_url:
 ---
