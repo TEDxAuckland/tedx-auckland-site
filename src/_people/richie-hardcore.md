@@ -6,7 +6,7 @@ description_markdown: >-
   *Activist / Muay Thai Fighter / Public Speaker*
 
 
-    &nbsp;
+  &nbsp;
 
 
   'Richie Hardcore is a board member at White Ribbon New Zealand, Ministry of
@@ -32,7 +32,7 @@ website_url: 'http://richiehardcore.co.nz'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: UJaQq_okL8k
 github_username:
 instagram_url: 'https://www.instagram.com/richiehardcore/'
 ---
