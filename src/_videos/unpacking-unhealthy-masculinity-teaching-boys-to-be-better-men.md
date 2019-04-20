@@ -4,7 +4,7 @@ youtube_video_id: UJaQq_okL8k
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/richie-hardcore-talk-1.jpg
 related_posts:
 ---
 
