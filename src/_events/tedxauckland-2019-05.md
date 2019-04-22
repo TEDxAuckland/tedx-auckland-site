@@ -23,6 +23,7 @@ supporting_partners:
   - bizdojo
 event_partners:
   - lowndes_jordan
+  - misfit-brewing-co-
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
