@@ -17,8 +17,7 @@ description_markdown: >-
   Andrea is currently collaborating with the Waitemata Local Board, Auckland
   Council, Auckland Transport, Gecko NZ Trust, For the Love of Bees, Kelmarna
   Gardens, several local community groups, sponsors & a bunch of passionate
-  volunteers to create a series of prototypes to install throughout Auckland
-  City starting.
+  volunteers to create a series of prototypes to install throughout Auckland.
 
 
   The project has won multiple awards and has been featured on Whanau Living,
