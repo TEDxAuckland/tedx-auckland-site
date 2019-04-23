@@ -16,6 +16,7 @@ facebook_url:
 youtube_video_id: 'GtQG6jAxOK4'
 github_username: 'https://medium.com/@davidtrubridge'
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

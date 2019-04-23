@@ -30,6 +30,7 @@ facebook_url: 'https://www.facebook.com/CriticalDesignNZ/'
 youtube_video_id: 'g_fFi7vFrHA'
 github_username:
 instagram_url: 'https://www.instagram.com/criticalnz/'
+linkedin_url:
 ---
 
 Enter your description here...

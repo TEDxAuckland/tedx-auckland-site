@@ -25,6 +25,7 @@ facebook_url:
 youtube_video_id: 'd53-nyFzoVI'
 github_username:
 instagram_url: 'https://www.instagram.com/_rebeccamills/'
+linkedin_url:
 ---
 
 Enter your description here...

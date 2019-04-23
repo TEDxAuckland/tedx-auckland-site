@@ -24,6 +24,7 @@ facebook_url: 'https://www.facebook.com/garden2table/'
 youtube_video_id: 'mQHUs5bcGDY'
 github_username:
 instagram_url: 'https://www.instagram.com/gardentotablenz/'
+linkedin_url:
 ---
 
 Enter your description here...

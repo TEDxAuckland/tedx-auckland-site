@@ -29,6 +29,7 @@ facebook_url:
 youtube_video_id: 'Ayj4RJvEsPE'
 github_username:
 instagram_url: 'https://www.instagram.com/holy.jedhi/'
+linkedin_url:
 ---
 
 Enter your description here...

@@ -18,6 +18,7 @@ facebook_url: 'https://www.facebook.com/thecentrenz/'
 youtube_video_id: 'z6Iip-kl-VM'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

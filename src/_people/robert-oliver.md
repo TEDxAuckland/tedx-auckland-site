@@ -16,6 +16,7 @@ facebook_url: 'https://www.facebook.com/RobertOliverChef/'
 youtube_video_id: 'orfB1UkoKdQ'
 github_username:
 instagram_url: 'https://www.instagram.com/robertolivernz/'
+linkedin_url:
 ---
 
 Enter your description here...

@@ -35,6 +35,7 @@ facebook_url:
 youtube_video_id: UJaQq_okL8k
 github_username:
 instagram_url: 'https://www.instagram.com/richiehardcore/'
+linkedin_url:
 ---
 
 Enter your description here...

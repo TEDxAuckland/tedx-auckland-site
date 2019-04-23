@@ -22,6 +22,7 @@ facebook_url: 'https://www.facebook.com/edmundhillaryfellowship'
 youtube_video_id: '6Vqethhad_k'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

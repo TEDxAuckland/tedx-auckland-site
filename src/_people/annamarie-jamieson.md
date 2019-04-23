@@ -31,4 +31,5 @@ facebook_url:
 youtube_video_id:
 github_username:
 instagram_url:
+linkedin_url:
 ---

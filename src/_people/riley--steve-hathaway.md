@@ -18,6 +18,7 @@ facebook_url: 'https://www.facebook.com/youngoceanexplorers'
 youtube_video_id: 'UzA_CTkn7vk'
 github_username:
 instagram_url: 'https://www.instagram.com/young_ocean_explorers/'
+linkedin_url:
 ---
 
 Enter your description here...

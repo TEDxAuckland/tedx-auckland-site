@@ -16,6 +16,7 @@ facebook_url:
 youtube_video_id: 'bZOwMqxLIn4'
 github_username:
 instagram_url: 'https://www.instagram.com/emmarogandesign/'
+linkedin_url:
 ---
 
 Enter your description here...

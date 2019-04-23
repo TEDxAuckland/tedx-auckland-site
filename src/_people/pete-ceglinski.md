@@ -38,6 +38,7 @@ facebook_url:
 youtube_video_id:
 github_username:
 instagram_url: 'https://www.instagram.com/seabin_project/'
+linkedin_url:
 ---
 
 Enter your description here...

@@ -25,6 +25,7 @@ facebook_url: 'https://www.facebook.com/wairere.t.iti/'
 youtube_video_id: 'qeK3SkxrZRI'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

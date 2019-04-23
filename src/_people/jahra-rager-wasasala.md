@@ -29,6 +29,7 @@ facebook_url:
 youtube_video_id: 'YBqm7hTHCpg'
 github_username:
 instagram_url: 'https://www.instagram.com/jahrager/'
+linkedin_url:
 ---
 
 Enter your description here...

@@ -10,3 +10,13 @@ find ./*.md -type f -print0 | xargs -0 -n 1
 
 # uses regex 's/from/to/g' changes instances of 'from' to 'to'
 sed -i -e 's/images: \[\]/images: \n- image: ""/g'
+
+
+# append a line after a matched string
+sed '/CLIENTSCRIPT="foo"/a CLIENTSCRIPT2="hello"' file
+sed  '/\[option\]/a Hello World' input
+
+sed -i '/instagram_url/a linkedin_url:' ./*.md
+  # searches all .md files in the current directory for the string 'instagram_url'
+  # and appends a line after it of 'linkedin_url'.
+  # -i does in place, remove this to just output to terminal (can do on a single file to test.)

@@ -19,6 +19,7 @@ facebook_url:
 youtube_video_id: 'mKZCa_ejbfg'
 github_username:
 instagram_url: 'https://www.instagram.com/sgourley/'
+linkedin_url:
 ---
 
 Enter your description here...

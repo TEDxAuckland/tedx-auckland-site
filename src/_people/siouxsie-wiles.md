@@ -20,6 +20,7 @@ facebook_url:
 youtube_video_id: 'F8a731O7IM8'
 github_username:
 instagram_url: 'https://www.instagram.com/siouxsiew/'
+linkedin_url:
 ---
 
 Enter your description here...

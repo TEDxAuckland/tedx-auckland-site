@@ -28,6 +28,7 @@ facebook_url:
 youtube_video_id: 'lSNm12-dYWI'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

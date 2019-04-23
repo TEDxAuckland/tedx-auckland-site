@@ -29,6 +29,7 @@ facebook_url: 'https://www.facebook.com/DrZeshanQureshi'
 youtube_video_id: uctoTk64GVM
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

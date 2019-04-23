@@ -16,6 +16,7 @@ facebook_url:
 youtube_video_id: 'ib-raWy_TXI'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

@@ -21,6 +21,7 @@ facebook_url: 'https://www.facebook.com/losebybooks/'
 youtube_video_id: Afaf8WxCR4U
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

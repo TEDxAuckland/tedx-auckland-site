@@ -28,6 +28,7 @@ facebook_url: 'https://www.facebook.com/UrzilaCarlsonComedian/'
 youtube_video_id: 'h1fk2zFTdlI'
 github_username:
 instagram_url: 'https://www.instagram.com/urzilacarlson/'
+linkedin_url:
 ---
 
 Enter your description here...

@@ -17,6 +17,7 @@ facebook_url: 'http://sparrowfilm.nz/'
 youtube_video_id: 'aumxbgOdkRU'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

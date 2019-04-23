@@ -39,6 +39,7 @@ facebook_url:
 youtube_video_id: g3DXKzLBMgc
 github_username:
 instagram_url: 'https://www.instagram.com/graciegeorgiastratton/'
+linkedin_url:
 ---
 
 Enter your description here...

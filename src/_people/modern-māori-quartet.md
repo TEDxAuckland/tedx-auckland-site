@@ -29,6 +29,7 @@ facebook_url: 'https://www.facebook.com/ModernMaoriQuartet'
 youtube_video_id: 'cQO3kPM3YRE'
 github_username:
 instagram_url: 'https://www.instagram.com/modernmaoriquartet/'
+linkedin_url:
 ---
 
 Enter your description here...

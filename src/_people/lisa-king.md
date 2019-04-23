@@ -24,6 +24,7 @@ facebook_url:
 youtube_video_id: 'sFw3_hlJuZQ'
 github_username:
 instagram_url: 'https://www.instagram.com/lisakingnz/'
+linkedin_url:
 ---
 
 Enter your description here...

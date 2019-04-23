@@ -22,6 +22,7 @@ facebook_url: 'https://www.facebook.com/AnnaCoddingtonMusic'
 youtube_video_id: 'X9R84sNlLYY'
 github_username:
 instagram_url: 'https://www.instagram.com/annacoddington/'
+linkedin_url:
 ---
 
 Enter your description here...

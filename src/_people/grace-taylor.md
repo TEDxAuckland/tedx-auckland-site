@@ -16,6 +16,7 @@ facebook_url: 'https://www.facebook.com/grace.taylor.5437923/'
 youtube_video_id: 'LivPMiYik9g'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

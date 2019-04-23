@@ -10,6 +10,7 @@ facebook_url: 'https://www.facebook.com/lukehurleymusic/'
 youtube_video_id:
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

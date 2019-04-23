@@ -28,6 +28,7 @@ facebook_url:
 youtube_video_id: h2au58zB_kk
 github_username:
 instagram_url: 'https://www.instagram.com/jazzthornton/'
+linkedin_url:
 ---
 
 Enter your description here...

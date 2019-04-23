@@ -21,6 +21,7 @@ facebook_url:
 youtube_video_id: '87Re2-hkTlo'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

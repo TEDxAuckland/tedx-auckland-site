@@ -30,6 +30,7 @@ facebook_url: 'https://www.facebook.com/protectIhumatao/'
 youtube_video_id: 'tT11yvE5plo'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

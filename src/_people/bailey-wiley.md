@@ -21,6 +21,7 @@ facebook_url: 'https://www.facebook.com/baileymusicnz/'
 youtube_video_id:
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

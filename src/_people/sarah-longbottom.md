@@ -19,6 +19,7 @@ facebook_url: 'https://www.facebook.com/ngarangatahitoa/'
 youtube_video_id: 'Dzxe_pQTd90'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

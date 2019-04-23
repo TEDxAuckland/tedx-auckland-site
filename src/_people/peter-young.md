@@ -23,6 +23,7 @@ facebook_url:
 youtube_video_id: 'fXYXHIX4P0A'
 github_username:
 instagram_url: 'https://www.instagram.com/peteryoung8515/'
+linkedin_url:
 ---
 
 Enter your description here...

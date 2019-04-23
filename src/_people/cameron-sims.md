@@ -20,6 +20,7 @@ facebook_url: 'https://www.facebook.com/plantculture.nz/'
 youtube_video_id: 'HWiFTt2s9hY'
 github_username:
 instagram_url: 'https://www.instagram.com/cam.sims/'
+linkedin_url:
 ---
 
 Enter your description here...

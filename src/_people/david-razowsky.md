@@ -25,6 +25,7 @@ facebook_url:
 youtube_video_id: 'Jp2EcuMbAmY'
 github_username:
 instagram_url: 'https://www.instagram.com/drazowsky/'
+linkedin_url:
 ---
 
 Enter your description here...

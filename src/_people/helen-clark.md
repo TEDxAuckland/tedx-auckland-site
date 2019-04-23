@@ -17,6 +17,7 @@ facebook_url: 'https://www.facebook.com/helenclarknz/'
 youtube_video_id: 'rrsBQo6GVC4'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

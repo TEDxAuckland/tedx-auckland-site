@@ -26,6 +26,7 @@ facebook_url:
 youtube_video_id: 'bPNyP2q08ow'
 github_username:
 instagram_url: 'https://www.instagram.com/victorianpurple/'
+linkedin_url:
 ---
 
 Enter your description here...

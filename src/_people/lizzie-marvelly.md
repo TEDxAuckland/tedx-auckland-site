@@ -28,6 +28,7 @@ facebook_url:
 youtube_video_id: '2HQjS33JJFE'
 github_username:
 instagram_url: 'https://www.instagram.com/lizziemarvelly/'
+linkedin_url:
 ---
 
 Enter your description here...

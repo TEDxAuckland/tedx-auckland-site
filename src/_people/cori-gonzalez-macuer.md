@@ -19,6 +19,7 @@ facebook_url: 'https://www.facebook.com/cori.gonzalezmacuer/'
 youtube_video_id: 'DmDwJPAIjmw'
 github_username:
 instagram_url: 'https://www.instagram.com/corigram/'
+linkedin_url:
 ---
 
 Enter your description here...

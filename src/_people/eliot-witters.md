@@ -33,6 +33,7 @@ facebook_url:
 youtube_video_id: 0cC-s0T6aVE
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

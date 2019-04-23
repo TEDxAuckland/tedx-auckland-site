@@ -23,6 +23,7 @@ facebook_url:
 youtube_video_id: 'yiAWXlAXBzQ'
 github_username:
 instagram_url: 'https://www.instagram.com/crisp.creative/'
+linkedin_url:
 ---
 
 Enter your description here...

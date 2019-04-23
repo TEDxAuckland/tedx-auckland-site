@@ -23,6 +23,7 @@ facebook_url: 'https://www.facebook.com/Capt.Pete.Bethune'
 youtube_video_id: '7eUVD74ozQU'
 github_username:
 instagram_url: 'https://www.instagram.com/petebethune/'
+linkedin_url:
 ---
 
 Enter your description here...

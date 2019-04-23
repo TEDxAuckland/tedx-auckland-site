@@ -17,6 +17,7 @@ facebook_url: 'https://www.facebook.com/rekindlenz'
 youtube_video_id: 'K2uiULiNRAg'
 github_username:
 instagram_url: 'https://www.instagram.com/rekindle_nz/'
+linkedin_url:
 ---
 
 Enter your description here...

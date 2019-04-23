@@ -28,6 +28,7 @@ facebook_url: 'https://www.facebook.com/ProjectMoroto/'
 youtube_video_id: 'lzQSZmedcfs'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

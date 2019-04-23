@@ -16,6 +16,7 @@ facebook_url:
 youtube_video_id: 'Cx2-XvdnH4Y'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

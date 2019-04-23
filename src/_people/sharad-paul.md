@@ -25,6 +25,7 @@ facebook_url: 'https://www.facebook.com/drsharadpaul/'
 youtube_video_id: '8v0ykTrTQEc'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

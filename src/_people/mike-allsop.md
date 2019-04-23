@@ -34,6 +34,7 @@ facebook_url:
 youtube_video_id: 'p1SSEbfsQY8'
 github_username:
 instagram_url: 'https://www.instagram.com/mikeallsopnz/'
+linkedin_url:
 ---
 
 Enter your description here...

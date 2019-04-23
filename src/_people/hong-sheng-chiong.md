@@ -25,6 +25,7 @@ facebook_url: 'https://www.facebook.com/hongshengchiong/'
 youtube_video_id: 'j4p5PJi71FU'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

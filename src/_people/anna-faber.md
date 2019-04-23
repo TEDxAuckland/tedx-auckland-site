@@ -21,6 +21,7 @@ facebook_url:
 youtube_video_id: 'cMxUl2k4DsY'
 github_username:
 instagram_url: 'https://www.instagram.com/afaberfilms/'
+linkedin_url:
 ---
 
 Enter your description here...

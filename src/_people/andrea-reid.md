@@ -29,4 +29,5 @@ facebook_url: 'https://www.facebook.com/pollinatorpath/'
 youtube_video_id:
 github_username:
 instagram_url: 'https://www.instagram.com/pollinator_paths/'
+linkedin_url:
 ---

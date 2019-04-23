@@ -34,6 +34,7 @@ facebook_url:
 youtube_video_id: ujQAvQteeZY
 github_username:
 instagram_url: 'https://www.instagram.com/jessicaemilyquinn/'
+linkedin_url:
 ---
 
 Enter your description here...

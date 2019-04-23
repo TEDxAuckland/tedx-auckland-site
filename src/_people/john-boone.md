@@ -22,6 +22,7 @@ facebook_url: 'https://www.facebook.com/RhythmInteractiveLtd/'
 youtube_video_id: 'EIk-K6JILj4'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...

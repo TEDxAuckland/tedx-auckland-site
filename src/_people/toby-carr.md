@@ -21,6 +21,7 @@ facebook_url:
 youtube_video_id: 'WSPQhTn6J1w'
 github_username:
 instagram_url: 'https://www.instagram.com/toby_carr/'
+linkedin_url:
 ---
 
 Enter your description here...

@@ -18,6 +18,7 @@ facebook_url: 'https://www.facebook.com/TheHipOpErationCrew/'
 youtube_video_id: 'saRWpSqQpPA'
 github_username:
 instagram_url:
+linkedin_url:
 ---
 
 Enter your description here...
