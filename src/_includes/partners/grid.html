@@ -4,16 +4,18 @@
 		{% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
 		{% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
 
-		<a class="partner-card" href="{{ partner.link }}" target="_blank">
-			{% responsive_image path: partner_logo
-													class: "partner-card__image"
-													alt: partner_alt
-													widths: "150, 300, 900"
-													sizes: "(max-width: 1200px) 15vw,
-																	(max-width: 900px) 20vw,
-																	(max-width: 600px) 33.33vw,
-																	150px"
-			%}
-		</a>
+		<div class="partner-card">
+			<a class="partner-card__image" href="{{ partner.link }}" target="_blank">
+				{% responsive_image path: partner_logo
+														class: "partner-card__image"
+														alt: partner_alt
+														widths: "150, 300, 900"
+														sizes: "(max-width: 1200px) 15vw,
+																		(max-width: 900px) 20vw,
+																		(max-width: 600px) 33.33vw,
+																		150px"
+				%}
+			</a>
+		</div>
 	{% endfor %}
 </div>
