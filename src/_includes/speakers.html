@@ -1,37 +1,26 @@
 {% comment %}
-<div class="speakers">
+===================
+ This isn't needed as person page is already resizing the photos to the
+ required sizes
+===================
+{% for speaker_name in include.speakers %}
+	{% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name" | first %}
 
-	{% for speaker_name in include.speakers %}
-	{% assign speaker = site.people | where_exp: "item", "item.id contains speaker_name"  | first %}
-
-  {% assign speaker_image = speaker.image | remove_first: "/"  %}
-
-    <div class="speaker-card">
-      <a href="{{ speaker.url }}" class="speaker-card__link">
-        {% responsive_image path: speaker_image
-                            class: "speaker-card__image"
-                            widths: "200, 300, 600, 900"
-                            sizes: "(max-width: 1200px) 25vw,
-                                    (max-width: 900px) 33.33vw,
-                                    (max-width: 600px) 50vw,
-                                    300px"
-         %}
-        <div class="speaker-card__caption">
-          {{ speaker.name  }}
-        </div>
-      </a>
-		</div>
-	{% endfor %}
-</div>
+	{% assign speaker_image = speaker.image | remove_first: "/"  %}
+	{% responsive_image template: "_includes/responsive-image.trigger"
+											path: speaker_image
+											widths: "200, 300, 600, 900"
+	%}
+{% endfor %}
 {% endcomment %}
-
-
-
+{% responsive_image template: "_includes/responsive-image.trigger"
+										path: "uploads/default-speaker-photo.jpg"
+										widths: "200, 300, 600, 900"
+%}
 
 {% raw %}
 <div id="speakers-component">
-	<Speakers :speaker-names="speakerNames" :speaker-json="speakerJSON" :bg-white="bgWhite" :hide-names="hideNames" />
-
+	<Speakers :speaker-names="speakerNames" :speaker-json="speakerJSON" :default-image-url="'/uploads/default-speaker-photo.jpg'" :bg-white="bgWhite" :hide-names="hideNames" />
 </div>
 {% endraw %}
 

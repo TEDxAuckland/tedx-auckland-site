@@ -13,7 +13,8 @@
 		"facebook_url": "{{ person.facebook_url }}",
 		"google_plus": "{{ person.google_plus }}",
 		"github_username": "{{ person.github_username }}",
-		"instagram_url": "{{ person.instagram_url }}"
+		"instagram_url": "{{ person.instagram_url }}",
+		"linkedin_url": "{{ person.linkedin_url }}"
 	}{% if forloop.last != true %},{% endif %}
 	{% endfor %}
 ]

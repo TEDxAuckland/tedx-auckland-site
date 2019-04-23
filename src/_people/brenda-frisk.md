@@ -10,13 +10,13 @@ description_markdown: >-
   creating and influencing innovative, digital and technological solutions
   Brenda help organisations transform their vision into reality.
 website_url:
-medium_url: 'https://www.linkedin.com/in/brendafrisk/'
+medium_url:
 twitter_url:
 facebook_url:
 youtube_video_id: YS3Fqf6hwOM
 github_username:
 instagram_url:
-linkedin_url:
+linkedin_url: 'https://www.linkedin.com/in/brendafrisk/'
 ---
 
 Enter your description here...

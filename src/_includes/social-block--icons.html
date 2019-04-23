@@ -30,13 +30,21 @@
 		{% endif %}
 
 		{% if person.github_username %}
-		<li class="social-block__icon">github_u{{ person.github_username }}</li>
+		<li class="social-block__icon">{{ person.github_username }}</li>
 		{% endif %}
 
 		{% if person.instagram_url %}
 		<li class="social-block__icon">
 			<a href="{{ person.instagram_url }}" target="_blank">
 				{% include embed/social-icon.html icon="Instagram" %}
+			</a>
+		</li>
+		{% endif %}
+
+		{% if person.linkedin_url %}
+		<li class="social-block__icon">
+			<a href="{{ person.linkedin_url }}" target="_blank">
+				{% include embed/social-icon.html icon="LinkedIn" %}
 			</a>
 		</li>
 		{% endif %}
