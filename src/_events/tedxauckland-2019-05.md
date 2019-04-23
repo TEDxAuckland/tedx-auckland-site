@@ -15,6 +15,7 @@ people:
   - andrea-reid
   - annamarie-jamieson
   - rashina-hoda
+  - chris-smith
 flikr_galleries:
   -
 major_partners:
