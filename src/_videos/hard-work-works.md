@@ -4,7 +4,7 @@ youtube_video_id: RVTuKDdZ2Lw
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/israel-whitley-talk-1.jpg
 related_posts:
 ---
 
