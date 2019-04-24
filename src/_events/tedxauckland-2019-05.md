@@ -25,6 +25,8 @@ supporting_partners:
 event_partners:
   - lowndes_jordan
   - misfit-brewing-co-
+  - whoa-studios
+  - the-grounds
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
