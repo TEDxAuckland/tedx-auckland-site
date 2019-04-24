@@ -6,9 +6,6 @@ description_markdown: >-
   *Founder / Business Owner / Life Enthusiast*
 
 
-    &nbsp;
-
-
   Hailing from the small city of Gisborne on the East Coast of New Zealand,
   Israel was brought up in a close-knit family who are at foundations of his
   motivation. Israel’s humble working-class upbringing encouraged within him a
@@ -22,7 +19,7 @@ website_url: 'https://www.alh.nz/'
 medium_url:
 twitter_url:
 facebook_url: 'https://www.facebook.com/AKLLabourHire/'
-youtube_video_id:
+youtube_video_id: RVTuKDdZ2Lw
 github_username:
 instagram_url:
 linkedin_url:
