@@ -1,7 +1,7 @@
 ---
-title: Interview with award winning chef - Ben Bayly
+title: TEDxAuckland Interviews Ben Bayly
 image: /uploads/benbayly-5240.jpg
-image_caption: 'Chef Ben Bayly. Photo Credit: Cindy Leong'
+image_caption: 'Award winning chef Ben Bayly. Photo Credit: Cindy Leong'
 image_caption_link: 'http://www.cindy-leong.com'
 author:
   name: Cindy Leong
