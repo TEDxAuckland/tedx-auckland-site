@@ -1,5 +1,5 @@
 ---
-title: The Mind Behind The Menu - Ben Bayly
+title: 'Ben Bayly: The Mind Behind The Menu'
 image: /uploads/benbayly-5240.jpg
 image_caption: 'Award winning chef Ben Bayly. Photo Credit: Cindy Leong'
 image_caption_link: 'http://www.cindy-leong.com'
