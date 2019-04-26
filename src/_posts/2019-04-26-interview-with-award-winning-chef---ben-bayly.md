@@ -13,6 +13,8 @@ categories:
 
 ***Ahead of our first TEDxAuckland event in May, we caught up with multi-award winning chef, Ben Bayly who has created a four course menu for speakers and guests to enjoy following the talks, at his restaurant The Grounds. Read on for a preview of the menu, how The Grounds started and what gives Ben inspiration.***
 
+(read\_more)
+
 #### How would you describe The Grounds/Whoa\! Studios to someone who hasn’t been before?
 
 I always get lost in trying to be concise with what we are - there’s so much to it.
