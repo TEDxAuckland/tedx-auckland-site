@@ -27,6 +27,7 @@ event_partners:
   - misfit-brewing-co-
   - whoa-studios
   - the-grounds
+  - babich
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
