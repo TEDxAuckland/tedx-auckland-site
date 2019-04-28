@@ -50,4 +50,10 @@ After the event, all attendees will socialise with our speakers at the inclusive
 
 There are only 160 seats available for this more intimate experience, so make sure to register your interest quickly. Tickets are $139.
 
-Speaker details and event schedule will be released throughout the month of April.
+**Timetable for the event:**
+
+Guests to arrive at Whoa\! Studios: 5pm-5:30pm
+
+Speaker talks: 6pm-7pm
+
+Dinner & Drinks: 7pm-10pm
