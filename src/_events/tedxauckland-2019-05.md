@@ -59,4 +59,4 @@ Speaker talks: 6pm-7pm
 
 Dinner & Drinks: 7pm-9:30pm
 
-**Whoa\! Studios location**\: https://goo.gl/maps/b6FZcC2mN6D2E3iW9
+**Whoa\! Studios location**\:&nbsp;[https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9){: target="_blank"}
