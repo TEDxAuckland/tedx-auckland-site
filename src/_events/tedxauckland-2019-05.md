@@ -28,6 +28,7 @@ event_partners:
   - whoa-studios
   - the-grounds
   - babich
+  - white-studios
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
