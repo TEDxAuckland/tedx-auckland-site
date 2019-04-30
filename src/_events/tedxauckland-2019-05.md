@@ -50,7 +50,7 @@ Our first event on **May 1st** will host 5 amazing speakers at **Whoa\! Studios*
 
 After the event, all attendees will socialise with our speakers at the inclusive dinner in The Grounds Eatery. This four-course shared dinner, accompanied with wine and drinks, will be orchestrated by the acclaimed and multi-award winning Kiwi chef, Ben Bayly, conjuring it up with local produce from West Auckland.
 
-There are only 160 seats available for this more intimate experience, so make sure to register your interest quickly. Tickets are $139. **Update**\: **nearly sold out\!&nbsp;**(check your application link to see if you're eligible if you haven't already)&nbsp;
+There are only 160 seats available for this more intimate experience, so make sure to register your interest quickly. Tickets are $139. **Update**\: **Sold out\!**
 
 **Timetable for the event:**
 
