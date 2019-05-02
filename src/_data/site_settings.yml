@@ -1,5 +1,5 @@
 upcoming_event_bar:
-  active: true
+  active: false
   event_short_title: 05-2019
 buy_ticket_button:
   active: false
