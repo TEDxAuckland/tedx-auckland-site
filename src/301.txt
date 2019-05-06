@@ -11,6 +11,7 @@
 /videos/* /talks/
 /watch/ /talks/
 /youth/ /events/
+/events/05-2019/* /events/05-2019/
 /events/tedxauckland-2018/ /events/2018/
 /events/tedxauckland-2017/ /events/2017/
 /events/tedxauckland-2016/ /events/2016/
