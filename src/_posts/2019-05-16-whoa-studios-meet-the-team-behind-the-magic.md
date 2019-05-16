@@ -17,6 +17,8 @@ We caught up with David Sutherland who founded Whoa\! Studios, and his partner C
 
 Read on to find out about the inception of Whoa\! Studios, their collaboration with Ben Bayly and what they have installed for the future.
 
+(read\_more)
+
 **How would you describe the concept of Whoa\! Studios in simple terms to someone who hasn’t heard of the place?**
 
 That’s a very hard question\! After all these years we’ve struggled to come up with one sentence that sums everything up.&nbsp;
