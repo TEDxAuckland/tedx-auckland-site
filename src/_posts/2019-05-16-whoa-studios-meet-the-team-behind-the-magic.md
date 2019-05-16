@@ -15,9 +15,9 @@ We'd like to give a big thanks to Whoa\! Studios and The Grounds' for hosting ou
 
 We caught up with David Sutherland who founded Whoa\! Studios, and his partner Candace Borchert who manages the venue, to help give you more context on why we chose this unconventional space.&nbsp;
 
-Read on to find out about the inception of Whoa\! Studios, their collaboration with Ben Bayly and what they have installed for the future.
-
 (read\_more)
+
+Read on to find out about the inception of Whoa\! Studios, their collaboration with Ben Bayly and what they have installed for the future.
 
 **How would you describe the concept of Whoa\! Studios in simple terms to someone who hasn’t heard of the place?**
 
