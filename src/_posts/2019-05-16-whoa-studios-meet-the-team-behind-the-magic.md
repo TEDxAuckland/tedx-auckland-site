@@ -1,5 +1,5 @@
 ---
-title: 'Whoa! Studios: Meet the team behind the smiles'
+title: 'Whoa! Studios: Meet the team behind the magic'
 image: /uploads/tedx-5283.jpg
 image_caption: 'David Sutherland and Candace Borchert. Photo by: Cindy Leong'
 image_caption_link: 'http://www.cindy-leong.com/'
@@ -15,7 +15,11 @@ We'd like to give a big thanks to Whoa\! Studios and The Grounds' for hosting ou
 
 We caught up with David Sutherland who founded Whoa\! Studios, and his partner Candace Borchert who manages the venue, to help give you more context on why we chose this unconventional space.&nbsp;
 
+(read\_more)
+
 Read on to find out about the inception of Whoa\! Studios, their collaboration with Ben Bayly and what they have installed for the future.
+
+![](/uploads/tedx-5264.jpg)
 
 **How would you describe the concept of Whoa\! Studios in simple terms to someone who hasn’t heard of the place?**
 
@@ -31,6 +35,8 @@ The underpinning concept is ‘healthy entertainment, healthy play, healthy food
 
 Boredom \[laughs\]. Before this, I was running a company and sold it in 2010. I always wanted to do something for the community, to do something more philanthropic, because that’s always been in my DNA. So after having released my interests in the business, I was like ok what next?&nbsp;
 
+![](/uploads/tedx-5315.jpg)
+
 **How did the collaboration with Ben Bayly come about?&nbsp;**
 
 I was introduced to Ben by one of our prop makers here, a great guy, and his kids went to the same school as Ben. He made the introduction and Ben came out while this was still a tip site. We spoke about the concept - the healthy entertainment, healthy play, healthy food.&nbsp;
@@ -42,6 +48,8 @@ And this place is completely different as the result of our connection with Ben,
 It was quite organic, as it started off as a small concept. I have sort of an old love for puppets having grown up in The Muppets era, but also this being a physical place, with interactions with children, I’ve had experience working with kids and you see they are quite drawn to the characters that are puppetry based. There’s a curiosity there because they’re physical as opposed to animated.&nbsp;
 
 So we thought we’d create these characters, and it was initially just for this live show but as we started getting into it, we created this whole world, and a hero called Custard, and then had to create some friends for him, and a villain, and some sets and it just grew from there.&nbsp;
+
+![](/uploads/tedx-5296.jpg)
 
 **Where do you see Whoa\! Studios going in the next 10-15 years?&nbsp;**
 
