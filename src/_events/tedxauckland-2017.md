@@ -94,7 +94,7 @@ seo:
 
 This year we’re back at the Aotea Centre for our 2nd multi-day festival. Join us for 21 talks from local and international speakers, food, fun and partner activations.
 
-TEDxAuckland is an Ideas Festival. Get ready to be inspired and challenged by local and international people changing the world with their unique ideas, and in the breaks get chatting to the equally incredible attendees around you!
+TEDxAuckland is an Ideas Festival. Get ready to be inspired and challenged by local and international people changing the world with their unique ideas, and in the breaks get chatting to the equally incredible attendees around you\!
 
 Food and drink during the event is included in your Multi-Day Pass and on Saturday evening, once the talks are done, another experience awaits VIP ticket holders.
 
@@ -110,4 +110,4 @@ The talks will conclude around 5pm on Saturday. Those attending the sold out VIP
 
 Those keen to kick on are invited to join TEDx crew, speakers and friends at Sweat Shop Brew Kitchen, Sale St, Freemans Bay after 9pm.
 
-![](/uploads/tedxakl-2017-schedule-1.png)
+&nbsp;
