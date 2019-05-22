@@ -1,5 +1,5 @@
 ---
-title: 'Whoa! Studios: Meet the team behind the magic'
+title: 'Whoa! Studios: Meet the team creating magic'
 image: /uploads/tedx-5283.jpg
 image_caption: 'David Sutherland and Candace Borchert. Photo by: Cindy Leong'
 image_caption_link: 'http://www.cindy-leong.com/'
@@ -29,11 +29,11 @@ But I think it’s in the word “Whoa\!”
 
 The name of the place changed before opening because everyone used to come around from the carpark and just go “Whoa\!”. It was going to be called Imagine Studios which was all about imagination and creativity, but then we had a lot of people with that surprise factor.&nbsp;
 
-The underpinning concept is ‘healthy entertainment, healthy play, healthy food’. It’s all about wellness and importance of family. It’s a place to get those connections firing again in a physical dimension away from the digital, doing something real, and creating meaningful family experiences.
+The underpinning concept is ‘healthy entertainment, healthy play, healthy food’. It’s all about wellness and the importance of family. It’s a place to get those connections firing again in a physical dimension away from the digital, doing something real, and creating meaningful family experiences.
 
 **What was your inspiration for starting Whoa\! Studios?**
 
-Boredom \[laughs\]. Before this, I was running a company and sold it in 2010. I always wanted to do something for the community, to do something more philanthropic, because that’s always been in my DNA. So after having released my interests in the business, I was like ok what next?&nbsp;
+Boredom \[laughs\]. Before this, I was running a company and sold it in 2010. I always wanted to do something for the community, to do something more philanthropic, because that’s always been in my DNA. So after having released my interests in the business, I was like "ok what next?".
 
 ![](/uploads/tedx-5315.jpg)
 
@@ -45,7 +45,7 @@ And this place is completely different as the result of our connection with Ben,
 
 **How did the shows come about?&nbsp;**
 
-It was quite organic, as it started off as a small concept. I have sort of an old love for puppets having grown up in The Muppets era, but also this being a physical place, with interactions with children, I’ve had experience working with kids and you see they are quite drawn to the characters that are puppetry based. There’s a curiosity there because they’re physical as opposed to animated.&nbsp;
+It was quite organic, as it started off as a small concept. I have sort of an old love for puppets having grown up in The Muppets era. But because this is a physical place, and my interactions with the kids, you can see they are quite drawn to the characters that are puppetry based. There’s a curiosity there because they’re physical as opposed to animated.&nbsp;
 
 So we thought we’d create these characters, and it was initially just for this live show but as we started getting into it, we created this whole world, and a hero called Custard, and then had to create some friends for him, and a villain, and some sets and it just grew from there.&nbsp;
 
@@ -59,8 +59,10 @@ One of the things we’re trying to establish more here is our enterprise called
 
 **If you had to do a TEDx talk, what would it be about? What idea do you think the world should know?**
 
-I think my TEDx talk would be on how the corporate world should change its attitude towards the wider community. That the people inside it can have the power to do good, and change the world - much more than they realise. But only if the mindset changes. The old ‘Corporate Social Responsibility’ is typically just throwing money over the wall.
+I think my TEDx talk would be on how the corporate world should change its attitude towards the wider community. That the people inside it can have the power to do good, and change the world - much more than they realise. But only if the mindset changes. The typical ‘Corporate Social Responsibility’ just results in throwing money over the wall.
 
-There are those that say “It’s just business, it’s not personal”. But business should be personal, because it’s about people\!&nbsp;
+There are those that say “It’s just business, it’s not personal”. But business SHOULD be personal, because it’s about people\!&nbsp;
 
-Yes profit is good, but it’s only a means to the end. People matter. I’d probably call the talk, ‘Business is personal’.
+Yes profit is good, but it’s only a means to the end. People matter more than anything.
+
+I’d probably call the talk, ‘Business is personal’.
