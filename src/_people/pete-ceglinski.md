@@ -6,7 +6,7 @@ description_markdown: >-
   *Surfer / Environmentalist / Eco-preneur*
 
 
-    &nbsp;
+  &nbsp;
 
 
   Pete Ceglinski, the Aussie surfer who in 2015 successfully crowdfunded an
@@ -15,14 +15,14 @@ description_markdown: >-
   turning the tide in our planet's war against plastics.
 
 
-    &nbsp;
+  &nbsp;
 
 
   It’s a rubbish bin that lives in the water of marinas and collects floating
   plastics, bottles, bags, oil, fuel and micro-plastics down to 2mm in size.
 
 
-    &nbsp;
+  &nbsp;
 
 
   Right now our business activities are 50% for profit and 50% not for profit.
@@ -35,7 +35,7 @@ website_url: 'http://seabinproject.com/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: VsugHXmi1VQ
 github_username:
 instagram_url: 'https://www.instagram.com/seabin_project/'
 linkedin_url:
