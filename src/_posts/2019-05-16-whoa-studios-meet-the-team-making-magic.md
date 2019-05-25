@@ -1,5 +1,5 @@
 ---
-title: 'Whoa! Studios: Meet the team creating magic'
+title: 'Whoa! Studios: Meet the team making magic'
 image: /uploads/tedx-5283.jpg
 image_caption: 'David Sutherland and Candace Borchert. Photo by: Cindy Leong'
 image_caption_link: 'http://www.cindy-leong.com/'
