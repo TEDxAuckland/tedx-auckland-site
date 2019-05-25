@@ -4,7 +4,7 @@ youtube_video_id: VsugHXmi1VQ
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/pete-ceglinski-talk-1.jpg
 related_posts:
 ---
 
