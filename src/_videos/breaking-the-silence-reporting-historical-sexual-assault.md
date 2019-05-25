@@ -4,7 +4,7 @@ youtube_video_id: 5wVJxp0poSQ
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/sarah-strong-talk-1.jpg
 related_posts:
 ---
 
