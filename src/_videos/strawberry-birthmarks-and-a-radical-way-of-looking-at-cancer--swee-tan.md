@@ -4,7 +4,7 @@ youtube_video_id: 4VkObs1J7Q8
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/swee-tan-talk-1.jpg
 related_posts:
 ---
 
