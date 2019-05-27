@@ -34,7 +34,7 @@ website_url: 'http://www.gmri.org.nz'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: 4VkObs1J7Q8
 github_username:
 instagram_url:
 linkedin_url:
