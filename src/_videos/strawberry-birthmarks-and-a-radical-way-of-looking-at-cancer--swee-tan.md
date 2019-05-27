@@ -1,5 +1,5 @@
 ---
-title: Strawberry Birthmarks and a radical way of looking at cancer | Swee Tan
+title: Strawberry Birthmarks and a radical way of looking at cancer
 youtube_video_id: 4VkObs1J7Q8
 performance: false
 highlight: false
