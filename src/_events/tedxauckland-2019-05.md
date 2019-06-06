@@ -64,4 +64,4 @@ There are only 160 seats available for this more intimate experience, so make su
 
 [https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9){: target="_blank"}
 
-&lt;iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sDgL\_9RbDrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&nbsp;
