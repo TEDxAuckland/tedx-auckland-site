@@ -18,6 +18,7 @@ supporting_partners:
   -
 event_partners:
   -
+highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:

@@ -30,6 +30,7 @@ event_partners:
   - babich
   - white-studios
   - halcyon-digital
+highlight_video_id: sDgL_9RbDrs
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:

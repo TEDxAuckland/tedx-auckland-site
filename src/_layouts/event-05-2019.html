@@ -36,12 +36,24 @@ layout: default
 </section>
 {% endif %}
 
+{% if page.highlight_video_id %}
+<section class="section">
+  <div class="container">
+
+    <h3 class="section-heading">highlight reel</h3>
+    <div class="talks-expanded-preview__iframe-wrapper">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ page.highlight_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+{% endif %}
+
 {% include playlist_videos_data.html %}
 {% if page.youtube_playlist %}
 <section id="talks" class="section">
   <div class="container">
 
-    <h3 class="section-heading">Talks</h3>
+    <h3 class="section-heading">talks</h3>
     {% include playlist_videos.html playlist_id = page.youtube_playlist unique_id = "talks" %}
 
   </div>
@@ -83,7 +95,7 @@ layout: default
     {% endif %}
 
     {% if page.supporting_partners %}
-    <h4 class="partner-heading">supporting</h4>
+    <h4 class="partner-heading">significant</h4>
     {% include partners/full-width-blurb.html partners = page.supporting_partners %}
     {% endif %}
 
