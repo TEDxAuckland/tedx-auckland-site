@@ -1,6 +1,6 @@
 ---
 name: Vodafone
-link: 'https://www.vodafone.co.nz/'
+link: 'https://www.vodafone.co.nz/tedx/'
 partner_logo_image: /uploads/vodafone-logo-1200w.png
 ---
 
