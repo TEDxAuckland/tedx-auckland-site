@@ -4,7 +4,7 @@ youtube_video_id: 1cZDZ0b6glM
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/daniel-gudsell-talk-1.jpg
 related_posts:
 ---
 
