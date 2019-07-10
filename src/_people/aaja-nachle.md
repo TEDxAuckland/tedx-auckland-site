@@ -6,7 +6,7 @@ description_markdown: >-
   *Dance Group*
 
 
-    &nbsp;
+  &nbsp;
 
 
   Aaja Nachle is Auckland's leading Indian dance school with 3 studios across
@@ -14,7 +14,7 @@ description_markdown: >-
   they wil share their love for music, dance, and culture.
 
 
-    &nbsp;
+  &nbsp;
 
 
   As Indian kiwis, the school has a unique perspective on our culture and
@@ -23,7 +23,7 @@ description_markdown: >-
   and identity loss through their dances.
 
 
-    &nbsp;
+  &nbsp;
 
 
   Run by Jignal Bhagvandas and Priyal Bhoola, two friends from high school that
@@ -34,7 +34,7 @@ website_url: 'http://www.aajanachle.co.nz/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: 7VDdfsjnn9g
 github_username:
 instagram_url:
 linkedin_url:
