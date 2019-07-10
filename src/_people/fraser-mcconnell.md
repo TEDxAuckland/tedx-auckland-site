@@ -6,7 +6,7 @@ description_markdown: >-
   *Social Entrepreneur / Blockchain / Birds*
 
 
-    &nbsp;
+  &nbsp;
 
 
   Fraser cares about inspiring the world to choose purpose over profit. He has a
@@ -20,7 +20,7 @@ website_url: 'https://squawksquad.co.nz'
 medium_url: 'https://twitter.com/SquawkSquadNZ'
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: JisjI9z-gsI
 github_username:
 instagram_url: 'https://www.instagram.com/squawksquad_nz/'
 linkedin_url:
