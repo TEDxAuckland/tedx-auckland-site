@@ -4,7 +4,7 @@ youtube_video_id: 7VDdfsjnn9g
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/sashaktikaran-aaja-nachle.jpg
 related_posts:
 ---
 
