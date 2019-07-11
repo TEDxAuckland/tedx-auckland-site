@@ -4,7 +4,7 @@ youtube_video_id: JisjI9z-gsI
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/fraser-mcconnell-talk-1.jpg
 related_posts:
 ---
 
