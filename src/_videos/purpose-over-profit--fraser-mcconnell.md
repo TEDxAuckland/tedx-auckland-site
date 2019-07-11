@@ -1,5 +1,5 @@
 ---
-title: Purpose over profit | Fraser McConnell
+title: Purpose over profit
 youtube_video_id: JisjI9z-gsI
 performance: false
 highlight: false
