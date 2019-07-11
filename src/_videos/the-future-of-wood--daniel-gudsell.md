@@ -1,5 +1,5 @@
 ---
-title: The Future of Wood | Daniel Gudsell
+title: The Future of Wood
 youtube_video_id: 1cZDZ0b6glM
 performance: false
 highlight: false
