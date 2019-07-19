@@ -1,7 +1,7 @@
 ---
 title: 'Fathe Tesfamariam: Communicating Through Music And Movement'
 image: /uploads/p1041905.jpg
-image_caption: Image by Connor Crawford
+image_caption: Images by Connor Crawford
 image_caption_link: 'https://www.connorcrawfordphotography.com/'
 author:
   name: Tara Ranchhod
