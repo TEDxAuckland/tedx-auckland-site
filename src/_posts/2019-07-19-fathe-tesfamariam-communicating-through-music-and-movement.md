@@ -11,7 +11,9 @@ categories:
   - our-news
 ---
 
-*Fathe Tesfamariam is an Auckland based, Sudanese born musician who plays African centred rhythms with elements of traditional North African Percussion. This, combined with western instruments has brought an electrifying and vivacious rhythm to the local art scene. His new music video ‘What I See’ pairs with his debut EP ‘Sweeto’. We caught up with him at the BizDojo office in Ponsonby to talk about his background, influences, and story behind his latest project.****&nbsp;***(read\_more)
+*Fathe Tesfamariam is an Auckland based, Sudanese born musician who plays African centred rhythms with elements of traditional North African Percussion. This, combined with western instruments has brought an electrifying and vivacious rhythm to the local art scene. His new music video ‘What I See’ pairs with his debut EP ‘Sweeto’. *
+
+*We caught up with him at the BizDojo office in Ponsonby to talk about his background, influences, and story behind his latest project.****&nbsp;***(read\_more)
 
 ![](/uploads/p1031805.jpg){: width="1667" height="2500"}
 
