@@ -45,7 +45,7 @@ In the beginning, I was thinking about getting some professional dancers but I�
 
 ### How did the collaboration between you and the director (Vinnie Carter) come about? What was it like working on this project together?&nbsp;
 
-After releasing ‘Sweeto’ people were watching me, I had directed and produced it myself but I needed help this time. I called Vinnie because we both went to South Seas Film School, and he was amazing at editing. I talked to him about how we could bring different communities together with dance. I told him the story, message, and how I wanted the video to be from beginning to end.&nbsp;
+I'd directed and produced ‘Sweeto’, but needed help this time. I called Vinnie because we both went to South Seas Film School, and he was amazing at editing. I talked to him about how we could bring different communities together with dance. I told him the story, message, and how I wanted the video to be from beginning to end.&nbsp;
 
 We have great chemistry and are both clowns together. My thoughts came to life because of him, and it was even better than I expected. We didn’t have to explain ourselves, because the trust was there.
 
