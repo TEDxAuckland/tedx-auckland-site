@@ -1,5 +1,5 @@
 ---
-title: Interview With Fathe Tesfamariam - Communicating Through Music And Movement
+title: 'Fathe Tesfamariam: Communicating Through Music And Movement'
 image: /uploads/p1041905.jpg
 image_caption: Image by Connor Crawford
 image_caption_link: 'https://www.connorcrawfordphotography.com/'
