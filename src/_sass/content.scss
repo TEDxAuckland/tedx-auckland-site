@@ -70,9 +70,10 @@
 
     &::before {
       content: "";
-      width: 2rem;
+      width: .5rem;
       background-color: $brand-grey-darker;
       transform: translateX(-1rem);
+      margin-bottom: 1rem;
     }
   }
 
