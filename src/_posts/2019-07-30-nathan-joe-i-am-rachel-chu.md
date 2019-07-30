@@ -11,6 +11,8 @@ categories:
   - our-news
 ---
 
+*Nathan Joe is a&nbsp;**playwright.*
+
 > How would you describe the show ‘I Am Rachel Chu’?&nbsp;
 
 ‘I Am Rachel Chu’ is a semi improvised and devised theater show based off the book and film Crazy Rich Asians. We’ve taken the story and rearranged it, taken bits out and then have put our own personal stories into it. It’s my story to an extent, but predominantly the story of the three main cast members Angela, Ravi and Amanda.&nbsp;
@@ -33,6 +35,8 @@ I think it serves Auckland really well because it is such a fascinating Melting 
 
 I don't know if that's for sure but it does feel specifically tied to where auckland or where a big Metropolitan city. Yeah, but then that's why the like I can really see that distinction. Yeah, I don't think it would like this exists in Christchurch may be enlightened, but I don't see the same level of Asian diaspora and Wellington. You know who's here? It's Auckland is a city that really speaks to Crazy Rich Asians and has a conversation with it. And I am Rachel chu to is a product of that conversation.
 
+![](/uploads/67199143-463342954457737-3136277027544367104-n-1.jpg){: width="960" height="956"}
+
 > Take us through the journey from the first version of the play at the Fringe Festival till now. How are you approaching the narrative the second time? Why is it different from the last time?&nbsp;
 
 The first time was pretty rushed, stressful, and hectic. We would go through the book predominantly and then occasionally reference the film to figure out what the pivotal moments in the story were and what our own versions of that were so for instance the process was us going. “Hey Rachel experiences this, how do we experience it and replacing in switching it around and then finding games to represent certain things. Like Rachel calling her mom becomes a game where we call or one of the cast members calls their loved one.&nbsp;
@@ -42,8 +46,6 @@ It was pretty mashed up and the actors were learning as it was being made, and n
 > Why did you choose these 3 actors to work?&nbsp;
 
 I do think their stories are as valuable as the Hollywood narrative that we're spoon-fed. And are good enough to actually be a Hollywood story. It's just that they don't fit into the paradigms of what we expect. Ravi, Angela and Amanda are people that I recognize and know every day not to say that they're not unique in their own way, but I see&nbsp; Asians like them all the time and they have so much character and personality. You have so many interesting quirks, nuances, and your life, your choices fascinate me and I think they bring that on stage with them, into the work, the text, the games and you watch them and you go you are so extraordinary. And yeah, I think that comes through hopefully in the games and the show.
-
-![](/uploads/67199143-463342954457737-3136277027544367104-n.jpg){: width="960" height="956"}
 
 > What do you hope the audience takes away from this show?&nbsp;
 
