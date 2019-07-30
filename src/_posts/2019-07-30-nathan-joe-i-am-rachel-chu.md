@@ -14,9 +14,9 @@ categories:
 
 (read\_more)
 
-> How would you describe the show ‘I Am Rachel Chu’?&nbsp;
+> How would you describe the show ‘I Am Rachel Chu’?
 
-‘I Am Rachel Chu’ is a semi improvised and devised theater show based off the book and film Crazy Rich Asians. We’ve taken the story and rearranged it, taken bits out and then have put our own personal stories into it. It’s my story to an extent, but predominantly the story of the three main cast members Angela, Ravi and Amanda.&nbsp;
+‘I Am Rachel Chu’ is a semi improvised and devised theater show based off the book and film Crazy Rich Asians. We’ve taken the story and rearranged it, taken bits out and then have put our own personal stories into it. It’s my story to an extent, but predominantly the story of the three main cast members Angela, Ravi and Amanda.
 
 The audience will get to re-experience the story of ‘Crazy Rich Asians’, but with these tanginces and interruptions. Sometimes these interruptions aren’t just personal stories, but games (spontaneous theater games, and improvised games). There's also some audience interaction which breaks the fourth wall by acknowledging the audience.
 
