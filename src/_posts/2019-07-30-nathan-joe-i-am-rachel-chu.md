@@ -8,7 +8,6 @@ author:
   tagline:
   link:
 categories:
-  - our-news
 ---
 
 *Nathan Joe is a playwright.*
