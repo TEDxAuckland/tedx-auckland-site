@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-*Nathan Joe is a&nbsp;**playwright.*
+*Nathan Joe is a playwright.*
 
 (read\_more)
 
