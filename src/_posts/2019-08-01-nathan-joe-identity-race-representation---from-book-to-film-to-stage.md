@@ -1,6 +1,6 @@
 ---
 title: 'Nathan Joe: Identity, Race, Representation - From Book to Film to Stage'
-image: /uploads/67812631-500653550690544-2356580827975909376-n-2.jpg
+image: /uploads/nathan joe 2 .jpg
 image_caption: Image by Ankita Singh
 image_caption_link:
 author:
