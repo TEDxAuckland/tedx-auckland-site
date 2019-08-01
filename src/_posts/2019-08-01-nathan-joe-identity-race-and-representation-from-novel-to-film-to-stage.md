@@ -45,7 +45,7 @@ I think it serves Auckland really well because this city is such a fascinating m
 
 The first time was pretty rushed, stressful, and hectic. We would go through the book and film to figure out what the pivotal moments in the story were, and what our own versions of that were. For example, Rachel calling her mum in the movie becomes a game where one of the cast members calls their loved one. The actors were learning as it was being made, and never had much time to sit with the themes or ideas.&nbsp;
 
-The second time around we received funding and the big question was how do we deepen our own understanding of the text, games, and themes. The actors have really questioned why their stories are valuable, and what it is about their own stories they want to tell. Hopefully their own understanding of the text and what they bring to it is different. The set design and design elements are more polished and speak to the themes as well. Overall, we hope that it’s more meaningful, and makes more sense as a cohesive whole.
+The second time around we received funding and the big question was how do we deepen our own understanding of the text, games, and themes. The actors have really questioned why their stories are valuable. Hopefully their own understanding of the text and what they bring to it is different. The design elements are more polished and speak to the themes as well. Overall, we hope that it’s more meaningful, and makes more sense as a cohesive whole.
 
 > Why did you choose these 3 actors to work?
 
@@ -53,7 +53,7 @@ I think their stories are as valuable as the Hollywood narrative that we're spoo
 
 > What do you hope the audience takes away from this show?
 
-I hope they come away with it going: Yes. My story is valuable, and maybe I will tell my own story. The asians that are like us, are coming to the show because they're hungry for alternative versions of themselves. This is just a small piece of the puzzle, and I also hope that people come away eager to see more alternative Asian stories.&nbsp;
+I hope they come away with it going: Yes. My story is valuable, and maybe I will tell my own story. The asians that are like us, are coming to the show because they're hungry for alternative versions of themselves. This is just a small piece of the puzzle, and I also hope that they're eager to see more alternative Asian stories.&nbsp;
 
 **'I Am Rachel Chu' isn't the end of a conversation, it's just the start of one,** in the same way that Crazy Rich Asians is just the start of the conversation about the sort of work we want to see, make, and stories we want to tell. We're living in a really awesome time as Asian artists who are culturally aware, sensitive, and savvy for even better and unique stories to exist, ones that have never been told before. We are sowing the seeds for that and it’s quite exciting.
 
