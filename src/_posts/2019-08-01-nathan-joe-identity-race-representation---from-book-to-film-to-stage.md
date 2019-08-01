@@ -39,7 +39,7 @@ I think it serves Auckland really well because this city is such a fascinating m
 
 ![](/uploads/67199143-463342954457737-3136277027544367104-n-3.jpg){: width="960" height="956"}
 
-Take us through the journey from the first version of the play at Auckland Fringe Festival till now. How are you approaching the narrative the second time?&nbsp;
+> Take us through the journey from the first version of the play at Auckland Fringe Festival till now. How are you approaching the narrative the second time?&nbsp;
 
 The first time was pretty rushed, stressful, and hectic. We would go through the book and film to figure out what the pivotal moments in the story were, and what our own versions of that were. For example, Rachel calling her mum in the movie becomes a game where one of the cast members calls their loved one. The actors were learning as it was being made, and never had much time to sit with the themes or ideas.&nbsp;
 
