@@ -10,9 +10,9 @@ author:
 categories:
 ---
 
-*Nathan Joe is a Christchurch born, multiple award-winning playwright who captivates Auckland with experimental, and alluring theatre. His show ‘I Am Rachel Chu’ (based off ‘Crazy Rich Asians’) returns after a**sold out and award-winning season at the Auckland**Fringe arts festival, \*\*2019. It opens from August 6th - 10th at the Basement theatre.&nbsp;*
+*Nathan Joe is a Christchurch born, multiple award-winning playwright who captivates Auckland with experimental, and alluring theatre. His show ‘I Am Rachel Chu’ (based off ‘Crazy Rich Asians’) returns after a sold out and award-winning season at the Auckland Fringe arts festival, 2019. It opens from August 6th - 10th at the Basement theatre.&nbsp;*
 
-\*We sat down with Nathan at the BizDojo Office in Ponsonby to talk about the complex narrative, text, and themes in his latest show. \*
+*\*We sat down with Nathan at the BizDojo Office in Ponsonby to talk about the complex narrative, text, and themes in his latest show.&nbsp;*
 
 (read\_more)
 
