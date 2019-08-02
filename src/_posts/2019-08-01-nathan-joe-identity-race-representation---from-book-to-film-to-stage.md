@@ -56,3 +56,5 @@ I hope they come away with it going: Yes. My story is valuable, and maybe I will
 **'I Am Rachel Chu' isn't the end of a conversation, it's just the start of one,** in the same way that Crazy Rich Asians is just the start of the conversation about the sort of work we want to see, make, and stories we want to tell. We're living in a really awesome time as Asian artists who are culturally aware, sensitive, and savvy for even better and unique stories to exist, ones that have never been told before. We are sowing the seeds for that and it’s quite exciting.
 
 ![](/uploads/67288749-1735484549929634-2231182759483670528-n-2.jpg){: width="1439" height="960"}
+
+'I Am Rachel Chu' is on at the [Basement Theatre](https://basementtheatre.co.nz/) from August 6th - 10th. Book tickets [here](https://www.iticket.co.nz/events/2019/aug/i-am-rachel-chu).
