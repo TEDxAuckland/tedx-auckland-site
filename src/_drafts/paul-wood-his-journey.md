@@ -33,7 +33,7 @@ Courage and strength is to be able to own your own vulnerabilities, risk rejecti
 
 You can certainly reach a level of self-containment and resilience through that approach, but it will also wall you off from the people who could give you the greatest opportunity for what love feels like to give and receive because there are costs associated with that approach to masculinity.
 
-For example, in prison you have to become resilient or you won’t survive, so you become very good at putting walls up. Men tend to be encouraged to do this, to suck it up and not to demonstrate anything you'd associate with feeling weak or vulnerable. One of the biggest miscomprehensions is who you're supposed to be as a man. It's about understanding what the values are that you're placing on that gender identity, and how to live those in a way which is empowering, enabling, and life enhancing rather than depriving and diminishing.
+For example, in prison you have to become resilient or you won’t survive, so you become very good at putting walls up. Men tend to be encouraged to do this, to suck it up and not to demonstrate anything you'd associate with feeling weak or vulnerable. One of the biggest miscomprehension's is who you're supposed to be as a man. It's about understanding what the values are that you're placing on that gender identity, and how to live those in a way which is empowering, enabling, and life enhancing rather than depriving and diminishing.
 
 > Where do you see those narratives need to be told?
 
