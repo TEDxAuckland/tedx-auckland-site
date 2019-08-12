@@ -1,6 +1,6 @@
 ---
 title: Dining in the Dark
-short_title:
+short_title: 08-2019
 upcoming: true
 event_bar_right:
 image:
@@ -20,7 +20,7 @@ youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
-permalink:
+permalink: /events/08-2019/
 seo:
   name: TEDxAuckland
   type: Event
