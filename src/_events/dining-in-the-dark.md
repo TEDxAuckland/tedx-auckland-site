@@ -3,7 +3,7 @@ title: Dining in the Dark
 short_title: 08-2019
 upcoming: true
 event_bar_right:
-image:
+image: /uploads/dining-in-the-dark.png
 badge_image:
 tagline:
 start_date: 2019-08-31 00:00:00 +1200
