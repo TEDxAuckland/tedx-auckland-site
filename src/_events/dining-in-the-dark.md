@@ -50,6 +50,8 @@ Hosted by Dining in the Dark and shared with you by Vodafone NZ, this will be an
 * Price: $249
 * The event will be followed by an afterparty at the Glass Goose
 
+&nbsp;
+
 If you would like to attend, you will need to register at the link below. Spaces are extremely limited, so make sure to get in quick.&nbsp;
 
-[https://tedxauckland.com/community/events\#/dark-2019/apply](https://tedxauckland.com/community/events#/dark-2019/apply)
+Apply here:&nbsp;[https://tedxauckland.com/community/events\#/dark-2019/apply](https://tedxauckland.com/community/events#/dark-2019/apply)
