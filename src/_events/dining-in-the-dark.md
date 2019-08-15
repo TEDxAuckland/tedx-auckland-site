@@ -32,23 +32,22 @@ seo:
 
 On August 31st, TEDxAuckland is hosting a Salon event which will be the first TEDx event in the world to be held entirely in complete darkness.
 
-Hosted by Dining in the Dark, and shared with you by Vodafone NZ, this will be an unforgettable experience like no other.
+Hosted by Dining in the Dark and shared with you by Vodafone NZ, this will be an unforgettable experience like no other.
 
 #### TEDxAuckland and Dining in the Dark are combining to provide you with a unique sensory, social and human experience.
 
 **A Sensory Journey:&nbsp;**Dining in absolute darkness is a sensory experience that awakens senses and enables guests to completely re-evaluate their perception of taste and smell.
 
-**A Place to Socialise:&nbsp;**Darkness eradicates shyness & fosters free conviviality erasing preconceptions. Communication becomes more intense, authentic and spontaneous.
+**A Place to Socialise:&nbsp;**Darkness eradicates shyness & erases preconceptions. Communication becomes more intense, authentic and spontaneous. Both with the people you sit with, and the TEDxAuckland speakers.
 
 **A Unique Human Experience:&nbsp;**Blind people work not only as waitstaff but also as guides during this experience. Reversing roles, the guide becomes patrons’ eyes for the time of the dinner\!
 
 #### Event Information:
 
-When: Saturday August 31st at 6pm
-
-Price: $249
-
-Followed by an afterparty at the Glass Goose
+* Enjoy a three course meal: With 3 different versions freshly created for this experience - trust the chef, seafood and vegan.
+* When: Saturday August 31st staring at 6pm
+* Price: $249
+* Followed by an afterparty at the Glass Goose
 
 If you would like to attend, you will need to register at the link below. Spaces are extremely limited, so make sure to get in quick.&nbsp;
 
