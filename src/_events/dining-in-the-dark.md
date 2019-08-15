@@ -28,4 +28,38 @@ seo:
     -
 ---
 
-Enter your description here…
+\[Intro\]
+
+Introducing a TEDx world first - experience TEDxAuckland&nbsp;
+
+Partnering with Dining in the Dark, and shared with you by Vodafone NZ.
+
+\[About the event\]
+
+A UNIQUE SENSORY, SOCIAL AND HUMAN EXPERIENCE.
+
+Dans le Noir? (French for “In the Dark?”) is an international company offering patrons a unique experience by eating in complete darkness, guided and served by low vision or blind people? More than 1.3 million people have already lived this experience worldwide with Dans le Noir?
+
+**A Sensory Journey:&nbsp;**Dining in absolute darkness is a sensory experience that awakens senses and enables guests to completely re-evaluate their perception of taste and smell.
+
+**A Place to Socialise:&nbsp;**Darkness eradicates shyness & fosters free conviviality erasing preconceptions. Communication becomes more intense, authentic and spontaneous.
+
+**Hear TEDxAuckland speakers:&nbsp;**sddkjdsjk
+
+**A Unique Human Experience:&nbsp;**Blind people work not only as waitstaff but also as guides during this experience. Reversing roles, the guide becomes patrons’ eyes for the time of the dinner\!
+
+\[Event details\]
+
+\- There will be TEDxAuckland speakers
+
+When: Saturday August 31st at 6pm
+
+Price: $249
+
+Followed by an afterparty at the Glass Goose
+
+\[Limited places\]
+
+Spaces are extremely limited, so make sure to get in quick.
+
+\[CTA\]
