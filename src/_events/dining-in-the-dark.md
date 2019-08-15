@@ -28,7 +28,7 @@ seo:
     -
 ---
 
-## Introducing A World First
+# Introducing A World First
 
 On August 31st, TEDxAuckland is hosting a Salon event which will be the first TEDx event in the world to be held entirely in complete darkness.
 
