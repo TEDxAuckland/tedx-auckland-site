@@ -45,7 +45,7 @@ Hosted by Dining in the Dark and shared with you by Vodafone NZ, this will be an
 #### Event Information:
 
 * Enjoy a three course meal: With 3 different menu versions freshly created for this experience - 'trust the chef', seafood and vegan.
-* Speakers will present in pitch black between the meal courses.
+* Speakers will present in pitch black between meal courses.
 * When: Saturday August 31st staring at 6pm
 * Price: $249
 * The event will be followed by an afterparty at the Glass Goose
