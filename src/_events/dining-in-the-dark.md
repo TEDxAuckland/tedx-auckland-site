@@ -13,6 +13,8 @@ people:
 flikr_galleries:
   -
 major_partners:
+  - vodafone
+  - bizdojo
 supporting_partners:
 event_partners:
 highlight_video_id:
