@@ -1,5 +1,5 @@
 ---
-title: 'Paul Wood: TEDxAuckland & Beyond'
+title: An interview with Paul Wood on TEDxAuckland & Beyond
 image:
 image_caption:
 image_caption_link:
@@ -10,6 +10,8 @@ author:
 categories:
   - our-news
 ---
+
+Paul Wood spoke at TEDxAuckland in 2012. Hi talk titled 'What Your Prison' gained a lot of attention. 7 years on, we caught up with him to reminisce about the experience, his journey, and what he stands for. (read\_more)
 
 > How would you best describe your TEDx experience back in 2012? Why was it important to you?
 
