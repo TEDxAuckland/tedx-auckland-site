@@ -1,5 +1,5 @@
 ---
-title: An interview with Paul Wood on TEDxAuckland & Beyond
+title: 'An interview with Paul Wood: TEDxAuckland & Beyond'
 image: /uploads/img-20190506-140023.jpg
 image_caption:
 image_caption_link:
