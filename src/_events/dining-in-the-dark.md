@@ -57,4 +57,4 @@ Hosted by Dining in the Dark and shared with you by Vodafone NZ - this will be a
 
 If you would like to attend, you will need to register at the link below. Spaces are extremely limited, so make sure to get in quick.
 
-[Click here to apply](https://tedxauckland.com/community/events#/dark-2019/apply)
+**[Click here to apply](https://tedxauckland.com/community/events#/dark-2019/apply)**
