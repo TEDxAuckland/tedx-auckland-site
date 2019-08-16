@@ -2,7 +2,7 @@
 title: Dining in the Dark
 short_title: 08-2019
 upcoming: true
-event_bar_right:
+event_bar_right: August 31st | Dining In The Dark | Rydges Hotel
 image: /uploads/dining-in-the-dark.png
 badge_image:
 tagline:
