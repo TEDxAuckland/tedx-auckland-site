@@ -1,6 +1,8 @@
 ---
-title: 'An interview with Paul Wood: TEDxAuckland & Beyond'
-image: /uploads/img-20190506-140023.jpg
+title: >-
+  An interview with Paul Wood: His views on Masculinity, NZ's Prison System, and
+  life after TEDxAuckland
+image: /uploads/img-20190506-140013.jpg
 image_caption:
 image_caption_link:
 author:
@@ -11,7 +13,7 @@ categories:
   - our-news
 ---
 
-TEDxAuckland speaker, Paul Wood took the stage in 2012 with his talk, 'What's Your Prison?'. Since then, it has gained a huge amount of attention connecting with people from all walks of life. 7 years on, we met up with Paul to reminisce about the experience, his journey, and important societal views. (read\_more)
+TEDxAuckland speaker, Paul Wood took the stage in 2012 with his talk, 'What's Your Prison?'. Since then, it has gained a huge amount of attention as his message connects with people from all walks of life. 7 years on, we met up with Paul to reminisce about the experience, his journey, and important societal views. (read\_more)
 
 > How would you best describe your TEDx experience back in 2012? Why was it important to you?
 
