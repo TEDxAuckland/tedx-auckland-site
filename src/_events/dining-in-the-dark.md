@@ -49,6 +49,7 @@ Hosted by Dining in the Dark and shared with you by Vodafone NZ - this will be a
 * Enjoy a three course meal: With 3 different menu versions freshly created for this experience.
 * Speakers will present in pitch black between meal courses.
 * When: Saturday August 31st staring at 6pm.
+* Where: Rydges Hotel
 * Price: $249
 * The event will be followed by an afterparty at The Glass Goose.
 
