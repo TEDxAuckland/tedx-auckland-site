@@ -1,5 +1,5 @@
 ---
-title: 'An interview with Paul Wood: TEDxAuckland & Toxic Masculinity'
+title: 'An interview with Paul Wood: TEDxAuckland & Beyond'
 image: /uploads/img-20190506-140023.jpg
 image_caption:
 image_caption_link:
@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-Paul Wood took the TEDxAuckland stage in 2012 with his talk, 'What's Your Prison?'. It has gained a tremendous amount of attention since then, standing as one of our most viewed talks. 7 years on, we decided to catch up with Paul to reminisce about the experience, his journey, and what he stands for. (read\_more)
+Paul Wood took the TEDxAuckland stage in 2012 with his talk, 'What's Your Prison?'. It has gained a tremendous amount of attention since then, standing as one of our most viewed talks. 7 years on, we met up with Paul again to reminisce about the experience, his journey, and what he stands for. (read\_more)
 
 > How would you best describe your TEDx experience back in 2012? Why was it important to you?
 
