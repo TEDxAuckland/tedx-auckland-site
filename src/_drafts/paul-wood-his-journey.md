@@ -13,11 +13,13 @@ categories:
   - our-news
 ---
 
-TEDxAuckland speaker, Paul Wood took the stage in 2012 with his talk, 'What's Your Prison?'. Since then, it has gained a huge amount of attention connecting with people from all walks of life. 7 years on, we met up with Paul to reminisce about the experience, and talk about important societal issues. (read\_more)
+*TEDxAuckland speaker, Paul Wood took the stage in 2012 with his talk, 'What's Your Prison?'. Since then, it has gained a huge amount of attention connecting with people from all walks of life. 7 years on, we met up with Paul to reminisce about the experience, talk about his life since then, and important societal issues. (read\_more)*
 
 > How would you best describe your TEDx experience back in 2012? Why was it important to you?
 
-My talk in 2012 was the first time I spoke publicly to an audience about my background. I saw it as an opportunity to try and have a positive impact on other people based on my experiences of change, growth, and overcoming some of the obstacles that I think are so common for us all. It was a nerve-racking experience, as my story is not focused on the positive things that I have done, but rather a redemptive journey to try and better myself as a person. So, there's an additional element of vulnerability there.
+My talk in 2012 was the first time I spoke publicly to an audience about my background. I saw it as an opportunity to try and have a positive impact on other people based on my experiences of change, growth, and overcoming some of the obstacles that I think are so common for us all.
+
+It was a nerve-racking experience, as my story is not focused on the positive things that I have done, but rather a redemptive journey to try and better myself as a person. So, there's an additional element of vulnerability there.
 
 There's a strong sense of bond and camaraderie that builds with the other speakers. It was such an emotionally intense thing to do. I compare it to social bungee jumping as you certainly feel alive while doing it.
 
@@ -25,13 +27,17 @@ It also began the start of a speaking career. I spoke to people afterwards who s
 
 > Looking back at where you were when you started this journey (in your industry), where did you think it was going to lead you? Did you expect to be where you are today?
 
-I didn't have any great expectations of where it would lead me, but I wanted to share my story. Before it was public knowledge, I'd been out of prison for a number of years and had built a career for myself. Yet, it felt inauthentic because I was constantly worried about clients finding out about this secret I harboured, and it wasn’t my place to share it with people because I wasn’t a free agent – I was a representative of the values and brand of the organisation I worked for. When my background did become public, I felt liberated and saw it as a great way for me to try and do something meaningful with my life. The TEDxAuckland event was a vehicle for this and was also a bucket list opportunity to be involved in such a prestigious event.
+I didn't have any great expectations of where it would lead me, but I wanted to share my story. Before it was public knowledge, I'd been out of prison for a number of years and had built a career for myself. Yet, it felt inauthentic because I was constantly worried about clients finding out about this secret I harboured, and it wasn’t my place to share it with people because I wasn’t a free agent – I was a representative of the values and brand of the organisation I worked for.
 
-One of the things I became aware of through that experience was that public speaker was really well paired with my personality, strengths, and something that I could turn into a career. Whereas, I wasn't aware of that option beforehand because I didn’t know anyone who did public speaking professionally. In fact, it was through connections in TEDxAuckland that made it happen. Part of the TED ethos for me is an openness to changing your mind, sharing your thoughts and ideas. Therefore, I approached it with the level of openness which meant that I would be in a position to be able to pursue other opportunities that would come from it as opposed to having a particular plan around that. So, I got all sorts of things that were completely unpredictable and unexpected.
+When my background did become public, I felt liberated and saw it as a great way for me to try and do something meaningful with my life. The TEDxAuckland event was a vehicle for this and was also a bucket list opportunity to be involved in such a prestigious event.
+
+One of the things I became aware of through that experience was that public speaking was really well paired with my personality, strengths, and something that I could turn into a career. Whereas, I wasn't aware of that option beforehand. In fact, it was through connections in TEDxAuckland that made it happen.
+
+Part of the TED ethos for me is an openness to changing your mind, sharing your thoughts and ideas. Therefore, I approached it with the level of openness which meant that I would be in a position to be able to pursue other opportunities that would come from it as opposed to having a particular plan around that. So, I got all sorts of things that were completely unpredictable and unexpected.
 
 > What are the most common problems that men are experiencing/facing today? How can we better support them?
 
-**One of the biggest issues we have is****false ideas around what it means to be a strong and courageous man.**
+**One of the biggest issues we have is&nbsp;****false ideas around what it means to be a strong and courageous man.**
 
 Courage and strength is to be able to own your own vulnerabilities, risk rejection and exposure by asking other people for support and assistance. We love this narrative that you *pull yourself up by your own bootstraps and do it all on your own*, but that’s the most unhelpful way to approach life.
 
@@ -45,7 +51,7 @@ In early education. Emotional literacy should be included in our school’s nati
 
 If I can't tell the difference between shame and guilt then my brain is going to assume the worst and think what I feel is shame. As a result, I’m going to assume there's something broken and wrong with me, which means that I'm irredeemable as a person. Whereas, if I can correctly identify between them, I can recognise when the distress I feel is guilt resulting from my behaviour rather than shame because of who I am. Being able to distinguish between these gives me hope and motivation as it means I can recognise that it’s within my power to change my future behaviour and therefore do better and be better.
 
-I make a real effort to go out and make myself vulnerable, particularly to groups of people who are not used to that. To role model that it’s okay to admit to people that you are not perfect and don’t always feel happy and in control. For example, I have spoken to soldiers and professional athletes who inhabit hyper masculine environments (from a traditional sense) and often think they gain the most from this because they're often least exposed to it, and are in environments where some of the more traditional ideas about masculinity are reinforced.
+I make a real effort to go out and make myself vulnerable, particularly to groups of people who are not used to that. The aim is to role model that it’s okay to admit to people that you are not perfect and don’t always feel happy and in control. For example, I have spoken to soldiers and professional athletes who inhabit hyper masculine environments (from a traditional sense) and often think they gain the most from this because they're often least exposed to it, and are in environments where some of the more traditional ideas about masculinity are reinforced.
 
 > How do you personally cope with new challenges and stress?
 
