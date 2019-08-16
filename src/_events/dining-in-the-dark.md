@@ -32,7 +32,7 @@ seo:
 
 # Introducing A World First
 
-On August 31st, TEDxAuckland is hosting a Salon event which will be the first TEDx event in the world to be held in complete darkness.
+On August 31st, TEDxAuckland is hosting a Salon event which will be the first TEDx event in the world to be held in **complete darkness**.
 
 Hosted by Dining in the Dark and shared with you by Vodafone NZ - this will be an unforgettable experience like no other.
 
