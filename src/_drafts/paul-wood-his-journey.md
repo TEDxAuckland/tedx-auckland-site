@@ -1,5 +1,5 @@
 ---
-title: 'An interview with Paul Wood: The TEDxAuckland Experience & Beyond'
+title: 'An interview with Paul Wood: TEDxAuckland & Toxic Masculinity'
 image: /uploads/img-20190506-140023.jpg
 image_caption:
 image_caption_link:
@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-Paul Wood took the TEDxAuckland stage in 2012 with his talk titled, 'What's Your Prison?'. It has gained a lot of attention over the years and &nbsp;stands as one of our most viewed talks. 7 years on, we caught up with Paul to reminisce about the experience, his journey, and what he stands for. (read\_more)
+Paul Wood took the TEDxAuckland stage in 2012 with his talk, 'What's Your Prison?'. It has gained a tremendous amount of attention since then, standing as one of our most viewed talks. 7 years on, we decided to catch up with Paul to reminisce about the experience, his journey, and what he stands for. (read\_more)
 
 > How would you best describe your TEDx experience back in 2012? Why was it important to you?
 
@@ -81,4 +81,4 @@ Prison then becomes an industry, and the taxpayer cost to imprisonment becomes h
 
 At a micro-level I’m focused on trying to create an environment where my kids will grow up with as few barriers and challenges as necessary for them to be able to live an authentically rich and fulfilled life. I also want my wife to have a greater well-being and flourish as much as possible.
 
-At a macro level, any opportunity I have to communicate what I consider to be the accurate and liberating ideas that leads greater emotional self-acceptance about who we are and aren’t as people is what I want. I'm just trying to scale up that impact and I love the fact that my **TEDx talk** and now my book **How to Escape from Prison** has enabled me to reach so many.
+At a macro level, any opportunity I have to communicate what I consider to be the accurate and liberating ideas that leads greater emotional self-acceptance about who we are and aren’t as people is what I want. I'm just trying to scale up that impact and I love the fact that my [**TEDx talk**](https://www.youtube.com/watch?v=LjjlsW1MDmc) and now my book [**How to Escape from Prison**](http://unitybooks.nz/counterculture/afterglow-how-to-escape-from-prison/) has enabled me to reach so many.
