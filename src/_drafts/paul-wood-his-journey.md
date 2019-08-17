@@ -6,7 +6,7 @@ image: /uploads/img-20190506-140013.jpg
 image_caption:
 image_caption_link:
 author:
-  name:
+  name: Tara Ranchhod
   tagline:
   link:
 categories:
@@ -65,7 +65,7 @@ How similar we all feel in terms of the challenges we experience. There’s this
 
 Another surprising element is just how challenging people find it to be confronted with positive impressions of themselves. Our brains are so geared towards threat detection, avoidance and self-doubt. People often find it really emotionally challenging, and overwhelming when they get a more accurate gauge of just how positively they're perceived by others.
 
-Over the last couple of years I have done a lot of work in the anti-bullying and harassment space. Yet something interesting I know about this area is that the most frequent bullying that goes on is often the stuff between your ears - how you talk to yourself. I often challenge people to pay attention to when they’re beating up on themselves and ask themselves at that point: What would I be saying to someone else in this situation who you cared about and loved right now? Because I bet you wouldn’t be saying anything as harsh as you’d say to yourself. It can be incredibly liberating for people to realise that they’re not alone in this experience.
+Over the last couple of years I have done a lot of work in the anti-bullying and harassment space. Yet something interesting I know about this area is that **the most frequent bullying that goes on is often the stuff between your ears - how you talk to yourself.** I often challenge people to pay attention to when they’re beating up on themselves and ask themselves at that point: What would I be saying to someone else in this situation who you cared about and loved right now? Because I bet you wouldn’t be saying anything as harsh as you’d say to yourself. It can be incredibly liberating for people to realise that they’re not alone in this experience.
 
 > Are there any other resources that you think should be readily available for our youth to help them with their personal growth?
 
