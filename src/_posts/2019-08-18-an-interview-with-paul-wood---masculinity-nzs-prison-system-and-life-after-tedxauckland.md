@@ -1,6 +1,6 @@
 ---
 title: >-
-  An interview with Paul Wood: Masculinity, NZ's Prison System, and life after
+  An interview with Paul Wood - Masculinity, NZ's Prison System, and life after
   TEDxAuckland
 image: /uploads/img-20190506-140013.jpg
 image_caption:
