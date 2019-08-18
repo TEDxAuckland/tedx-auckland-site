@@ -21,6 +21,9 @@ layout: default
 
 		<div class="event-info__content">
 			{{ page.content }}
+      {% if page.apply_ticket_active %}
+      <a href="{{ page.apply_ticket_link }}" class="button event-info__button">Apply for Ticket</a>
+      {% endif %}
 		</div>
 
 	</div>
