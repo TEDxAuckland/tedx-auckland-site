@@ -1,7 +1,7 @@
 ---
 title: >-
-  An interview with Paul Wood - Masculinity, NZ's Prison System, and life after
-  TEDxAuckland
+  An interview with Paul Wood - What being in prison taught me about emotional
+  connection
 image: /uploads/img-20190506-140013-6.jpg
 image_caption:
 image_caption_link:
