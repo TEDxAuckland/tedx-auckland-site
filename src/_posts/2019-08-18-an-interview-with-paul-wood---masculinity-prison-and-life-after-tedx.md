@@ -37,7 +37,7 @@ Part of the TED ethos for me is an openness to changing your mind, sharing your 
 
 **One of the biggest issues we have is&nbsp;****false ideas around what it means to be a strong and courageous man.**
 
-Courage and strength is to be able to own your own vulnerabilities, risk rejection and exposure by asking other people for support and assistance. We love this narrative that you *pull yourself up by your own bootstraps and do it all on your own*, but that’s the most unhelpful way to approach life.
+Courage and strength is to be able to own your own vulnerabilities, risk rejection, and exposure by asking other people for support and assistance. We love this narrative that you *pull yourself up by your own bootstraps and do it all on your own*, but that’s the most unhelpful way to approach life.
 
 You can certainly reach a level of self-containment and resilience through that approach, but it will also wall you off from the people who could give you the greatest opportunity for what love feels like to give and receive because there are costs associated with that approach to masculinity.
 
