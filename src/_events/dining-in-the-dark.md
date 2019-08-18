@@ -3,6 +3,9 @@ title: Dining in the Dark
 short_title: 08-2019
 upcoming: true
 event_bar_right: August 31st | Dining In The Dark | Rydges Hotel
+layout: event-dark
+apply_ticket_active: true
+apply_ticket_link: https://tedxauckland.com/community/events#/dark-2019/apply
 image: /uploads/dining-in-the-dark.png
 badge_image:
 tagline:
@@ -56,5 +59,3 @@ Hosted by Dining in the Dark and shared with you by Vodafone NZ - this will be a
 &nbsp;
 
 If you would like to attend, you will need to register at the link below. Spaces are extremely limited, so make sure to get in quick.
-
-**[Click here to apply](https://tedxauckland.com/community/events#/dark-2019/apply)**
