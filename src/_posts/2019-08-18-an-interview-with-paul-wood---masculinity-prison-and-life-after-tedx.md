@@ -1,7 +1,5 @@
 ---
-title: >-
-  An interview with Paul Wood - What being in prison taught me about emotional
-  connection
+title: 'An interview with Paul Wood - Masculinity, Prison, and life after TEDx'
 image: /uploads/img-20190506-140013-6.jpg
 image_caption:
 image_caption_link:
@@ -81,9 +79,9 @@ One of the reasons that people end up in prison is due to a lack of appropriate 
 
 **I'd create a greater emphasis on people having the opportunity to become better rather than simply be contained.** We want to prepare people for release but also want to make sure society is secure in their containment. Unfortunately, the weight at the moment is so heavily geared towards containment and security that it comes at a massive cost to actually preparing people for release. As a society we need to be prepared to take a bigger risk.
 
-There’s the Scandinavian approach, which isn't about punishment, but about an evidence-based approach to reducing the likelihood that reoffending will occur VS the ideologically driven North American approach. This is about playing on and appealing to public fear, which produces a climate where certain types of policies and approaches are about winning votes.&nbsp;
+There’s the Scandinavian approach, which isn't about punishment, but is an evidence-based approach to reducing the likelihood that reoffending will occur VS the ideologically driven North American approach. This is about playing on and appealing to public fear, which produces a climate where certain types of policies and approaches are about winning votes.&nbsp;
 
-Prison then becomes an industry, and the taxpayer cost to imprisonment becomes higher and higher. The human cost associated with the way we approach putting people in a hostile environment (such as prison) comes at a massive cost to us as well. If you don't want people to reoffend one of the main things to do is to not expose them to prison environment, as one of the key determinants of ongoing criminal reoffending that exposure. There are certainly people who need to be imprisoned. I've been around lots of them, but there are lots and lots of people who other approaches would be more effective in terms of curtailing any criminal offending and turning them into contributing tax paying members of society.
+Prison then becomes an industry, and the taxpayer cost to imprisonment becomes higher and higher. The human cost associated with the way we approach putting people in a hostile environment (such as prison) comes at a massive cost to us as well. If you don't want people to reoffend you should not expose them to the prison environment, as it's one of the key determinants of ongoing criminal reoffending. There are certainly people who need to be imprisoned. I've been around lots of them, but there are lots and lots of people who other approaches would be more effective in terms of curtailing any criminal offending and turning them into contributing tax paying members of society.
 
 > Looking forward to the future what kind of impact would you like to have on the world?
 
