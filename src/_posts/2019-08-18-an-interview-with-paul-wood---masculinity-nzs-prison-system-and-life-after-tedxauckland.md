@@ -29,7 +29,7 @@ It also began the start of a speaking career. I spoke to people afterwards who s
 
 I didn't have any great expectations of where it would lead me, but I wanted to share my story. Before it was public knowledge, I'd been out of prison for a number of years and had built a career for myself. Yet, it felt inauthentic because I was constantly worried about clients finding out about this secret I harboured, and it wasn’t my place to share it with people because I wasn’t a free agent – I was a representative of the values and brand of the organisation I worked for.
 
-When my background did become public, I felt liberated and saw it as a great way for me to try and do something meaningful with my life. The TEDxAuckland event was a vehicle for this and was also a bucket list opportunity to be involved in such a prestigious event.
+When my background did become public, **I felt liberated and saw it as a great way for me to try and do something meaningful with my life.** The TEDxAuckland event was a vehicle for this and was also a bucket list opportunity to be involved in such a prestigious event.
 
 One of the things I became aware of through that experience was that public speaking was really well paired with my personality, strengths, and something that I could turn into a career. Whereas, I wasn't aware of that option beforehand. In fact, it was through connections in TEDxAuckland that made it happen.
 
