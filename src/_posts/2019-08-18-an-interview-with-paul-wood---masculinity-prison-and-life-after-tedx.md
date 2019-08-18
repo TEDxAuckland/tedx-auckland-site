@@ -13,7 +13,7 @@ categories:
 
 *TEDxAuckland speaker, Paul Wood took the stage in 2012 with his talk, 'What's Your Prison?'. Since then, Paul has gained a huge amount of attention connecting with people from all walks of life. 7 years on, we met up with him to reminisce about the experience, his life since then, and important societal issues. (read\_more)*
 
-> How would you best describe your TEDx experience back in 2012? Why was it important to you?
+> #### How would you best describe your TEDx experience back in 2012? Why was it important to you?
 
 My talk in 2012 was the first time I spoke publicly to an audience about my background. I saw it as an opportunity to try and have a positive impact on other people based on my experiences of change, growth, and overcoming some of the obstacles that I think are so common for us all.
 
@@ -23,7 +23,7 @@ There's a strong sense of bond and camaraderie that builds with the other speake
 
 It also began the start of a speaking career. I spoke to people afterwards who said they had gained value from the talk. It gave me a reassurance that this was a redemptive vehicle for me to try and have a positive impact and do something that would matter.
 
-> Looking back at where you were when you started this journey (in your industry), where did you think it was going to lead you? Did you expect to be where you are today?
+> #### Looking back at where you were when you started this journey (in your industry), where did you think it was going to lead you? Did you expect to be where you are today?
 
 I didn't have any great expectations of where it would lead me, but I wanted to share my story. Before it was public knowledge, I'd been out of prison for a number of years and had built a career for myself. Yet, it felt inauthentic because I was constantly worried about clients finding out about this secret I harboured, and it wasn’t my place to share it with people because I wasn’t a free agent – I was a representative of the values and brand of the organisation I worked for.
 
@@ -33,7 +33,7 @@ One of the things I became aware of through that experience was that public spea
 
 Part of the TED ethos for me is an openness to changing your mind, sharing your thoughts and ideas. Therefore, I approached it with the level of openness which meant that I would be in a position to be able to pursue other opportunities that would come from it as opposed to having a particular plan around that. So, I got all sorts of things that were completely unpredictable and unexpected.
 
-> What are the most common problems that men are experiencing/facing today? How can we better support them?
+> #### What are the most common problems that men are experiencing/facing today? How can we better support them?
 
 **One of the biggest issues we have is&nbsp;****false ideas around what it means to be a strong and courageous man.**
 
@@ -43,7 +43,7 @@ You can certainly reach a level of self-containment and resilience through that 
 
 For example, in prison you have to become resilient or you won’t survive, so you become very good at putting walls up. Men tend to be encouraged to do this, to suck it up and not to demonstrate anything you'd associate with feeling weak or vulnerable. One of the biggest miscomprehension's is who you're supposed to be as a man. It's about understanding what the values are that you're placing on that gender identity, and how to live those in a way which is empowering, enabling, and life enhancing rather than depriving and diminishing.
 
-> Where do you see those narratives need to be told?
+> #### Where do you see those narratives need to be told?
 
 In early education. Emotional literacy should be included in our school’s national syllabus. Part of the challenge for men, in particular, is they grow up getting messages that they shouldn't have certain types of emotions, and as a result don't know how to effectively deal with them. Woman also receive equally unhelpful but different messages around their emotions. So, by having emotional literacy as part of the syllabus you’re saying that **it's really normal for you to feel lots of different emotions** and you’re equipping people to better recognise and manage what they are feeling.
 
@@ -51,13 +51,13 @@ If I can't tell the difference between shame and guilt then my brain is going to
 
 I make a real effort to go out and make myself vulnerable, particularly to groups of people who are not used to that. **The aim is to role model that it’s okay to admit to people that you are not perfect and don’t always feel happy and in control.** For example, I have spoken to soldiers and professional athletes who inhabit hyper masculine environments (from a traditional sense) and often think they gain the most from this because they're often least exposed to it, and are in environments where some of the more traditional ideas about masculinity are reinforced.
 
-> How do you personally cope with new challenges and stress?
+> #### How do you personally cope with new challenges and stress?
 
 By continuing to expose myself voluntarily to both and embracing them is the way you grow and get better. However, we’ve evolved to treat both as a potential threat.
 
 A piece of research was conducted last year where they gave people two options. The first option was a low-intensity electric shock at random and the second was a significantly stronger electric shock right then. People would rather have a greater physical pain right now than deal with the emotional distress of coping with the uncertainty. It makes us feel unsafe and that is inherently stressful. However, if you deliberately embrace the stress associated with uncertainty (such as getting out of your comfort zone) then it activates the *approach system* in your brain which is related to positive emotional experiences. So, I choose to voluntarily expose myself to those situations and through that I expand my comfort zone, grow as a person, and continue to inoculate myself against the challenges associated with uncertainty and stress.
 
-> What is one of the most interesting (or perhaps unpredictable) things you have learned about others through your workshops and coaching sessions?
+> #### What is one of the most interesting (or perhaps unpredictable) things you have learned about others through your workshops and coaching sessions?
 
 How similar we all feel in terms of the challenges we experience. There’s this concern that if people found out about our real struggles we’d be rejected. But when you're prepared to be courageous enough to make yourself vulnerable, there’s a far greater sense of connection and respect from others.
 
@@ -65,13 +65,13 @@ Another surprising element is just how challenging people find it to be confront
 
 Over the last couple of years I have done a lot of work in the anti-bullying and harassment space. Yet something interesting I know about this area is that **the most frequent bullying that goes on is often the stuff between your ears - how you talk to yourself.** I often challenge people to pay attention to when they’re beating up on themselves and ask themselves at that point: What would I be saying to someone else in this situation who you cared about and loved right now? Because I bet you wouldn’t be saying anything as harsh as you’d say to yourself. It can be incredibly liberating for people to realise that they’re not alone in this experience.
 
-> Are there any other resources that you think should be readily available for our youth to help them with their personal growth?
+> #### Are there any other resources that you think should be readily available for our youth to help them with their personal growth?
 
 I would make sure that sports or other extracurricular activities are fully supported. Part of the challenge is that the current cost associated with those activities can be a barrier for people who would most benefit from it, typically in lower socioeconomic areas.
 
 It was a judge up North who said **“a kid in sport is a kid not in court”**, which is so true. You need a positive outlet for your energy, direction, sense of identity and community - in your teenage years more than ever. It needs to be something that gives you a sense of community outside of your standard life activities. So, if you have a positive outlet and focus for your time that builds those things then you’re just winning on every level.
 
-> How does prison affect men psychologically? What changes would you like to see within the prison system?
+> #### How does prison affect men psychologically? What changes would you like to see within the prison system?
 
 The current prison set up reinforces some of the unhelpful ideas, mindsets, and approaches that men end up having in there, such as the emotional disconnection.
 
@@ -83,7 +83,7 @@ There’s the Scandinavian approach, which isn't about punishment, but is an evi
 
 Prison then becomes an industry, and the taxpayer cost to imprisonment becomes higher and higher. The human cost associated with the way we approach putting people in a hostile environment (such as prison) comes at a massive cost to us as well. If you don't want people to reoffend you should not expose them to the prison environment, as it's one of the key determinants of ongoing criminal reoffending. There are certainly people who need to be imprisoned. I've been around lots of them, but there are lots and lots of people who other approaches would be more effective in terms of curtailing any criminal offending and turning them into contributing tax paying members of society.
 
-> Looking forward to the future what kind of impact would you like to have on the world?
+> #### Looking forward to the future what kind of impact would you like to have on the world?
 
 At a micro-level I’m focused on trying to create an environment where my kids will grow up with as few barriers and challenges as necessary for them to be able to live an authentically rich and fulfilled life. I also want my wife to have a greater well-being and flourish as much as possible.
 
