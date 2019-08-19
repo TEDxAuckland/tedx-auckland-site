@@ -5,7 +5,7 @@ upcoming: true
 event_bar_right: August 31st | Dining In The Dark | Rydges Hotel
 layout: event-dark
 apply_ticket_active: true
-apply_ticket_link: https://tedxauckland.com/community/events#/dark-2019/apply
+apply_ticket_link: 'https://tedxauckland.com/community/events#/dark-2019/apply'
 image: /uploads/dining-in-the-dark.png
 badge_image:
 tagline:
@@ -17,8 +17,8 @@ flikr_galleries:
   -
 major_partners:
   - vodafone
-  - bizdojo
 supporting_partners:
+  - bizdojo
 event_partners:
 highlight_video_id:
 youtube_playlist:
