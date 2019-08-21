@@ -1,8 +1,8 @@
 ---
-title: Dining in the Dark
+title: In The Dark
 short_title: 08-2019
 upcoming: true
-event_bar_right: August 31st | Dining In The Dark | Rydges Hotel
+event_bar_right: August 31st | In The Dark | Rydges Hotel | Click here for more information
 layout: event-dark
 apply_ticket_active: true
 apply_ticket_link: 'https://tedxauckland.com/community/events#/dark-2019/apply'
