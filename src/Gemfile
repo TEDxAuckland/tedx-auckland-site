@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.8', '>= 3.8.5'
+gem 'jekyll', '~> 4.0'
 gem 'yt', '~> 0.32.2'
 gem 'bigdecimal', '~> 1.3', '>= 1.3.5'
 gem 'flickr-objects', '~> 0.6.3'
@@ -9,6 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-autoprefixer'
-  gem 'jekyll-responsive-image', github: 'JacobKorn/jekyll-responsive-image', branch: 'custom-sizes'
+  gem 'jekyll-responsive-image', git: 'https://github.com/JacobKorn/jekyll-responsive-image.git', branch: 'custom-sizes-update'
   gem 'jekyll-seo-tag'
 end
