@@ -49,11 +49,12 @@ Hosted by Dans le Noir ? Rydges Auckland and shared with you by Vodafone NZ - th
 
 #### Event Information:
 
-* Enjoy a three course meal, with 3 different menu versions freshly created for this experience
-* 2x Speakers will present in pitch black between meal courses
-* **When**\: Saturday August 31st starting 6pm till late
-* **Where**\: Dans le Noir ? Rydges Auckland
-* **Price**\: $249
-* The event will be followed by an afterparty at The Glass Goose
+* Enjoy a three course meal, with 3 different menu versions freshly created for this experience.
+* 2x Speakers will present in pitch black between meal courses.
+* Just like the food, information about the speakers has been hidden so attendee's go into the event with zero preconceptions.
+* **When**\: Saturday August 31st starting 6pm till late.
+* **Where**\: Dans le Noir ? Rydges Auckland.
+* **Price**\: $249.
+* The event will be followed by an afterparty at The Glass Goose.
 
 If you would like to attend, you will need to register at the link below. Spaces are extremely limited, so make sure to get in quick.
