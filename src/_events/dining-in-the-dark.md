@@ -8,7 +8,7 @@ apply_ticket_active: true
 apply_ticket_link: 'https://tedxauckland.com/community/events#/dark-2019/apply'
 image: /uploads/dining-in-the-dark.png
 badge_image:
-tagline:
+tagline: hear you there ...
 start_date: 2019-08-31 00:00:00 +1200
 end_date: 2019-08-31 00:00:00 +1200
 address:
@@ -20,6 +20,9 @@ major_partners:
 supporting_partners:
   - bizdojo
 event_partners:
+  - lowndes_jordan
+  - white-studios
+  - halcyon-digital
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
