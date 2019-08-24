@@ -10,6 +10,6 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-autoprefixer'
-  gem 'jekyll-responsive-image', git: 'https://github.com/JacobKorn/jekyll-responsive-image.git', branch: 'custom-sizes-update'
+  gem 'jekyll-responsive-image', github: 'JacobKorn/jekyll-responsive-image', branch: 'custom-sizes-update'
   gem 'jekyll-seo-tag'
 end

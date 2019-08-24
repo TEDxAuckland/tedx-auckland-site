@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/JacobKorn/jekyll-responsive-image.git
+  remote: git://github.com/JacobKorn/jekyll-responsive-image.git
   revision: 19492d036f297ee9f913a0a83e1f3785fe303a72
   branch: custom-sizes-update
   specs:
