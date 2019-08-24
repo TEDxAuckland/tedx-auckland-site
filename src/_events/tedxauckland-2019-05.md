@@ -1,6 +1,6 @@
 ---
 title: May 2019 event
-short_title: 05-2019
+short_title: May 2019
 layout: event-05-2019
 upcoming: false
 event_bar_right: 'Wednesday May 1st, 2019 | Whoa! Studios & The Grounds, Henderson'
