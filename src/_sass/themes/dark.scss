@@ -1,0 +1,30 @@
+.dark-theme {
+  background: #000;
+  color: $brand-grey-lighter;
+
+  .section-heading--dark {
+    color: $brand-grey-lighter;
+  }
+
+  .partner-card {
+    color: $brand-grey-lighter;
+  }
+
+  .partner-heading {
+    color: $brand-grey-lighter;
+  }
+
+  .nav-bar {
+    background-color: #000;
+  }
+
+  .nav-link__text {
+    color: $brand-grey-lighter;
+  }
+
+  .footer {
+    background-color: #000;
+    color: $brand-grey-lighter;
+    border-color: $brand-grey-lighter;
+  }
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		{% if jekyll.environment == "production" %}
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WV5LPBS');</script>
+		<!-- End Google Tag Manager -->
+		{% endif %}
+
+		{% seo %}
+
+
+		<meta name="apple-mobile-web-app-title" content="TEDxAuckland" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+		<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+
+		<meta name="theme-color" content="#E62B1E" />
+		<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+		<meta name="HandheldFriendly" content="True" />
+		<meta name="MobileOptimized" content="320" />
+		<meta name="application-name" content="TEDxAuckland" />
+		<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+		<meta name="msapplication-TileColor" content="#000000" />
+		<meta http-equiv="cleartype" content="on" />
+
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+		<link rel="stylesheet" href="/assets/css/main.css">
+
+
+ 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+ 		{% if jekyll.environment == "development" %}
+      <script src="/assets/js/vendor/vue.js"></script>
+    {% else %}
+      <script src="/assets/js/vendor/vue.min.js"></script>
+    {% endif %}
+		<script src="/assets/js/ted-x-components.umd.min.js"></script>
+		<script src="/assets/js/countdown.js"></script>
+
+		<script>
+		function hamburger_menu() {
+			var x = document.getElementById("nav-links");
+			if (x.className === "nav-links") {
+				x.className += " show-mobile-nav";
+			} else {
+				x.className = "nav-links";
+			}
+		}
+		</script>
+	</head>
+
+	{{ content }}
+
+</html>

@@ -16,9 +16,9 @@ people:
 flikr_galleries:
   -
 major_partners:
-  - vodafone
+  - vodafone-dark
 supporting_partners:
-  - bizdojo
+  - bizdojo-dark
 event_partners:
   - lowndes_jordan
   - white-studios
