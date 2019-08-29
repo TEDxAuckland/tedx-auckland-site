@@ -4,7 +4,7 @@ youtube_video_id: 4mAptTGzXlo
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/james-hurman-talk-1.jpg
 related_posts:
 ---
 
