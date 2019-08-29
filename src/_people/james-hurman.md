@@ -20,7 +20,7 @@ description_markdown: >-
 
 
   James’ prior career in the advertising industry was recognised with dozens of
-  marketing effectiveness awards, and in 2013 he was named the world’s #1
+  marketing effectiveness awards, and in 2013 he was named the world’s \#1
   strategy planner. His 2011 book *The Case for Creativity* proved the link
   between imaginative marketing and commercial success and has been republished
   several times in multiple languages.
@@ -28,7 +28,7 @@ website_url: 'https://www.previously.co/'
 medium_url: 'https://www.storyte.ch/'
 twitter_url: 'https://twitter.com/jameshurman'
 facebook_url:
-youtube_video_id:
+youtube_video_id: 4mAptTGzXlo
 github_username:
 instagram_url:
 linkedin_url:
