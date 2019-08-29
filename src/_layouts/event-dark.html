@@ -26,9 +26,19 @@ layout: default-dark
       {% endif %}
 		</div>
 
-
-
 	</div>
+</section>
+{% endif %}
+
+{% if page.highlight_video_id %}
+<section class="section">
+  <div class="container">
+
+    <h3 class="section-heading">highlight reel</h3>
+    <div class="talks-expanded-preview__iframe-wrapper">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ page.highlight_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
 </section>
 {% endif %}
 

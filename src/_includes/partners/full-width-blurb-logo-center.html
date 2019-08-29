@@ -1,6 +1,7 @@
 <div class="partners partners--full-width-logo-center">
 	{% for partner_name in include.partners %}
-	{% assign partner = site.partners | where_exp: "item", "item.id contains partner_name"  | first %}
+	{% assign partner_id = '/partners/' | append: partner_name %}
+	{% assign partner = site.partners | where: "id", partner_id | first %}
 	{% assign partner_logo = partner.partner_logo_image | remove_first: "/" %}
 	{% assign partner_alt = partner.id | append: " logo" | remove: "/partners/" | replace: "_", " " %}
 
