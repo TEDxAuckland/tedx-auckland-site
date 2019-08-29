@@ -1,14 +1,14 @@
 {% assign event_bar = site.data.site_settings.upcoming_event_bar %}
 
 {% if event_bar.active %}
-	{% assign event = site.events | where_exp: "e", "e.short_title == event_bar.event_short_title" | first %}
+	{% assign upcoming_event = site.events | where_exp: "e", "e.short_title == event_bar.event_short_title" | first %}
 		<div class="event-bar">
 			<a href="{{ event.url }}" class="event-bar__link">
 				<div class="event-bar__left">
-					{{ event.title }}
+					{{ upcoming_event.title }}
 				</div>
 				<div class="event-bar__right">
-					{{ event.event_bar_right }}
+					{{ upcoming_event.event_bar_right }}
 				</div>
 			</a>
 		</div>

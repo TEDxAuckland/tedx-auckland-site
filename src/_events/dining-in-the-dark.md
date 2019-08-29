@@ -13,6 +13,7 @@ start_date: 2019-08-31 00:00:00 +1200
 end_date: 2019-08-31 00:00:00 +1200
 address:
 people:
+  -
 flikr_galleries:
   -
 major_partners:

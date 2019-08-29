@@ -2,10 +2,9 @@
 layout: default
 hero_image: /assets/images/bg-upcoming-events.jpg
 ---
-
-{%- assign presenter = site.people | where_exp: "p", "p.youtube_video_id == page.youtube_video_id " | first -%}
+{%- assign presenter = site.people | where: "youtube_video_id", page.youtube_video_id | first -%}
 {%- assign video = site.data.youtube_playlists.videos[page.youtube_video_id] -%}
-{%- assign presenter_name = presenter.name | slugify -%}
+{%- assign presenter_name = presenter.id | remove: "/people/" -%}
 {%- assign event = site.events | where_exp: "e", "e.people contains presenter_name" | first -%}
 
 <header class="talk-header">

@@ -12,6 +12,7 @@ start_date:
 end_date:
 address:
 people:
+  -
 flikr_galleries:
   -
 major_partners:
