@@ -31,7 +31,7 @@ event_partners:
   - white-studios
   - halcyon-digital
 highlight_video_id: sDgL_9RbDrs
-youtube_playlist:
+youtube_playlist: PLcm2pIIAwlDu5hg5mkxbHFesUIMgFGyYz
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
