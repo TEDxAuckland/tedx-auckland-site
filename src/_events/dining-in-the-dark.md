@@ -1,7 +1,7 @@
 ---
 title: IN THE DARK
 short_title: IN THE DARK
-upcoming: true
+upcoming: false
 event_bar_right: August 31st | IN THE DARK | Rydges Hotel | Click here for more information
 layout: event-dark
 apply_ticket_active: false
