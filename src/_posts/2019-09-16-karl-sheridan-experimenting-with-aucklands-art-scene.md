@@ -61,7 +61,7 @@ I’m really interested in space and how it’s used. Our venues are in traditio
 
 > #### What has kept you going with ‘The Experiment’ after all these years?&nbsp;
 
-We’ve accidentally doubled in size every year, and we get more ambitious. It started at the [Basement Theatre](https://basementtheatre.co.nz/) and it was a total experiment for me. My friend needed to fill in 5 nights and she challenged me, but it worked and everyone went “do that again”. In a way it’s the 6th year of my own experiment which is ‘The Experiment’.&nbsp;
+We’ve accidentally doubled in size every year, and we get more ambitious. It started at the [Basement Theatre](https://basementtheatre.co.nz/) and it was a total experiment for me. My friend needed to fill in 5 nights and she challenged me, but it worked and everyone went: “do that again”. In a way it’s the 6th year of my own experiment which is ‘The Experiment’.&nbsp;
 
 There’s no end in sight at the moment. I feel responsible for it and always finish what I start.
 
