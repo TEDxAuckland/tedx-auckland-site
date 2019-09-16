@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-*Karl Sheridan founded his own film production agency, Monster Valley in 2011 which drives quality content through art. Out of this, 'The Experiment' was birthed. An annual event where Auckland's alternative art and music scene collides to explore new heights and expand on what is possible. &nbsp;*
+*Karl Sheridan founded his own film production agency, Monster Valley in 2011 which drives quality content through art. Out of this, 'The Experiment' was born. An annual event where Auckland's alternative art and music scene collides to explore new heights and expand on what is possible. &nbsp;*
 
 > #### What is your vision for Monster Valley?&nbsp;
 
@@ -35,7 +35,7 @@ One year, we booked in a tabla and sitar player from Hamilton and dance students
 
 > #### What is your criteria for picking the artists?&nbsp;&nbsp;
 
-It’s a mix between the most interesting submission, and emerging artists. People who are really passionate about the project are going to deliver the best work.The more into it you are the more you get out of it.&nbsp;
+It’s a mix between the most interesting submission, and emerging artists. People who are really passionate about the project are going to deliver the best work. The more into it you are the more you get out of it.&nbsp;
 
 This year is going to have the biggest main stage we’ve ever had. It’s our 6th year now, people are in it for the right reasons. It’s a nonprofit festival, uncommercialised, and tickets are affordable because we wanted to make it accessible for people. &nbsp;
 
@@ -47,7 +47,7 @@ We do vet it to a certain point by helping with the curation to make sure everyo
 
 We always make sure there’s some riskier stuff, but it’s known beforehand because the artist is known for that. This year there’s some nudity, and an installation featuring gore, but there are safety officers. Artists are also able to bring a support friend as an option. If they’ve never performed live before and freak out infront 500 people on the main stage we have people to help them along.&nbsp;
 
-There’s also a ‘pre experiment’ where the artists hang out and collaborate with ideas. It’s a real community, and there are people who have performed in every single experiment, because they love it and do something really different every year. **You’re performing around people who are trying something new, which means everyone is in the same boat. &nbsp;**
+There’s also a ‘pre-experiment’ where the artists hang out and collaborate with ideas. It’s a real community, and there are people who have performed in every single experiment, because they love it and do something really different every year. **You’re performing around people who are trying something new, which means everyone is in the same boat. &nbsp;**
 
 > #### Why have you chosen to mix both art and music in the ‘The Experiment’?
 
