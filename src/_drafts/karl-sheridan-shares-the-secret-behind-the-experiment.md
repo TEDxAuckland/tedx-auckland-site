@@ -1,5 +1,5 @@
 ---
-title: Karl Sheridan shares the secret behind 'The Experiment'
+title: 'Karl Sheridan: Experimenting with the local art scene'
 image: /uploads/mv-karl-13-copy.jpg
 image_caption:
 image_caption_link:
