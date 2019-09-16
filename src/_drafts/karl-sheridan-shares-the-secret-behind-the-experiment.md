@@ -1,6 +1,6 @@
 ---
 title: 'Karl Sheridan: Experimenting with Auckland''s art scene'
-image: /uploads/mv-karl-13-copy.jpg
+image: /uploads/67441931-3386556051358273-8926304847095922688-o.jpg
 image_caption:
 image_caption_link:
 author:
