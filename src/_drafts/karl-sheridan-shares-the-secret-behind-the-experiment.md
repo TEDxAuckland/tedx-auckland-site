@@ -13,6 +13,8 @@ categories:
 
 *Karl Sheridan founded his own film production agency, Monster Valley in 2011 which drives commercial content through art. Out of this, 'The Experiment' was born. An annual event where Auckland's alternative art and music scene collides to explore new heights and expand on what is possible. &nbsp;*
 
+*![](/uploads/mv-karl-13-copy-1.jpg){: width="3288" height="2192"}*
+
 > #### What is your vision for Monster Valley?&nbsp;
 
 [Monster Valley](https://www.monstervalley.co.nz/) began when I saw a niche in the market for low-budget DSLR style shooting. I want to keep a strong connection between the *‘Arts, Content and Corporate’* world as I really like this combination.
