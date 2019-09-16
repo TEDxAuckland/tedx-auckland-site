@@ -65,4 +65,4 @@ We’ve accidentally doubled in size every year, and we get more ambitious. It s
 
 There’s no end in sight at the moment. I feel responsible for it and always finish what I start.
 
-*'The Experiment' will take place on Friday, September 20th. Purchase tickets [here](https://www.eventbrite.co.nz/e/the-experiment-2019-tickets-60497859727){: target="_blank"}.*
+*'The Experiment' will take place on Friday, September 20th at [Studio The Venue](https://studiovenue.co.nz/). Purchase tickets [here](https://www.eventbrite.co.nz/e/the-experiment-2019-tickets-60497859727){: target="_blank"}.*
