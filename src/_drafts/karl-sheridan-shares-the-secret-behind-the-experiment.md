@@ -19,7 +19,7 @@ categories:
 
 Earlier on I was afraid to show corporate clients my edgier work, but as soon as I started being myself and opening up this world they were into it. The big brands that I’m working with bring a bit of a cool factor back into their world as I’m getting musicians and artists working on their projects.
 
-My goal is to keep pushing brands to be leaders in trying different things out. **I’m really into an alternative, punk aesthetic and trying new things. That’s where we fit, and the brands that we’re currently working with aren’t afraid of this.** I also always want to be working with emerging artists as that’s where the most exciting stuff is coming from.
+My goal is to keep pushing brands to be leaders in trying different things out. **I’m really into an alternative, punk aesthetic and trying new things. That’s where we fit, and the brands that we’re currently working with aren’t afraid of this.** I also want to be working with emerging artists as that’s where the most exciting stuff is coming from.
 
 > #### How is the ‘The Experiment’ different from other music or art festivals around Auckland?
 
