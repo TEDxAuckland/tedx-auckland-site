@@ -27,7 +27,7 @@ My goal is to keep pushing brands to be leaders in trying different things out. 
 
 It says it in the name.&nbsp;
 
-It’s an alternative arts and music festival, where anyone can submit their idea but they have to experiment with their craft. It gives people an opportunity to collaborate. There’s also no pressure to hit goals and outcomes. Often other music festivals artists need to play their biggest hits.&nbsp;
+It’s an alternative arts and music festival, where anyone can submit their idea but they have to experiment with their craft. It gives people an opportunity to collaborate. There’s also no pressure to hit goals and outcomes. Often at other music festivals artists need to play their biggest hits.&nbsp;
 
 **Everyone is experimenting as an audience member, performer, and artist.** It’s a chance to try something new, and is a really safe space for people to do that. For example, one friend ‘live’ painted on stage with a 7 piece psychedelic band and had never painted in front of anyone. One band did an art performance on the night and people weren’t expecting it. Other bands have switched up their instruments, and one group literally boxed themselves in so you couldn’t see them play. We really challenge our audience.&nbsp;
 
