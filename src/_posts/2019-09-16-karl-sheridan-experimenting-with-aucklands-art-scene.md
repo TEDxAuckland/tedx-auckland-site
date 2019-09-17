@@ -55,7 +55,7 @@ There’s also a ‘pre-experiment’ where the artists hang out and collaborate
 
 Because it didn’t exist in Auckland. The art and music festivals don’t really cross over, and I wanted an alternative festival in winter, as well as music that isn’t going to get booked at Summer festivals.
 
-We’re like the dark side of Splore.&nbsp;
+**We’re like the dark side of Splore.&nbsp;**
 
 I’m really interested in space and how it’s used. Our venues are in traditional spaces, but we flip them on their heads. For example, the escape pod is a storage room and a VR experience. This also makes audiences think about how they see buildings and spaces as well.&nbsp;
 
