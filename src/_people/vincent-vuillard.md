@@ -18,9 +18,8 @@ description_markdown: >-
   organisational and community outcomes by unlocking individual potential.
 
 
-  Vincent speaks regularly on future of work related subjects, and works with
-  schools and community-based organisations on preparing for new ways of
-  working.
+  Vincent speaks regularly on future of work, and works with schools and
+  community-based organisations on preparing for new ways of working.
 website_url: 'https://www.futureworkstudio.com/'
 medium_url:
 twitter_url:
