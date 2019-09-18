@@ -1,7 +1,7 @@
 ---
 name: Vincent Vuillard
 email:
-image: /uploads/vincent-pic-2400-9819.jpg
+image: /uploads/dsc-9819.jpg
 description_markdown: >-
   Vincent is passionate about revolutionising the way we work. He co-founded
   FutureWork Studio, a kiwi tech company on a mission to create a world in which
