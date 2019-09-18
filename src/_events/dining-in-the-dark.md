@@ -13,6 +13,8 @@ start_date: 2019-08-31 00:00:00 +1200
 end_date: 2019-08-31 00:00:00 +1200
 address:
 people:
+  - cassie-roma
+  - vincent-vuillard
 flikr_galleries:
   -
 major_partners:
