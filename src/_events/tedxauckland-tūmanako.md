@@ -6,7 +6,7 @@ upcoming: true
 event_bar_right: 'Saturday November 16th, 2019 | ASB Waterfront Theatre'
 apply_ticket_active: false
 apply_ticket_link:
-image: /uploads/hope-rectangle-v3.png
+image: /uploads/hope-square-v3-no-logo.png
 badge_image:
 tagline:
 start_date: 2019-11-16 00:00:00 +1300
