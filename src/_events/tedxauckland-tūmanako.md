@@ -24,7 +24,7 @@ youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
-permalink:
+permalink: /events/11-2019/
 seo:
   name: TEDxAuckland
   type: Event
