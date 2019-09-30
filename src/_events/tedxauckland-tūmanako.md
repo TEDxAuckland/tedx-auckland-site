@@ -15,9 +15,9 @@ people:
 flikr_galleries:
   -
 major_partners:
-  - vodafone-dark
+  - vodafone
 supporting_partners:
-  - bizdojo-dark
+  - bizdojo
 event_partners:
 highlight_video_id:
 youtube_playlist:
