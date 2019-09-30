@@ -1,6 +1,7 @@
 ---
 title: 'TEDxAuckland: tūmanako'
 short_title: 'TEDxAuckland: tūmanako'
+layout: event-05-2019
 upcoming: true
 event_bar_right: 'Saturday November 16th, 2019 | ASB Waterfront Theatre'
 apply_ticket_active: false
