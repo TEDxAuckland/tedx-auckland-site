@@ -42,3 +42,9 @@ On Saturday November 16th, TEDxAuckland is taking over 'ASB Waterfront Theatre' 
 TEDxAuckland *tūmanako* is about ideas of hope, sources of inspiration and actionable ideas to make the world a better place.
 
 Speakers will be released soon. The event is fully catered so just bring your lovely self and maybe someone else\!
+
+Early Bird tickets $99
+
+After Early Bird $129
+
+Late Bird $159
