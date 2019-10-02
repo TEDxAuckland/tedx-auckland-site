@@ -1,5 +1,5 @@
 ---
-name: Vodafone
+name: Vodafone for Black
 link: 'https://www.vodafone.co.nz/tedx/'
 partner_logo_image: /uploads/vodafone-logo-white.png
 ---
