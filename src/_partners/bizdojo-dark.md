@@ -1,5 +1,5 @@
 ---
-name: 'BizDojo'
+name: BizDojo for Black
 link: 'https://www.bizdojo.com/'
 partner_logo_image: /uploads/BizDojo-Brush-white.png
 ---
