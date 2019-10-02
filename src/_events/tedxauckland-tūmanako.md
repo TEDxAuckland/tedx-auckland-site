@@ -37,8 +37,8 @@ seo:
 
 On Saturday November 16th, TEDxAuckland is taking over 'ASB Waterfront Theatre' for a full day of talks, performances, inspiration, and new connections.
 
-#### tūmanako: *To hope for a better future.*
+#### *tūmanako*\: *To hope for a better future.*
 
-TEDxAuckland tūmanako represents ideas of hope, a source of inspiration, belief and actionable ideas to make the world a better place.
+TEDxAuckland *tūmanako* is about ideas of hope, sources of inspiration and actionable ideas to make the world a better place.
 
-First round tickets and speakers will be released soon, sign up to our newsletter to get first dibs. The event is fully catered so just bring your lovely self and maybe someone else\!
+Speakers will be released soon. The event is fully catered so just bring your lovely self and maybe someone else\!
