@@ -15,8 +15,44 @@
     background-color: #000;
   }
 
+  &__tumanako {
+    display: flex;
+    @include respond(tab-land) {
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  }
+
   &__img {
     width: 100%;
+  }
+}
+
+.tumanako {
+  &__left {
+    @include respond(tab-land) {
+      order: 1;
+      flex: 0 1 80%;
+    }
+
+    h1 {
+      font-size: 4.5rem;
+    }
+  }
+
+  &__img {
+    @include respond(tab-land) {
+      margin: 0 0 3rem 0;
+      flex: 0 1 80%;
+    }
+    flex: 1 1 70%;
+    margin: 5rem 0 5rem 10rem;
+  }
+
+  &__button {
+    width: 100%;
+    text-align: center;
+    margin-top: 3rem;
   }
 }
 

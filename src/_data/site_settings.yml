@@ -1,9 +1,9 @@
 upcoming_event_bar:
-  active: false
-  event_short_title: IN THE DARK
+  active: true
+  event_short_title: 'TEDxAuckland: tūmanako'
 buy_ticket_button:
-  active: false
-  url: /events/08-2019/
+  active: true
+  url: /events/11-2019/
 navigation:
   - title: Talks/
     sub_title: Ideas

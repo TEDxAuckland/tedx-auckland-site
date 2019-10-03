@@ -3,13 +3,16 @@ layout: default
 ---
 
 {% if page.image %}
-<header class="event-hero container">
-  {% assign image = page.image | remove_first: "/" %}
-  {% responsive_image path: image
-                      class: "event-hero__img"
-                      widths: "400, 600, 900, 1200, 1800, 2700, 3800"
-                      sizes: "100vw"
-  %}
+<header class="event-hero event-hero__tumanako container">
+  <div class="tumanako__left content">
+    <h1>
+      <i>tūmanako</i>: To hope for a better future.
+    </h1>
+    <p>
+      TEDxAuckland tūmanako is about ideas of hope, sources of inspiration and actionable ideas to make the world a better place.
+    </p>
+  </div>
+  <img src="{{ page.image }}" class="event-hero__img tumanako__img" alt="tumanako theme">
 </header>
 {% endif %}
 
@@ -22,7 +25,7 @@ layout: default
 		<div class="event-info__content content">
 			{{ page.content }}
       {% if page.apply_ticket_active %}
-      <a href="{{ page.apply_ticket_link }}" class="button event-info__button">Apply for Ticket</a>
+      <a href="{{ page.apply_ticket_link }}" class="button event-info__button">Buy Tickets</a>
       {% endif %}
 		</div>
 
