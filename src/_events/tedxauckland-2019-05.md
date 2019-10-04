@@ -55,11 +55,7 @@ There are only 160 seats available for this more intimate experience, so make su
 
 **Timetable for the event:**
 
-5pm-5:30pm: Guests to arrive at Whoa\! Studios
-
-6pm-7pm: Speaker talks
-
-7pm-10pm: Dinner & Drinks
+5pm-5:30pm: Guests to arrive at Whoa\! Studios<br>6pm-7pm: Speaker talks<br>7pm-10pm: Dinner & Drinks
 
 **Whoa\! Studios + The Grounds location**\:&nbsp;
 
