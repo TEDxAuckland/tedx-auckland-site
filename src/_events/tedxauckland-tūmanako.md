@@ -23,6 +23,8 @@ event_partners:
   - lowndes_jordan
   - cloudcannon
   - halcyon-digital
+  - sound_techniques
+  - white-studios
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
