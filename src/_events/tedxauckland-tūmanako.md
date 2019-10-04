@@ -5,7 +5,7 @@ layout: event-tumanako
 upcoming: true
 event_bar_right: 'Saturday November 16th, 2019 | ASB Waterfront Theatre'
 apply_ticket_active: true
-apply_ticket_link: https://tedxauckland.com/community/events#/tumanako/buy-tickets
+apply_ticket_link: 'https://tedxauckland.com/community/events#/tumanako/buy-tickets'
 image: /uploads/tumanako-theme.svg
 badge_image:
 tagline:
@@ -39,8 +39,4 @@ On Saturday November 16th, TEDxAuckland is taking over 'ASB Waterfront Theatre' 
 
 Speakers will be released soon. The event is fully catered so just bring your lovely self and maybe someone else\!
 
-Early Bird tickets $99
-
-After Early Bird $129
-
-Late Bird $159
+Early Bird tickets $99 &lt;br&gt; After Early Bird $129 &lt;br&gt; Late Bird $159
