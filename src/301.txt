@@ -38,3 +38,4 @@
 /talks/walking-with-mandela/ /talks/walking-with-mandela-small-moments-with-a-great-man/
 /talks/yes/ /talks/yes-the-word-that-built-an-orphanage/
 /talks/young-ocean-explorers/ /talks/young-ocean-explorers-using-kids-to-connect-with-kids/
+/events/11-2019/ /events/tumanako/
