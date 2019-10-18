@@ -1,9 +1,9 @@
 upcoming_event_bar:
   active: true
-  event_short_title: 'TEDxAuckland: tūmanako'
+  event_short_title: 'tūmanako'
 buy_ticket_button:
   active: true
-  url: /events/11-2019/
+  url: /events/tumanako/
 navigation:
   - title: Talks/
     sub_title: Ideas
