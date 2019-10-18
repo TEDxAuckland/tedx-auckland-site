@@ -2,7 +2,6 @@
 title: TedX Auckland
 short_title:
 upcoming: true
-event_bar_right:
 apply_ticket_active: false
 apply_ticket_link:
 image:

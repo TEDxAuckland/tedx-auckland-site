@@ -3,7 +3,6 @@ title: tūmanako to hope for a better future - Nov 2019 | TEDxAuckland
 short_title: tūmanako
 layout: event-tumanako
 upcoming: true
-event_bar_right: 'Saturday November 16th, 2019 | ASB Waterfront Theatre'
 apply_ticket_active: true
 apply_ticket_link: 'https://tedxauckland.com/community/events#/tumanako/buy-tickets'
 image: /uploads/tumanako-theme.svg

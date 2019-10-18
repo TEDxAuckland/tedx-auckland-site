@@ -2,7 +2,6 @@
 title: IN THE DARK
 short_title: IN THE DARK
 upcoming: false
-event_bar_right: August 31st | IN THE DARK | Rydges Hotel | Click here for more information
 layout: event-dark
 apply_ticket_active: false
 apply_ticket_link: 'https://tedxauckland.com/community/events#/dark-2019/apply'
