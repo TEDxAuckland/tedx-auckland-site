@@ -1,5 +1,5 @@
 ---
-title: tūmanako to hope for a better future - Nov 2019 | TEDxAuckland
+title: 'tūmanako: to hope for a better future - Nov 2019 | TEDxAuckland'
 short_title: tūmanako
 layout: event-tumanako
 upcoming: true
@@ -43,6 +43,6 @@ TEDxAuckland is taking over 'ASB Waterfront Theatre' for a full day of talks, pe
 
 Speakers will be released soon. The event is fully catered so just bring your lovely self and maybe someone else\!
 
-Early Bird tickets $99<br>General Release $129<br>Late Bird $159
+Early Bird tickets $99<br>General Release tickets $129<br>Late Bird tickets $159
 
-Date: Saturday 16 November 2019, 10:30am - 5:00pm<br>Where: ASB Waterfront Theatre
+**When:** Saturday 16 November 2019, 10:30am - 5:00pm<br>**Where:** ASB Waterfront Theatre
