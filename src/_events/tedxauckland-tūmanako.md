@@ -43,6 +43,6 @@ TEDxAuckland is taking over 'ASB Waterfront Theatre' for a full day of talks, pe
 
 Speakers will be released soon. The event is fully catered so just bring your lovely self and maybe someone else\!
 
-Early Bird tickets $99<br>General Release tickets $129<br>Late Bird tickets $159
+~~Early Bird tickets $99~~<br>General Release tickets $129<br>Late Bird tickets $159
 
 **When:** Saturday 16 November 2019, 10:30am - 5:00pm<br>**Where:** ASB Waterfront Theatre
