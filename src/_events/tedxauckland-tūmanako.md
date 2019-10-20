@@ -1,5 +1,5 @@
 ---
-title: 'tūmanako: to hope for a better future - Nov 2019 | TEDxAuckland'
+title: 'tūmanako: to hope for a better future - Nov 2019'
 short_title: tūmanako
 layout: event-tumanako
 upcoming: true
