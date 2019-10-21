@@ -18,6 +18,7 @@ major_partners:
   - vodafone
 supporting_partners:
   - bizdojo
+  - bnz
 event_partners:
   - lowndes_jordan
   - cloudcannon
