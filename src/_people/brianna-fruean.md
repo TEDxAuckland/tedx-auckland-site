@@ -3,6 +3,9 @@ name: Brianna Fruean
 email:
 image:
 description_markdown: >-
+  *Pacific Climate Warrior / Activist / Environmental Advocate*
+
+
   Brianna Fruean is a Climate Change Activist, who has been leading grassroots
   community projects pushing for climate justice since learning about the
   effects of climate change and noticing the subtle changes to her island of
