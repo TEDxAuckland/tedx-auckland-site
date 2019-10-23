@@ -3,7 +3,7 @@ name: Dmitry Selitskiy
 email:
 image:
 description_markdown: >-
-  Startup founder / Brain-Computer Interfacing / Universal Access for All
+  *Startup founder / Brain-Computer Interfacing / Universal Access for All*
 
 
   Dmitry is co-founder and CEO at Thought-Wired, an advocate for universal
