@@ -1,7 +1,7 @@
 ---
 name: Thomas Owen
 email:
-image: /uploads/thomas1080x1080.jpg
+image: /uploads/thomas-owen-x2400.jpg
 description_markdown: >-
   Dr Thomas Owen is an author, teacher, filmmaker, and passionate advocate for
   peace, social justice, and the eradication of arbitrary inequality. Thomas’
