@@ -19,6 +19,7 @@ people:
   - simon-che-de-boer
   - sonya-renee-taylor
   - scenes-from-a-yellow-peril
+  - rose-northey
 flikr_galleries:
   -
 major_partners:
