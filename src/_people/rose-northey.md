@@ -20,10 +20,10 @@ description_markdown: >-
 website_url:
 medium_url:
 twitter_url:
-facebook_url:
+facebook_url: 'https://www.facebook.com/WhenPoetsAttack/'
 youtube_video_id:
 github_username:
-instagram_url:
+instagram_url: 'https://www.instagram.com/whenpoetsattack/'
 linkedin_url:
 ---
 
