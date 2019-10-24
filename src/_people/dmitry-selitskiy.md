@@ -1,7 +1,7 @@
 ---
 name: Dmitry Selitskiy
 email:
-image:
+image: /uploads/dmitry1080x1080.jpg
 description_markdown: >-
   Dmitry is co-founder and CEO at Thought-Wired, an advocate for universal
   access for all and a believer in technology-enabled superpowers. He is
