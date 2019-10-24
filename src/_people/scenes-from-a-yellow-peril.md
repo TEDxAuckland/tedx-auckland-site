@@ -17,11 +17,11 @@ description_markdown: >-
   Cast/team:
 
 
-  * Nathan Joe
+  * [Nathan Joe](/people/nathan-joe)
 
-  * Chye-Ling Huang&nbsp;
+  * [Chye-Ling Huang](/people/chye-ling-huang)&nbsp;
 
-  * Marianne Infante
+  * [Marianne Infante](/people/marianne-infante)
 website_url: 'http://www.proudlyasiantheatre.com/'
 medium_url:
 twitter_url:
