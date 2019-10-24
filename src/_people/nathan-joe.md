@@ -1,7 +1,7 @@
 ---
 name: Nathan Joe
 email:
-image: /uploads/nathan-joe-2019-19-of-24.jpg
+image: /uploads/nathan.jpg
 description_markdown: >-
   Nathan is an award-winning playwright, and active theatre critic with
   theatrescenes.co.nz. As a dramaturg he has worked with the likes of Proudly
