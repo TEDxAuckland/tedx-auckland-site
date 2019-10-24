@@ -1,7 +1,7 @@
 ---
 name: Sonya Renee Taylor
 email:
-image: /uploads/sonya1080x1080.jpg
+image: /uploads/sonja-renee-taylor-x2400.jpg
 description_markdown: >-
   Sonya is an award-winning performance poet and activist who believes in the
   power of art as a vehicle for social change. She is the founder of ‘The Body
