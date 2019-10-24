@@ -17,7 +17,7 @@ description_markdown: >-
   and SisterSong, as well as continuing to engage in issues of racial justice,
   police brutality, mental health, reproductive rights, and much
   more.&nbsp;<br>&nbsp;<br>Residing between the California Bay Area and Aotearoa
-  New Zealand, Sonya continues to tour globally sharing lectures, workshops and
+  New Zealand, Sonya tours globally sharing lectures, workshops and
   performances.&nbsp;
 website_url: 'https://thebodyisnotanapology.com/'
 medium_url:
