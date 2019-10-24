@@ -19,7 +19,7 @@ description_markdown: >-
   more.&nbsp;<br>&nbsp;<br>Residing between the California Bay Area and Aotearoa
   New Zealand, Sonya continues to tour globally sharing lectures, workshops and
   performances.&nbsp;
-website_url: 'https://www.sonyareneetaylor.com/about'
+website_url: 'https://thebodyisnotanapology.com/'
 medium_url:
 twitter_url: 'https://twitter.com/Sonyareneepoet'
 facebook_url: 'https://www.facebook.com/Sonya-Renee-Taylor-156089958718/'
