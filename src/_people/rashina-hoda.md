@@ -21,7 +21,7 @@ website_url: 'https://rashina.com/'
 medium_url:
 twitter_url: 'https://twitter.com/agileRashina'
 facebook_url:
-youtube_video_id:
+youtube_video_id: mvyqXAZND8o
 github_username:
 instagram_url:
 linkedin_url:
