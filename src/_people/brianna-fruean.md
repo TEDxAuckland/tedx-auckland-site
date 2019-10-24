@@ -22,7 +22,8 @@ description_markdown: >-
   Zealand, while studying at The University of Auckland. She sits on the Council
   of Elders for the Pacific Climate Warriors as the youth representative and
   continues her efforts to bring young Pacific voices into the climate
-  space.<br>&nbsp;
+  space.&nbsp;
+  
 website_url: 'https://en.wikipedia.org/wiki/Brianna_Fruean'
 medium_url:
 twitter_url:
