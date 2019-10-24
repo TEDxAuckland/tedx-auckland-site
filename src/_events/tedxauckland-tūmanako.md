@@ -12,6 +12,11 @@ start_date: 2019-11-16 00:00:00 +1300
 end_date: 2019-11-16 00:00:00 +1300
 address: '138 Halsey St, Auckland CBD, Auckland'
 people:
+  - brianna-fruean
+  - thomas-owen
+  - dmitry-selitskiy
+  - kris-gledhill
+  - simon-che-de-boer
 flikr_galleries:
   -
 major_partners:
