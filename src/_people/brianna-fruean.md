@@ -1,7 +1,7 @@
 ---
 name: Brianna Fruean
 email:
-image:
+image: /uploads/brianna1080x1080.jpg
 description_markdown: >-
   Brianna Fruean is a Climate Change Activist, who has been leading grassroots
   community projects pushing for climate justice since learning about the
