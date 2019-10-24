@@ -17,6 +17,7 @@ people:
   - dmitry-selitskiy
   - kris-gledhill
   - simon-che-de-boer
+  - sonya-renee-taylor
 flikr_galleries:
   -
 major_partners:
