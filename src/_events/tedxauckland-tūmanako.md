@@ -18,6 +18,7 @@ people:
   - kris-gledhill
   - simon-che-de-boer
   - sonya-renee-taylor
+  - scenes-from-a-yellow-peril
 flikr_galleries:
   -
 major_partners:
