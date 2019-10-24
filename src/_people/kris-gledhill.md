@@ -1,7 +1,7 @@
 ---
 name: Kris Gledhill
 email:
-image: /uploads/kris1080x1080.jpg
+image: /uploads/kris-gledhill-x2400.jpg
 description_markdown: >-
   Kris Gledhill is an academic lawyer, who wants to put humanity’s collective
   wisdom to work to review policies through the lens of the international human
