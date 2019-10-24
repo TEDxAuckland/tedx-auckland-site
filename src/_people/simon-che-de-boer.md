@@ -1,7 +1,7 @@
 ---
 name: Simon Che de Boer
 email:
-image:
+image: /uploads/simon1080x1080.jpg
 description_markdown: >-
   Simon Che de Boer is a virtual reality content creator, renowned
   photogrammetrist, and founder of realityvirtual.co - a visual effects
