@@ -1,7 +1,7 @@
 ---
 name: Marianne Infante
 email:
-image:
+image: /uploads/mairanne.jpg
 description_markdown: >-
   Marianne is a multifaceted Filipino actor, dancer, and creative producer for
   Proudly Asian Theatre. Since graduating from Screen and Theatre Acting at
