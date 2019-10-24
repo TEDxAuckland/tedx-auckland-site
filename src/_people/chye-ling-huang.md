@@ -1,7 +1,7 @@
 ---
 name: Chye-Ling Huang
 email:
-image:
+image: /uploads/chye-ling.jpg
 description_markdown: >-
   Chye-Ling is an award-winning Chinese-Pakeha actress, writer, director and
   co-founder of Proudly Asian Theatre Company - dedicated to showcasing and
