@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-We are proud to announce our partnership with Rehu Tai Festival of Oral Language - an Auckland wide, inter-school speech competition. Established in 2015, Rehu Tai has just added the inclusion of 102 Flash Talks, Raps, and Spoken Word Poetry to the competition, and we can’t wait to hear what the kids will be presenting.
+We are proud to announce our partnership with Rehu Tai Festival of Oral Language - an Auckland wide, inter-school speech competition. Established in 2015, Rehu Tai has just added the inclusion of 102 Flash Talks, Raps, and Spoken Word Poetry to the competition, and we can’t wait to hear what the kids will be presenting.&nbsp;
 
 With the finals taking place on the 29th and 30th of October, and our next event, TEDxAuckland: tūmanako on November 16th, it only made sense that the Rehu Tai 2019 ‘champion of champions’ be given the opportunity to present their winning piece on the TEDxAuckland stage.
 
