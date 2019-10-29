@@ -33,6 +33,7 @@ event_partners:
   - halcyon-digital
   - sound_techniques
   - white-studios
+  - allpress
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
