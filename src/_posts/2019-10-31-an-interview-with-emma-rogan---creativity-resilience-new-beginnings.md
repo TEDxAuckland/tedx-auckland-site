@@ -13,13 +13,13 @@ categories:
 
 *Do you know about the NZ graphic designer who inspired thousands of people around the globe to get creative? From 2011 to 2018, the ‘100 Days Project’ saw over 5000 people from all over the world enjoying something vital: Doing something creative for 100 consecutive days. In 2012 project pioneer Emma Rogan took to the TEDxAuckland stage to explain more. Unbeknownst to the audience, she was tackling some tremendous issues at the time. We sat down with Emma to find out more. (read\_more)*
 
-> #### Since TEDxAuckland 2012, you've done a great deal, both in New Zealand and abroad. Looking back, how would you best describe your TEDx experience? How did you feel on the day? And why was it important to you?
+#### Since TEDxAuckland 2012, you've done a great deal, both in New Zealand and abroad. Looking back, how would you best describe your TEDx experience? How did you feel on the day? And why was it important to you?
 
 2012 was a really profound year for me\! The ‘100 Days Project’ had gained a lot of traction quite quickly, which took me by surprise. At first I said no to doing a talk for TEDx — it just seemed too intimidating. Organisers Vaughn and Elliott asked me to reconsider; I think they recognised that the ‘100 Days Project’ was something special, and worth talking about.
 
-On the day, despite my fears, **I felt such a positive response from the audience. The TEDx crowd is so brilliant and attentive\!** Mine wasn’t a perfect delivery - I was extremely nervous, and had a mental blank midway through - but afterwards I was relieved and grateful that I had been given an opportunity to share the project. Later, once the&nbsp;[video](https://www.youtube.com/watch?v=bZOwMqxLIn4) was up online, it became a much bigger thing. It really opened the project up to a much larger audience, and the response showed me how much the ideas I shared resonated with people.&nbsp;
+On the day, despite my fears, **I felt such a positive response from the audience. The TEDx crowd is so brilliant and attentive\!** Mine wasn’t a perfect delivery - I was extremely nervous, and had a mental blank midway through - but afterwards I was relieved and grateful that I had been given an opportunity to share the project. Later, once the[video](https://www.youtube.com/watch?v=bZOwMqxLIn4) was up online, it became a much bigger thing. It really opened the project up to a much larger audience, and the response showed me how much the ideas I shared resonated with people.&nbsp;
 
-> #### Tell us more about the criteria for choosing the projects on which you work.&nbsp;
+#### Tell us more about the criteria for choosing the projects on which you work.&nbsp;
 
 With design projects, sometimes it’s an opportunity in the work itself that is exciting, other times it’s the relationship I have with a client or peer, and I am committed to helping them.
 
@@ -27,7 +27,7 @@ After working in studios and agencies for about 16 years, I decided to try worki
 
 The 100 Days Project began when I’d gotten to a certain point in my career where I wasn't learning at the same pace anymore. I’d gained a lot of knowledge, and was left wondering "what’s next?" I recognised that I was denying a part of me that wanted personal creative expression, unconnected to work. **The project gave me a framework to challenge myself and a sense of community when I invited others to join in too.** On its own, the 100 Days Project is a formidable task, but when shared with others, it can be manageable and even creatively liberating.
 
-> #### Is the 100 Days Project something you’ll revisit again in NZ? If so, what would you do differently?
+#### Is the 100 Days Project something you’ll revisit again in NZ? If so, what would you do differently?
 
 I ran the project for 7 years, and after the TEDx talk it really blew up. It went from 100-200 people a year participating in it with me, to over 1700. With the success came new challenges — it&nbsp; became expensive and hard to find the capacity to administer it, as well as supporting everyone taking part. You then ask yourself questions like: Do you want to monetise it? Do you need sponsors? Or does the community support it? I went through a lot of trial and error over the years figuring out how to run the project in a way that felt right to me.&nbsp;
 
@@ -35,7 +35,7 @@ One year I didn’t run it because I was exhausted, but then I really missed it.
 
 When we decided to get serious about opening our restaurant, Hello Beasty, I couldn’t split my energy between both things. I don’t know if I will run it again. I love how there’s a whole bunch of ‘100 dayers’ in NZ and the UK who are still doing it for themselves. I feel like I’ve gone full circle with the project. It confirmed to me that creativity exists as a human instinct, and for many is a basic need.&nbsp;&nbsp;
 
-> #### Given that the 100 Days Project has been so widespread, how did you measure success?&nbsp;
+#### Given that the 100 Days Project has been so widespread, how did you measure success?&nbsp;
 
 I actually felt a bit bad about the project for a while, because although it was hugely successful in terms of how many people came to participate in it, and the Day 100 Shows were really well-attended, it was never a financial success.&nbsp;
 
@@ -47,7 +47,7 @@ Markers of success for me remain about the high levels of participation, and the
 
 One year, we had the Auckland show, and the next day I flew down to help set up the Wellington show. That night, I stayed up till 2am so that I could Skype call the show in Amsterdam, and they showed me what they’d done — it was just wonderful. There have been shows in Melbourne, Sydney, Gisborne, Nelson and Edinburgh too. Given that I was also a participant, all the time I was challenging myself with this very intense creative undertaking alongside everyone else — and that has been important for me personally. It has helped my professional work, and has been a foundation for my personal work.
 
-> ### How does your partnership work with your husband Stu, with whom you created your restaurant? What is your process for working together?
+#### How does your partnership work with your husband Stu, with whom you created your restaurant? What is your process for working together?
 
 Stu is a very committed chef, I’ve never met anyone who can work like him — he’s very resilient, and he never compromises the quality of his work. He’s caring too, and his food is an expression of that care. As a designer, I admire that very much. It helps that I have worked in hospitality before - that’s how we met - and that we each have quite well-defined skill sets.&nbsp;
 
@@ -57,7 +57,7 @@ I think Stu had waited for me to get to the point where I could comprehend excha
 
 The design process for branding the restaurant was difficult for me, it was so personal. *Ugh\!* I would share my workings with him, and he’d very patiently look at the latest visuals, think a bit and say “keep going.” And I knew he was right. He never meddled with the process or tried to instruct me on specifics though, which was great. When I got stuck, I turned to a few key creative partners for help.
 
-> #### How do you approach food creatively?
+#### How do you approach food creatively?
 
 The idea of fusionhas become quite important to me. **It’s been a useful way to frame up my own existence as a person of multicultural**, multi-ethnic heritage, as well as a way to think about the cuisine itself.&nbsp;
 
@@ -75,7 +75,7 @@ Most small operators like us are probably not very wasteful at all when it comes
 
 We work with the seasons and with good suppliers. Being independent means we can change our menu when we want to, and we often do it in response to the available fresh produce. We’ve also done things like sourced natural chopsticks that are reusable, with reusable paper sleeves, which we recycle in-house. We recycle our menus. We are about to participate in a composting initiative here in Viaduct Harbour, and eventually we will have access to a shared garden too.&nbsp;
 
-> #### Looking forward into the future, what kind of impact would you like to have on the world? &nbsp;&nbsp;
+#### Looking forward into the future, what kind of impact would you like to have on the world? &nbsp;&nbsp;
 
 For me, it is very personal and very much about my children. If our kids can go out into the world and like who they are, be healthy, happy, and thoughtful adults, and if I’ve helped support them as a parent, then that’s the impact I would like to have had.&nbsp;
 
