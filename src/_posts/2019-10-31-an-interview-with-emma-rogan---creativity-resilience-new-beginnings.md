@@ -1,6 +1,6 @@
 ---
-title: 'An Interview with Emma Rogan - Creativity, Acceptance, New Adventures'
-image: /uploads/img-20190625-181818-copy.jpg
+title: 'An Interview with Emma Rogan - Creativity, Resilience, New Beginnings'
+image: /uploads/img-20190625-181818-copy-1.jpg
 image_caption:
 image_caption_link:
 author:
