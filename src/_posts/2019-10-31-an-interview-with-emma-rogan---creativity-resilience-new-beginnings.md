@@ -21,7 +21,7 @@ On the day, despite my fears, **I felt such a positive response from the audienc
 
 #### Tell us more about the criteria for choosing the projects on which you work.&nbsp;
 
-With design projects, sometimes it’s an opportunity in the work itself that is exciting, other times it’s the relationship I have with a client or peer, and I am committed to helping them.
+**With design projects, sometimes it’s an opportunity in the work itself that is exciting, other times it’s the relationship I have with a client or peer, and I am committed to helping them.**
 
 After working in studios and agencies for about 16 years, I decided to try working as an independent designer for a while. Working for myself has been both liberating and helpful to our family. It has lead to interesting opportunities, like opening a restaurant \[[Hello Beasty](https://hellobeasty.nz/) in Viaduct Harbour, Auckland\], an exhibition of my paintings, and more varied design projects.
 
