@@ -83,4 +83,6 @@ I have suffered from PTSD as a result of traumatic experiences as a child, and h
 
 It was a chance to undertake significant creative work and to push myself beyond the constraints of my everyday. It is a little, every day, that builds up to a significant body of work by day 100. For many hundred dayers, the project has been a way to reconnect and restart a creative practice again, or to hone skills in a rigorous way. I know that it has lead many people to more fulfilling creative lives, as it has done for me. That’s been an unexpected but very satisfying outcome, and is something I am proud of.
 
-To find out more about Emma Rogan, visit her [website.](https://emmarogan.co.nz/)&nbsp;Keen to attend our next event? [TEDxAuckland: tūmanako](https://tedxauckland.com/events/tumanako/) is on sale now\! Get in quick.&nbsp;
+To find out more about Emma Rogan, visit her [website.](https://emmarogan.co.nz/)&nbsp;
+
+Keen to attend our next event? [TEDxAuckland: tūmanako](https://tedxauckland.com/events/tumanako/) is on sale now\! Get in quick.&nbsp;
