@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-*Do you know about the NZ graphic designer who inspired thousands of people around the globe to get creative? From 2011 to 2018, the ‘100 Days Project’ saw over 5000 people from all over the world enjoying something vital: Doing something creative for 100 consecutive days. In 2012 project pioneer Emma Rogan took to the TEDxAuckland stage to explain more. Unbeknownst to the audience, she was tackling some tremendous issues at the time. We sat down with Emma to find out more.&nbsp;*
+*Do you know about the NZ graphic designer who inspired thousands of people around the globe to get creative? From 2011 to 2018, the ‘100 Days Project’ saw over 5000 people from all over the world enjoying something vital: Doing something creative for 100 consecutive days. In 2012 project pioneer Emma Rogan took to the TEDxAuckland stage to explain more. Unbeknownst to the audience, she was tackling some tremendous issues at the time. We sat down with Emma to find out more. (read\_more)*
 
 > #### Since TEDxAuckland 2012, you've done a great deal, both in New Zealand and abroad. Looking back, how would you best describe your TEDx experience? How did you feel on the day? And why was it important to you?
 
