@@ -17,7 +17,7 @@ categories:
 
 2012 was a really profound year for me\! The ‘100 Days Project’ had gained a lot of traction quite quickly, which took me by surprise. At first I said no to doing a talk for TEDx — it just seemed too intimidating. Organisers Vaughn and Elliott asked me to reconsider; I think they recognised that the ‘100 Days Project’ was something special, and worth talking about.
 
-On the day, despite my fears, **I felt such a positive response from the audience. The TEDx crowd is so brilliant and attentive\!** Mine wasn’t a perfect delivery - I was extremely nervous, and had a mental blank midway through - but afterwards I was relieved and grateful that I had been given an opportunity to share the project. Later, once the[video](https://www.youtube.com/watch?v=bZOwMqxLIn4) was up online, it became a much bigger thing. It really opened the project up to a much larger audience, and the response showed me how much the ideas I shared resonated with people.&nbsp;
+On the day, despite my fears, **I felt such a positive response from the audience. The TEDx crowd is so brilliant and attentive\!** Mine wasn’t a perfect delivery - I was extremely nervous, and had a mental blank midway through - but afterwards I was relieved and grateful that I had been given an opportunity to share the project. Later, once the&nbsp;[video](https://www.youtube.com/watch?v=bZOwMqxLIn4) was up online, it became a much bigger thing. It really opened the project up to a much larger audience, and the response showed me how much the ideas I shared resonated with people.&nbsp;
 
 #### Tell us more about the criteria for choosing the projects on which you work.&nbsp;
 
