@@ -11,9 +11,9 @@ description_markdown: >-
   Organisational Management, Sonya uses her work to disrupt systems of inequity.
   In 2016 she was named a Champion of Women’s Health by Planned Parenthood and
   was also invited to the Obama White House to speak at their forum on the
-  intersection of LGBTQIAA and Disability issues.<br>&nbsp;<br>As an educator
-  and thought leader Sonya has enlightened and inspired from boardrooms to
-  prisons. Currently she serves on the Board of Directors for Split This Rock
+  intersection of LGBTQIAA and Disability issues.&nbsp;<br>&nbsp;<br>As an
+  educator and thought leader Sonya has enlightened and inspired from boardrooms
+  to prisons. Currently she serves on the Board of Directors for Split This Rock
   and SisterSong, as well as continuing to engage in issues of racial justice,
   police brutality, mental health, reproductive rights, and much
   more.&nbsp;<br>&nbsp;<br>Residing between the California Bay Area and Aotearoa
