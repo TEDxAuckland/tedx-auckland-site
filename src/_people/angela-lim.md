@@ -1,7 +1,7 @@
 ---
 name: Angela Lim
 email:
-image:
+image: /uploads/angela-lim-x2400-100.jpg
 description_markdown: >-
   Dr. Angela Lim is a Paediatrics Doctor turned CEO and co-founder of Clearhead
   - New Zealand's first AI driven diagnostic and triage platform for mental
@@ -26,7 +26,7 @@ description_markdown: >-
 
 
   As a finalist in the 2017 Young New Zealander of the Year Awards, her
-  leadership has been widely recognised.&nbsp;
+  leadership has been widely recognised.
 website_url: 'https://www.clearhead.org.nz/'
 medium_url:
 twitter_url:
