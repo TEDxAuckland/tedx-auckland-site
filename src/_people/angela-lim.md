@@ -3,9 +3,6 @@ name: Angela Lim
 email:
 image:
 description_markdown: >-
-  *Entrepreneur / Doctor / CEO*
-
-
   Dr. Angela Lim is a Paediatrics Doctor turned CEO and co-founder of Clearhead
   - New Zealand's first AI driven diagnostic and triage platform for mental
   health and wellbeing. She believes technology has the potential to deliver the
