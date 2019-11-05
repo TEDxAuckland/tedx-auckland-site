@@ -21,12 +21,12 @@ supporting_partners:
   - bizdojo
 event_partners:
   - lowndes_jordan
+  - halcyon-digital
   - misfit-brewing-co-
   - whoa-studios
   - the-grounds
   - babich
   - white-studios
-  - halcyon-digital
 highlight_video_id: sDgL_9RbDrs
 youtube_playlist: PLcm2pIIAwlDu5hg5mkxbHFesUIMgFGyYz
 other_youtube_playlist_title:
