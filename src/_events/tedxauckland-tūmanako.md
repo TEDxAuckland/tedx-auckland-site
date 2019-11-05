@@ -20,6 +20,7 @@ people:
   - sonya-renee-taylor
   - scenes-from-a-yellow-peril
   - rose-northey
+  - angela-lim
 flikr_galleries:
   -
 major_partners:
