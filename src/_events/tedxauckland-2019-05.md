@@ -11,8 +11,6 @@ end_date: 2019-05-01 00:00:00 +1200
 address: '8-14 Henderson Valley Rd, Henderson, Auckland'
 people:
   - james-hurman
-  - andrea-reid
-  - annamarie-jamieson
   - rashina-hoda
   - chris-smith
 flikr_galleries:
