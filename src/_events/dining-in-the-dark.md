@@ -22,9 +22,10 @@ supporting_partners:
   - bizdojo-dark
 event_partners:
   - lowndes_jordan
-  - white-studios
   - halcyon-digital
+  - white-studios
   - dans-le-noir-
+  - fuzed-printing
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
