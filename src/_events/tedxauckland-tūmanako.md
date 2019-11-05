@@ -21,6 +21,7 @@ people:
   - scenes-from-a-yellow-peril
   - rose-northey
   - angela-lim
+  - andrea-reid
 flikr_galleries:
   -
 major_partners:
