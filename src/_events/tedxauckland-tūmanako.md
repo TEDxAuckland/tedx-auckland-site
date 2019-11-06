@@ -22,6 +22,7 @@ people:
   - rose-northey
   - angela-lim
   - andrea-reid
+  - annamarie-jamieson
 flikr_galleries:
   -
 major_partners:
