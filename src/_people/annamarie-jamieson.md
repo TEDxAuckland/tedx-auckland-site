@@ -1,7 +1,7 @@
 ---
 name: Annamarie Jamieson
 email:
-image: /uploads/am-1200-90.jpg
+image: /uploads/annamarie-jamieson-x2400.jpg
 description_markdown: >-
   Annamarie firmly believes that everyone has the right to contribute to
   society, to follow a passion, and to be connected to our communities in some
