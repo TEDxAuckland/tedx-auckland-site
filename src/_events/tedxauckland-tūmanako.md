@@ -23,6 +23,7 @@ people:
   - angela-lim
   - andrea-reid
   - annamarie-jamieson
+  - max-rashbrooke
 flikr_galleries:
   -
 major_partners:
