@@ -20,7 +20,7 @@ description_markdown: >-
   Tony is a regular guest sleep expert of TV and radio programmes.
 website_url: unidirectory.auckland.ac.nz/profile/a-fernando
 medium_url:
-twitter_url:
+twitter_url: 'https://twitter.com/tonyfernando3rd'
 facebook_url:
 youtube_video_id:
 github_username:
