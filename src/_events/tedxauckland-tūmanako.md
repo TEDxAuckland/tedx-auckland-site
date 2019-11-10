@@ -24,6 +24,7 @@ people:
   - andrea-reid
   - annamarie-jamieson
   - max-rashbrooke
+  - tony-fernando
 flikr_galleries:
   -
 major_partners:
