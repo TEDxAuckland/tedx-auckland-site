@@ -57,7 +57,9 @@ seo:
 
 TEDxAuckland is taking over 'ASB Waterfront Theatre' for a full day of talks, performances, inspiration, and new connections.
 
-Speakers will be released soon. The event is fully catered so just bring your lovely self and maybe someone else\!
+The event is fully catered so just bring your lovely self and maybe someone else\!
+
+Find the growing list of speakers below.
 
 ~~Early Bird tickets $99~~<br>General Release tickets $129<br>Late Bird tickets $159
 
