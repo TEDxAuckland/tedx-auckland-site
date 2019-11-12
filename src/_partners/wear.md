@@ -1,5 +1,6 @@
 ---
-name: 'Wear'
-link: https://we-ar.com/
-partner_logo_image: "/uploads/wear.jpg"
+name: WE-AR
+link: 'https://we-ar.com/'
+partner_logo_image: /uploads/wear.jpg
 ---
+
