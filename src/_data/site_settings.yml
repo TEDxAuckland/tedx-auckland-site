@@ -7,7 +7,7 @@ upcoming_event_bar:
     Theatre
 buy_ticket_button:
   active: true
-  url: /events/tumanako/
+  url: 'https://tedxauckland.com/community/events#/tumanako/buy-tickets'
 navigation:
   - title: Talks/
     sub_title: Ideas
