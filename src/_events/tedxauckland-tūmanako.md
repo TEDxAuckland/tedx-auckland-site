@@ -39,7 +39,6 @@ event_partners:
   - sound_techniques
   - white-studios
   - allpress
-  - fuzed-printing
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
