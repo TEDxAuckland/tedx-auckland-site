@@ -39,6 +39,7 @@ event_partners:
   - sound_techniques
   - white-studios
   - allpress
+  - blue-star
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
@@ -62,4 +63,6 @@ Find the growing list of speakers below.
 
 ~~Early Bird tickets $99~~<br>General Release tickets $129<br>Late Bird tickets $159
 
-**When:** Saturday 16 November 2019, 10:30am - 5:00pm<br>**Where:** ASB Waterfront Theatre
+**When:** Saturday 16 November 2019, 12:00am - 5:30pm
+
+Doors & registration opens at 10:30am<br>**Where:** ASB Waterfront Theatre
