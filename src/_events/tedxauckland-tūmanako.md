@@ -25,7 +25,6 @@ people:
   - annamarie-jamieson
   - max-rashbrooke
   - tony-fernando
-  - getrude-matshe-kanicki
 flikr_galleries:
   -
 major_partners:
@@ -42,7 +41,6 @@ event_partners:
   - allpress
   - blue-star
   - wear
-  - panavision
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
