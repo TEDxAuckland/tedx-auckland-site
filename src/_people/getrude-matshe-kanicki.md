@@ -1,7 +1,7 @@
 ---
 name: Getrude Matshe-Kanicki
 email:
-image:
+image: /uploads/getrude1080x1080.jpg
 description_markdown: >-
   Getrude is a celebrated author, philanthropy consultant, and global curator
   and founder at HerStoryCircle - a women’s global empowerment organisation. She
