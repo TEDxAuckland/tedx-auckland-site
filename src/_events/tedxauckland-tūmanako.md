@@ -41,6 +41,7 @@ event_partners:
   - allpress
   - blue-star
   - wear
+  - panavision
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
