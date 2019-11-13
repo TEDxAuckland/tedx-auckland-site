@@ -40,6 +40,7 @@ event_partners:
   - white-studios
   - allpress
   - blue-star
+  - wear
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
