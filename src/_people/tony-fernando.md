@@ -3,8 +3,7 @@ name: Tony Fernando
 email:
 image: /uploads/tony-fernando-x2400.jpg
 description_markdown: >-
-  Tony is a psychiatrist, sleep specialist and a senior lecturer in
-  Psychological Medicine at the University of Auckland. He has published in
+  Tony is a psychiatrist, sleep specialist and academic. He has published in
   local and international research journals in sleep medicine and medical
   compassion, and has been awarded multiple teaching awards by medical students
   and the faculty of medicine in Auckland.
