@@ -25,6 +25,7 @@ people:
   - annamarie-jamieson
   - max-rashbrooke
   - tony-fernando
+  - getrude-matshe-kanicki
 flikr_galleries:
   -
 major_partners:
@@ -67,4 +68,4 @@ Find the growing list of speakers below.
 
 **When:** Saturday 16 November 2019, 12:00am - 5:30pm
 
-Doors & registration opens at 10:30am<br>**Where:** ASB Waterfront Theatre
+Doors & registration opens at 10:30am<br><br>**Where:** ASB Waterfront Theatre
