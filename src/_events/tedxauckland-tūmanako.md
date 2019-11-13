@@ -25,6 +25,7 @@ people:
   - annamarie-jamieson
   - max-rashbrooke
   - tony-fernando
+  - getrude-matshe-kanicki
 flikr_galleries:
   -
 major_partners:
