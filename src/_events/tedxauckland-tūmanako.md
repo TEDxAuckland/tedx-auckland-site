@@ -65,6 +65,6 @@ Find the growing list of speakers below.
 
 ~~Early Bird tickets $99~~<br>General Release tickets $129<br>Late Bird tickets $159
 
-**When:** Saturday 16 November 2019, 12:00am - 5:30pm
+**When:** Saturday 16 November 2019, midday - 5:30pm
 
 Doors & registration opens at 10:30am<br><br>**Where:** ASB Waterfront Theatre
