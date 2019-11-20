@@ -1,17 +1,17 @@
 ---
-title: Joseph Michael -
+title: 'An Interview with Joseph Michael - Art, Environment, Impact'
 image: /uploads/joseph-michael-antartica-on-the-united-nations2.jpg
-image_caption:
+image_caption: Joseph Michael
 image_caption_link:
 author:
-  name:
+  name: Tara Ranchhod
   tagline:
   link:
 categories:
   - our-news
 ---
 
-*What happens when two Kiwi artists head to New York and turn the UN headquarters into an iceberg? Earlier this year, artist Joseph Michael and composer Rhian Sheehan created Voices For The Future, a giant installation held ahead of the UN’s Climate Action Summit. This was effectively an enormous sequel to 2017's*[*While You Were Sleeping installation at Auckland's War Memorial Museum*](https://www.aucklandmuseum.com/discover/stories/behind-the-scenes/antarctica)*. In advance of this year's TEDxAuckland, we grabbed a coffee with Joseph to discuss the New York project, his own TEDxAuckland presentation in 2014, and what he’s learned along the way.&nbsp;*
+*What happens when two Kiwi artists head to New York and turn the UN headquarters into an iceberg? Earlier this year, artist Joseph Michael and composer Rhian Sheehan created Voices For The Future, a giant installation held ahead of the UN’s Climate Action Summit. This was effectively an enormous sequel to 2017's&nbsp;*[*While You Were Sleeping installation at Auckland's War Memorial Museum*](https://www.aucklandmuseum.com/discover/stories/behind-the-scenes/antarctica)*. In advance of this year's TEDxAuckland, we grabbed a coffee with Joseph to discuss the New York project, his own TEDxAuckland presentation in 2014, and what he’s learned along the way.&nbsp;*
 
 [https://youtu.be/03fC-KBVjDE](https://youtu.be/03fC-KBVjDE)
 
@@ -55,8 +55,8 @@ It gave me confidence. It’s an incredibly challenging part of the process to b
 
 #### **So what audacious adventures can we expect from you next?**
 
-There are three major projects I’m working on. I’m continuing to develop the icebergs overseas, and am determined to take it to the Lincoln Memorial. It’s a globally-significant site, and America in particular has the furthest way to go in terms of changing the world and taking climate action. Another project involves mapping a full-scale version of the Tāne Mahuta tree, using different technologies. I’m working on developing the technology to scan the root system, because I want to have a complete scan of the tree so we can create an augmented reality installation where you walk into a digital forest. The intention is to test ways you wear the artwork and walk around within the forest. TIt leaves a trail of heat, and the environment reacts to you; it’s a subtle look at the way humans are impacting the environment. With that same project, I’m working with the Amazon rainforest, I’m going into the rainforest to map significant trees. The third project is around oceans and navigation. I’m experimenting with bioluminescence, recording it and finding ways we can translate that into an experience.
+There are three major projects I’m working on. I’m continuing to develop the icebergs overseas, and am determined to take it to the Lincoln Memorial. It’s a globally-significant site, and America in particular has the furthest way to go in terms of changing the world and taking climate action. Another project involves mapping a full-scale version of the Tāne Mahuta tree, using different technologies. I’m working on developing the technology to scan the root system, because I want to have a complete scan of the tree so we can create an augmented reality installation where you walk into a digital forest. The intention is to test ways you wear the artwork and walk around within the forest. It leaves a trail of heat, and the environment reacts to you; it’s a subtle look at the way humans are impacting the environment. With that same project, I’m working with the Amazon rainforest, I’m going into the rainforest to map significant trees. The third project is around oceans and navigation. I’m experimenting with bioluminescence, recording it and finding ways we can translate that into an experience.
 
 ![](/uploads/joseph-michael-1.jpg){: width="2500" height="1668"}
 
-**Find information and tickets for TEDxAuckland 2019&nbsp;**[**here**](https://tedxauckland.com/events/tumanako/)**. Discover more about Joseph Michael and his incredible journey&nbsp;**[**here**](https://www.joemichael.co.nz/)**.&nbsp;**
+**Discover more about Joseph Michael and his incredible journey&nbsp;**[**here**](https://www.joemichael.co.nz/)**.&nbsp;**
