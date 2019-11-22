@@ -13,6 +13,8 @@ categories:
 
 *What happens when two Kiwi artists head to New York and turn the UN headquarters into an iceberg? Earlier this year, artist Joseph Michael and composer Rhian Sheehan created Voices For The Future, a giant installation held ahead of the UN’s Climate Action Summit. This was effectively an enormous sequel to 2017's&nbsp;**While You Were Sleeping installation at Auckland's War Memorial Museum**. In advance of this year's TEDxAuckland, we grabbed a coffee with Joseph to discuss the New York project, his own TEDxAuckland presentation in 2014, and what he’s learned along the way.&nbsp;*
 
+(read\_more)
+
 [https://youtu.be/03fC-KBVjDE](https://youtu.be/03fC-KBVjDE)
 
 #### **Earlier this year you turned the UN headquarters in New York into a giant iceberg. Tell us about how you gave this exhibit such a strong narrative.&nbsp;**
