@@ -15,8 +15,6 @@ categories:
 
 (read\_more)
 
-[https://youtu.be/03fC-KBVjDE](https://youtu.be/03fC-KBVjDE)
-
 #### **Earlier this year you turned the UN headquarters in New York into a giant iceberg. Tell us about how you gave this exhibit such a strong narrative.&nbsp;**
 
 Part of the agreement with the UN was that they wanted text as part of the piece. I asked myself, how do I represent sustainable goals through words on the side of a building? We came up with a concept which saw us interviewing six people in the six official languages of the UN - Arabic, Chinese, English, French, Russian and Spanish - covering the six continents \[properly inhabited by human beings\].
