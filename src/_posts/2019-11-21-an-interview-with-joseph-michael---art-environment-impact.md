@@ -1,5 +1,5 @@
 ---
-title: 'An Interview with Joseph Michael - Art, Environment, Impact'
+title: 'An interview with Joseph Michael - Art, Environment, Impact'
 image: /uploads/joseph-michael-antartica-on-the-united-nations2.jpg
 image_caption: Joseph Michael
 image_caption_link:
