@@ -1,5 +1,5 @@
 ---
-title: Reflecting on ideas worth designing
+title: 'Behind TEDxAKL 2019: The People Designing Ideas Worth Doing'
 image:
 image_caption:
 image_caption_link:
