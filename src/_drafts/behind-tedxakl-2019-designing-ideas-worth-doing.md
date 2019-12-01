@@ -13,7 +13,7 @@ categories:
 
 It’s 5.43pm. Warm rays flood the BizDojo lounge as crew and speakers trickle in one Friday afternoon. Our biggest event of the year - TEDxAuckland tūmanako - is quickly approaching, and the buzz is palpable in the room. Our audience of three might be a little unnerving, but they're prepared. Beers and banter flowing, speaker training resumes. Now I just need an angle... cue Angela with co-design.&nbsp;
 
-Around the world people are improving their ways of working - putting human needs and behaviour at the centre of decision-making, to design ideas really worth doing. They’re working to empathise with customers, to truly understand problems that need solving, then develop and deliver solutions purposefully architected to make a difference. Right here at TEDx, we too are listening, and it's exciting to hear from the diverse industries of our speakers that their processes are also converging.&nbsp;
+Around the world people are improving their ways of working - putting human needs and behaviour at the centre of decision-making, to design ideas really worth doing. They’re working to empathise with customers, to truly understand problems that need solving, then develop and deliver solutions purposefully architected to make a difference. Right here at TEDx, we too are listening, and it's exciting to hear across the diverse industries of our speakers that their processes are also converging.&nbsp;
 
 Angela Lim, CEO of Clearhead - a mental health app - is first up rehearsing her presentation. Angela decided to leave general practice to develop the app when she became tired of being the ambulance at the bottom of the cliff. In its first year Clearhead has already acquired users throughout regions across Aotearoa New Zealand. For those focussed on making a difference to all our people, not just those living in our biggest cities, this is a great success. In 2018 the OECD reported “regional disparities in health outcomes” in New Zealand as the “second largest among OECD countries, with Auckland ranking in the top 20% of OECD regions and Gisborne in the bottom 20%.” (Regions and cities at a glance 2018 - New Zealand https://www.oecd.org/cfe/NEW%20ZEALAND-Regions-and-Cities-2018.pdf). In Angela’s polished TEDx talk she reveals “I genuinely believe this \[regional success\] is from the co-design process”.&nbsp;
 
@@ -27,7 +27,7 @@ By putting people at the centre of their work, these examples have all researche
 
 This design process is commonly referred to as the ‘Double Diamond’ https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond - used globally by designers and non-designers “to tackle some of the most complex social, economic and environmental problems.” Originally developed by IDEO to… it has been used and referenced around the world.&nbsp;
 
-\*\*DOUBLE DIAMOND DIAGRAM\*\*
+[![From challenge to outcome, Design Council outlines four key steps; discover, define, develop, deliver.](/uploads/double-diamond-model-design-council-2019.jpg "Double Diamond Model 2019"){: width="2400" height="1698"}](https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond){: target="_blank"}
 
 The Design Council (UK) also highlights four principles to work as effectively as possible - put people first, communicate visually and inclusively, collaborate and co-create, and iterate.&nbsp;
 
