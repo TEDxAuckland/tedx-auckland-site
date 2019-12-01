@@ -11,7 +11,9 @@ categories:
   - our-news
 ---
 
-It’s 5.43pm. Warm rays flood the BizDojo lounge as crew and speakers trickle in one Friday afternoon. Our biggest event of the year - TEDxAuckland tūmanako - is quickly approaching, and the buzz is palpable in the room. Beers and banter flowing, speaker training resumes. Their industries are diverse, but their ways of working are converging. They’re working to understand and empathise with people - putting humans at the centre of decision-making, to design solutions worth doing.&nbsp;
+It’s 5.43pm. Warm rays flood the BizDojo lounge as crew and speakers trickle in one Friday afternoon. Our biggest event of the year - TEDxAuckland tūmanako - is quickly approaching, and the buzz is palpable in the room. Beers and banter flowing, speaker training resumes. Foraging for an angle, which wasn't hard to find. As soon as Angela stood up, design was on my mind.&nbsp;
+
+Their industries are diverse, but their ways of working are converging. They’re working to understand and empathise with people - putting humans at the centre of decision-making, to design solutions worth doing.&nbsp;
 
 Angela Lim, CEO of Clearhead - a mental health app - is first up rehearsing her presentation. Angela decided to leave general practice to develop the app when she became tired of being the ambulance at the bottom of the cliff. In its first year Clearhead has already acquired users throughout regions across Aotearoa New Zealand. For those focussed on making a difference to all our people, not just those living in our biggest cities, this is a great success. In 2018 the OECD reported “regional disparities in health outcomes” in New Zealand as the “second largest among OECD countries, with Auckland ranking in the top 20% of OECD regions and Gisborne in the bottom 20%.” (Regions and cities at a glance 2018 - New Zealand https://www.oecd.org/cfe/NEW%20ZEALAND-Regions-and-Cities-2018.pdf). In Angela’s polished TEDx talk she reveals “I genuinely believe this \[regional success\] is from the co-design process”.&nbsp;
 
