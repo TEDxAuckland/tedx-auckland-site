@@ -1,5 +1,5 @@
 ---
-title: 'Behind TEDxAKL 2019: The People Designing Ideas Worth Doing'
+title: 'Behind TEDxAkl 2019: Designing Ideas Worth Doing'
 image:
 image_caption:
 image_caption_link:
