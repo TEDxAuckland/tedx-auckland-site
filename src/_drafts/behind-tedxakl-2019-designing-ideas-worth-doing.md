@@ -1,7 +1,7 @@
 ---
 title: 'Behind TEDxAkl 2019: Designing Ideas Worth Doing'
 image: /uploads/angela1200x1200.jpg
-image_caption: Angela rehearses for TEDxAuckland 2019
+image_caption: 'Angela Lim rehearsing for TEDxAuckland 2019. Photographer: Adam Browne'
 image_caption_link:
 author:
   name: Nikki Louise
