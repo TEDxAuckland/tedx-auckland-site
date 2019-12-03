@@ -1,7 +1,7 @@
 ---
 title: 'Behind TEDxAkl 2019: Designing Ideas Worth Doing'
-image: /uploads/angela1200x1200.jpg
-image_caption: 'Angela Lim rehearsing for TEDxAuckland 2019. Photographer: Adam Browne'
+image: /uploads/bizdojo-ponsonby2400x1600.jpg
+image_caption: 'Night at BizDojo Ponsonby. Photographer:'
 image_caption_link:
 author:
   name: Nikki Louise
@@ -17,9 +17,9 @@ It’s 5:43pm. Warm rays flood the BizDojo Ponsonby lounge as crew and speakers 
 
 Dr. Angela Lim, CEO of [Clearhead](https://www.clearhead.org.nz/){: target="_blank"} - New Zealand's first app to diagnose and recommend mental health treatment - is first up rehearsing her talk. Tired of being the ambulance at the bottom of the cliff, Angela left general practice to develop the app. In its first year the platform has acquired users in regions throughout Aotearoa New Zealand - a great achievement, especially considering in 2018 the OECD reported “regional disparities in health outcomes” in New Zealand as the “second largest among OECD countries". While Auckland ranked in the top 20% of OECD regions, Gisborne came out in the bottom 20% ([*Regions and cities at a glance 2018 - New Zealand*, OECD](http://www.oecd.org/regional){: target="_blank"}). In Angela’s polished TEDx talk she reveals “I genuinely believe this \[regional success\] is from the co-design process”.&nbsp;
 
-> ...when you embrace diversity, it can be a catalyst for innovation.
+> …when you embrace diversity, it can be a catalyst for innovation.
 
-Through the elevator doors strolls Annamarie Jamieson, People and Culture Director at Stuff, and driving force behind [The Coffee CO-OP](https://www.stuff.co.nz/business/92487877/supporting-deaf-people-at-work-beyond-sign-language-week){: target="_blank"} - Stuff's Auckland office cafe staffed by deaf baristas. When Annamarie initially suggested this idea to improve diversity and inclusion in their workplace, she was hit by comments like "but we can't have a cafe with deaf baristas, how will they hear the orders?." Well if you're considering people, ALL people, from the beginning, that just becomes part of the design. As a community hub for Stuff's staff, The Coffee CO-OP quickly broke even, but Annamarie says it "also took us on a journey of patience, kindness, empathy, and inclusion ... when you embrace diversity, it can be a catalyst for innovation."&nbsp;
+Through the elevator doors strolls Annamarie Jamieson, People and Culture Director at Stuff, and driving force behind [The Coffee CO-OP](https://www.stuff.co.nz/business/92487877/supporting-deaf-people-at-work-beyond-sign-language-week){: target="_blank"} - Stuff's Auckland office cafe staffed by deaf baristas. When Annamarie initially suggested this idea to improve diversity and inclusion in their workplace, she was hit by comments like "but we can't have a cafe with deaf baristas, how will they hear the orders?." Well if you're considering people, ALL people, from the beginning, that just becomes part of the design. As a community hub for Stuff's staff, The Coffee CO-OP quickly broke even, but Annamarie says it "also took us on a journey of patience, kindness, empathy, and inclusion … when you embrace diversity, it can be a catalyst for innovation."&nbsp;
 
 By putting people at the centre of their design processes, Angela and Annamarie have been able to understand the key pain points of a system, and then design a solution that really works to begin to solve them. Whether you call it co-design, user experience design, service or product design, these ways of working can often fall under the umbrella of design-thinking.&nbsp;
 
