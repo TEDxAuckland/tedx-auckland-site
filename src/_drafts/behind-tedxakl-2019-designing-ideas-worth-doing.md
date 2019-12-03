@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-*Around the world people are improving their ways of working - putting humans needs and behaviour at the centre of decision-making, to design ideas really worth doing. They’re working to empathise with customers, to truly understand problems that need solving, then develop and deliver solutions purposefully architected to make a difference. Here at TEDx, we too are listening, and it's exciting to hear across the diverse industries of our speakers that processes are also converging - toward design-thinking.&nbsp;*
+Around the world people are improving their ways of working - putting humans needs and behaviour at the centre of decision-making, to design ideas really worth doing. They’re working to empathise with customers, to truly understand problems that need solving, then develop and deliver solutions purposefully architected to make a difference. Here at TEDx, we too are listening, and it's exciting to hear across the diverse industries of our speakers that processes are also converging - toward design-thinking.&nbsp;
 
 It’s 5.43pm. Warm rays flood the BizDojo lounge as crew and speakers trickle in one Friday afternoon. Our biggest event of the year - TEDxAuckland tūmanako - is quickly approaching, and the buzz is palpable in the room. Beers and banter flowing, speaker training resumes.&nbsp;
 
