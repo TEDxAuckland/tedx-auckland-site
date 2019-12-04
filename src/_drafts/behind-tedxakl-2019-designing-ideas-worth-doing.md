@@ -1,11 +1,11 @@
 ---
 title: 'Behind TEDxAkl 2019: Designing Ideas Worth Doing'
 image: /uploads/bizdojo-ponsonby2400x1600.jpg
-image_caption: 'Night at BizDojo Ponsonby. Photographer:'
+image_caption: 'Night at BizDojo Ponsonby. Photographer: Georgia Schofield.'
 image_caption_link:
 author:
-  name: Nikki Louise
-  tagline: 'Digital Strategist, Design Champion'
+  name: Nikki Goodson
+  tagline: 'Digital Strategist, Otter Enthusiast, Design Champion'
   link: 'https://bynikkilouise.com/'
 categories:
   - our-news
