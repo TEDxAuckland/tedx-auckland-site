@@ -15,6 +15,8 @@ categories:
 
 It’s 5:43pm. Warm rays flood the BizDojo Ponsonby lounge as crew and speakers trickle in one Friday afternoon. Our biggest event of the year - TEDxAuckland *tūmanako* - is quickly approaching, and the buzz is palpable in the room. Beers and banter flowing, speaker training resumes.
 
+![Angela Lim rehearses her TEDxAuckland 2019 talk at BizDojo Ponsonby](/uploads/clearhead-design-process1440x1080.jpg){: width="1440" height="1080"}
+
 Dr. Angela Lim, CEO of [Clearhead](https://www.clearhead.org.nz/) - New Zealand's first app to diagnose and recommend mental health treatment - is first up rehearsing her talk. Knowing there was a better way than being the ambulance at the bottom of the cliff, Angela left general practice to develop the app. Their design involved understanding the problem, designing a solution, development, testing the prototype, then getting feedback from user interviews - in a cyclical process. In its first year the platform has acquired users in regions throughout Aotearoa New Zealand - a great achievement, especially considering in 2018 the OECD reported “regional disparities in health outcomes” in New Zealand as the “second largest among OECD countries". While Auckland ranked in the top 20% of OECD regions, Gisborne came out in the bottom 20% ([*Regions and cities at a glance 2018 - New Zealand*, OECD](http://www.oecd.org/regional)). In Angela’s polished TEDx talk she reveals “I genuinely believe this \[regional success\] is from the co-design process”.&nbsp;
 
 > "...when you embrace diversity, it can be a catalyst for innovation." - Annamarie Jamieson
