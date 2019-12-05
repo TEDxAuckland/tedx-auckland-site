@@ -1,11 +1,11 @@
 ---
-title: 'Behind TEDxAkl 2019: Designing Ideas Worth Doing'
+title: 'Behind TEDxAkl 19: Designing Ideas Worth Doing'
 image: /uploads/bizdojo-ponsonby2400x1600.jpg
 image_caption: 'Night at BizDojo Ponsonby. Photographer: Georgia Schofield.'
 image_caption_link:
 author:
   name: Nikki Goodson
-  tagline: 'Digital Strategist, Otter Enthusiast, Design Champion'
+  tagline: Digital Strategist
   link: 'https://bynikkilouise.com/'
 categories:
   - our-news
@@ -21,11 +21,17 @@ It’s 5:43pm. Warm rays flood the BizDojo Ponsonby lounge as crew and speakers 
 
 Dr. [Angela Lim](/people/angela-lim/), CEO of [Clearhead](https://www.clearhead.org.nz/) - New Zealand's first app to diagnose and recommend mental health treatment - steps us first to rehearse her talk. Knowing there was a better way to tackle mental illness than being the ambulance at the bottom of the cliff, Angela left general practice to develop Clearhead. Their design involved understanding the problem, designing a solution, development, testing the prototype, then getting feedback from user interviews - in a cyclical process. In its first year the platform has acquired users in regions throughout Aotearoa New Zealand - a great achievement, especially considering in 2018 the OECD reported “regional disparities in health outcomes” in New Zealand as the “second largest among OECD countries". While Auckland ranked in the top 20% of OECD regions, Gisborne came out in the bottom 20% ([*Regions and cities at a glance 2018 - New Zealand*, OECD](http://www.oecd.org/regional)). In Angela’s polished TEDx talk she reveals “I genuinely believe this \[regional success\] is from the co-design process”.&nbsp;
 
+&nbsp;
+
 > "…when you embrace diversity, it can be a catalyst for innovation." - Annamarie Jamieson
+
+&nbsp;
 
 Just arriving in the foyer is [Annamarie Jamieson](/people/annamarie-jamieson/), People and Culture Director at Stuff, and driving force behind [The Coffee CO-OP](https://www.stuff.co.nz/business/92487877/supporting-deaf-people-at-work-beyond-sign-language-week) - Stuff's Auckland office cafe staffed by deaf baristas. When Annamarie initially suggested this idea to improve diversity and inclusion in the workplace, she was hit by comments like "but we can't have a cafe with deaf baristas, how will they hear the orders?." Well if you're considering your people - all your people - from the beginning, that just becomes part of the design. In Stuff’s cafe you’ll find sign-language prompts, and the friendly staff are always eager to help you learn more. From the early days the cafe quickly broke even, but Annamarie says creating the Coffee CO-OP "also took us on a journey of patience, kindness, empathy, and inclusion … when you embrace diversity, it can be a catalyst for innovation."&nbsp;
 
-![Annamarie Jamieson chats with Simon Che de Boer at speakers rehearsals](/uploads/annamarie-simon1000x800.jpg){: width="2731" height="3414"}
+![Annamarie Jamieson chats with Simon Che de Boer at speakers rehearsals](/uploads/annamarie-simon1000x800b.jpg){: width="800" height="1000"}
+
+&nbsp;
 
 By putting people at the centre of their design processes, Angela and Annamarie have been able to understand the key pain points of a system, and then design a solution that really works to begin to solve them. Whether you call it co-design, user experience design, service or product design, these ways of working can often fall under an umbrella term of design-thinking.&nbsp;
 
