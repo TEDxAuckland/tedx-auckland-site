@@ -1,7 +1,7 @@
 ---
 title: 'Behind TEDxAkl 19: Designing Ideas Worth Doing'
-image: /uploads/bizdojo-ponsonby2400x1600.jpg
-image_caption: 'Night at BizDojo Ponsonby. Photographer: Georgia Schofield.'
+image: /uploads/clearhead-design-process1440x1080-1.jpg
+image_caption: 'Angela rehearses her talk for TEDxAuckland 2019. Photographer: Adam Browne.'
 image_caption_link:
 author:
   name: Nikki Goodson
@@ -15,11 +15,11 @@ categories:
 
 (read\_more)
 
+![Night at the BizDojo Ponsonby shared workspace](/uploads/bizdojo-ponsonby2400x1600-1.jpg "Night at the BizDojo Ponsonby shared workspace"){: width="2400" height="1600"}
+
+*Night at the BizDojo Ponsonby shared space. Photographer: Georgia Schofield.&nbsp;*
+
 It’s 5:43pm. Warm rays flood the BizDojo Ponsonby lounge as crew and speakers trickle in one Friday afternoon. Our biggest event of the year - TEDxAuckland *tūmanako* - is quickly approaching, and the buzz is palpable in the room. Beers and banter flowing, speaker training resumes.
-
-![Angela Lim rehearses her TEDxAuckland 2019 talk at BizDojo Ponsonby](/uploads/clearhead-design-process1440x1080.jpg "Angela Lim rehearses her TEDxAuckland 2019 talk at BizDojo Ponsonby"){: width="1440" height="1080"}
-
-*Angela rehearses her talk for TEDxAuckland 2019. Photographer: Adam Browne.*
 
 Dr. [Angela Lim](/people/angela-lim/){: target="_blank"}, CEO of [Clearhead](https://www.clearhead.org.nz/){: target="_blank"} - New Zealand's first app to diagnose and recommend mental health treatment - steps us first to rehearse her talk. Knowing there was a better way to tackle mental illness than being the ambulance at the bottom of the cliff, Angela left general practice to develop Clearhead. Their design involved understanding the problem, designing a solution, development, testing the prototype, then getting feedback from user interviews - in a cyclical process. In its first year the platform has acquired users in regions throughout Aotearoa New Zealand - a great achievement, especially considering in 2018 the OECD reported “regional disparities in health outcomes” in New Zealand as the “second largest among OECD countries". While Auckland ranked in the top 20% of OECD regions, Gisborne came out in the bottom 20% ([*Regions and cities at a glance 2018 - New Zealand*, OECD](http://www.oecd.org/regional){: target="_blank"}). In Angela’s polished TEDx talk she reveals “I genuinely believe this \[regional success\] is from the co-design process”.&nbsp;
 
