@@ -13,8 +13,6 @@ categories:
 
 *Around the world people are improving their ways of working - putting humans needs and behaviour at the centre of decision-making, to design ideas really worth doing. They’re working to empathise with customers, to truly understand problems that need solving, then develop and deliver solutions purposefully architected to make a difference. Here at TEDxAuckland, we too are listening. It's exciting to hear across the diverse industries of our speakers that their processes are also converging - toward design-thinking.*
 
-(read\_more)
-
 It’s 5:43pm. Warm rays flood the BizDojo Ponsonby lounge as crew and speakers trickle in one Friday afternoon. Our biggest event of the year - TEDxAuckland *tūmanako* - is quickly approaching, and the buzz is palpable in the room. Beers and banter flowing, speaker training resumes.
 
 ![Angela Lim rehearses her TEDxAuckland 2019 talk at BizDojo Ponsonby](/uploads/clearhead-design-process1440x1080.jpg){: width="1440" height="1080"}
