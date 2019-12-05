@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-*Around the world people are improving their ways of working - putting human needs and behaviour at the centre of decision-making, to design ideas really worth doing. With challenges related to mental health services, diversity and inclusion, and democratic engagement (not to mention climate change) - it's becoming less acceptable to deploy untested solutions. We need ideas that work - now. So organisations are working to empathise with customers, to truly understand the problems that need solving, then develop and deliver solutions purposefully architected to make a difference. Here at TEDxAuckland, we too are listening. It's exciting to hear across the diverse industries of our speakers that their processes are also converging - toward design-thinking.*
+*Around the world people are improving their ways of working - putting human needs and behaviour at the centre of decision-making, to design ideas really worth doing. With challenges related to mental health services, diversity and inclusion, and democratic engagement (not to mention climate change) - we need ideas that work, and we need them now. So organisations are working to empathise with customers, to truly understand the problems that need solving, then develop and deliver solutions purposefully architected to make a difference. Here at TEDxAuckland, we too are listening. It's exciting to hear across the diverse industries of our speakers that their processes are also converging - toward design-thinking.*
 
 (read\_more)
 
