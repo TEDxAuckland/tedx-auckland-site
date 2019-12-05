@@ -5,7 +5,7 @@ image_caption: 'Night at BizDojo Ponsonby. Photographer: Georgia Schofield.'
 image_caption_link:
 author:
   name: Nikki Goodson
-  tagline: Digital Strategist
+  tagline: '@nikkilouisenz'
   link: 'https://bynikkilouise.com/'
 categories:
   - our-news
@@ -29,9 +29,7 @@ Dr. [Angela Lim](/people/angela-lim/), CEO of [Clearhead](https://www.clearhead.
 
 Just arriving in the foyer is [Annamarie Jamieson](/people/annamarie-jamieson/), People and Culture Director at Stuff, and driving force behind [The Coffee CO-OP](https://www.stuff.co.nz/business/92487877/supporting-deaf-people-at-work-beyond-sign-language-week) - Stuff's Auckland office cafe staffed by deaf baristas. When Annamarie initially suggested this idea to improve diversity and inclusion in the workplace, she was hit by comments like "but we can't have a cafe with deaf baristas, how will they hear the orders?." Well if you're considering your people - all your people - from the beginning, that just becomes part of the design. In Stuff’s cafe you’ll find sign-language prompts, and the friendly staff are always eager to help you learn more. From the early days the cafe quickly broke even, but Annamarie says creating the Coffee CO-OP "also took us on a journey of patience, kindness, empathy, and inclusion … when you embrace diversity, it can be a catalyst for innovation."&nbsp;
 
-![Annamarie Jamieson chats with Simon Che de Boer at speakers rehearsals](/uploads/annamarie-simon1000x800b.jpg){: width="800" height="1000"}
-
-&nbsp;
+![Annamarie Jamieson chatting with Simon Che de Boer at rehearsals](/uploads/annamarie-simon1080x1080.jpg){: width="1080" height="1080"}
 
 By putting people at the centre of their design processes, Angela and Annamarie have been able to understand the key pain points of a system, and then design a solution that really works to begin to solve them. Whether you call it co-design, user experience design, service or product design, these ways of working can often fall under an umbrella term of design-thinking.&nbsp;
 
