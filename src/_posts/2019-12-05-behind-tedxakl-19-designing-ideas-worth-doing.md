@@ -5,7 +5,7 @@ image_caption: 'Night at BizDojo Ponsonby. Photographer: Georgia Schofield.'
 image_caption_link:
 author:
   name: Nikki Goodson
-  tagline: '@nikkilouisenz'
+  tagline: Communications Lead
   link: 'https://bynikkilouise.com/'
 categories:
   - our-news
