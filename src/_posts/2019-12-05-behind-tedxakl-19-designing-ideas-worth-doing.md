@@ -55,4 +55,4 @@ Closer to home, we’re also starting to explore design-thinking ways of working
 
 &nbsp;
 
-*Nikki is passionate about helping forward thinking initiatives succeed by designing superb user experiences and clear purposeful communications. As an experienced Design / Digital Strategist, she joined the TEDxAuckland Marketing Communications volunteer team in October 2019.&nbsp;*
+*Nikki joined the TEDxAuckland marketing and communications team in October 2019. As an experienced Digital Strategist, she is passionate about helping forward thinking initiatives succeed by designing superb user experiences and clear purposeful communications. *
