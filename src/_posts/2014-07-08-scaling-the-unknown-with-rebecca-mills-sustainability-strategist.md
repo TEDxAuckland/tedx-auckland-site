@@ -10,7 +10,6 @@ author:
 categories:
   - our-news
 ---
-By Jamie Joseph
 
 Rebecca Mills comes from a big family. When she was a little girl she would sit under the dinner table and observe everyone, always acutely aware of what was going on around her.
 
@@ -44,4 +43,4 @@ Based out of Auckland, Rebecca is currently working on open source, scalable sol
 
 Rebecca’s talk at TEDxAuckland on the 16th of August is anticipated to be both bold and challenging, and transformative if you choose to accept the baton.
 
-Jamie Joseph is blogging @ riseandflow.net – movement.culture.mindset.
+By *Jamie Joseph*
