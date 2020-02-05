@@ -1,6 +1,6 @@
 ---
 title: 'Robyn Paterson: Zimbabwe is not black and white'
-image:
+image: /uploads/robyn-paterson-1.JPG
 image_caption:
 image_caption_link:
 author:
@@ -10,6 +10,7 @@ author:
 categories:
   - our-news
 ---
+
 Words: Jamie Joseph
 
 It all came to a dramatic halt about ten minutes into Robyn Paterson’s talk at TEDxAuckland on Saturday 3 August. I was backstage sitting next to one of our crew that was managing the cameras and screens when it happened. She turned her back to the audience and whispered, “I’m sorry” as she tried to compose herself. Suddenly I felt wave after wave of suppressed emotion engulf me. I put my head down, and tears began to fall.
