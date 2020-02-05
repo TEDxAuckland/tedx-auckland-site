@@ -1,6 +1,6 @@
 ---
 title: Urzila Carlson. The accidental comedian.
-image:
+image: /uploads/urzila-carlson-3.jpg
 image_caption:
 image_caption_link:
 author:
@@ -43,4 +43,4 @@ Ten Questions with Urzila Carlson
 
 10. If you could go back in time, what advice would you give your 21 year old self?<br>You don’t need to be as honest as you think you need to be, sometimes it’s ok to lie about your feelings.
 
-Jamie Joseph is blogging @ riseandflow.net – movement.culture.mindset.
+*By Jamie Joseph*
