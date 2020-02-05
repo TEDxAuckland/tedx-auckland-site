@@ -1,6 +1,6 @@
 ---
 title: 'Helen Clark: I advocate for women in leadership'
-image:
+image: /uploads/undp-hc-shanghai.jpg
 image_caption:
 image_caption_link:
 author:
@@ -10,6 +10,7 @@ author:
 categories:
   - our-news
 ---
+
 Words: Jamie Joseph
 
 The only 2013 TEDxAuckland speaker that sent a smiley face via Facebook as confirmation that she would speak, was ex New Zealand Prime Minister Helen Clark.
