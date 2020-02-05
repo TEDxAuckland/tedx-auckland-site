@@ -1,6 +1,6 @@
 ---
-title: Mike Allsop, on running out of oxygen
-image:
+title: 'Mike Allsop, on running out of oxygen'
+image: /uploads/mike-allsop-mountain-bw.jpg
 image_caption:
 image_caption_link:
 author:
@@ -10,9 +10,10 @@ author:
 categories:
   - our-news
 ---
+
 By Jamie Joseph
 
-I clicked the transmit button on the control column to tell the Coast Guard pilot, ‘This is it, we’re going in!’ The words never came out. Instead what emerged was a sound I had never heard before - a scream, a spine-chilling scream of death. I remember being shocked when I realised the noise was coming from me as the aircraft I was flying nose-dived into the sea.
+I clicked the transmit button on the control column to tell the Coast Guard pilot, ‘This is it, we’re going in\!’ The words never came out. Instead what emerged was a sound I had never heard before - a scream, a spine-chilling scream of death. I remember being shocked when I realised the noise was coming from me as the aircraft I was flying nose-dived into the sea.
 
 This is the first paragraph of Mike Allsop’s memoir; High Altitude: Mountaineer, Airline Pilot, Modern-day Adventurer.
 
@@ -66,4 +67,4 @@ Mike Allsop is an ordinary guy doing extraordinary things, and that’s how he l
 
 You too can take that next step with Mike Allsop, when he steps up to the TEDxAuckland stage on Saturday 16 August, Aotea Centre. Tickets selling out fast.
 
-Jamie Joseph is blogging @ riseandflow.net- movement.culture.mindset
+*By Jamie Joseph*
