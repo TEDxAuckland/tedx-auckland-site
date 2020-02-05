@@ -1,6 +1,6 @@
 ---
 title: 'Professor Richard Faull: The accidental brain bank'
-image:
+image: /uploads/19910954553-acdcbb09b5-o.jpg
 image_caption:
 image_caption_link:
 author:
@@ -37,4 +37,4 @@ So what next?
 
 A world class New Zealander, fortunately for us Richard Faull shows no interest in retiring any time soon.
 
-By Jamie Joseph
+*By Jamie Joseph*
