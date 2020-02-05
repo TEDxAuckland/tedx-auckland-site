@@ -1,6 +1,6 @@
 ---
-title: Scaling the unknown with Rebecca Mills, Sustainability Strategist
-image:
+title: 'Scaling the unknown with Rebecca Mills, Sustainability Strategist'
+image: /uploads/rebecca-mills2.jpg
 image_caption:
 image_caption_link:
 author:
