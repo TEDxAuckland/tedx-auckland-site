@@ -23,9 +23,9 @@ Count on Urzila to bring a few brave anecdotes to the TEDxAuckland stage, sprink
 
 Ten Questions with Urzila Carlson
 
-1. What is your favorite word?<br>Yes.
+1. What is your favourite word?<br>Yes.
 
-2. What is your least favorite word?<br>No.
+2. What is your least favourite word?<br>No.
 
 3. What turns you on?<br>A clean house, time, good humour, a summer’s breeze, sunset and good wine.
 
