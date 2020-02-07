@@ -1,5 +1,5 @@
 ---
-title: Putting discourse on the desk – A new play by James Wenley
+title: Putting discourse on the desk – A controversial new play by James Wenley
 image: /uploads/fringe-coverphoto-tol.jpg
 image_caption: Artwork by Daemon Darko & Peanuts in the Sky with Lucy
 image_caption_link:
