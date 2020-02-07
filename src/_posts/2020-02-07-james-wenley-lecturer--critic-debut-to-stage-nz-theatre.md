@@ -1,6 +1,6 @@
 ---
 title: 'James Wenley: Lecturer & Critic debut to stage, NZ Theatre'
-image: /uploads/img-5071.jpg
+image: /uploads/img-5071-1.jpg
 image_caption:
 image_caption_link:
 author:
