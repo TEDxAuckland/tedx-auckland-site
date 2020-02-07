@@ -1,5 +1,5 @@
 ---
-title: Putting discourse on the desk – A controversial new play by James Wenley
+title: 'James Wenley: Dr Drama puts discourse on the desk'
 image: /uploads/fringe-coverphoto-tol.jpg
 image_caption: Artwork by Daemon Darko & Peanuts in the Sky with Lucy
 image_caption_link:
@@ -21,7 +21,7 @@ TEDxAuckland sat down to chat with Dr Drama ahead of his Auckland performance to
 
 ![](/uploads/img-4989.jpg){: width="1620" height="1080"}
 
-“There’s a lot of contention around the work that I can only speak for myself,” James explains. “But I hope that audiences will go away being able to think about how some of it could apply to their own spaces. One of the things that I’m looking into is some aspects into my family history. That whole idea that its really important to know where you’ve come from.”
+“There’s a lot of contention around the work that I can only speak for myself,” James explains. “But I hope that audiences will go away being able to think about how some of it could apply to their own spaces. One of the things that I’m looking into is some aspects into my family history. **That whole idea that its really important to know where you’ve come from.**”
 
 “The show begins in a similar way I would start a lecture in my own classroom and then I take into some strange unexpected places from that. I have, in theory, the qualifications around this that should allow me to this – so what does that mean for me as an academic? As a lecturer? As someone who writes about theatre, to then be putting myself on stage.”
 
@@ -31,6 +31,6 @@ For James, returning to the stage isn’t nerve-racking, but familiar. After yea
 
 “I think I’ve always used what I learnt when I was a performer and I apply that to my lectures and that is where I feel the most in my element. The lecture hall is my audience and I am the performer and so that is actually quite comfortable but because this is personally revealing, there is vulnerability there.”
 
-*Presented by Theatre of Love and directed by Rachael Longshaw-Park (An Organ of Soft Tissue), Dr Drama Makes A Show is touring this summer to Auckland and Wellington:Playing at Q Vault as part of Summer at Q and the Auckland Fringe Festival Tuesday 18 through Saturday 22 February, 8:30pm.*
+*Presented by Theatre of Love and directed by Rachael Longshaw-Park (An Organ of Soft Tissue), Dr Drama Makes A Show is touring this summer to Auckland and Wellington: Playing at Q Vault as part of Summer at Q and the Auckland Fringe Festival Tuesday 18 through Saturday 22 February, 8:30pm - 9:30pm.*
 
-*Playing at 93 Kelburn Parade, Victoria University of Wellington Kelburn Campus as part of the New Zealand Fringe Festival Tuesday 3 March through Saturday 7 March, 5:30pm.*
+*Playing at 93 Kelburn Parade, Victoria University of Wellington Kelburn Campus as part of the New Zealand Fringe Festival Tuesday 3 March through Saturday 7 March, 5:30pm - 6:30pm.*
