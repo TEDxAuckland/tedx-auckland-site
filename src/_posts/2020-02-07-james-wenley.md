@@ -1,5 +1,5 @@
 ---
-title: 'James Wenley: Performance, Discourse, NZ Theatre'
+title: 'James Wenley:'
 image: /uploads/img-5071-1.jpg
 image_caption:
 image_caption_link:
@@ -41,6 +41,8 @@ He explains how, ironically, that’s one of the strengths of Kiwis on the inter
 
 “There are times where our work is definitely ‘Kiwi’, some audiences will really love that, but for others, there might be a disconnect. One of the issues that I dig into is to what extent do you frontend nationality and how relevant is that?”
 
-*Presented by Theatre of Love and directed by Rachael Longshaw-Park (An Organ of Soft Tissue), Dr Drama Makes A Show is touring this summer to Auckland and Wellington: [Playing at Q Vault as part of Summer at Q and the Auckland Fringe Festival Tuesday 18 - Saturday 22 February, 8:30pm - 9:30pm.](https://www.qtheatre.co.nz/dr-drama-makes-show)*
+For James, returning to the stage isn’t nerve-racking, but familiar. After years away from the practice, he’s returning to a familiar space.
 
-[*Playing at 93 Kelburn Parade, Victoria University of Wellington Kelburn Campus as part of the New Zealand Fringe Festival Tuesday 3 March through Saturday 7 March, 5:30pm - 6:30pm.*](https://fringe.co.nz/show/43771)
+“I think I’ve always used what I learnt when I was a performer and I apply that to my lectures and that is where I feel the most in my element. The lecture hall is my audience and I am the performer and so that is actually quite comfortable but because this is personally revealing, there is vulnerability there.”
+
+*Presented by Theatre of Love and directed by Rachael Longshaw-Park (An Organ of Soft Tissue), Dr Drama Makes A Show is touring this summer to [Auckland](https://www.qtheatre.co.nz/dr-drama-makes-show) and [Wellington](https://fringe.co.nz/show/43771).*
