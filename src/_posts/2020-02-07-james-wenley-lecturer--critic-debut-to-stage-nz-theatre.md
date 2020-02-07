@@ -1,7 +1,7 @@
 ---
-title: 'James Wenley: lecturer & critic debut to stage'
+title: 'James Wenley: Lecturer & Critic debut to stage, NZ Theatre'
 image: /uploads/img-5071.jpg
-image_caption: Artwork by Daemon Darko & Peanuts in the Sky with Lucy
+image_caption:
 image_caption_link:
 author:
   name: Madeleine Smith
