@@ -1,5 +1,5 @@
 ---
-title: NZ theatre-maker James Wenley exposes himself
+title: 'James Wenley: NZ Theatre-Maker Exposes Himself'
 image: /uploads/img-5071-1.jpg
 image_caption:
 image_caption_link:
