@@ -1,5 +1,5 @@
 ---
-title: 'James Wenley:'
+title: Kiwi theatre-maker James Wenley exposes himself
 image: /uploads/img-5071-1.jpg
 image_caption:
 image_caption_link:
@@ -13,7 +13,7 @@ categories:
 
 It was only last year at the Edinburgh Fringe Festival where Kiwi Dr James Wenley sweet-talked his way past security, and into the historic Bank of Scotland building. There, he stood in front of a large portrait of another James Wenley, the treasurer of the Bank of Scotland. Not quite a coincidence, but in fact James’ Great-Great-Great-Grandfather.
 
-The treasurer’s desk will join James (the descendant) on stage for his solo performance in *Dr Drama Makes a Show* debuting on 18th-22nd of February, as part of Summer at Q in Auckland, Auckland Fringe and the NZ Fringe Festival in Wellington.
+The treasurer’s desk will join James (the descendant) on stage for his solo performance in *Dr Drama Makes a Show* debuting on 18th-22nd of February, as part of Summer at Q in Auckland, Auckland Fringe and March 3rd - 5th at the NZ Fringe Festival in Wellington.
 
 Recently equipped with a PhD from the University of Auckland and his recent appointment as a theatre lecturer at Victoria University of Wellington, he is putting his knowledge of theory to test by making and starring in a show of his own.
 
