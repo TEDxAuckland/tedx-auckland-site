@@ -1,5 +1,7 @@
 ---
-title: 'James Wenley: NZ theatre-maker explores confronting discourse'
+title: >-
+  James Wenley: NZ theatre lecturer & critic explores confronting discourse in
+  new play
 image: /uploads/img-5071-1.jpg
 image_caption:
 image_caption_link:
