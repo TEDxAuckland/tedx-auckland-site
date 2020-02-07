@@ -1,6 +1,6 @@
 ---
 title: 'James Wenley: lecturer & critic debut to stage'
-image: /uploads/fringe-coverphoto-tol.jpg
+image: /uploads/img-5071.jpg
 image_caption: Artwork by Daemon Darko & Peanuts in the Sky with Lucy
 image_caption_link:
 author:
@@ -19,7 +19,7 @@ Recently equipped with a PhD from the University of Auckland and his recent appo
 
 TEDxAuckland sat down to chat with Dr Drama ahead of his Auckland performance to talk on what audiences might expect from his most unconventional theatre class yet. The stakes are high on James’ performance; not only does this mark his first proper stage performance in over a decade, but he will be confronting the politics of putting his white, male body centre-stage as he explores themes of performance, masculinity, whiteness and Pākehā privilege.
 
-![](/uploads/img-4989.jpg){: width="1620" height="1080"}
+![](/uploads/fringe-coverphoto-tol-1.jpg){: width="1920" height="1005"}
 
 “There’s a lot of contention around the work that I can only speak for myself,” James explains. “But I hope that audiences will go away being able to think about how some of it could apply to their own spaces. One of the things that I’m looking into is some aspects into my family history. **That whole idea that its really important to know where you’ve come from.**”
 
