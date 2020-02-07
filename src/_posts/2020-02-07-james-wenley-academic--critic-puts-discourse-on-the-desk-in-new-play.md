@@ -1,5 +1,5 @@
 ---
-title: 'James Wenley: Academic & Critic explores confronting discourse in new play'
+title: 'James Wenley: Academic & Critic puts discourse on the desk in new play'
 image: /uploads/img-5071-1.jpg
 image_caption:
 image_caption_link:
