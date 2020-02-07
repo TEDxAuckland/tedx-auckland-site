@@ -1,5 +1,5 @@
 ---
-title: 'James Wenley: Dr Drama puts discourse on the desk'
+title: 'James Wenley: lecturer & critic debut to stage'
 image: /uploads/fringe-coverphoto-tol.jpg
 image_caption: Artwork by Daemon Darko & Peanuts in the Sky with Lucy
 image_caption_link:
