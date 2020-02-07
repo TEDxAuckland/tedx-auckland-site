@@ -15,11 +15,11 @@ It was only last year at the Edinburgh Fringe Festival where Kiwi Dr James Wenle
 
 The treasurer’s desk will join James (the descendant) on stage for his solo performance in *Dr Drama Makes a Show* debuting on 18th-22nd of February, as part of 'Summer at Q' in Auckland, Auckland Fringe, and on March 3rd-5th at the NZ Fringe Festival in Wellington.
 
+![](/uploads/83117013-2544220369009309-6922450501816549376-o.jpg){: width="1920" height="1005"}
+
 Recently equipped with a PhD from the University of Auckland and his recent appointment as a theatre lecturer at Victoria University of Wellington, he is putting his knowledge of theory to test by making and starring in a show of his own.
 
 TEDxAuckland sat down to chat with Dr Drama ahead of his Auckland performance to talk on what audiences might expect from his most unconventional theatre class yet. The stakes are high on James’ performance; not only does this mark his first proper stage performance in over a decade, but he will be confronting the politics of putting his white, male body centre-stage as he explores themes of performance, masculinity, whiteness and Pākehā privilege.
-
-![](/uploads/fringe-coverphoto-tol-1.jpg){: width="1920" height="1005"}
 
 “There’s a lot of contention around the work that I can only speak for myself,” James explains. “But I hope that audiences will go away being able to think about how some of it could apply to their own spaces. One of the things that I’m looking into is some aspects into my family history. **That whole idea that its really important to know where you’ve come from.**”
 
