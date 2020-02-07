@@ -1,8 +1,8 @@
 ---
 title: 'James Wenley: Academic & Critic puts discourse on the desk in new play'
 image: /uploads/img-5071-1.jpg
-image_caption:
-image_caption_link:
+image_caption: Image by Connor Crawford Photography
+image_caption_link: 'https://www.connorcrawfordphotography.com/'
 author:
   name: Madeleine Smith
   tagline:
