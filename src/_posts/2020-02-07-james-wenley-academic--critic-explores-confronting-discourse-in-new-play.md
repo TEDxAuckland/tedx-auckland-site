@@ -23,7 +23,7 @@ TEDxAuckland sat down to chat with Dr Drama ahead of his Auckland performance to
 
 “There’s a lot of contention around the work that I can only speak for myself,” James explains. “But I hope that audiences will go away being able to think about how some of it could apply to their own spaces. One of the things that I’m looking into is some aspects into my family history. **That whole idea that its really important to know where you’ve come from.**”
 
-“The show begins in a similar way I would start a lecture in my own classroom and then I take into some strange unexpected places from that. I have, in theory, the qualifications around this that should allow me to this – so **what does that mean for me as an academic? As a lecturer? As someone who writes about theatre, to then be putting myself on stage.**”
+“The show begins in a similar way I would start a lecture in my own classroom and then I take into some strange unexpected places from that. I have, in theory, the qualifications around this that should allow me to this – **so what does that mean for me as an academic? As a lecturer? As someone who writes about theatre, to then be putting myself on stage.**”
 
 He hopes audiences come prepared to offer an opinion, to maybe add to the conversation, prepared to leave asking their own questions on these matters. He also hand-on-heart promises to not drag anyone up on stage.
 
