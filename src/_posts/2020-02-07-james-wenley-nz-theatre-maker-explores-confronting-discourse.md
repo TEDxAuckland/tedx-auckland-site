@@ -1,5 +1,5 @@
 ---
-title: 'James Wenley: NZ Theatre Lecturer & Critic Exposes Himself Onstage'
+title: 'James Wenley: NZ theatre-maker explores confronting discourse'
 image: /uploads/img-5071-1.jpg
 image_caption:
 image_caption_link:
