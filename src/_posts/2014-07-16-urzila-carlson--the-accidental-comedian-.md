@@ -1,6 +1,6 @@
 ---
 title: Urzila Carlson. The accidental comedian.
-image: /uploads/urzila-carlson-3.jpg
+image: /uploads/urzila-carlson-fblog-1.jpg
 image_caption:
 image_caption_link:
 author:
