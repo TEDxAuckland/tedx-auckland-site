@@ -27,7 +27,7 @@ TEDxAuckland sat down to chat with Dr Drama ahead of his Auckland performance to
 
 He hopes audiences come prepared to offer an opinion, to maybe add to the conversation, prepared to leave asking their own questions on these matters. He also hand-on-heart promises to not drag anyone up on stage.
 
-James' PhD in 2019, looked specifically around how New Zealand theatre is being performed internationally.
+James' PhD in 2018, looked specifically around how New Zealand theatre is being performed internationally.
 
 “**How has New Zealand attempted to represent itself on the global scale, in the marketplace for theatre?** So much of it is tied into representation and specifically for work that is identifiably of this place, how is that then received.”
 
