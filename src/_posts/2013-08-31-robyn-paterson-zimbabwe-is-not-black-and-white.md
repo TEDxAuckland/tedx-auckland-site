@@ -1,6 +1,6 @@
 ---
 title: 'Robyn Paterson: Zimbabwe is not black and white'
-image: /uploads/robyn-paterson-1.JPG
+image: /uploads/robyn-paterson-sq-1.jpg
 image_caption:
 image_caption_link:
 author:
