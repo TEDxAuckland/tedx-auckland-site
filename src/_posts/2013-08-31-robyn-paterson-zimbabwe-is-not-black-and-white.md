@@ -11,8 +11,6 @@ categories:
   - our-news
 ---
 
-Words: Jamie Joseph
-
 It all came to a dramatic halt about ten minutes into Robyn Paterson’s talk at TEDxAuckland on Saturday 3 August. I was backstage sitting next to one of our crew that was managing the cameras and screens when it happened. She turned her back to the audience and whispered, “I’m sorry” as she tried to compose herself. Suddenly I felt wave after wave of suppressed emotion engulf me. I put my head down, and tears began to fall.
 
 For Robyn’s story is my story, as it is thousands of others. We are part of the diaspora. We were both born in Zimbabwe, and now we live in New Zealand, and it is from these safe shores that we have to witness people we love hurt and murdered under the dictatorship of President Robert Mugabe.
@@ -27,4 +25,4 @@ Robyn decided to film her risky journey in the hope that through the documentary
 
 Robyn did manage to compose herself long enough to finish her talk, and it ended with a standing ovation.
 
-Jamie Joseph is a writer and an environmental activist. She will be returning to her African homeland in October to join the war on poaching. Follow her journey @ savingthewild.com – every voice counts.
+*By Jamie Joseph*
