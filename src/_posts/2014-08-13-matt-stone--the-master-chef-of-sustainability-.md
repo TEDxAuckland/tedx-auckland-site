@@ -1,6 +1,6 @@
 ---
 title: Matt Stone. The Master Chef of Sustainability.
-image: /uploads/matt-stone-hres.jpg
+image: /uploads/matt-stone-fblog-sq-91.jpg
 image_caption:
 image_caption_link:
 author:
