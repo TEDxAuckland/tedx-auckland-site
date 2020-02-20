@@ -17,7 +17,7 @@ The treasurer’s desk will join James (the descendant) on stage for his solo pe
 
 Recently equipped with a PhD from the University of Auckland and his recent appointment as a theatre lecturer at Victoria University of Wellington, he is putting his knowledge of theory to test by making and starring in a show of his own.
 
-![](/uploads/fringe-coverphoto-tol-2.jpg){: width="1920" height="1005"}
+&nbsp;
 
 TEDxAuckland sat down to chat with Dr Drama ahead of his Auckland performance to talk on what audiences might expect from his most unconventional theatre class yet. The stakes are high on James’ performance; not only does this mark his first proper stage performance in over a decade, but he will be confronting the politics of putting his white, male body centre-stage as he explores themes of performance, masculinity, whiteness and Pākehā privilege.
 
