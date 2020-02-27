@@ -1,7 +1,7 @@
 ---
 title: 'Carbs for your ears: A conversation with poet Rose Northey'
 image: /uploads/picture-1.png
-image_caption:
+image_caption: Jericho Rock-Archer
 image_caption_link:
 author:
   name: Madeleine Smith
