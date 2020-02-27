@@ -11,9 +11,9 @@ categories:
   - our-news
 ---
 
-*Could Rose Northey’s upcoming show 'Open Your Mouth and I will Poet All Over Your Face' have been called anything but? That’s something I’ve probably thought about too much over the last week. The answer is no. “Spaghetti Bolognese on toast on pizza for the brain” - a plethora of carbohydrates for the ears, or at least, that’s how Rose describes her one-woman gig at the Pumphouse Theatre.(read\_more)*
+**Could Rose Northey’s upcoming show 'Open Your Mouth and I will Poet All Over Your Face' have been called anything but? That’s something I’ve probably thought about too much over the last week. The answer is no. “Spaghetti Bolognese on toast on pizza for the brain” - a plethora of carbohydrates for the ears, or at least, that’s how Rose describes her one-woman gig at the Pumphouse Theatre. (read\_more)**
 
-*I sat down with Rose before her Auckland Fringe show to discuss her leap from mechanical engineering to fulltime creative, her experience with opening the TEDx Auckland Tūmanako in 2019, and all the beautiful chaos in between. &nbsp;*
+**I sat down with Rose before her Auckland Fringe show to discuss her leap from mechanical engineering to fulltime creative, her experience with opening the TEDx Auckland Tūmanako in 2019, and all the beautiful chaos in between. &nbsp;**
 
 “I was one of those children with a runaway imagination and probably because my mother is an artist, this was encouraged. Through poetry, I can just bring all of my nuts to the brownie.”
 
