@@ -11,7 +11,7 @@ categories:
   - our-news
 ---
 
-**Could Rose Northey’s upcoming show**[***Open Your Mouth and I will Poet All Over Your Face***](https://www.aucklandfringe.co.nz/programme-2020/open-your-mouth)**have been called anything but? That’s something I’ve probably thought about too much over the last week. The answer is no. “Spaghetti Bolognese on toast on pizza for the brain” - a plethora of carbohydrates for the ears, or at least, that’s how Rose describes her one-woman gig at the Pumphouse Theatre. (read\_more)**
+**Could Rose Northey’s upcoming show '*****Open Your Mouth and I will Poet All Over Your Face'&nbsp;*****have been called anything but? That’s something I’ve probably thought about too much over the last week. The answer is no. “Spaghetti Bolognese on toast on pizza for the brain” - a plethora of carbohydrates for the ears, or at least, that’s how Rose describes her one-woman gig at the Pumphouse Theatre. (read\_more)**
 
 **I sat down with Rose before her Auckland Fringe show to discuss her leap from mechanical engineering to fulltime creative, her experience with opening the TEDx Auckland Tūmanako in 2019, and the all the beautiful chaos in between. &nbsp;**
 
@@ -45,9 +45,9 @@ She decided to use the money she had saved that was intended to go towards trave
 
 For Rose, it’s a luxury to take her imagination, and give it to someone else, if only for a night. A mental workout – “that’s the experience I like to give people when they listen to my poetry.”
 
-[***Open Your Mouth and I will Poet All Over Your Face***](https://www.aucklandfringe.co.nz/programme-2020/open-your-mouth)*is a comedy poetry art show that will take your imagination to places that are "equal parts scary and hilarious". Rose Northey's poetry covers all the classic poetic movements such as getting nasty with a packet of chips, being swallowed by a demonic baby and coming to terms with toe hair. *
+[***Open Your Mouth and I will Poet All Over Your Face***](https://www.aucklandfringe.co.nz/programme-2020/open-your-mouth)\*is a comedy poetry art show that will take your imagination to places that are "equal parts scary and hilarious". Rose Northey's poetry covers all the classic poetic movements such as getting nasty with a packet of chips, being swallowed by a demonic baby and coming to terms with toe hair. \*
 
-*She shares the inner monologue of young woman who is determined to giggle at absolutely everything. *
+\*She shares the inner monologue of young woman who is determined to giggle at absolutely everything. \*
 
 *Dates and times:*
 
