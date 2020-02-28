@@ -23,14 +23,6 @@ In 2019, Rose opened the TEDxAuckland tūmanako event with three original poems.
 
 “People came up to me afterwards and were really vocal with their reactions during the performance. That’s one of the nicest things as a performer because it’s always a give-and-take. If you’re performing your poem to a quiet crowd, there’s an inner monologue in your head saying “what am I doing wrong?”
 
-![](/uploads/rone.png){: width="939" height="625"}
-
-*Rose on the TEDxAuckland stage. Photography by Georgia Schofield*
-
-![](/uploads/rose-n.png){: width="939" height="625"}
-
-*Rose on the TEDxAuckland stage. Photography by Georgia Schofield*
-
 She calls herself “a gateway poet”, having found her niche in communicating joy through her poetry, without anything getting too heavy. “I want people to leave feeling really happy, like they’ve laughed way too much.”
 
 “There’s a stereotype associated with that. It can make people feel nervous about stepping into a situation where they could be put onto an emotional rollercoaster. If people walk away from my show thinking ‘I need to go to a poetry slam’ at any point, I would love that.”
