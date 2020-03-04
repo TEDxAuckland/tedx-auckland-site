@@ -1,5 +1,5 @@
 ---
-title: 'Auckland Fringe Festival: A representation of Inclusivity & Diversity'
+title: 'Auckland Fringe Festival: A representation of Inclusivity and Diversity'
 image: /uploads/image-4.jpg
 image_caption:
 image_caption_link:
