@@ -19,7 +19,7 @@ categories:
 
 *TEDxAuckland sat down with Borni to discuss the Auckland Fringe phenomenon, his place within it, and vision for the festival's future.&nbsp;*
 
-“Auckland Fringe exists to create spaces for those who may feel othered or on the outer fringe spaces.” Since landing the position, Borni has discovered “opportunities to give a wider birth of encouragement for people to participate, multi-cultures, to see themselves represented, and make accessibility (disability, financially) easier." If we see ourselves represented, we feel encouraged to be a part of it, and he believes "there’s a lot of cool opportunities for Auckland to represent itself into a space where we are more representative of who we are on the streets."&nbsp;
+“Auckland Fringe exists to create spaces for those who may feel othered or on the outer fringe spaces.” Since landing the position, Borni has discovered “opportunities to give a wider birth of encouragement for people to participate, multi-cultures, to see themselves represented, and make accessibility (disability, financially) easier." If we see ourselves represented, we feel encouraged to be a part of it which is why "there’s a lot of cool opportunities for Auckland to represent itself into a space where we are more representative of who we are on the streets."&nbsp;
 
 Borni, originally from Rotorua, grew up with a strong understanding of where he came from as his mum is rooted in tikanga. “Being Māori has really shaped how I move through spaces and interact with people. What I’m hoping to do with Auckland Fringe is breathing authenticity into the space.”
 
