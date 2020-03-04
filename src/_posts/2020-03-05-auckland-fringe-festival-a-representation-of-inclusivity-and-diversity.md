@@ -4,7 +4,7 @@ image: /uploads/15288542-1615173002120804-7120651764489011088-o-3.jpg
 image_caption: Evan Donnelly
 image_caption_link:
 author:
-  name:
+  name: Tara Ranchhod
   tagline:
   link:
 categories:
