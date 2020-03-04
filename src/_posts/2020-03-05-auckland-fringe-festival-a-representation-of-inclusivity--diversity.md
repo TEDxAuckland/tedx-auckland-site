@@ -1,6 +1,6 @@
 ---
 title: 'Auckland Fringe Festival: A representation of Inclusivity & Diversity'
-image: /uploads/15288542-1615173002120804-7120651764489011088-o.jpg
+image: /uploads/image-4.jpg
 image_caption:
 image_caption_link:
 author:
