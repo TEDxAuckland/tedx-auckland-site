@@ -31,4 +31,4 @@ Borni hopes that people are excited to come to Auckland Fringe because “there�
 
 This year, his team has implemented a model of working together called tuakana teina. This coincides with their new initiative Whakawhirinaki. “We’ve invited a group of Arts organisations to be a tuakana for artists in Fringe this year. For example, we have partnered with the NZ Opera who will be a tuakana to&nbsp;[Jelly Belly](https://www.aucklandfringe.co.nz/programme-2020/jelly-baby). The idea is that the tuakana are there as a sounding board for the artists if they need any help. It’s a support network where artists might also start to understand what it’s possibly like to move past a Fringe space as well. A really important question when creating art is what can it become not just what is it now?"&nbsp;
 
-*Auckland Fringe Festival is in its final week\! Go and check out what's on&nbsp;[here](https://www.aucklandfringe.co.nz/events-by-genre).*
+*Auckland Fringe Festival is in its final week\! Go and check out [what's on.](https://www.aucklandfringe.co.nz/events-by-genre)*
