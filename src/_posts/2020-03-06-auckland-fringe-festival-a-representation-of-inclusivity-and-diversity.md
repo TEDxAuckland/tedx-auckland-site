@@ -11,7 +11,9 @@ categories:
   - our-news
 ---
 
-*Meet Borni Te Rongopai Tukiwaho, the first-ever Māori director representing Auckland Fringe Festival. A two-week annual Arts festival that runs from February 25th till March 7th promoting inclusivity, diversity, and celebrates otherness.&nbsp;(read\_more)*
+*Meet Borni Te Rongopai Tukiwaho, the first-ever Māori director representing Auckland Fringe Festival. A two-week annual Arts festival that runs from February 25th till March 7th promoting inclusivity, diversity, and celebrates otherness.*
+
+*(read\_more)*
 
 ![](/uploads/fringe-q-theatre-website-hero-slider-1240x545-03-reduced-0-1.png){: width="1240" height="545"}
 
