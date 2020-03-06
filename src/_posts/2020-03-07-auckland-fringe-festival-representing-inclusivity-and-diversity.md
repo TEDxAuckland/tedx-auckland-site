@@ -1,5 +1,5 @@
 ---
-title: 'Auckland Fringe Festival: A representation of Inclusivity and Diversity'
+title: 'Auckland Fringe Festival: Representing Inclusivity and Diversity'
 image: /uploads/15288542-1615173002120804-7120651764489011088-o-3.jpg
 image_caption: Evan Donnelly
 image_caption_link:
