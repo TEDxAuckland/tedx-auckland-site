@@ -15,8 +15,6 @@ categories:
 
 *(read\_more)*
 
-![](/uploads/fringe-q-theatre-website-hero-slider-1240x545-03-reduced-0-1.png){: width="1240" height="545"}
-
 *The Fringe festival is a worldwide phenomenon (existing nationwide & internationally), but Auckland Fringe has been on its resurgence. 2020 brings in a brand new director who (with a committed team of 3) in just 8 weeks has pulled together a superb line-up of 60+ experimental, daring and groundbreaking shows. The new team are honouring the already established framework implemented by the previous director (Lydia Zanetti) and bringing in new strategies for its continued growth throughout Tāmaki Makaurau.*
 
 *TEDxAuckland sat down with Borni to discuss the Auckland Fringe phenomenon, his place within it, and vision for the festival's future.&nbsp;*
