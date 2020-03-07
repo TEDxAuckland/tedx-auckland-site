@@ -11,6 +11,10 @@ categories:
   - our-news
 ---
 
+**For International Women's Day, the TEDxAuckland team have put together five noteworthy women who have delivered powerful TED talks over the years. **
+
+**This year's global campaign theme is**[\#EachforEqual](https://www.internationalwomensday.com/){: target="_blank"}**, where highlighting women's achievements and increasing visibility, while calling out inequality, is key.**
+
 ![](/uploads/43013488691-20066ae21f-c.jpg){: width="799" height="533"}
 
 *Photo by Serena Stevenson*
