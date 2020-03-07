@@ -1,7 +1,9 @@
 ---
 title: 'Celebrating International Women''s Day: 5 must watch TEDx Women speakers'
 image: /uploads/43013488691-20066ae21f-c.jpg
-image_caption:
+image_caption: >-
+  For International Women's Day, the TEDxAuckland team have put together five
+  noteworthy women who have delivered powerful TED talks over the years.
 image_caption_link:
 author:
   name: Madeleine Smith
@@ -11,7 +13,7 @@ categories:
   - our-news
 ---
 
-\*\*For International Women's Day, the TEDxAuckland team have put together five noteworthy women who have delivered powerful TED talks over the years. \*\*
+**For International Women's Day, the TEDxAuckland team have put together five noteworthy women who have delivered powerful TED talks over the years.**
 
 **This year's global campaign theme is&nbsp;**[\#EachforEqual](https://www.internationalwomensday.com/){: target="_blank"}**, where highlighting women's achievements and increasing visibility, while calling out inequality, is key.**
 
