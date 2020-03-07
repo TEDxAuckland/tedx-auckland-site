@@ -4,7 +4,7 @@ image: /uploads/43013488691-20066ae21f-c.jpg
 image_caption:
 image_caption_link:
 author:
-  name:
+  name: Madeleine Smith
   tagline:
   link:
 categories:
@@ -59,7 +59,7 @@ Here, Pania tells the story of the fight to[\#ProtectIhumatao](https://www.youtu
 
 [**Yes she can: Helen Clark**](https://www.youtube.com/watch?v=rrsBQo6GVC4){: target="_blank"}
 
-Helen Clark is Administrator of the United Nations Development Programme (UNDP) -- the first woman to lead the organisation -- and Chair of the United Nations Development Group.
+Helen Clark is Administrator of the United Nations Development Programme (UNDP) – the first woman to lead the organisation – and Chair of the United Nations Development Group.
 
 Prior to joining the UNDP Helen served as Prime Minister of New Zealand for three terms, during which time she was widely engaged in policy development and advocacy across international, economic, social and cultural spheres.
 
