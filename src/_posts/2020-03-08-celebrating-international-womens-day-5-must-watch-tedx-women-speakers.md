@@ -1,6 +1,6 @@
 ---
 title: 'Celebrating International Women''s Day: 5 must watch TEDx Women speakers'
-image: /uploads/43013488691-20066ae21f-c.jpg
+image: /uploads/20531605765-93904e96eb-c-1.jpg
 image_caption: >-
   For International Women's Day, the TEDxAuckland team have put together five
   noteworthy women who have delivered powerful TED talks over the years.
