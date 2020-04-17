@@ -1,0 +1,23 @@
+---
+layout: default
+title: Partnerships
+major_partners:
+  - vodafone
+---
+
+{% include upcoming-event-bar.html %}
+
+<header class="section">
+  <div class="container">
+    <h3 class="section-heading editable">Partners</h3>
+  </div>
+</header>
+
+{% if page.major_partners %}
+<section class="section">
+  <div class="container">
+    <h4 class="partner-heading editable">principal</h4>
+    {% include partners/full-width-blurb-logo-center.html partners = page.major_partners %}
+  </div>
+</section>
+{% endif %}
