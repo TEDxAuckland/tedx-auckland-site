@@ -19,10 +19,6 @@ description_markdown: >-
   which is staffed by deaf baristas. These programs and the many benefits that
   have arisen not only to the employees, employers but to the community have
   been immeasurable.
-
-
-  The journey of a company, bold enough to challenge the status quo transforming
-  business by including disabled people in everything they do.
 website_url:
 medium_url:
 twitter_url:
