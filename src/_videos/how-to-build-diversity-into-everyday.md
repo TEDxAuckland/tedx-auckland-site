@@ -4,7 +4,7 @@ youtube_video_id: oeSlKfmOe3Y
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/annamarie-jamieson-talk-1.jpg
 related_posts:
 ---
 
