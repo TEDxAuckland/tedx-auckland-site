@@ -1,5 +1,5 @@
 ---
-title: How to build inclusion into the everyday
+title: How to build diversity into everyday
 youtube_video_id: oeSlKfmOe3Y
 performance: false
 highlight: false
