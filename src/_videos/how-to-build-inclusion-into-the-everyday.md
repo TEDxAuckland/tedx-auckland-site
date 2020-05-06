@@ -14,4 +14,4 @@ In her position as the People & Culture Director for&nbsp;[Stuff.co.nz](http://s
 
 This was followed by&nbsp;*The Coffee CO-OP*, Stuff’s Auckland office cafe, which is staffed by deaf baristas. These programs and the many benefits that have arisen not only to the employees, employers but to the community have been immeasurable.
 
-The journey of a company, bold enough to challenge the status quo transforming business by including disabled people in everything they do.
+This is the journey of a company, bold enough to challenge the status quo transforming business by including disabled people in everything they do.
