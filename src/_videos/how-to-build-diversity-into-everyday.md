@@ -1,5 +1,5 @@
 ---
-title: How To Build Diversity Into Everyday
+title: How to build inclusion into the everyday
 youtube_video_id: oeSlKfmOe3Y
 performance: false
 highlight: false
@@ -10,8 +10,8 @@ related_posts:
 
 Annamarie firmly believes that everyone has the right to contribute to society, to follow a passion, and to be connected to our communities in some shape or form.
 
-In her position as the People & Culture Director for&nbsp;[Stuff.co.nz](http://stuff.co.nz/), she launched and implemented the award-winning&nbsp;*Creative Spirit programme*, which gives young adults with intellectual disabilities a chance to contribute to society in a meaningful way.
+In her position as the People & Culture Director for&nbsp;[Stuff.co.nz](http://stuff.co.nz/){: target="_blank"}, she launched and implemented the award-winning&nbsp;*Creative Spirit programme*, which gives young adults with intellectual disabilities a chance to contribute to society in a meaningful way.
 
-This was followed by&nbsp;*The Coffee CO-OP*, Stuff’s Auckland office cafe, which is staffed by deaf baristas, and received the&nbsp;*2017 Attitude ACC Employer Award*, and in the same year was a&nbsp;*Diversity and Inclusion Leadership Award*&nbsp;Finalist.
+This was followed by&nbsp;*The Coffee CO-OP*, Stuff’s Auckland office cafe, which is staffed by deaf baristas. These programs and the many benefits that have arisen not only to the employees, employers but to the community have been immeasurable.
 
-She also won Fairfax Media’s inaugural&nbsp;*Women of Influence Community Leader*&nbsp;award in recognition of this work, which supports the employment of people with disabilities.
+The journey of a company, bold enough to challenge the status quo transforming business by including disabled people in everything they do.
