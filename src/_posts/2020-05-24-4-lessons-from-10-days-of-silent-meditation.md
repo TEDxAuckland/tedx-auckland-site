@@ -1,5 +1,5 @@
 ---
-title: 4 Lessons From 10 Days of Silent Meditation
+title: 4 Lessons from 10 Days of Silent Meditation
 image: /uploads/cindy-1796.jpg
 image_caption: Artwork by Cindy Leong
 image_caption_link: 'https://www.cindy-leong.com/'
@@ -70,5 +70,7 @@ After our conversation, I tried to accept that the euphoric feeling I experience
 I feel that our society might find it difficult to accept ‘bad’ things due to our belief systems. From the moment we are born we have been conditioned by the people around us that everything is either good or bad. *It’s good when it’s sunny and bad when it’s raining. It’s good to win and bad to fail.* When you get down to the core of it, there is ultimately no good or bad to anything. In reality everything is neutral but it’s up to us how we choose to perceive it. When we do not attach any negative or positive connotation to a scenario and just let it be, we can then let go of any resisting emotions.
 
 “Life is a series of natural and spontaneous changes. Don’t resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.”-Lao Tzu
+
+&nbsp;
 
 That concludes my top four things I learnt attending a Vipassana. If you’re thinking about attending a course, be mindful that everyone’s experience is unique to them, and make sure you keep an open mind. The course is donation based and there are centres all over the world, making it very accessible. Make sure you book months in advance as they fill up quickly, and try your hardest to be a diligent student, what you put in is what you’ll get out.&nbsp;
