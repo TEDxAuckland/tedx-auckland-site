@@ -57,7 +57,7 @@ While I sat meditating with unbearable back and leg pain, it was around perhaps 
 
 After a few minutes, the blissful feeling went away. Although it was short lived, the experience was so profound it had deeply penetrated into my psyche. Following this I could now fathom the experiential understanding of *anicca*, a universal truth that everything is impermanent. When the burning pain down my back was suddenly washed away by waves of tingly vibrations, that’s when it sunk in. Everything really *is* temporary.&nbsp;
 
-Impermanence is a universal truth. Moments are always changing, time does not stand still, seasons come and go, feelings change, what is alive will eventually die. Once we can accept this we can stop holding on to things – whether it be material items, emotions, relationships or our mortality with the expectation or fear that it will or must last forever.&nbsp;
+Moments are always changing, time does not stand still, seasons come and go, feelings change, what is alive will eventually die. Once we can accept this we can stop holding on to things – whether it be material items, emotions, relationships or our mortality with the expectation or fear that it will or must last forever.&nbsp;
 
 “Everything is temporary. Emotions, thoughts, people and scenery. Do not become attached, just flow with it” - Buddha
 
