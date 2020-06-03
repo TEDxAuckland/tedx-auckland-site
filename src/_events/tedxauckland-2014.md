@@ -26,6 +26,7 @@ people:
   - sarah-longbottom
   - rebecca-wadey
   - waikare-komene
+  - mohamed-hassan
 flikr_galleries:
   - '72157656140582479'
   - '72157656599694255'
@@ -34,7 +35,7 @@ flikr_galleries:
 major_partners:
 supporting_partners:
 event_partners:
-youtube_playlist: 'PLcm2pIIAwlDuTR1f_L4RvqDinFjibiqDc'
+youtube_playlist: PLcm2pIIAwlDuTR1f_L4RvqDinFjibiqDc
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:
