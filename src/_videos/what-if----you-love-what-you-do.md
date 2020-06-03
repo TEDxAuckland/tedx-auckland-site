@@ -8,6 +8,6 @@ images:
 related_posts:
 ---
 
-A creative collaboration between photographer -- Pete Longworth, sound artist -- Michael K. Chin (Tokyo Love-In) and film maker Christopher Baron.
+Plum Jungle is a creative collaboration between photographer – Pete Longworth, sound artist – Michael K. Chin (Tokyo Love-In) and film maker Christopher Baron.
 
-Recent accolades their projects include: Screenings at the Cannes Film Festival -- Court Metrage Short Film Corner (FRA). Official Selection at the End of the Pier International Film Festival (UK). Official Selection at the New York Independent Film Festival (USA). 'Winner Best International Experimental Short Film' New York Independent Film Festival. 'Winner Audience Awards International' New York Independent Film Festival.
+Recent accolades their projects include: Screenings at the Cannes Film Festival – Court Metrage Short Film Corner (FRA). Official Selection at the End of the Pier International Film Festival (UK). Official Selection at the New York Independent Film Festival (USA). 'Winner Best International Experimental Short Film' New York Independent Film Festival. 'Winner Audience Awards International' New York Independent Film Festival.
