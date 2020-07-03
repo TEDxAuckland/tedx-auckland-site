@@ -25,7 +25,7 @@ description_markdown: >-
 
 
   He is a father, husband, Quaker and musician, living between Auckland and the
-  Yukon, Northern Canada.&nbsp;
+  Yukon, Northern Canada.
 website_url: 'https://www.aut.ac.nz/profiles?id=towen&asset=265271'
 medium_url:
 twitter_url:
