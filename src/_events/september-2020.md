@@ -5,7 +5,7 @@ layout: event-dark
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:
-image: /uploads/smales-farm-x2048-onb.png
+image: /uploads/whoa-studios-2020-x3600.png
 badge_image:
 tagline:
 start_date: 2020-09-05 00:00:00 +1200
