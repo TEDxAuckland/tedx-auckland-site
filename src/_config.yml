@@ -43,14 +43,14 @@ plugins:
 
 responsive_image:
   template: _includes/responsive-image.html
-  sizes:
-    - width: 300
-    - width: 600
-    - width: 900
-    - width: 1200
-    - width: 1400
-    - width: 1800
-    - width: 3800
+  # sizes:
+  #   - width: 300
+  #   - width: 600
+  #   - width: 900
+  #   - width: 1200
+  #   - width: 1400
+  #   - width: 1800
+  #   - width: 3800
   output_path_format: assets/resized/%{filename}-%{width}.%{extension}
 
 # Build settings

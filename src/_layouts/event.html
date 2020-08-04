@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% if page.image %}
-<header class="event-hero">
+<header class="event-hero container">
   {% assign image = page.image | remove_first: "/" %}
   {% responsive_image path: image
                       class: "event-hero__img"
@@ -19,7 +19,7 @@ layout: default
 
 	<div class="container event-info__container">
 
-		<div class="event-info__content">
+		<div class="event-info__content content">
 			{{ page.content }}
       {% if page.apply_ticket_active %}
       <a href="{{ page.apply_ticket_link }}" class="button event-info__button">Apply for Ticket</a>

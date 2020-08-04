@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/JacobKorn/jekyll-responsive-image.git
+  remote: https://github.com/JacobKorn/jekyll-responsive-image.git
   revision: 19492d036f297ee9f913a0a83e1f3785fe303a72
   branch: custom-sizes-update
   specs:
@@ -12,7 +12,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    autoprefixer-rails (9.8.5)
+    autoprefixer-rails (9.8.6.1)
       execjs
     bigdecimal (2.0.0)
     colorator (1.1.0)
@@ -92,4 +92,4 @@ DEPENDENCIES
   jekyll-sitemap
 
 BUNDLED WITH
-   1.17.2
+   2.1.4
