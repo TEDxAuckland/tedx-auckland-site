@@ -1,7 +1,7 @@
 ---
 title: May 2019 event
 short_title: May 2019
-layout: event-05-2019
+layout: event-new
 upcoming: false
 image: /uploads/tedx-whoa-banner-2-3600x.png
 badge_image:

@@ -1,6 +1,7 @@
 ---
 title: September 2020
 short_title: sept-2020
+layout: event-new
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:
@@ -33,6 +34,8 @@ seo:
   links:
     -
 ---
+
+# TEDxAuckland September 2020
 
 Our first event for 2020 is back at the amazing&nbsp;**Whoa\! Studios**&nbsp;- a state of the art studio and theatre that produces numerous New Zealand and international films, television and stage productions.
 
