@@ -8,8 +8,8 @@ apply_ticket_link:
 image: /uploads/smales-farm-x2048-onb.png
 badge_image:
 tagline:
-start_date:
-end_date:
+start_date: 2020-09-05 00:00:00 +1200
+end_date: 2020-09-05 00:00:00 +1200
 address:
 people:
 flikr_galleries:
