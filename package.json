@@ -23,9 +23,9 @@
   },
   "dependencies": {
     "@cloudcannon/suite": "git+ssh://git@github.com/CloudCannon/cloudcannon-suite.git",
-    "@hapi/cryptiles": "^4.2.0",
+    "@hapi/cryptiles": "^4.2.1",
     "deep-extend": "^0.6.0",
     "randomatic": "^3.1.1",
-    "vue": "^2.6.10"
+    "vue": "^2.6.11"
   }
 }
