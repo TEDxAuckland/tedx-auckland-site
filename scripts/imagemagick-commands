@@ -1,3 +1,8 @@
 # resize to 3600px width maintaining aspect ratio, leaving images with smaller
 # widths as they are, and reducing quality ot 80%
 mogrify -path processed^Cmonitor -resize 3600x\> -quality 80 *
+
+# from uploads folder
+# not sure if this runs quality 80 on everything or not?
+# be careful running this multiple times as the effects of quality 80 compound
+mogrify -resize 3600x\> -quality 80 *.png
