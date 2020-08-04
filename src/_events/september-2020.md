@@ -5,7 +5,7 @@ layout: event-dark
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:
-image: /uploads/website-banner-x3000.png
+image: /uploads/smales-farm-x2048-onb.png
 badge_image:
 tagline:
 start_date:
@@ -15,7 +15,7 @@ people:
 flikr_galleries:
   -
 major_partners:
-  - vodafone-dark
+  - vodafone
 supporting_partners:
   - smales-farm
 event_partners:
