@@ -1,6 +1,7 @@
 ---
 title: TedX Auckland
 short_title:
+layout: event
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:
@@ -10,6 +11,7 @@ tagline:
 start_date:
 end_date:
 address:
+hide_speaker_names: false
 people:
   -
 flikr_galleries:

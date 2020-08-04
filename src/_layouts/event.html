@@ -59,7 +59,7 @@ layout: default
   <div class="container">
     <h3 class="section-heading section-heading--speakers">speakers</h3>
 
-    {% include speakers.html speakers = page.people bg_white = true %}
+    {% include speakers.html speakers = page.people hide_names = page.hide_speaker_names bg_white = true %}
   </div>
 </section>
 {% endif %}

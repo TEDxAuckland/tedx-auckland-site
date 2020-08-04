@@ -2,13 +2,14 @@
 title: 2017 event
 short_title: '2017'
 upcoming: false
-layout: event-2017
+layout: event
 image: /uploads/tedxakl-2017-banner-fw.png
 badge_image:
 tagline:
 start_date: 2017-12-01 00:00:00 +1300
 end_date: 2017-12-02 00:00:00 +1300
 address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
+hide_speaker_names: true
 people:
   - andy-crowe--rui-peng
   - alexander-macdonald
