@@ -15,7 +15,7 @@ people:
 flikr_galleries:
   -
 major_partners:
-  - vodafone
+  - vodafone-dark
 supporting_partners:
   - smales-farm
 event_partners:
