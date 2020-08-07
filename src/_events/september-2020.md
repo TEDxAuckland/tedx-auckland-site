@@ -1,7 +1,7 @@
 ---
 title: September 2020
 short_title: sept-2020
-layout: event-dark
+layout: event-2018
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:
