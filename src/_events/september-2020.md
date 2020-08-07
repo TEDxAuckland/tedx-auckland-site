@@ -15,9 +15,9 @@ people:
 flikr_galleries:
   -
 major_partners:
-  - vodafone-dark
+  - vodafone
 supporting_partners:
-  - smales-farm-for-black
+  - smales-farm
 event_partners:
   - the-grounds
   - whoa-studios
