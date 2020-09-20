@@ -10,7 +10,7 @@ badge_image:
 tagline:
 start_date: 2020-11-14 00:00:00 +1300
 end_date: 2020-11-14 00:00:00 +1300
-address:
+address: '8-14 Henderson Valley Rd, Henderson, Auckland'
 people:
 flikr_galleries:
   -
@@ -35,7 +35,7 @@ seo:
     -
 ---
 
-# TEDxAuckland September 2020
+# TEDxAuckland November 2020
 
 Our first event for 2020 is back at the amazing&nbsp;**Whoa\! Studios**&nbsp;- a state of the art studio and theatre that produces numerous New Zealand and international films, television and stage productions.
 
