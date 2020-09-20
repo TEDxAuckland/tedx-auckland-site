@@ -1,6 +1,6 @@
 ---
-title: September 2020
-short_title: sept-2020
+title: November 2020
+short_title: Nov-2020
 layout: event
 upcoming: true
 apply_ticket_active: false
@@ -8,8 +8,8 @@ apply_ticket_link:
 image: /uploads/whoa-studios-2020-x3600.png
 badge_image:
 tagline:
-start_date: 2020-09-05 00:00:00 +1200
-end_date: 2020-09-05 00:00:00 +1200
+start_date: 2020-11-14 00:00:00 +1300
+end_date: 2020-11-14 00:00:00 +1300
 address:
 people:
 flikr_galleries:
