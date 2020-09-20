@@ -5,7 +5,7 @@ layout: event
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:
-image: /uploads/whoa-studios-2020-x3600.png
+image: /uploads/page-banner-3-x3200.png
 badge_image:
 tagline:
 start_date: 2020-11-14 00:00:00 +1300
