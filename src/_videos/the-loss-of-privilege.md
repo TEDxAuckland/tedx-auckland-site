@@ -4,7 +4,7 @@ youtube_video_id: dJepOq6J5kk
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/thomas-owen-talk1.jpg
 related_posts:
 ---
 
