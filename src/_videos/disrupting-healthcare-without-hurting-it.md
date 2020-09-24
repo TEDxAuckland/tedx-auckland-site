@@ -1,6 +1,6 @@
 ---
 title: Disrupting healthcare without hurting it
-youtube_video_id: youtu.be/A-BfyofaICc
+youtube_video_id: A-BfyofaICc
 performance: false
 highlight: false
 images:
