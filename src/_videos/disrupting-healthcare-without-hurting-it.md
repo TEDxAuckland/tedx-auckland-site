@@ -4,7 +4,7 @@ youtube_video_id: youtu.be/A-BfyofaICc
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/angela-lim-talk1.jpg
 related_posts:
 ---
 
