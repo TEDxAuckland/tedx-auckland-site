@@ -31,7 +31,7 @@ website_url: 'https://www.clearhead.org.nz/'
 medium_url:
 twitter_url:
 facebook_url: 'https://www.facebook.com/clearhead.nz'
-youtube_video_id:
+youtube_video_id: A-BfyofaICc
 github_username:
 instagram_url: 'https://www.instagram.com/clearheadnz'
 linkedin_url: 'https://nz.linkedin.com/in/angelalim1'
