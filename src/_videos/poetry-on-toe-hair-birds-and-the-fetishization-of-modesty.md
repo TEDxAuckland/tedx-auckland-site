@@ -4,7 +4,7 @@ youtube_video_id: HsW_3rBBoJs
 performance: true
 highlight: false
 images:
-  - image:
+  - image: /uploads/rose-northey-talk1-65.jpg
 related_posts:
 ---
 
