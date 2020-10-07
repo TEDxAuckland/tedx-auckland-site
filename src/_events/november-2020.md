@@ -54,17 +54,12 @@ Please join us at Whoa Studios on Saturday 14th November 2020 for a night you’
 &nbsp;
 
 Timetable for the event:
-
 4pm - 4:30pm: Guests to arrive at Whoa\! Studios greeted with drinks and catch ups\!
-
 5pm - 5:40 pm: Session 1
-
 5:40 - 6:00pm *Break*
-
 6pm - 6:45 Session 2
 
 7pm - 10pm: Dinner & Drinks
 
 Whoa\! Studios + The Grounds location:
-
 [https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9)
