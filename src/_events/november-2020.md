@@ -10,7 +10,7 @@ badge_image:
 tagline:
 start_date: 2020-11-14 00:00:00 +1300
 end_date: 2020-11-14 00:00:00 +1300
-address: '8-14 Henderson Valley Rd, Henderson, Auckland'
+address: '8 Henderson Valley Rd, Henderson, Auckland'
 people:
 flikr_galleries:
   -
