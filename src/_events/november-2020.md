@@ -4,18 +4,25 @@ short_title: Nov-2020
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:
-image:
+image: /page banner 3 x3200.png
 badge_image:
 tagline:
-start_date:
-end_date:
-address:
+start_date: 2020-11-14 00:00:00 +1300
+end_date: 2020-11-14 00:00:00 +1300
+address: '8 Henderson Valley Road, Henderson,  Auckland'
 people:
 flikr_galleries:
   -
 major_partners:
+  - vodafone
 supporting_partners:
+  - smales-farm
 event_partners:
+  - sound_techniques
+  - halcyon-digital
+  - whoa-studios
+  - the-grounds
+  - lowndes_jordan
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
