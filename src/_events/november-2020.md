@@ -1,5 +1,5 @@
 ---
-title: November 2020
+title: November 2020 test
 short_title: Nov-2020
 upcoming: true
 apply_ticket_active: false
@@ -52,10 +52,7 @@ Please join us at Whoa Studios on Saturday 14th November 2020 for a night you’
 
 Timetable for the event:
 
-4pm - 4:30pm: Guests to arrive at Whoa\! Studios greeted with drinks
-5pm - 5:40 pm: Session 1
-5:40 - 6:00pm *Break*
-6pm - 6:45 Session 2
+4pm - 4:30pm: Guests to arrive at Whoa\! Studios greeted with drinks 5pm - 5:40 pm: Session 1 5:40 - 6:00pm *Break* 6pm - 6:45 Session 2
 
 7pm - 10pm: Dinner & Drinks
 
