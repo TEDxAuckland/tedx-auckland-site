@@ -43,7 +43,7 @@ event_partners:
   - blue-star
   - wear
 highlight_video_id:
-youtube_playlist:
+youtube_playlist: PLcm2pIIAwlDtVUwKpkWM0Fwl7GNNVkSpA
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:

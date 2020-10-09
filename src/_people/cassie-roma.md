@@ -26,7 +26,7 @@ website_url: 'https://cassieroma.com/'
 medium_url:
 twitter_url: 'https://twitter.com/cassieroma'
 facebook_url:
-youtube_video_id:
+youtube_video_id: _wsESQR1DAA
 github_username:
 instagram_url: 'https://www.instagram.com/cassieroma/'
 linkedin_url: 'https://www.linkedin.com/in/cassieroma'

@@ -54,7 +54,7 @@ There are only 160 seats available for this more intimate experience, so make su
 
 5pm-5:30pm: Guests to arrive at Whoa\! Studios<br>6pm-7pm: Speaker talks<br>7pm-10pm: Dinner & Drinks
 
-**Whoa\! Studios + The Grounds location**\:&nbsp;
+**Whoa\! Studios + The Grounds location**\:
 
 [https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9){: target="_blank"}
 

@@ -27,7 +27,7 @@ event_partners:
   - dans-le-noir-
   - fuzed-printing
 highlight_video_id:
-youtube_playlist:
+youtube_playlist: PLcm2pIIAwlDtyjdpbf6_poIqv8w-fEbxc
 other_youtube_playlist_title:
 other_youtube_playlist:
 ticket_url:

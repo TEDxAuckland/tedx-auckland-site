@@ -24,7 +24,7 @@ website_url: 'https://www.futureworkstudio.com/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: 1NB50uPFBT0
 github_username:
 instagram_url:
 linkedin_url: 'https://www.linkedin.com/in/vincentvuillard/'
