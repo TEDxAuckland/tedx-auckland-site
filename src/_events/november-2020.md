@@ -1,7 +1,7 @@
 ---
 title: November 2020
 short_title: Nov-2020
-layout: event
+layout: event-nov-2020
 upcoming: true
 apply_ticket_active: false
 apply_ticket_link:

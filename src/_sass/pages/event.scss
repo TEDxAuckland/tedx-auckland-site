@@ -92,7 +92,7 @@
     float: right;
   }
 
-  &__iticket {
+  &__ticket-embed {
     flex: 1 1 40%;
     margin-left: 2rem;
     @include respond(tab-land) {
@@ -102,7 +102,7 @@
     @include respond(phone) { flex: 0 1 100%; }
 
     &-title {
-      margin: 0;
+      margin: 3rem 0 5rem 0;
       background: white;
       color: black;
       text-align: center;
