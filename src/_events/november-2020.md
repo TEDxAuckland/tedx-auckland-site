@@ -43,7 +43,7 @@ seo:
 
 Every year typically has a few defining moments, but 2020 has outdone itself. It’s been a year of world-changing, paradigm-shifting development… and it’s only October. With a pandemic still raging and waves of social change swelling around the globe, there’s still a lot of history left to be made in 2020.
 
-Join the conversation, as we make history - and make sense of it.&nbsp; We’ll be one of the very few, live in person TEDx events taking place in the world and we’d love you to be part of it.
+Join the conversation, as we make history - and make sense of it. We’ll be one of the very few, live in person TEDx events taking place in the world and we’d love you to be part of it.
 
 We’ll be hosted by Whoa\! Studios in Henderson with an exceptional dining experience, provided by the eponymous Ben Bayly of the Grounds and Ahi Restaurant in Commercial Bay.
 
