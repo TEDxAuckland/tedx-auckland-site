@@ -4,7 +4,7 @@ youtube_video_id: 2AYpldIadPc
 performance: false
 highlight: false
 images:
-  - image:
+  - image: /uploads/max-rashbrooke-talk1-75.jpg
 related_posts:
 ---
 
