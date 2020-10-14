@@ -2,6 +2,8 @@
 layout: default
 title: All Events
 image: /assets/images/bg-upcoming-events.jpg
+show_speaker_highlights: false
+speaker_highlight_title: Speaker Highlights
 people:
 events:
   - dining-in-the-dark
@@ -87,10 +89,12 @@ events:
   </div>
 </section>
 
+{% if page.show_speaker_highlights %}
 <section>
   <div class="container">
-    <h1 class="event-highlights__heading">2018 Speaker Highlight</h1>
+    <h1 class="event-highlights__heading">{{ page.speaker_highlight_title }}</h1>
 
     {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
   </div>
 </section>
+{% endif %}
