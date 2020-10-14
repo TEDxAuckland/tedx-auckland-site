@@ -14,7 +14,7 @@ website_url: 'http://www.maxrashbrooke.org.nz/'
 medium_url: 'http://www.goodsociety.nz/'
 twitter_url: 'https://twitter.com/MaxRashbrooke'
 facebook_url:
-youtube_video_id:
+youtube_video_id: 2AYpldIadPc
 github_username:
 instagram_url:
 linkedin_url:
