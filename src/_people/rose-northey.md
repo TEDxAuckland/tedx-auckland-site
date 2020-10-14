@@ -14,14 +14,11 @@ description_markdown: >-
   a performance poet: vibrant, authentic and effortlessly unique” (Carrie
   Rudzinski), and “one of the most original and engaging poets I’ve seen in
   years” (Dominic "Tourettes" Hoey).
-
-
-  At TEDxAuckland: tūmanako, Rose will be presenting two original poems.
 website_url:
 medium_url:
 twitter_url:
 facebook_url: 'https://www.facebook.com/WhenPoetsAttack/'
-youtube_video_id:
+youtube_video_id: HsW_3rBBoJs
 github_username:
 instagram_url: 'https://www.instagram.com/whenpoetsattack/'
 linkedin_url:
