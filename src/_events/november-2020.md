@@ -15,6 +15,7 @@ people:
   - peter-gluckman
   - m-r--x--dentith
   - belinda-mckenzie
+  - shalsee-vigeant
 flikr_galleries:
   -
 major_partners:
