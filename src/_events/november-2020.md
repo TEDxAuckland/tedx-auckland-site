@@ -16,6 +16,7 @@ people:
   - m-r--x--dentith
   - belinda-mckenzie
   - shalsee-vigeant
+  - anderson-rocio
 flikr_galleries:
   -
 major_partners:
