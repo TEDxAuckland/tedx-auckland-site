@@ -61,3 +61,25 @@ Please join us at Whoa\! Studios on Saturday 14th November 2020 for a night youâ
 7pm - 10pm: Dinner & Drinks
 
 Whoa\! Studios + The Grounds location:&nbsp;[https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9)
+
+Menu matched with Wine or Beer
+
+*Round 1*
+
+Dairy Flat goats fromage frais
+
+Organic asparagus w fennel jam & cropper tomatoes
+
+*Round 2*
+
+Scampi Corn dogs w Jo-Bros original sauce
+
+Koura Wagyu tartare with Ahi hot sauce, nasturtium, crispy agria & bull kelp salt
+
+*Round 3*
+
+Jo-Bros x Koura Wagyu Burger
+
+*Round 4*
+
+Strawberry & elderflower TEDx magnum gelato with passionfruit pavlova
