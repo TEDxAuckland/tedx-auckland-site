@@ -54,7 +54,7 @@ We’ll be hosted by Whoa\! Studios in Henderson with an exceptional dining expe
 
 We have an incredible line up of 5 speakers and a 5 course dinner. With only 150 places available, get in quick to be a part of it.
 
-Please join us at Whoa\! Studios on Saturday 14th November 2020 for a night you’ll never forget in a year you’d like to forget.
+Join us at Whoa\! Studios on Saturday 14th November 2020 for a night you’ll never forget in a year you’d like to forget.
 
 **Timetable**<br>4pm - Guests to arrive at Whoa\! Studios greeted with drinks<br>5pm - 5:50pm: Session 1<br>*5:50 - 6:20pm Break*<br>6:20pm - 7pm Session 2
 
