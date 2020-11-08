@@ -66,7 +66,7 @@ Join us at Whoa\! Studios on Saturday 14th November 2020 for a night you’ll ne
 
 Whoa\! Studios + The Grounds location:&nbsp;[https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9)
 
-Menu matched with Wine or Beer<br>
+**Menu matched with Wine or Beer**<br>
 *Round 1*<br>
 Dairy Flat goats fromage frais<br>
 Organic asparagus w fennel jam & cropper tomatoes<br>
