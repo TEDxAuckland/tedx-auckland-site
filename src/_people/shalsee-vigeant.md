@@ -1,7 +1,7 @@
 ---
 name: Shalsee Vigeant
 email:
-image: /uploads/shalsee-vigeant-pic-77-1011485.jpg
+image: /uploads/shalsee-and-tuuka-2-x2400.jpg
 description_markdown: >-
   Shalsee is a veterinary doctor, director and practice owner with a career
   spanning over two decades. Shalsee has worked across the world specialising in
