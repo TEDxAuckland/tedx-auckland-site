@@ -21,7 +21,7 @@ website_url: unidirectory.auckland.ac.nz/profile/a-fernando
 medium_url:
 twitter_url: 'https://twitter.com/tonyfernando3rd'
 facebook_url:
-youtube_video_id:
+youtube_video_id: pbrHIC6BxWw
 github_username:
 instagram_url:
 linkedin_url: 'https://www.linkedin.com/in/dr-tony-fernando-038a33a1/'
