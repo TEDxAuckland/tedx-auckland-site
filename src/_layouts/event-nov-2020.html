@@ -30,7 +30,7 @@ layout: default
       <a href="{{ page.apply_ticket_link }}" class="button event-info__button">Apply for Ticket</a>
       {% endif %}
     </div>
-    
+
 	</div>
 </section>
 {% endif %}
@@ -65,6 +65,16 @@ layout: default
     <h3 class="section-heading section-heading--speakers">speakers</h3>
 
     {% include speakers.html speakers = page.people hide_names = page.hide_speaker_names bg_white = true %}
+  </div>
+</section>
+{% endif %}
+
+{% if page.people %}
+<section id="themeShowcase" class="section">
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">theme</h3>
+
+    {% include carousel.html images = page.carousel_images bg_white = true %}
   </div>
 </section>
 {% endif %}
@@ -117,27 +127,27 @@ layout: default
 </section>
 {% endif %}
 
-<script>        
-  var humanitix = { 
-          findPos: function (obj) { 
-              var curtop = 0; 
-              if (obj.offsetParent) { 
-                  do { curtop += obj.offsetTop; } while ((obj = obj.offsetParent)); return [curtop]; 
-              } 
-          } 
-      }; 
-  
+<script>
+  var humanitix = {
+          findPos: function (obj) {
+              var curtop = 0;
+              if (obj.offsetParent) {
+                  do { curtop += obj.offsetTop; } while ((obj = obj.offsetParent)); return [curtop];
+              }
+          }
+      };
+
       window.addEventListener('message', function (e) {
           if (e.origin !== "https://events.humanitix.com") {
               return;
-          }               
-          var messageData = e.data;            
-          var iframeEl = document.getElementById('iframe-container');            
-          if (iframeEl && messageData && !isNaN(messageData.scrollHeight)){                
-              iframeEl.style.height = messageData.scrollHeight + 'px';            
-          }            
-          if (iframeEl && messageData && messageData.pageChange) {              
-              window.scroll(0, humanitix.findPos(iframeEl));          
-          }        
+          }
+          var messageData = e.data;
+          var iframeEl = document.getElementById('iframe-container');
+          if (iframeEl && messageData && !isNaN(messageData.scrollHeight)){
+              iframeEl.style.height = messageData.scrollHeight + 'px';
+          }
+          if (iframeEl && messageData && messageData.pageChange) {
+              window.scroll(0, humanitix.findPos(iframeEl));
+          }
       }, false);
   </script>

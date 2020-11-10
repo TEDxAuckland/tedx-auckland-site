@@ -32,6 +32,15 @@ event_partners:
   - brothers-beer
   - babich
   - korua-food
+carousel_images:
+  - /uploads/1-THEME DESC - COVER150.png
+  - /uploads/2-MIND MAP150.png
+  - /uploads/3-INTRO150.png
+  - /uploads/4-FIRST TRANSLATIONS150.png
+  - /uploads/5-X AS A CONCEPT150.png
+  - /uploads/6-SIMPLIFICATION150.png
+  - /uploads/8-THEME ICON150.png
+  - /uploads/9-FINAL150.png
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:

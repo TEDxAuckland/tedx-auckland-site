@@ -64,6 +64,16 @@ layout: default
 </section>
 {% endif %}
 
+{% if page.people %}
+<section id="themeShowcase" class="section">
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">theme</h3>
+
+    {% include carousel.html images = page.carousel_images bg_white = true %}
+  </div>
+</section>
+{% endif %}
+
 {% if page.other_youtube_playlist %}
 <section id="extraPlaylist" class="section">
   <div class="container">

@@ -1,0 +1,23 @@
+.carousel {
+  .hooper {
+    height: unset;
+  }
+
+  .hooper-indicator {
+    border: 1px solid black;
+    &.is-active {
+      background-color: $brand-color;
+    }
+  }
+
+  .hooper-navigation {
+    path {
+      stroke: white;
+      stroke-width: 1px;
+    }
+  }
+
+  &__img {
+    width: 100%;
+  }
+}
