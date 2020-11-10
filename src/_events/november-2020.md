@@ -52,7 +52,7 @@ Join the conversation, as we make history - and make sense of it. We’ll be one
 
 We’ll be hosted by Whoa\! Studios in Henderson with an exceptional dining experience, provided by the eponymous [Ben Bayly](https://benbayly.co.nz) of [The Grounds](https://thegrounds.co.nz) and [Ahi Restaurant](https://www.ahirestaurant.co.nz) in Commercial Bay.
 
-We have an incredible line up of 5 speakers and a 5 course dinner. With only 150 places available, get in quick to be a part of it.
+We have an incredible line up of 5 speakers and a 4 course dinner. With only 150 places available, get in quick to be a part of it.
 
 Join us at Whoa\! Studios on Saturday 14th November 2020 for a night you’ll never forget in a year you’d like to forget.
 
