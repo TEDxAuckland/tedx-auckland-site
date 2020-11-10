@@ -30,6 +30,7 @@ event_partners:
   - sound_techniques
   - halcyon-digital
   - brothers-beer
+  - babich
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
