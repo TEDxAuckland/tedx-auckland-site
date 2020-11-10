@@ -29,6 +29,7 @@ event_partners:
   - lowndes_jordan
   - sound_techniques
   - halcyon-digital
+  - brothers-beer
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
