@@ -51,7 +51,7 @@ Every year typically has a few defining moments, but 2020 has outdone itself. It
 
 Join the conversation, as we make history - and make sense of it. We’ll be one of the very few, live in person TEDx events taking place in the world and we’d love you to be part of it.
 
-We’ll be hosted by Whoa\! Studios in Henderson with an exceptional dining experience, provided by world renowned chef&nbsp;[Ben Bayly](https://benbayly.co.nz) of [The Grounds](https://thegrounds.co.nz) and [Ahi Restaurant](https://www.ahirestaurant.co.nz).
+We’ll be hosted by Whoa\! Studios in Henderson with an exceptional dining experience by world multi-award winning Kiwi chef&nbsp;[Ben Bayly](https://benbayly.co.nz) of [The Grounds](https://thegrounds.co.nz) and [Ahi Restaurant](https://www.ahirestaurant.co.nz).
 
 We have an incredible line up of 5 speakers and a 4 course dinner. With only 150 places available, get in quick to be a part of it.
 
