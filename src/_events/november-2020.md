@@ -16,6 +16,7 @@ people:
   - belinda-mckenzie
   - shalsee-vigeant
   - anderson-rocio
+  - a-meditation-in-blackness
 flikr_galleries:
   -
 major_partners:
