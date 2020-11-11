@@ -68,7 +68,7 @@ We have an incredible line up of 5 speakers and a 4 course dinner. With only 150
 
 Join us at Whoa\! Studios on Saturday 14th November 2020 for a night you’ll never forget in a year you’d like to forget.
 
-**Timetable**<br>4pm - Guests to arrive at Whoa\! Studios greeted with drinks<br>5pm - 5:50pm: Session 1<br>*5:50 - 6:20pm Break*<br>6:20pm - 7pm Session 2
+**Timetable**<br>4:30pm - Guests to arrive at Whoa\! Studios greeted with drinks<br>5:30pm - 6:45pm TEDxAuckland 2020<br>Anderson Rocio -&nbsp;*Performance*<br>Shalsee Vigeant<br>Sir Peter Gluckman<br>Belinda McKenzie<br>A meditation in blackness -&nbsp;*Performance*
 
 7pm - 10pm: Dinner & Drinks
 
