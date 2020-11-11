@@ -13,7 +13,6 @@ end_date: 2020-11-14 00:00:00 +1300
 address: '8 Henderson Valley Rd, Henderson, Auckland'
 people:
   - peter-gluckman
-  - m-r--x--dentith
   - belinda-mckenzie
   - shalsee-vigeant
   - anderson-rocio
