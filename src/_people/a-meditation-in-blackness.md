@@ -1,32 +1,38 @@
 ---
 name: A meditation in blackness
 email:
-image:
+image: /uploads/artboard-1-copy-22400.jpg
 description_markdown: >-
-  **Otis Donovan Herring** \| From Georgia, USA, Otis received his dance
-  training and BFA from Howard University. Otis has danced for several notable
-  companies in New York, moving to Auckland in 2013 joining the renowned Black
-  Grace Dance company. He currently teachers contemporary movement and
-  choreographs locally and internationally.
+  Emergent from each of their own particular 'loamy black soils' - via Africa,
+  America, the UK, three supremely talented and gifted men find themselves
+  converging here, in the antipodean enclave, that is Tamaki Makaurau, Aotearoa.
+  In a collective collaboration, inspired by the words of Bayo Akomalofe PhD.
 
 
-  **Fellis McGuire** \| Fellis in his own words is an Artist, Griot, Drummer,
-  Writer, Teacher, Dreamer, Warrior and&nbsp; Traveller.
+  A lauded academic, poet and philosopher, who explores the world at its
+  ‘aleathean edges', musing the pressing questions related to race, culture and
+  belonging.&nbsp; Through his Emergent Network, an alliance of people and
+  initiatives have been rallied, using art, research and ritual to reframe some
+  of the world's interlocking social and environmental problems.
 
 
-  **Yaw Asumadu** \| Asumadu is a Master Drummer, composer, african flautist,
-  bass guitarist and xylophone player. Born in Ghana, he started playing drums
-  at a young age. Asumadu has worked with the Ghanian Pan African Orchestra,
-  Stevie Wonder and performed with Andy Summers, Oren Marshall and Michael
-  Jackson.
+  Otis Donovan Herring, Fellis McGuire and Yaw Asumadu are equally accomplished
+  performers, with combined talents of being griots, a master drummer, dancer,
+  writer, actor, composer, teacher, musician, choreographer.&nbsp; Between them,
+  they have danced, played music and performed with many notable peoples and
+  companies around the globe, sharing stages and ages with the likes of
+  Kankouran West African Dance Company, Ronald K. Brown/Evidence, Stevie Wonder,
+  Micheal Jackson, Black Grace and Angelique Kidgo.
 
 
-  **Bayo Akomolafe** \| An academic, poet and philosopher, Bayo Akomolafe has
-  dedicated his life to mediating between the spiritual and the scientific. In
-  2016, he co-founded [The Emergence Network](http://www.emergencenetwork.org/),
-  an alliance of people, initiatives and communities using art, research and
-  ritual to reframe some of the world's interlocking social and environmental
-  problems.
+  And by the sweet grace and good fortune of Mawu, landing here, for now,
+  blessing the shores and senses of New Zealand and her peoples, with their
+  multiple individual creative pursuits, such as The New Telepathics, ASA\! and
+  Ozi Ozaa down under.
+
+
+  Tonight, they unite in African diaspora, embodying the rich and visceral text,
+  inviting us to meditate with them, in blackness...
 website_url:
 medium_url:
 twitter_url:
