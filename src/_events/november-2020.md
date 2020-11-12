@@ -36,21 +36,21 @@ event_partners:
   - ahi-restaurant
   - good-herb-soda
 carousel_images:
-  - image: /uploads/1-THEME DESC - COVER150.png
+  - image: /uploads/1-theme-desc---cover.png
     alt: theme slideshow image
-  - image: /uploads/2-MIND MAP150.png
+  - image: /uploads/2-mind-map.png
     alt: theme slideshow image
-  - image: /uploads/3-INTRO150.png
+  - image: /uploads/3-intro.png
     alt: theme slideshow image
-  - image: /uploads/4-FIRST TRANSLATIONS150.png
+  - image: /uploads/4-first-translations.png
     alt: theme slideshow image
-  - image: /uploads/5-X AS A CONCEPT150.png
+  - image: /uploads/5-x-as-a-concept.png
     alt: theme slideshow image
-  - image: /uploads/6-SIMPLIFICATION150.png
+  - image: /uploads/6-simplification.png
     alt: theme slideshow image
-  - image: /uploads/8-THEME ICON150.png
+  - image: /uploads/7-theme-icon.png
     alt: theme slideshow image
-  - image: /uploads/9-FINAL150.png
+  - image: /uploads/8-final.png
     alt: theme slideshow image
 highlight_video_id:
 youtube_playlist:
