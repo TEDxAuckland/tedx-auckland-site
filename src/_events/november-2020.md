@@ -34,6 +34,7 @@ event_partners:
   - korua-food
   - qt-auckland
   - ahi-restaurant
+  - good-herb-soda
 carousel_images:
   - image: /uploads/1-THEME DESC - COVER150.png
     alt: theme slideshow image
