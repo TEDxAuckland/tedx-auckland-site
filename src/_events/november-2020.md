@@ -33,6 +33,7 @@ event_partners:
   - babich
   - korua-food
   - qt-auckland
+  - ahi-restaurant
 carousel_images:
   - /uploads/1-THEME DESC - COVER150.png
   - /uploads/2-MIND MAP150.png
