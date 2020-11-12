@@ -24,33 +24,33 @@ major_partners:
 supporting_partners:
   - smales-farm
 event_partners:
-  - the-grounds
   - whoa-studios
-  - lowndes_jordan
-  - sound_techniques
   - halcyon-digital
+  - sound_techniques
   - brothers-beer
   - babich
-  - korua-food
-  - qt-auckland
-  - ahi-restaurant
   - good-herb-soda
+  - qt-auckland
+  - lowndes_jordan
+  - ahi-restaurant
+  - the-grounds
+  - korua-food
 carousel_images:
-  - image: /uploads/1-theme-desc---cover.png
+  - image: /uploads/1-THEME DESC - COVER150.png
     alt: theme slideshow image
-  - image: /uploads/2-mind-map.png
+  - image: /uploads/2-MIND MAP150.png
     alt: theme slideshow image
-  - image: /uploads/3-intro.png
+  - image: /uploads/3-INTRO150.png
     alt: theme slideshow image
-  - image: /uploads/4-first-translations.png
+  - image: /uploads/4-FIRST TRANSLATIONS150.png
     alt: theme slideshow image
-  - image: /uploads/5-x-as-a-concept.png
+  - image: /uploads/5-X AS A CONCEPT150.png
     alt: theme slideshow image
-  - image: /uploads/6-simplification.png
+  - image: /uploads/6-SIMPLIFICATION150.png
     alt: theme slideshow image
-  - image: /uploads/7-theme-icon.png
+  - image: /uploads/8-THEME ICON150.png
     alt: theme slideshow image
-  - image: /uploads/8-final.png
+  - image: /uploads/9-FINAL150.png
     alt: theme slideshow image
 highlight_video_id:
 youtube_playlist:
