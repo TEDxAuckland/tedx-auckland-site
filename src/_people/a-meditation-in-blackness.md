@@ -6,7 +6,8 @@ description_markdown: >-
   Emergent from each of their own particular 'loamy black soils' - via Africa,
   America, the UK, three supremely talented and gifted men find themselves
   converging here, in the antipodean enclave, that is Tamaki Makaurau, Aotearoa.
-  In a collective collaboration, inspired by the words of Bayo Akomalofe PhD.
+  In a collective collaboration, inspired by the words of Bayo Akomalofe
+  PhD.&nbsp;
 
 
   A lauded academic, poet and philosopher, who explores the world at its
@@ -32,7 +33,7 @@ description_markdown: >-
 
 
   Tonight, they unite in African diaspora, embodying the rich and visceral text,
-  inviting us to meditate with them, in blackness...
+  inviting us to meditate with them, in blackness…
 website_url:
 medium_url:
 twitter_url:
