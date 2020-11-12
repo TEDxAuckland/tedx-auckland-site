@@ -23,7 +23,8 @@ supporting_partners:
 event_partners:
   -
 carousel_images:
-  -
+  - image:
+    alt:
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
