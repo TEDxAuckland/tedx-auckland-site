@@ -35,7 +35,6 @@ event_partners:
 youtube_playlist: PLcm2pIIAwlDt91h9DBqsgz7F6y7Q5kW7Y
 other_youtube_playlist_title:
 other_youtube_playlist:
-ticket_url:
 permalink: /events/2010/
 seo:
   name: TEDxAuckland 2010

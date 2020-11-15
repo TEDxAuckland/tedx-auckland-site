@@ -37,7 +37,6 @@ highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
 other_youtube_playlist:
-ticket_url:
 permalink:
 seo:
   name: TEDxAuckland

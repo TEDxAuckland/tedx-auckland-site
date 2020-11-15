@@ -41,7 +41,6 @@ highlight_video_id: sDgL_9RbDrs
 youtube_playlist: PLcm2pIIAwlDu5hg5mkxbHFesUIMgFGyYz
 other_youtube_playlist_title:
 other_youtube_playlist:
-ticket_url:
 permalink: /events/05-2019/
 seo:
   name: TEDxAuckland

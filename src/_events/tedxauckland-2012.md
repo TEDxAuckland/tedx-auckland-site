@@ -45,7 +45,6 @@ event_partners:
 youtube_playlist: 'PLcm2pIIAwlDtgZg-UX4afZg-Y5z_9Yk3h'
 other_youtube_playlist_title:
 other_youtube_playlist:
-ticket_url:
 permalink: /events/2012/
 seo:
   name: TEDxAuckland 2012
