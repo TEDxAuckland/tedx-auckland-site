@@ -2,6 +2,16 @@
 title: 2017 event
 short_title: '2017'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 layout: event
 image: /uploads/tedxakl-2017-banner-fw.png
 badge_image:

@@ -2,6 +2,16 @@
 title: 2014 event
 short_title: '2014'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 image:
 badge_image:
 tagline: Ascending

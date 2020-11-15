@@ -2,6 +2,16 @@
 title: 2016 event
 short_title: '2016'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 tagline: flipside
 image: /uploads/flipside-banner.jpg
 badge_image:

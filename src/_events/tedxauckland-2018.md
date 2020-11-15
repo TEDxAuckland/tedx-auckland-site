@@ -2,6 +2,16 @@
 title: 2018 event
 short_title: '2018'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 layout: event-2018
 image: /uploads/tedx-auckland-2018-banner-3.1.jpg
 badge_image:

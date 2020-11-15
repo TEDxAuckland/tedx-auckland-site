@@ -3,8 +3,16 @@ title: 'tūmanako: to hope for a better future - Nov 2019'
 short_title: tūmanako
 layout: event-tumanako
 upcoming: false
-apply_ticket_active: false
-apply_ticket_link: 'https://tedxauckland.com/community/events#/tumanako/buy-tickets'
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link: 'https://tedxauckland.com/community/events#/tumanako/buy-tickets'
 image: /uploads/tumanako-theme.svg
 badge_image:
 tagline:

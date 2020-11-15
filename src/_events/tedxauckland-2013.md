@@ -2,6 +2,16 @@
 title: 2013 event
 short_title: '2013'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 image: /uploads/20130803-tedx-georgias-high-77.jpg
 badge_image:
 tagline: convergemerge

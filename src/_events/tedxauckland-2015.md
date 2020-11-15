@@ -2,6 +2,16 @@
 title: 2015 event
 short_title: '2015'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 image: /uploads/2015banner2.png
 badge_image:
 tagline:

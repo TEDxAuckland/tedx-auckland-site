@@ -3,6 +3,16 @@ title: May 2019 event
 short_title: May 2019
 layout: event
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 image: /uploads/tedx-whoa-banner-2-3600x.png
 badge_image:
 tagline:

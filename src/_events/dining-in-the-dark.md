@@ -3,8 +3,16 @@ title: IN THE DARK
 short_title: IN THE DARK
 upcoming: false
 layout: event-dark
-apply_ticket_active: false
-apply_ticket_link: 'https://tedxauckland.com/community/events#/dark-2019/apply'
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link: 'https://tedxauckland.com/community/events#/dark-2019/apply'
 image: /uploads/dining-in-the-dark.png
 badge_image:
 tagline: hear you there ...

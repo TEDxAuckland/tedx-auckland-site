@@ -2,6 +2,16 @@
 title: 2012 event
 short_title: '2012'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 image:
 badge_image:
 tagline:

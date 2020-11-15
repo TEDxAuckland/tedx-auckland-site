@@ -17,14 +17,21 @@ layout: default
 {% if page_content != "" %}
 <section id="more" class="section">
 
-	<div class="container event-info__container">
+  <div class="container event-info__container">
+
+    {% if page.ticket_sales.embed.active %}
+    <div id="buyTickets" class="event-info__content event-info__content-full-width">
+      <h1 class="event-info__ticket-embed-title">Buy Tickets</h1>
+      {{ page.ticket_sales.embed.code }}
+    </div>
+    {% endif %}
 
 		<div class="event-info__content content">
 			{{ page.content }}
-      {% if page.apply_ticket_active %}
-      <a href="{{ page.apply_ticket_link }}" class="button event-info__button">Apply for Ticket</a>
+      {% if page.ticket_sales.application.active %}
+      <a href="{{ page.ticket_sales.application.link }}" class="button event-info__button">Apply for Ticket</a>
       {% endif %}
-		</div>
+    </div>
 
 	</div>
 </section>

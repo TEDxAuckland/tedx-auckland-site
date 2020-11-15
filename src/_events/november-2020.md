@@ -3,8 +3,16 @@ title: November 2020
 short_title: Nov-2020
 layout: event-nov-2020
 upcoming: false
-apply_ticket_active: false
-apply_ticket_link:
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code: <iframe id="iframe-container" src="https://events.humanitix.com/tedxauckland-2020/tickets?w=true&p=%23e62b1e" width="100%" height="600px" frameborder="0"></iframe>
+  application:
+    active: false
+    link:
 image: /uploads/page-banner-3-x3200.png
 badge_image:
 tagline:

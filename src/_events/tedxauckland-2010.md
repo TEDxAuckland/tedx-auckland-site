@@ -2,6 +2,16 @@
 title: 2010 event
 short_title: '2010'
 upcoming: false
+ticket_sales:
+  link:
+    active: false
+    src:
+  embed:
+    active: false
+    code:
+  application:
+    active: false
+    link:
 image:
 badge_image:
 tagline: Ideas Worth Doing
