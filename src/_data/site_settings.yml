@@ -1,11 +1,10 @@
 upcoming_event_bar:
-  active: true
+  active: false
   event_short_title: Nov-2020
   left: BUY TICKETS
-  right: >-
-    TEDxAuckland: Whoa! Studios | Saturday November 14th, 2020
+  right: 'TEDxAuckland: Whoa! Studios | Saturday November 14th, 2020'
 buy_ticket_button:
-  active: true
+  active: false
   url: '/events/november-2020#buyTickets'
 navigation:
   - title: Talks/
