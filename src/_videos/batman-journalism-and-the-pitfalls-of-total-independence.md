@@ -14,6 +14,4 @@ There are many advantages and disadvantages by being an independent journalist. 
 
 As a young man, Keith dreamed of being a hobo-journalist – seeing the world and telling stories while living out of a sack. But what started out as a naive warzone adventure turned into lifelong vendetta and alternative funding model for independent journalism.
 
-It has been almost a decade, and these days Keith does data visualisation consulting to fund his journalism projects, with the thought of sustainable crowdfunding just over the horizon. The independence from self-funding (“Batman journalism!”) creates a wonderful and dangerous space for innovation, disruption, getting lost and going crazy. If he’s lucky, one day, it might even allow him to live out of a sack.
-
-This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx
+It has been almost a decade, and these days Keith does data visualisation consulting to fund his journalism projects, with the thought of sustainable crowdfunding just over the horizon. The independence from self-funding (“Batman journalism\!”) creates a wonderful and dangerous space for innovation, disruption, getting lost and going crazy. If he’s lucky, one day, it might even allow him to live out of a sack.
