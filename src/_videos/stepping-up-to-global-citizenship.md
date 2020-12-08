@@ -4,7 +4,7 @@ youtube_video_id: V5VKIihK6fQ
 performance: false
 highlight: false
 images:
-  image: /uploads/grace-clapham--solonia-teodros-talk-2-1.jpg
+  image: /uploads/grace-clapham--solonia-teodros-talk-1-1.jpg
 related_posts:
 ---
 
