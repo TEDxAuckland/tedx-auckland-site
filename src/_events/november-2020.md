@@ -9,7 +9,10 @@ ticket_sales:
     src:
   embed:
     active: false
-    code: <iframe id="iframe-container" src="https://events.humanitix.com/tedxauckland-2020/tickets?w=true&p=%23e62b1e" width="100%" height="600px" frameborder="0"></iframe>
+    code: >-
+      <iframe id="iframe-container"
+      src="https://events.humanitix.com/tedxauckland-2020/tickets?w=true&p=%23e62b1e"
+      width="100%" height="600px" frameborder="0"></iframe>
   application:
     active: false
     link:
@@ -42,7 +45,7 @@ event_partners:
   - lowndes_jordan
   - ahi-restaurant
   - the-grounds
-  - korua-food
+  - know-your-food
 carousel_images:
   - image: /uploads/1-THEME DESC - COVER150.png
     alt: theme slideshow image
