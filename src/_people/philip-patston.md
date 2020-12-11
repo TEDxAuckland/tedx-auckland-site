@@ -10,13 +10,12 @@ description_markdown: >-
   diversity. His focus is on engaging people to achieve positive social change
   by reinventing the labels with which we categorise ourselves and each other.
 website_url: 'https://www.diversitynz.com/'
-medium_url: 'http://philippatston.com/blog/'
+medium_url: 'http://philippatston.com/'
 twitter_url: 'https://twitter.com/PhilipPatston'
 facebook_url:
-youtube_video_id: 'hNUgOhJiQZc'
+youtube_video_id: hNUgOhJiQZc
 github_username:
 instagram_url: 'https://www.instagram.com/philippatston/'
 linkedin_url:
 ---
-
 Enter your description here...
