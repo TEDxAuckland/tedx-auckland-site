@@ -14,13 +14,12 @@ description_markdown: >-
   illustrate and discuss the universal ingredients of successful personal change
   and growth.
 website_url: 'http://www.whatsyourprison.com/'
-medium_url:
+medium_url: 'https://paulwood.com/'
 twitter_url: 'https://twitter.com/drpaulwood'
 facebook_url:
-youtube_video_id: 'LjjlsW1MDmc'
+youtube_video_id: LjjlsW1MDmc
 github_username:
 instagram_url:
 linkedin_url:
 ---
-
 Enter your description here...
