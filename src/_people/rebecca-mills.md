@@ -16,16 +16,12 @@ description_markdown: >-
   A systems thinker and scientist, she finds leverage points which, when
   activated, result in high impact, transformative and scalable models for
   individuals, business, cities and entire countries.
-
-
-  Rebecca is one New Zealander to watch out for.
 website_url: 'http://www.rebeccamills.co/'
 twitter_url: 'https://twitter.com/_rebeccamills'
 facebook_url:
-youtube_video_id: 'd53-nyFzoVI'
+youtube_video_id: d53-nyFzoVI
 github_username:
 instagram_url: 'https://www.instagram.com/_rebeccamills/'
 linkedin_url:
 ---
-
 Enter your description here...
