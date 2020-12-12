@@ -8,4 +8,4 @@ images:
 related_posts:
 ---
 
-Within the start-up sector, there is a history of negligence towards people with disabilities. Grace Stratton, born with spastic diplegia cerebral palsy, has experienced the lack of accessibility in start-ups firsthand, and is now working to change the sector's attitude. In this talk, Grace argues that fostering universal accessibility can majorly benefit all businesses and creates many new opportunities
+Within the start-up sector, there is a history of negligence towards people with disabilities. Grace Stratton, born with spastic diplegia cerebral palsy, has experienced the lack of accessibility in start-ups firsthand, and is now working to change the sector's attitude. In this talk, Grace argues that fostering universal accessibility can majorly benefit all businesses and creates many new opportunities.
