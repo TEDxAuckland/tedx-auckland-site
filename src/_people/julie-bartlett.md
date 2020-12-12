@@ -14,7 +14,7 @@ description_markdown: >-
   track record and the social change models she has created, Julie is excited to
   be unleashing SOUL.
 website_url: 'http://www.soul.kiwi/'
-medium_url:
+medium_url: 'http://www.starjam.org/'
 twitter_url: 'https://twitter.com/JulieBartlettNZ'
 facebook_url:
 youtube_video_id: 07nFY8dUCbo
@@ -22,5 +22,4 @@ github_username:
 instagram_url:
 linkedin_url:
 ---
-
 Enter your description here...
