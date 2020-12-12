@@ -12,11 +12,10 @@ description_markdown: >-
   Zealand’s most prestigious design award, the John Britten Award.
 website_url: 'https://www.davidtrubridge.com/'
 twitter_url:
-facebook_url:
-youtube_video_id: 'GtQG6jAxOK4'
+facebook_url: 'https://www.facebook.com/david.trubridge/'
+youtube_video_id: GtQG6jAxOK4
 github_username: 'https://medium.com/@davidtrubridge'
-instagram_url:
+instagram_url: 'https://www.instagram.com/davidtrubridge/'
 linkedin_url:
 ---
-
 Enter your description here...
