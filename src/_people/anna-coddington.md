@@ -19,10 +19,9 @@ description_markdown: >-
 website_url: 'http://www.annacoddington.com/'
 twitter_url: 'https://twitter.com/AnnaCoddington'
 facebook_url: 'https://www.facebook.com/AnnaCoddingtonMusic'
-youtube_video_id: 'X9R84sNlLYY'
+youtube_video_id: X9R84sNlLYY
 github_username:
 instagram_url: 'https://www.instagram.com/annacoddington/'
 linkedin_url:
 ---
-
 Enter your description here...
