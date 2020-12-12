@@ -12,12 +12,11 @@ description_markdown: >-
   supporter of the arts as evidenced by her promotion of the arts, culture and
   heritage portfolio during her time as Prime Minister.
 website_url: 'https://helenclarknz.com/'
-twitter_url: 'https://twitter.com/helenclarknz'
+twitter_url: 'https://twitter.com/HelenClarkNZ'
 facebook_url: 'https://www.facebook.com/helenclarknz/'
-youtube_video_id: 'rrsBQo6GVC4'
+youtube_video_id: rrsBQo6GVC4
 github_username:
 instagram_url:
 linkedin_url:
 ---
-
 Enter your description here...
