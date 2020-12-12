@@ -15,10 +15,9 @@ website_url: 'http://pattersons.com/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id: 'Mu5xYDkw9ys'
+youtube_video_id: Mu5xYDkw9ys
 github_username:
 instagram_url: 'https://www.instagram.com/pattersonassociates/'
 linkedin_url:
 ---
-
 Enter your description here...
