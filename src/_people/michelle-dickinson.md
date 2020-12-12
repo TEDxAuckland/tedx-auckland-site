@@ -17,13 +17,12 @@ description_markdown: >-
   and sports, and to encourage environmentally sustainable living through
   engineering design.
 website_url: 'http://www.medickinson.com/'
-medium_url:
+medium_url: 'https://www.nanogirl.co/'
 twitter_url: 'https://twitter.com/medickinson'
 facebook_url:
-youtube_video_id: '9jV-KW1jpJo'
+youtube_video_id: 9jV-KW1jpJo
 github_username:
 instagram_url:
 linkedin_url:
 ---
-
 Enter your description here...
