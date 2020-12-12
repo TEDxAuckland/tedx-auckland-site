@@ -16,4 +16,4 @@ He founded the Centre for the Study & Treatment of Vascular Birthmarks in 1996. 
 
 Discoveries by Dr Tan’s team of the stem cell origin of strawberry birthmarks underscore the new low-cost treatment of this tumour using anti-hypertensive medications. Building on this work, cancer stem cells, the proposed ‘root’ of cancer, have been discovered in 14 types of cancer, leading to a novel cancer treatment using low-cost commonly available medications. A clinical study is now underway for patients with glioblastoma, a deadly brain cancer.
 
-Dr Tan has received many honours and awards, is a holder of six patents and an author of over 150 publications. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at [https://www.ted.com/tedx](https://www.ted.com/tedx){: target="_blank"}
+Dr Tan has received many honours and awards, is a holder of six patents and an author of over 150 publications.
