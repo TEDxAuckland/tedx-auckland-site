@@ -10,13 +10,12 @@ description_markdown: >-
   New Zealand must undertake to be competitive globally. He has a Politics
   degree from the University of Waikato. Brian has produced film, books,
   photography, theatre and music. He first attended TED in Kobe, Japan in 1994.
-website_url: 'http://www.sweeneyvesty.com/'
-twitter_url: 'http://www.nzedge.com/'
+website_url: 'http://www.nzedge.com'
+twitter_url: 'http://www.sweeneyvesty.com/'
 facebook_url:
-youtube_video_id: '6TfwRRJTF1o'
+youtube_video_id: 6TfwRRJTF1o
 github_username:
 instagram_url:
 linkedin_url:
 ---
-
 Enter your description here...
