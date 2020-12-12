@@ -18,5 +18,3 @@ After rising through the ranks of the South African police force, Rory was appoi
 Rory watched Mandela, up close and personal, as he led the racially divided nation from the brink of bloodshed to unexpected levels of peace and stability.
 
 What Rory learnt from the man, once seen as a terrorist by South African authorities, changed his life forever.
-
-This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx
