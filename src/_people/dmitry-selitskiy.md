@@ -23,7 +23,7 @@ description_markdown: >-
   lives of people around the world.&nbsp;
 website_url: 'https://www.thought-wired.com/'
 medium_url:
-twitter_url:
+twitter_url: 'https://twitter.com/DSelitskiy'
 facebook_url:
 youtube_video_id: fj8_kZyQwRo
 github_username:
