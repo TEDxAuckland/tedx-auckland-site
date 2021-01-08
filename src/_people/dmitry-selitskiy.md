@@ -25,10 +25,9 @@ website_url: 'https://www.thought-wired.com/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: fj8_kZyQwRo
 github_username:
 instagram_url:
 linkedin_url:
 ---
-
 Enter your description here...
