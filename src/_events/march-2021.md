@@ -1,5 +1,5 @@
 ---
-title: March 2021
+title: May 2021
 short_title: F*#K 2020
 layout: event
 upcoming: true
@@ -13,11 +13,11 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/artboard-5.png
+image: /uploads/artboard-142-0-x3200.png
 badge_image:
 tagline: F*#K 2020
-start_date: 2021-03-20 00:00:00 +1300
-end_date: 2021-03-20 00:00:00 +1300
+start_date: 2021-05-08 00:00:00 +1200
+end_date: 2021-05-08 00:00:00 +1200
 address: 'LIFE Central, 25 Normanby Road, Mount Eden, Auckland 1024'
 hide_speaker_names: true
 people:
