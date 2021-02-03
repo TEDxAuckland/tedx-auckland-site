@@ -41,7 +41,7 @@
       "Ideas",
       "Life Development"
     ],
-    "view_count": 28199,
+    "view_count": 28247,
     "like_count": 825,
     "dislike_count": 25,
     "favorite_count": 0,
@@ -88,7 +88,7 @@
       "ted talks",
       "knowledge"
     ],
-    "view_count": 2827,
+    "view_count": 2838,
     "like_count": 26,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -138,8 +138,8 @@
       "Bay",
       "David"
     ],
-    "view_count": 5437,
-    "like_count": 51,
+    "view_count": 5526,
+    "like_count": 52,
     "dislike_count": 1,
     "favorite_count": 0,
     "comment_count": 7
@@ -178,8 +178,8 @@
       "hologram",
       "ted talks"
     ],
-    "view_count": 11025,
-    "like_count": 58,
+    "view_count": 11370,
+    "like_count": 63,
     "dislike_count": 9,
     "favorite_count": 0,
     "comment_count": 7
@@ -207,8 +207,8 @@
       "Investment",
       "Start-up"
     ],
-    "view_count": 2090,
-    "like_count": 31,
+    "view_count": 2224,
+    "like_count": 32,
     "dislike_count": 5,
     "favorite_count": 0,
     "comment_count": 1
@@ -252,7 +252,7 @@
       "Andy",
       "TEDx NZ"
     ],
-    "view_count": 3631,
+    "view_count": 3688,
     "like_count": 10,
     "dislike_count": 3,
     "favorite_count": 0,
@@ -284,11 +284,11 @@
       "Science",
       "Smartphone"
     ],
-    "view_count": 11917,
+    "view_count": 11982,
     "like_count": 245,
     "dislike_count": 2,
     "favorite_count": 0,
-    "comment_count": 12
+    "comment_count": 13
   },
   "7VDdfsjnn9g": {
     "id": "7VDdfsjnn9g",
@@ -310,7 +310,7 @@
       "Dance (performance)",
       "Music (performance)"
     ],
-    "view_count": 546,
+    "view_count": 596,
     "like_count": 7,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -336,7 +336,7 @@
       "Environment",
       "Leadership"
     ],
-    "view_count": 1029,
+    "view_count": 1038,
     "like_count": 12,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -366,11 +366,11 @@
       "Positive Thinking",
       "Recovery"
     ],
-    "view_count": 27751,
-    "like_count": 1319,
-    "dislike_count": 5,
+    "view_count": 35641,
+    "like_count": 1628,
+    "dislike_count": 9,
     "favorite_count": 0,
-    "comment_count": 61
+    "comment_count": 74
   },
   "dJepOq6J5kk": {
     "id": "dJepOq6J5kk",
@@ -395,11 +395,11 @@
       "Social Justice",
       "Society"
     ],
-    "view_count": 44617,
-    "like_count": 1657,
-    "dislike_count": 284,
+    "view_count": 45921,
+    "like_count": 1688,
+    "dislike_count": 286,
     "favorite_count": 0,
-    "comment_count": 398
+    "comment_count": 335
   },
   "FxSra_n9oeE": {
     "id": "FxSra_n9oeE",
@@ -425,11 +425,11 @@
       "Law",
       "Politics"
     ],
-    "view_count": 9080,
-    "like_count": 110,
-    "dislike_count": 7,
+    "view_count": 10479,
+    "like_count": 125,
+    "dislike_count": 9,
     "favorite_count": 0,
-    "comment_count": 14
+    "comment_count": 8
   },
   "YS3Fqf6hwOM": {
     "id": "YS3Fqf6hwOM",
@@ -467,7 +467,7 @@
       "TED Talks",
       "Brenda"
     ],
-    "view_count": 482,
+    "view_count": 486,
     "like_count": 2,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -496,11 +496,40 @@
       "Robots",
       "Science"
     ],
-    "view_count": 759,
-    "like_count": 8,
+    "view_count": 957,
+    "like_count": 13,
     "dislike_count": 1,
     "favorite_count": 0,
     "comment_count": 0
+  },
+  "fj8_kZyQwRo": {
+    "id": "fj8_kZyQwRo",
+    "title": "Interact with any device using your mind | Dmitry Selitskiy | TEDxAuckland",
+    "published_at": "2020-12-07 17:56:01 UTC",
+    "thumbnail_url": {
+      "default": "https://i.ytimg.com/vi/fj8_kZyQwRo/default.jpg",
+      "medium": "https://i.ytimg.com/vi/fj8_kZyQwRo/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/fj8_kZyQwRo/hqdefault.jpg",
+      "standard": "https://i.ytimg.com/vi/fj8_kZyQwRo/sddefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/fj8_kZyQwRo/maxresdefault.jpg"
+    },
+    "description": "A non-invasive brain-computer interface for everyone. This is the future Dmitry Selitskiy and his company Thought-Wired are working to make possible. Dmitry outlines the potential of his biosensing technology to connect minds with technology, presenting a world that is universally accessible to everyone, at the speed of thought. Thought-Wired’s first product, nous Blink, navigates this new frontier, offering a wearable device that translates brain signals into commands, enabling people with physical limitations to control a computer with intentional eye blinks.\n\nDmitry Selitskiy is co-founder & CEO of Thought-Wired, a developer of biosensing technology on a mission to make the world accessible to anyone, at the speed of thought. Building on the success of a brain-controlled light switch for his younger cousin, who is paralysed, Thought-Wired has launched its first product, nous Blink - a wearable device that translates brain signals into commands, enabling people with physical limitations to control a computer with intentional eye blinks. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+    "tags": [
+      "TEDxTalks",
+      "English",
+      "Technology",
+      "AI",
+      "Brain",
+      "Computers",
+      "Connection",
+      "Consciousness",
+      "Disability"
+    ],
+    "view_count": 792,
+    "like_count": 24,
+    "dislike_count": 1,
+    "favorite_count": 0,
+    "comment_count": 10
   },
   "V3QM59nehBk": {
     "id": "V3QM59nehBk",
@@ -535,7 +564,7 @@
       "Wet Hot Beauties NZ",
       "Wet Hot Beauties New Zealand"
     ],
-    "view_count": 32086,
+    "view_count": 32135,
     "like_count": 99,
     "dislike_count": 5,
     "favorite_count": 0,
@@ -564,8 +593,8 @@
       "Opportunities",
       "Society"
     ],
-    "view_count": 1418,
-    "like_count": 32,
+    "view_count": 1651,
+    "like_count": 36,
     "dislike_count": 1,
     "favorite_count": 0,
     "comment_count": 3
@@ -596,9 +625,9 @@
       "ted x",
       "tedx talks"
     ],
-    "view_count": 143510,
-    "like_count": 2086,
-    "dislike_count": 27,
+    "view_count": 149844,
+    "like_count": 2208,
+    "dislike_count": 29,
     "favorite_count": 0,
     "comment_count": 57
   },
@@ -627,11 +656,11 @@
       "Productivity",
       "Work"
     ],
-    "view_count": 21470,
-    "like_count": 423,
-    "dislike_count": 8,
+    "view_count": 24788,
+    "like_count": 481,
+    "dislike_count": 9,
     "favorite_count": 0,
-    "comment_count": 25
+    "comment_count": 36
   },
   "8v0ykTrTQEc": {
     "id": "8v0ykTrTQEc",
@@ -663,11 +692,11 @@
       "Social Change",
       "Society"
     ],
-    "view_count": 35462,
-    "like_count": 749,
-    "dislike_count": 83,
+    "view_count": 37203,
+    "like_count": 798,
+    "dislike_count": 86,
     "favorite_count": 0,
-    "comment_count": 127
+    "comment_count": 108
   },
   "M_3aSk6q7w4": {
     "id": "M_3aSk6q7w4",
@@ -698,7 +727,7 @@
       "ted",
       "tedx"
     ],
-    "view_count": 1176,
+    "view_count": 1202,
     "like_count": 8,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -723,7 +752,7 @@
       "Music (performance)",
       "Song"
     ],
-    "view_count": 436,
+    "view_count": 447,
     "like_count": 18,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -771,8 +800,8 @@
       "ted x",
       "tedx"
     ],
-    "view_count": 19317,
-    "like_count": 218,
+    "view_count": 19543,
+    "like_count": 221,
     "dislike_count": 10,
     "favorite_count": 0,
     "comment_count": 25
@@ -800,11 +829,11 @@
       "Sexual Assault",
       "Social Justice"
     ],
-    "view_count": 1603,
-    "like_count": 32,
-    "dislike_count": 2,
+    "view_count": 2323,
+    "like_count": 43,
+    "dislike_count": 5,
     "favorite_count": 0,
-    "comment_count": 3
+    "comment_count": 4
   },
   "PRboI1iJ5oA": {
     "id": "PRboI1iJ5oA",
@@ -828,8 +857,8 @@
       "History",
       "Language"
     ],
-    "view_count": 1384,
-    "like_count": 14,
+    "view_count": 1424,
+    "like_count": 16,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 2
@@ -870,11 +899,11 @@
       "I CARE",
       "tedx talk"
     ],
-    "view_count": 37919,
+    "view_count": 37952,
     "like_count": 233,
     "dislike_count": 16,
     "favorite_count": 0,
-    "comment_count": 16
+    "comment_count": 15
   },
   "kaHZ0Opoc24": {
     "id": "kaHZ0Opoc24",
@@ -913,8 +942,8 @@
       "disruption",
       "tedx talks"
     ],
-    "view_count": 647,
-    "like_count": 8,
+    "view_count": 671,
+    "like_count": 9,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 1
@@ -952,11 +981,11 @@
       "TED Talks",
       "ted talks"
     ],
-    "view_count": 63512,
-    "like_count": 312,
-    "dislike_count": 29,
+    "view_count": 63869,
+    "like_count": 318,
+    "dislike_count": 30,
     "favorite_count": 0,
-    "comment_count": 17
+    "comment_count": 16
   },
   "7nokY97BRS4": {
     "id": "7nokY97BRS4",
@@ -979,8 +1008,8 @@
       "Adventure",
       "Innovation"
     ],
-    "view_count": 4619,
-    "like_count": 50,
+    "view_count": 4739,
+    "like_count": 52,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 7
@@ -1014,7 +1043,7 @@
       "ted",
       "Culture"
     ],
-    "view_count": 2523,
+    "view_count": 2610,
     "like_count": 25,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -1045,11 +1074,11 @@
       "Humor",
       "Social Change"
     ],
-    "view_count": 40186,
-    "like_count": 694,
-    "dislike_count": 19,
+    "view_count": 42627,
+    "like_count": 742,
+    "dislike_count": 20,
     "favorite_count": 0,
-    "comment_count": 97
+    "comment_count": 121
   },
   "ujQAvQteeZY": {
     "id": "ujQAvQteeZY",
@@ -1076,11 +1105,11 @@
       "Social Change",
       "Social Media"
     ],
-    "view_count": 7591,
+    "view_count": 7813,
     "like_count": 226,
-    "dislike_count": 3,
+    "dislike_count": 4,
     "favorite_count": 0,
-    "comment_count": 6
+    "comment_count": 7
   },
   "8jjcVhpMow0": {
     "id": "8jjcVhpMow0",
@@ -1116,7 +1145,7 @@
       "New Zealand (Country)",
       "tedx"
     ],
-    "view_count": 2163,
+    "view_count": 2169,
     "like_count": 32,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -1173,9 +1202,9 @@
       "TED (conference)",
       "Ocean"
     ],
-    "view_count": 31828,
-    "like_count": 126,
-    "dislike_count": 16,
+    "view_count": 32053,
+    "like_count": 131,
+    "dislike_count": 18,
     "favorite_count": 0,
     "comment_count": 5
   },
@@ -1217,7 +1246,7 @@
       "English",
       "New Zealand"
     ],
-    "view_count": 27975,
+    "view_count": 27987,
     "like_count": 65,
     "dislike_count": 17,
     "favorite_count": 0,
@@ -1244,8 +1273,8 @@
       "Dance (performance)",
       "Elderly"
     ],
-    "view_count": 59214,
-    "like_count": 187,
+    "view_count": 59947,
+    "like_count": 195,
     "dislike_count": 3,
     "favorite_count": 0,
     "comment_count": 3
@@ -1287,7 +1316,7 @@
       "eye-sight surgery",
       "Ray Avery"
     ],
-    "view_count": 1897,
+    "view_count": 1909,
     "like_count": 11,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -1316,11 +1345,11 @@
       "Media",
       "Society"
     ],
-    "view_count": 18160,
-    "like_count": 299,
-    "dislike_count": 149,
+    "view_count": 20225,
+    "like_count": 335,
+    "dislike_count": 165,
     "favorite_count": 0,
-    "comment_count": 78
+    "comment_count": 93
   },
   "6IN5k-qOcdA": {
     "id": "6IN5k-qOcdA",
@@ -1348,8 +1377,8 @@
       "Technology",
       "Women in business"
     ],
-    "view_count": 1756,
-    "like_count": 43,
+    "view_count": 2333,
+    "like_count": 61,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 1
@@ -1377,11 +1406,11 @@
       "Software",
       "Terrorism"
     ],
-    "view_count": 2683,
-    "like_count": 89,
+    "view_count": 3021,
+    "like_count": 98,
     "dislike_count": 0,
     "favorite_count": 0,
-    "comment_count": 8
+    "comment_count": 7
   },
   "p1SSEbfsQY8": {
     "id": "p1SSEbfsQY8",
@@ -1410,7 +1439,7 @@
       "tedx talk",
       "ted talk"
     ],
-    "view_count": 16886,
+    "view_count": 16943,
     "like_count": 59,
     "dislike_count": 3,
     "favorite_count": 0,
@@ -1442,7 +1471,7 @@
       "Start-up",
       "Sustainability"
     ],
-    "view_count": 937,
+    "view_count": 965,
     "like_count": 25,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -1489,8 +1518,8 @@
       "Youth",
       "Poetry"
     ],
-    "view_count": 22574,
-    "like_count": 257,
+    "view_count": 22824,
+    "like_count": 260,
     "dislike_count": 11,
     "favorite_count": 0,
     "comment_count": 30
@@ -1522,8 +1551,8 @@
       "ted",
       "Science (hard)"
     ],
-    "view_count": 14131,
-    "like_count": 44,
+    "view_count": 17747,
+    "like_count": 72,
     "dislike_count": 9,
     "favorite_count": 0,
     "comment_count": 0
@@ -1571,7 +1600,7 @@
       "SweeneyVesty",
       "tedx"
     ],
-    "view_count": 7191,
+    "view_count": 7395,
     "like_count": 37,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -1604,11 +1633,11 @@
       "Gender",
       "Sex"
     ],
-    "view_count": 49336,
-    "like_count": 1134,
-    "dislike_count": 276,
+    "view_count": 52670,
+    "like_count": 1222,
+    "dislike_count": 289,
     "favorite_count": 0,
-    "comment_count": 212
+    "comment_count": 202
   },
   "CfSQy2SqIXs": {
     "id": "CfSQy2SqIXs",
@@ -1650,7 +1679,7 @@
       "ted talk",
       "tedx talks"
     ],
-    "view_count": 5240,
+    "view_count": 5255,
     "like_count": 114,
     "dislike_count": 3,
     "favorite_count": 0,
@@ -1696,7 +1725,7 @@
       "TEDx Talks",
       "New Zealand (Country)"
     ],
-    "view_count": 3594,
+    "view_count": 3642,
     "like_count": 33,
     "dislike_count": 6,
     "favorite_count": 0,
@@ -1739,7 +1768,7 @@
       "Zealand",
       "Starjam"
     ],
-    "view_count": 651,
+    "view_count": 657,
     "like_count": 6,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -1770,11 +1799,11 @@
       "Social Change",
       "Violence"
     ],
-    "view_count": 3237,
-    "like_count": 109,
+    "view_count": 3603,
+    "like_count": 118,
     "dislike_count": 17,
     "favorite_count": 0,
-    "comment_count": 14
+    "comment_count": 16
   },
   "r2Wv_wwFH1I": {
     "id": "r2Wv_wwFH1I",
@@ -1800,8 +1829,8 @@
       "Positive Thinking",
       "Recovery"
     ],
-    "view_count": 1111,
-    "like_count": 20,
+    "view_count": 1147,
+    "like_count": 21,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 0
@@ -1821,7 +1850,7 @@
     "tags": [
 
     ],
-    "view_count": 685,
+    "view_count": 688,
     "like_count": 4,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -1857,9 +1886,9 @@
       "Sustainability",
       "ted x"
     ],
-    "view_count": 8363,
-    "like_count": 86,
-    "dislike_count": 3,
+    "view_count": 8605,
+    "like_count": 88,
+    "dislike_count": 4,
     "favorite_count": 0,
     "comment_count": 4
   },
@@ -1894,7 +1923,7 @@
       "Career/Life Development",
       "tedx"
     ],
-    "view_count": 6330,
+    "view_count": 6345,
     "like_count": 78,
     "dislike_count": 3,
     "favorite_count": 0,
@@ -1929,11 +1958,11 @@
       "Software",
       "Technology"
     ],
-    "view_count": 1118,
-    "like_count": 21,
+    "view_count": 1187,
+    "like_count": 22,
     "dislike_count": 5,
     "favorite_count": 0,
-    "comment_count": 0
+    "comment_count": 1
   },
   "WSPQhTn6J1w": {
     "id": "WSPQhTn6J1w",
@@ -1955,11 +1984,32 @@
       "Entrepreneurship",
       "Schools"
     ],
-    "view_count": 2132,
-    "like_count": 34,
+    "view_count": 2145,
+    "like_count": 35,
     "dislike_count": 4,
     "favorite_count": 0,
     "comment_count": 6
+  },
+  "MCGFA1l1B0M": {
+    "id": "MCGFA1l1B0M",
+    "title": "The X-perience | TEDxAuckland May 2019",
+    "published_at": "2020-11-08 08:44:10 UTC",
+    "thumbnail_url": {
+      "default": "https://i.ytimg.com/vi/MCGFA1l1B0M/default.jpg",
+      "medium": "https://i.ytimg.com/vi/MCGFA1l1B0M/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/MCGFA1l1B0M/hqdefault.jpg",
+      "standard": "https://i.ytimg.com/vi/MCGFA1l1B0M/sddefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/MCGFA1l1B0M/maxresdefault.jpg"
+    },
+    "description": "The TEDxAuckland team curated this event with the idea of creating the overall experience they would all want to go to themselves. That being great networking and a very special all inclusive dinner and after party that lifts the occasion to a whole new level.",
+    "tags": [
+
+    ],
+    "view_count": 55,
+    "like_count": 4,
+    "dislike_count": 0,
+    "favorite_count": 0,
+    "comment_count": 0
   },
   "KOdzMd1KLrg": {
     "id": "KOdzMd1KLrg",
@@ -1991,11 +2041,11 @@
       "Sports",
       "Success"
     ],
-    "view_count": 11065,
-    "like_count": 223,
-    "dislike_count": 4,
+    "view_count": 14771,
+    "like_count": 310,
+    "dislike_count": 6,
     "favorite_count": 0,
-    "comment_count": 11
+    "comment_count": 15
   },
   "yE35EaZuqTQ": {
     "id": "yE35EaZuqTQ",
@@ -2041,8 +2091,8 @@
       "War",
       "Women"
     ],
-    "view_count": 620,
-    "like_count": 21,
+    "view_count": 646,
+    "like_count": 22,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 6
@@ -2079,7 +2129,7 @@
       "Self-help",
       "Social Entrepreneurship"
     ],
-    "view_count": 1280,
+    "view_count": 1335,
     "like_count": 20,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -2112,11 +2162,11 @@
       "ted talk",
       "tedx talk"
     ],
-    "view_count": 9938,
-    "like_count": 96,
+    "view_count": 10059,
+    "like_count": 99,
     "dislike_count": 1,
     "favorite_count": 0,
-    "comment_count": 7
+    "comment_count": 8
   },
   "pW7uouAZAWo": {
     "id": "pW7uouAZAWo",
@@ -2160,8 +2210,8 @@
       "performance",
       "ted x"
     ],
-    "view_count": 36590,
-    "like_count": 142,
+    "view_count": 36762,
+    "like_count": 144,
     "dislike_count": 6,
     "favorite_count": 0,
     "comment_count": 9
@@ -2202,7 +2252,7 @@
       "ted",
       "Scott"
     ],
-    "view_count": 1806,
+    "view_count": 1818,
     "like_count": 13,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -2252,7 +2302,7 @@
       "yogurt",
       "vegan cheese"
     ],
-    "view_count": 175,
+    "view_count": 177,
     "like_count": 5,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -2282,11 +2332,11 @@
       "Nature",
       "Passion"
     ],
-    "view_count": 8704,
-    "like_count": 289,
-    "dislike_count": 7,
+    "view_count": 9683,
+    "like_count": 318,
+    "dislike_count": 8,
     "favorite_count": 0,
-    "comment_count": 37
+    "comment_count": 43
   },
   "g3DXKzLBMgc": {
     "id": "g3DXKzLBMgc",
@@ -2310,8 +2360,8 @@
       "Start-up",
       "Women in business"
     ],
-    "view_count": 550,
-    "like_count": 11,
+    "view_count": 633,
+    "like_count": 13,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 2
@@ -2339,11 +2389,11 @@
       "Reform",
       "Society"
     ],
-    "view_count": 40700,
-    "like_count": 1287,
-    "dislike_count": 181,
+    "view_count": 48229,
+    "like_count": 1461,
+    "dislike_count": 188,
     "favorite_count": 0,
-    "comment_count": 423
+    "comment_count": 391
   },
   "J0s-ob4FGcg": {
     "id": "J0s-ob4FGcg",
@@ -2373,7 +2423,7 @@
       "sustainability",
       "community"
     ],
-    "view_count": 687,
+    "view_count": 695,
     "like_count": 3,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -2415,7 +2465,7 @@
       "Wendy",
       "Now"
     ],
-    "view_count": 281,
+    "view_count": 284,
     "like_count": 0,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -2450,8 +2500,8 @@
       "Sustainability",
       "ted talk"
     ],
-    "view_count": 6705,
-    "like_count": 114,
+    "view_count": 6757,
+    "like_count": 115,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 8
@@ -2506,11 +2556,11 @@
       "New Zealand (Country)",
       "NZ"
     ],
-    "view_count": 81193,
-    "like_count": 497,
-    "dislike_count": 30,
+    "view_count": 84445,
+    "like_count": 531,
+    "dislike_count": 32,
     "favorite_count": 0,
-    "comment_count": 22
+    "comment_count": 24
   },
   "LD0yGBwszCQ": {
     "id": "LD0yGBwszCQ",
@@ -2537,8 +2587,8 @@
       "Science",
       "Space"
     ],
-    "view_count": 1036,
-    "like_count": 26,
+    "view_count": 1087,
+    "like_count": 28,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -2592,11 +2642,11 @@
       "goals",
       "prison"
     ],
-    "view_count": 375593,
-    "like_count": 4962,
-    "dislike_count": 123,
+    "view_count": 377801,
+    "like_count": 4989,
+    "dislike_count": 125,
     "favorite_count": 0,
-    "comment_count": 201
+    "comment_count": 197
   },
   "l3EF5BRaGb4": {
     "id": "l3EF5BRaGb4",
@@ -2631,7 +2681,7 @@
       "ted talks",
       "TEDx NZ"
     ],
-    "view_count": 1430,
+    "view_count": 1435,
     "like_count": 5,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -2661,11 +2711,11 @@
       "Research",
       "Science"
     ],
-    "view_count": 901,
-    "like_count": 23,
+    "view_count": 1015,
+    "like_count": 27,
     "dislike_count": 0,
     "favorite_count": 0,
-    "comment_count": 3
+    "comment_count": 5
   },
   "F8a731O7IM8": {
     "id": "F8a731O7IM8",
@@ -2693,11 +2743,11 @@
       "Gender",
       "Personal education"
     ],
-    "view_count": 7400,
-    "like_count": 98,
-    "dislike_count": 64,
+    "view_count": 7732,
+    "like_count": 106,
+    "dislike_count": 68,
     "favorite_count": 0,
-    "comment_count": 24
+    "comment_count": 26
   },
   "qhqLoTKBRz0": {
     "id": "qhqLoTKBRz0",
@@ -2745,11 +2795,11 @@
       "psychological models",
       "text generation"
     ],
-    "view_count": 30408,
-    "like_count": 128,
+    "view_count": 30445,
+    "like_count": 129,
     "dislike_count": 9,
     "favorite_count": 0,
-    "comment_count": 6
+    "comment_count": 5
   },
   "eRIV-k4Tbz8": {
     "id": "eRIV-k4Tbz8",
@@ -2774,7 +2824,7 @@
       "Ideas",
       "Journalism"
     ],
-    "view_count": 341,
+    "view_count": 342,
     "like_count": 0,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -2812,7 +2862,7 @@
       "ted",
       "2010"
     ],
-    "view_count": 2158,
+    "view_count": 2181,
     "like_count": 20,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -2839,8 +2889,8 @@
       "Public health",
       "Public Policy"
     ],
-    "view_count": 4538,
-    "like_count": 37,
+    "view_count": 4574,
+    "like_count": 39,
     "dislike_count": 1,
     "favorite_count": 0,
     "comment_count": 0
@@ -2868,8 +2918,8 @@
       "Poetry",
       "Society"
     ],
-    "view_count": 485,
-    "like_count": 12,
+    "view_count": 571,
+    "like_count": 15,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -2906,8 +2956,8 @@
       "Self improvement",
       "Self-help"
     ],
-    "view_count": 7753,
-    "like_count": 41,
+    "view_count": 7796,
+    "like_count": 43,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 10
@@ -2951,8 +3001,8 @@
       "Centre",
       "Richard"
     ],
-    "view_count": 13576,
-    "like_count": 179,
+    "view_count": 13650,
+    "like_count": 180,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 19
@@ -2980,8 +3030,8 @@
       "Space",
       "Women in business"
     ],
-    "view_count": 464,
-    "like_count": 12,
+    "view_count": 474,
+    "like_count": 13,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -3023,8 +3073,8 @@
       "Design (Industry)",
       "tedx"
     ],
-    "view_count": 30552,
-    "like_count": 379,
+    "view_count": 31021,
+    "like_count": 385,
     "dislike_count": 6,
     "favorite_count": 0,
     "comment_count": 32
@@ -3069,8 +3119,8 @@
       "Women",
       "Youth"
     ],
-    "view_count": 14541,
-    "like_count": 104,
+    "view_count": 14707,
+    "like_count": 109,
     "dislike_count": 36,
     "favorite_count": 0,
     "comment_count": 25
@@ -3111,11 +3161,11 @@
       "Auckland",
       "English"
     ],
-    "view_count": 32992,
-    "like_count": 295,
-    "dislike_count": 11,
+    "view_count": 34941,
+    "like_count": 312,
+    "dislike_count": 13,
     "favorite_count": 0,
-    "comment_count": 9
+    "comment_count": 11
   },
   "d-tGhbUMLHE": {
     "id": "d-tGhbUMLHE",
@@ -3150,9 +3200,9 @@
       "Technology",
       "ted"
     ],
-    "view_count": 977,
+    "view_count": 993,
     "like_count": 8,
-    "dislike_count": 0,
+    "dislike_count": 1,
     "favorite_count": 0,
     "comment_count": 0
   },
@@ -3178,8 +3228,8 @@
       "Purpose",
       "Technology"
     ],
-    "view_count": 1454,
-    "like_count": 36,
+    "view_count": 1481,
+    "like_count": 37,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -3207,7 +3257,7 @@
       "Public health",
       "Public Policy"
     ],
-    "view_count": 2174,
+    "view_count": 2185,
     "like_count": 16,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -3248,8 +3298,8 @@
       "Arts & Crafts",
       "Sustainability"
     ],
-    "view_count": 1821,
-    "like_count": 7,
+    "view_count": 1964,
+    "like_count": 8,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -3286,11 +3336,11 @@
       "Culture",
       "Business"
     ],
-    "view_count": 1595,
+    "view_count": 1601,
     "like_count": 19,
     "dislike_count": 3,
     "favorite_count": 0,
-    "comment_count": 1
+    "comment_count": 0
   },
   "93u5sM4JJbU": {
     "id": "93u5sM4JJbU",
@@ -3314,11 +3364,11 @@
       "Language",
       "Learning"
     ],
-    "view_count": 18946,
-    "like_count": 434,
+    "view_count": 22280,
+    "like_count": 510,
     "dislike_count": 4,
     "favorite_count": 0,
-    "comment_count": 39
+    "comment_count": 48
   },
   "0TF6En-qYE4": {
     "id": "0TF6En-qYE4",
@@ -3360,11 +3410,11 @@
       "South",
       "Marina"
     ],
-    "view_count": 27393,
-    "like_count": 657,
-    "dislike_count": 29,
+    "view_count": 28184,
+    "like_count": 686,
+    "dislike_count": 30,
     "favorite_count": 0,
-    "comment_count": 118
+    "comment_count": 113
   },
   "UzA_CTkn7vk": {
     "id": "UzA_CTkn7vk",
@@ -3389,8 +3439,8 @@
       "Environment",
       "TV"
     ],
-    "view_count": 4011,
-    "like_count": 27,
+    "view_count": 4095,
+    "like_count": 28,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 8
@@ -3423,8 +3473,8 @@
       "Volunteering",
       "Women in business"
     ],
-    "view_count": 2069,
-    "like_count": 47,
+    "view_count": 2247,
+    "like_count": 55,
     "dislike_count": 7,
     "favorite_count": 0,
     "comment_count": 4
@@ -3478,11 +3528,11 @@
       "2012",
       "NZ"
     ],
-    "view_count": 193865,
-    "like_count": 1503,
+    "view_count": 195994,
+    "like_count": 1535,
     "dislike_count": 33,
     "favorite_count": 0,
-    "comment_count": 58
+    "comment_count": 59
   },
   "kUdj77vVkP0": {
     "id": "kUdj77vVkP0",
@@ -3556,7 +3606,7 @@
       "Society",
       "Teaching"
     ],
-    "view_count": 1134,
+    "view_count": 1186,
     "like_count": 23,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -3582,9 +3632,9 @@
       "Passion",
       "Work"
     ],
-    "view_count": 10155,
-    "like_count": 132,
-    "dislike_count": 5,
+    "view_count": 12057,
+    "like_count": 165,
+    "dislike_count": 6,
     "favorite_count": 0,
     "comment_count": 5
   },
@@ -3620,8 +3670,8 @@
       "Psychology",
       "Social Change"
     ],
-    "view_count": 1264,
-    "like_count": 23,
+    "view_count": 1272,
+    "like_count": 24,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 10
@@ -3647,7 +3697,7 @@
       "Geology",
       "Map"
     ],
-    "view_count": 2306,
+    "view_count": 2372,
     "like_count": 28,
     "dislike_count": 5,
     "favorite_count": 0,
@@ -3681,11 +3731,69 @@
       "Productivity",
       "Value"
     ],
-    "view_count": 3596,
-    "like_count": 51,
+    "view_count": 3798,
+    "like_count": 53,
+    "dislike_count": 1,
+    "favorite_count": 0,
+    "comment_count": 7
+  },
+  "miYXQ2jUP8o": {
+    "id": "miYXQ2jUP8o",
+    "title": "Corporate law reform to save the world | Kris Gledhill | TEDxAuckland",
+    "published_at": "2020-10-21 18:17:58 UTC",
+    "thumbnail_url": {
+      "default": "https://i.ytimg.com/vi/miYXQ2jUP8o/default.jpg",
+      "medium": "https://i.ytimg.com/vi/miYXQ2jUP8o/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/miYXQ2jUP8o/hqdefault.jpg",
+      "standard": "https://i.ytimg.com/vi/miYXQ2jUP8o/sddefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/miYXQ2jUP8o/maxresdefault.jpg"
+    },
+    "description": "Kris Gledhill reflects on the rules we have created for corporations. They focus on profits not stewardship. In light of many concerns around the overuse of resources, is this sensible? Kris suggests that we need to reprogram the ways corporations operate as a central plank of creating a sustainable future.\n\nKris Gledhill is an academic lawyer, who wants to put humanity’s collective wisdom to work to review policies through the lens of the international human rights framework. Until 2006 Kris worked as a barrister in London specialising in representing detainees, and wherever possible making use of human rights arguments. Now he teaches various aspects of criminal and human rights law as a Professor at AUT Law School, as well as at various Universities outside New Zealand. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+    "tags": [
+      "TEDxTalks",
+      "English",
+      "Global Issues",
+      "Business",
+      "Environment",
+      "Law",
+      "Politics",
+      "Reform",
+      "Social Justice"
+    ],
+    "view_count": 715,
+    "like_count": 15,
     "dislike_count": 0,
     "favorite_count": 0,
-    "comment_count": 6
+    "comment_count": 0
+  },
+  "pbrHIC6BxWw": {
+    "id": "pbrHIC6BxWw",
+    "title": "Body Clocks, Sleep and Society | Tony Fernando | TEDxAuckland",
+    "published_at": "2020-11-02 20:10:26 UTC",
+    "thumbnail_url": {
+      "default": "https://i.ytimg.com/vi/pbrHIC6BxWw/default.jpg",
+      "medium": "https://i.ytimg.com/vi/pbrHIC6BxWw/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/pbrHIC6BxWw/hqdefault.jpg",
+      "standard": "https://i.ytimg.com/vi/pbrHIC6BxWw/sddefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/pbrHIC6BxWw/maxresdefault.jpg"
+    },
+    "description": "Humans have different body clocks or circadian rhythms. These rhythms are more nature than nurture and we can only influence them only to a small degree. Most of us feel sleepy at night, sleep before midnight and wake up in the morning. However, for a small population they naturally feel alert at night, fall asleep after midnight, and as a result wake up closer to midday. From teenagers who naturally experience a temporary shift in sleeping patterns to adults who are glued to their blue light devices. Dr Tony Fernando shares his thoughts, anecdotes and scientific insights on this biological phenomenon.\n\nTony is a psychiatrist, sleep specialist and has been a senior lecturer in Psychological Medicine at the University of Auckland. He has been published in local and international research journals in sleep medicine and medical compassion. In 2015, he received the Chair’s award from the New Zealand Medical Association. Tony has taught mindfulness meditation to medical students, to doctors, nuns, priests, homeless and inmates at Mt Eden Correctional Facility. He recently submitted his PhD thesis on compassion in medicine. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+    "tags": [
+      "TEDxTalks",
+      "English",
+      "Health",
+      "Medicine",
+      "Mindfulness",
+      "Neuroscience",
+      "Psychology",
+      "Science",
+      "Society"
+    ],
+    "view_count": 1837,
+    "like_count": 55,
+    "dislike_count": 0,
+    "favorite_count": 0,
+    "comment_count": 7
   },
   "SgguRmmHbgA": {
     "id": "SgguRmmHbgA",
@@ -3737,11 +3845,40 @@
       "Volunteering",
       "Youth"
     ],
-    "view_count": 6297,
-    "like_count": 79,
+    "view_count": 7218,
+    "like_count": 97,
     "dislike_count": 3,
     "favorite_count": 0,
     "comment_count": 7
+  },
+  "3vCKwoee27c": {
+    "id": "3vCKwoee27c",
+    "title": "Let’s Replace Cancel Culture with Accountability | Sonya Renee Taylor | TEDxAuckland",
+    "published_at": "2021-01-22 21:26:51 UTC",
+    "thumbnail_url": {
+      "default": "https://i.ytimg.com/vi/3vCKwoee27c/default.jpg",
+      "medium": "https://i.ytimg.com/vi/3vCKwoee27c/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/3vCKwoee27c/hqdefault.jpg",
+      "standard": "https://i.ytimg.com/vi/3vCKwoee27c/sddefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/3vCKwoee27c/maxresdefault.jpg"
+    },
+    "description": "Sonya explores the impact of calling out and calling in people who have caused harm. She offers us a third alternative - “calling on”. We often think that discerning someone’s intent is instinctual when it is just not the case. Sonya proposes that those who are the source of suffering, in any given interaction, should bear the responsibility for managing their own change and transformation. Taylor offers \"calling on\" as a method for naming harm and allowing each of us to carve our own pathway toward ACCOUNTABILITY and RESPONSIBILITY for our education and change.\n\nAward-winning performance poet, activist and educator, Sonya Renee Taylor believes in the power of art to inspire social change and equity. She is the creator of The Body is Not An Apology - a media company promoting self-love and body empowerment. In 2016, she was named Champion of Women’s Health by Planned Parenthood. She spoke on the intersection of LGBTQIAA and Disability issues organised by the Obama White House. Sonya serves on the Board of Directors for Split This Rock and SisterSong, and continues to champion a range of social issues. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx",
+    "tags": [
+      "TEDxTalks",
+      "English",
+      "Humanities",
+      "Culture",
+      "Internet",
+      "Social Change",
+      "Social Justice",
+      "Social Media",
+      "Women"
+    ],
+    "view_count": 3456,
+    "like_count": 146,
+    "dislike_count": 10,
+    "favorite_count": 0,
+    "comment_count": 4
   },
   "Xt5OuEnJbM4": {
     "id": "Xt5OuEnJbM4",
@@ -3787,7 +3924,7 @@
       "NZ",
       "TED Talks"
     ],
-    "view_count": 28963,
+    "view_count": 28982,
     "like_count": 85,
     "dislike_count": 4,
     "favorite_count": 0,
@@ -3816,11 +3953,11 @@
       "Museums",
       "Social Science"
     ],
-    "view_count": 31791,
-    "like_count": 797,
+    "view_count": 32415,
+    "like_count": 812,
     "dislike_count": 64,
     "favorite_count": 0,
-    "comment_count": 55
+    "comment_count": 54
   },
   "wUYBpsujxdw": {
     "id": "wUYBpsujxdw",
@@ -3851,11 +3988,11 @@
       "Genetics",
       "New Zealand"
     ],
-    "view_count": 12817,
-    "like_count": 88,
+    "view_count": 13199,
+    "like_count": 95,
     "dislike_count": 1,
     "favorite_count": 0,
-    "comment_count": 5
+    "comment_count": 6
   },
   "KiNOTD39Qdw": {
     "id": "KiNOTD39Qdw",
@@ -3894,8 +4031,8 @@
       "Policeman",
       "TEDxTalks"
     ],
-    "view_count": 5418,
-    "like_count": 54,
+    "view_count": 5525,
+    "like_count": 58,
     "dislike_count": 3,
     "favorite_count": 0,
     "comment_count": 10
@@ -3923,8 +4060,8 @@
       "Marketing",
       "Start-up"
     ],
-    "view_count": 795,
-    "like_count": 16,
+    "view_count": 871,
+    "like_count": 18,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 1
@@ -3963,11 +4100,11 @@
       "International Affairs",
       "Climate Change"
     ],
-    "view_count": 16750,
-    "like_count": 154,
-    "dislike_count": 14,
+    "view_count": 19640,
+    "like_count": 178,
+    "dislike_count": 16,
     "favorite_count": 0,
-    "comment_count": 13
+    "comment_count": 12
   },
   "1cZDZ0b6glM": {
     "id": "1cZDZ0b6glM",
@@ -3990,8 +4127,8 @@
       "Environment",
       "Innovation"
     ],
-    "view_count": 1803,
-    "like_count": 31,
+    "view_count": 2326,
+    "like_count": 40,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 4
@@ -4019,11 +4156,11 @@
       "Software",
       "Technology"
     ],
-    "view_count": 2002,
-    "like_count": 71,
+    "view_count": 2280,
+    "like_count": 73,
     "dislike_count": 1,
     "favorite_count": 0,
-    "comment_count": 4
+    "comment_count": 2
   },
   "lQOczcZKZq4": {
     "id": "lQOczcZKZq4",
@@ -4064,7 +4201,7 @@
       "photography",
       "photographer"
     ],
-    "view_count": 5604,
+    "view_count": 5660,
     "like_count": 44,
     "dislike_count": 3,
     "favorite_count": 0,
@@ -4103,8 +4240,8 @@
       "ted talk",
       "ted x"
     ],
-    "view_count": 46951,
-    "like_count": 257,
+    "view_count": 47277,
+    "like_count": 264,
     "dislike_count": 16,
     "favorite_count": 0,
     "comment_count": 6
@@ -4140,7 +4277,7 @@
       "TEDxAuckland",
       "games"
     ],
-    "view_count": 871,
+    "view_count": 881,
     "like_count": 20,
     "dislike_count": 3,
     "favorite_count": 0,
@@ -4182,11 +4319,32 @@
       "Kaila",
       "Colbin"
     ],
-    "view_count": 1086,
+    "view_count": 1091,
     "like_count": 2,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 2
+  },
+  "FDU1U8CC4Ss": {
+    "id": "FDU1U8CC4Ss",
+    "title": "FoodStory x Ben Bayly | TEDxAuckland May 2019",
+    "published_at": "2020-11-08 08:39:05 UTC",
+    "thumbnail_url": {
+      "default": "https://i.ytimg.com/vi/FDU1U8CC4Ss/default.jpg",
+      "medium": "https://i.ytimg.com/vi/FDU1U8CC4Ss/mqdefault.jpg",
+      "high": "https://i.ytimg.com/vi/FDU1U8CC4Ss/hqdefault.jpg",
+      "standard": "https://i.ytimg.com/vi/FDU1U8CC4Ss/sddefault.jpg",
+      "maxres": "https://i.ytimg.com/vi/FDU1U8CC4Ss/maxresdefault.jpg"
+    },
+    "description": "In May 2019 TEDxAuckland collaborated with world renowned chef Ben Bayly to produce a highly unique and specialised menu that celebrates New Zealand and specifically West Auckland cuisine. The classic kiwi food Ben constructed was his NZ Hangi Pie. Traditionally crafted and augmented with his own homemade ketchup.",
+    "tags": [
+
+    ],
+    "view_count": 47,
+    "like_count": 2,
+    "dislike_count": 0,
+    "favorite_count": 0,
+    "comment_count": 0
   },
   "56Y0TElkI90": {
     "id": "56Y0TElkI90",
@@ -4218,8 +4376,8 @@
       "tedx",
       "ted talks"
     ],
-    "view_count": 28039,
-    "like_count": 399,
+    "view_count": 29288,
+    "like_count": 414,
     "dislike_count": 5,
     "favorite_count": 0,
     "comment_count": 16
@@ -4270,8 +4428,8 @@
       "Me'a",
       "Me'a Kai"
     ],
-    "view_count": 4568,
-    "like_count": 74,
+    "view_count": 4615,
+    "like_count": 75,
     "dislike_count": 3,
     "favorite_count": 0,
     "comment_count": 6
@@ -4303,7 +4461,7 @@
       "Richard Loseby",
       "Richard"
     ],
-    "view_count": 715,
+    "view_count": 738,
     "like_count": 4,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -4357,7 +4515,7 @@
       "ted",
       "korero"
     ],
-    "view_count": 1438,
+    "view_count": 1474,
     "like_count": 19,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -4417,8 +4575,8 @@
       "Theater",
       "Writing"
     ],
-    "view_count": 10382,
-    "like_count": 85,
+    "view_count": 10497,
+    "like_count": 86,
     "dislike_count": 8,
     "favorite_count": 0,
     "comment_count": 4
@@ -4469,7 +4627,7 @@
       "Windsor",
       "Ep1307"
     ],
-    "view_count": 37012,
+    "view_count": 37072,
     "like_count": 199,
     "dislike_count": 6,
     "favorite_count": 0,
@@ -4526,7 +4684,7 @@
       "Society",
       "Sustainability"
     ],
-    "view_count": 1170,
+    "view_count": 1181,
     "like_count": 14,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -4558,11 +4716,11 @@
       "Protests",
       "Spirituality"
     ],
-    "view_count": 50851,
-    "like_count": 1766,
-    "dislike_count": 45,
+    "view_count": 52545,
+    "like_count": 1817,
+    "dislike_count": 47,
     "favorite_count": 0,
-    "comment_count": 199
+    "comment_count": 184
   },
   "Dzxe_pQTd90": {
     "id": "Dzxe_pQTd90",
@@ -4598,8 +4756,8 @@
       "ted x",
       "Performance"
     ],
-    "view_count": 11987,
-    "like_count": 87,
+    "view_count": 12131,
+    "like_count": 89,
     "dislike_count": 8,
     "favorite_count": 0,
     "comment_count": 7
@@ -4637,7 +4795,7 @@
       "Auckland",
       "ted talk"
     ],
-    "view_count": 2630,
+    "view_count": 2669,
     "like_count": 17,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -4667,11 +4825,11 @@
       "Self",
       "Women"
     ],
-    "view_count": 1623,
-    "like_count": 90,
+    "view_count": 1798,
+    "like_count": 99,
     "dislike_count": 0,
     "favorite_count": 0,
-    "comment_count": 0
+    "comment_count": 1
   },
   "qGtA4XXQRNE": {
     "id": "qGtA4XXQRNE",
@@ -4715,8 +4873,8 @@
       "CMS",
       "ted x"
     ],
-    "view_count": 43640,
-    "like_count": 255,
+    "view_count": 43796,
+    "like_count": 257,
     "dislike_count": 18,
     "favorite_count": 0,
     "comment_count": 24
@@ -4741,8 +4899,8 @@
       "Art",
       "Song"
     ],
-    "view_count": 1018,
-    "like_count": 13,
+    "view_count": 1086,
+    "like_count": 17,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -4772,11 +4930,11 @@
       "Science",
       "Speech"
     ],
-    "view_count": 177769,
-    "like_count": 2581,
-    "dislike_count": 180,
+    "view_count": 201919,
+    "like_count": 3061,
+    "dislike_count": 216,
     "favorite_count": 0,
-    "comment_count": 428
+    "comment_count": 448
   },
   "HKn6ibHJ-Zg": {
     "id": "HKn6ibHJ-Zg",
@@ -4803,8 +4961,8 @@
       "Humor",
       "Life"
     ],
-    "view_count": 648,
-    "like_count": 19,
+    "view_count": 882,
+    "like_count": 25,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 3
@@ -4852,8 +5010,8 @@
       "TED Talks",
       "Culture"
     ],
-    "view_count": 37422,
-    "like_count": 175,
+    "view_count": 37554,
+    "like_count": 176,
     "dislike_count": 7,
     "favorite_count": 0,
     "comment_count": 6
@@ -4900,7 +5058,7 @@
       "profit",
       "ted talk"
     ],
-    "view_count": 10039,
+    "view_count": 10108,
     "like_count": 70,
     "dislike_count": 4,
     "favorite_count": 0,
@@ -4928,7 +5086,7 @@
       "Recycling",
       "War"
     ],
-    "view_count": 1098,
+    "view_count": 1111,
     "like_count": 17,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -4956,7 +5114,7 @@
       "Media",
       "Peace"
     ],
-    "view_count": 1346,
+    "view_count": 1452,
     "like_count": 10,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -4986,11 +5144,11 @@
       "Reform",
       "Work"
     ],
-    "view_count": 10800,
-    "like_count": 255,
-    "dislike_count": 3,
+    "view_count": 11208,
+    "like_count": 271,
+    "dislike_count": 4,
     "favorite_count": 0,
-    "comment_count": 11
+    "comment_count": 12
   },
   "lSNm12-dYWI": {
     "id": "lSNm12-dYWI",
@@ -5023,8 +5181,8 @@
       "Computer Science",
       "Lifestyle"
     ],
-    "view_count": 4426,
-    "like_count": 68,
+    "view_count": 4475,
+    "like_count": 70,
     "dislike_count": 2,
     "favorite_count": 0,
     "comment_count": 2
@@ -5048,7 +5206,7 @@
       "Music (performance)",
       "Song"
     ],
-    "view_count": 332,
+    "view_count": 335,
     "like_count": 17,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -5101,8 +5259,8 @@
       "help",
       "for"
     ],
-    "view_count": 13571,
-    "like_count": 165,
+    "view_count": 13772,
+    "like_count": 166,
     "dislike_count": 5,
     "favorite_count": 0,
     "comment_count": 12
@@ -5155,8 +5313,8 @@
       "Clean Energy Centre",
       "TED (conference)"
     ],
-    "view_count": 33958,
-    "like_count": 138,
+    "view_count": 34014,
+    "like_count": 139,
     "dislike_count": 4,
     "favorite_count": 0,
     "comment_count": 3
@@ -5185,7 +5343,7 @@
       "Social Entrepreneurship",
       "Social Media"
     ],
-    "view_count": 4747,
+    "view_count": 4911,
     "like_count": 20,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -5228,11 +5386,11 @@
       "Social Change",
       "Social Entrepreneurship"
     ],
-    "view_count": 15697,
-    "like_count": 190,
-    "dislike_count": 14,
+    "view_count": 18978,
+    "like_count": 240,
+    "dislike_count": 17,
     "favorite_count": 0,
-    "comment_count": 9
+    "comment_count": 13
   },
   "Q48dXVTC03o": {
     "id": "Q48dXVTC03o",
@@ -5257,7 +5415,7 @@
       "Medicine",
       "Science"
     ],
-    "view_count": 3367,
+    "view_count": 3449,
     "like_count": 41,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -5306,11 +5464,11 @@
       "TEDx Auckland",
       "Zealand"
     ],
-    "view_count": 114257,
-    "like_count": 859,
-    "dislike_count": 222,
+    "view_count": 115017,
+    "like_count": 877,
+    "dislike_count": 225,
     "favorite_count": 0,
-    "comment_count": 69
+    "comment_count": 70
   },
   "pz9kG1aUVe0": {
     "id": "pz9kG1aUVe0",
@@ -5361,11 +5519,11 @@
       "Auckland",
       "NZ"
     ],
-    "view_count": 60432,
-    "like_count": 402,
+    "view_count": 61508,
+    "like_count": 422,
     "dislike_count": 23,
     "favorite_count": 0,
-    "comment_count": 20
+    "comment_count": 21
   },
   "GRm_5BYcFe8": {
     "id": "GRm_5BYcFe8",
@@ -5396,11 +5554,11 @@
       "Politics",
       "Social Change"
     ],
-    "view_count": 1354,
-    "like_count": 37,
+    "view_count": 1460,
+    "like_count": 40,
     "dislike_count": 1,
     "favorite_count": 0,
-    "comment_count": 2
+    "comment_count": 3
   },
   "cQO3kPM3YRE": {
     "id": "cQO3kPM3YRE",
@@ -5422,8 +5580,8 @@
       "Culture",
       "Family"
     ],
-    "view_count": 7108,
-    "like_count": 93,
+    "view_count": 7474,
+    "like_count": 101,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 4
@@ -5451,11 +5609,11 @@
       "Social Change",
       "Social Interaction"
     ],
-    "view_count": 42799,
-    "like_count": 266,
+    "view_count": 43659,
+    "like_count": 276,
     "dislike_count": 7,
     "favorite_count": 0,
-    "comment_count": 16
+    "comment_count": 15
   },
   "HWiFTt2s9hY": {
     "id": "HWiFTt2s9hY",
@@ -5490,11 +5648,11 @@
       "Pollution",
       "Sustainability"
     ],
-    "view_count": 2262,
-    "like_count": 66,
+    "view_count": 2457,
+    "like_count": 74,
     "dislike_count": 4,
     "favorite_count": 0,
-    "comment_count": 4
+    "comment_count": 5
   },
   "4CO7f9HHI3A": {
     "id": "4CO7f9HHI3A",
@@ -5519,11 +5677,11 @@
       "Life",
       "Politics"
     ],
-    "view_count": 13239,
-    "like_count": 141,
+    "view_count": 14453,
+    "like_count": 158,
     "dislike_count": 6,
     "favorite_count": 0,
-    "comment_count": 8
+    "comment_count": 7
   },
   "zYICH2IBB6Y": {
     "id": "zYICH2IBB6Y",
@@ -5558,7 +5716,7 @@
       "team",
       "OneBeep"
     ],
-    "view_count": 685,
+    "view_count": 690,
     "like_count": 3,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -5601,7 +5759,7 @@
       "medical",
       "ted talks"
     ],
-    "view_count": 3453,
+    "view_count": 3492,
     "like_count": 20,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -5639,7 +5797,7 @@
       "Gammon",
       "ted"
     ],
-    "view_count": 1777,
+    "view_count": 1783,
     "like_count": 7,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -5667,7 +5825,7 @@
       "Invention",
       "Investment"
     ],
-    "view_count": 578,
+    "view_count": 588,
     "like_count": 3,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -5714,8 +5872,8 @@
       "Social Entrepreneurship",
       "Social Justice"
     ],
-    "view_count": 4803,
-    "like_count": 81,
+    "view_count": 4983,
+    "like_count": 86,
     "dislike_count": 11,
     "favorite_count": 0,
     "comment_count": 11
@@ -5744,11 +5902,11 @@
       "Motivation",
       "Philanthropy"
     ],
-    "view_count": 1270,
-    "like_count": 27,
+    "view_count": 1399,
+    "like_count": 28,
     "dislike_count": 0,
     "favorite_count": 0,
-    "comment_count": 3
+    "comment_count": 2
   },
   "Jp2EcuMbAmY": {
     "id": "Jp2EcuMbAmY",
@@ -5782,11 +5940,11 @@
       "Positive Thinking",
       "Self-help"
     ],
-    "view_count": 6903,
-    "like_count": 222,
+    "view_count": 7430,
+    "like_count": 243,
     "dislike_count": 6,
     "favorite_count": 0,
-    "comment_count": 20
+    "comment_count": 22
   },
   "yku9P9luZh4": {
     "id": "yku9P9luZh4",
@@ -5826,8 +5984,8 @@
       "Women in business",
       "Work"
     ],
-    "view_count": 1875,
-    "like_count": 37,
+    "view_count": 1939,
+    "like_count": 39,
     "dislike_count": 7,
     "favorite_count": 0,
     "comment_count": 3
@@ -5855,8 +6013,8 @@
       "Local issues",
       "Urban Planning"
     ],
-    "view_count": 868,
-    "like_count": 30,
+    "view_count": 1016,
+    "like_count": 31,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 1
@@ -5883,8 +6041,8 @@
       "Social Change",
       "Social Entrepreneurship"
     ],
-    "view_count": 1982,
-    "like_count": 20,
+    "view_count": 2051,
+    "like_count": 22,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -5923,11 +6081,11 @@
       "tedxauckland",
       "English"
     ],
-    "view_count": 63826,
-    "like_count": 542,
+    "view_count": 64092,
+    "like_count": 544,
     "dislike_count": 20,
     "favorite_count": 0,
-    "comment_count": 22
+    "comment_count": 23
   },
   "rrsBQo6GVC4": {
     "id": "rrsBQo6GVC4",
@@ -5967,9 +6125,9 @@
       "tedx",
       "ted x"
     ],
-    "view_count": 43105,
-    "like_count": 463,
-    "dislike_count": 30,
+    "view_count": 44067,
+    "like_count": 484,
+    "dislike_count": 31,
     "favorite_count": 0,
     "comment_count": 99
   },
@@ -5998,11 +6156,11 @@
       "Money",
       "Technology"
     ],
-    "view_count": 8521,
-    "like_count": 58,
+    "view_count": 8759,
+    "like_count": 61,
     "dislike_count": 15,
     "favorite_count": 0,
-    "comment_count": 8
+    "comment_count": 7
   },
   "s97kzS-6z30": {
     "id": "s97kzS-6z30",
@@ -6027,11 +6185,11 @@
       "Microbiology",
       "Society"
     ],
-    "view_count": 93304,
-    "like_count": 871,
-    "dislike_count": 100,
+    "view_count": 95196,
+    "like_count": 910,
+    "dislike_count": 101,
     "favorite_count": 0,
-    "comment_count": 197
+    "comment_count": 196
   },
   "EIk-K6JILj4": {
     "id": "EIk-K6JILj4",
@@ -6062,8 +6220,8 @@
       "TEDxTalks",
       "ted x"
     ],
-    "view_count": 4402,
-    "like_count": 32,
+    "view_count": 4540,
+    "like_count": 34,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 0
@@ -6099,11 +6257,11 @@
       "Society",
       "Struggle"
     ],
-    "view_count": 418713,
-    "like_count": 9008,
-    "dislike_count": 177,
+    "view_count": 433149,
+    "like_count": 9408,
+    "dislike_count": 184,
     "favorite_count": 0,
-    "comment_count": 680
+    "comment_count": 665
   },
   "eeHsYmXQFKU": {
     "id": "eeHsYmXQFKU",
@@ -6128,8 +6286,8 @@
       "Innovation",
       "Public health"
     ],
-    "view_count": 1930,
-    "like_count": 19,
+    "view_count": 1959,
+    "like_count": 20,
     "dislike_count": 0,
     "favorite_count": 0,
     "comment_count": 1
@@ -6157,7 +6315,7 @@
       "Work",
       "Workplace"
     ],
-    "view_count": 528,
+    "view_count": 619,
     "like_count": 9,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6186,15 +6344,15 @@
       "Leadership",
       "Women in business"
     ],
-    "view_count": 1456,
-    "like_count": 50,
+    "view_count": 1583,
+    "like_count": 53,
     "dislike_count": 1,
     "favorite_count": 0,
     "comment_count": 3
   },
   "-mmHQJRe5AU": {
     "id": "-mmHQJRe5AU",
-    "title": "IN THE DARK Highlights | TEDxAucklandSalon",
+    "title": "IN THE DARK X-perience | TEDxAucklandSalon 2019",
     "published_at": "2020-10-02 22:57:03 UTC",
     "thumbnail_url": {
       "default": "https://i.ytimg.com/vi/-mmHQJRe5AU/default.jpg",
@@ -6207,7 +6365,7 @@
     "tags": [
 
     ],
-    "view_count": 8,
+    "view_count": 18,
     "like_count": 0,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6234,7 +6392,7 @@
       "Auckland (City/Town/Village)",
       "2014"
     ],
-    "view_count": 540,
+    "view_count": 542,
     "like_count": 1,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6255,7 +6413,7 @@
     "tags": [
 
     ],
-    "view_count": 1448,
+    "view_count": 1525,
     "like_count": 13,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6298,7 +6456,7 @@
       "ted talk",
       "tedx talks"
     ],
-    "view_count": 398,
+    "view_count": 402,
     "like_count": 2,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -6336,7 +6494,7 @@
       "Final Cut",
       "Logic"
     ],
-    "view_count": 281,
+    "view_count": 283,
     "like_count": 1,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6364,7 +6522,7 @@
       "New Zealand (Country)",
       "2015"
     ],
-    "view_count": 808,
+    "view_count": 811,
     "like_count": 1,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6393,7 +6551,7 @@
       "Lunch",
       "The Food Truck Garage"
     ],
-    "view_count": 839,
+    "view_count": 846,
     "like_count": 2,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6428,8 +6586,8 @@
       "act",
       "think"
     ],
-    "view_count": 14616,
-    "like_count": 80,
+    "view_count": 14655,
+    "like_count": 82,
     "dislike_count": 4,
     "favorite_count": 0,
     "comment_count": 9
@@ -6474,7 +6632,7 @@
       "tedxauckland 2012",
       "Auckland"
     ],
-    "view_count": 31379,
+    "view_count": 31384,
     "like_count": 116,
     "dislike_count": 2,
     "favorite_count": 0,
@@ -6500,7 +6658,7 @@
       "acceptance",
       "philip patston"
     ],
-    "view_count": 5168,
+    "view_count": 5198,
     "like_count": 77,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -6547,7 +6705,7 @@
       "highlight video",
       "promo"
     ],
-    "view_count": 457,
+    "view_count": 462,
     "like_count": 5,
     "dislike_count": 1,
     "favorite_count": 0,
@@ -6608,7 +6766,7 @@
       "Libraries",
       "SocialChange"
     ],
-    "view_count": 506,
+    "view_count": 521,
     "like_count": 47,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6638,7 +6796,7 @@
       "Talks",
       "SocialChange"
     ],
-    "view_count": 439,
+    "view_count": 442,
     "like_count": 29,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6669,7 +6827,7 @@
       "TEDxAuckland2017",
       "SocialChange"
     ],
-    "view_count": 499,
+    "view_count": 501,
     "like_count": 48,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6699,7 +6857,7 @@
       "TEDxAuckland2017",
       "SocialChange"
     ],
-    "view_count": 208,
+    "view_count": 210,
     "like_count": 3,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6725,7 +6883,7 @@
       "Auckland University Of Technology (College/University)",
       "aut university"
     ],
-    "view_count": 1001,
+    "view_count": 1002,
     "like_count": 3,
     "dislike_count": 0,
     "favorite_count": 0,
@@ -6750,8 +6908,8 @@
       "Augusto",
       "NZTE"
     ],
-    "view_count": 54473,
-    "like_count": 154,
+    "view_count": 57628,
+    "like_count": 166,
     "dislike_count": 20,
     "favorite_count": 0,
     "comment_count": 47
