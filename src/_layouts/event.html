@@ -61,7 +61,7 @@ layout: default
 </section>
 {% endif %}
 
-{% if page.people %}
+{% if page.people.first %}
 <section id="speakers" class="section">
   <div class="container">
     <h3 class="section-heading section-heading--speakers">speakers</h3>
@@ -71,7 +71,7 @@ layout: default
 </section>
 {% endif %}
 
-{% if page.carousel_images %}
+{% if page.carousel_images.first %}
 <section id="themeShowcase" class="section">
   <div class="container">
     <h3 class="section-heading section-heading--speakers">theme</h3>
@@ -92,7 +92,7 @@ layout: default
 </section>
 {% endif %}
 
-{% if page.major_partners or page.supporting_partners or page.event_partners %}
+{% if page.major_partners.first or page.supporting_partners.first or page.event_partners.first %}
 <section id="partners" class="section">
   <div class="container">
 
@@ -100,17 +100,17 @@ layout: default
       partners
     </h3>
 
-    {% if page.major_partners %}
+    {% if page.major_partners.first %}
     <h4 class="partner-heading">principle</h4>
     {% include partners/full-width-blurb-logo-center.html partners = page.major_partners %}
     {% endif %}
 
-    {% if page.supporting_partners %}
+    {% if page.supporting_partners.first %}
     <h4 class="partner-heading">significant</h4>
     {% include partners/full-width-blurb.html partners = page.supporting_partners %}
     {% endif %}
 
-    {% if page.event_partners %}
+    {% if page.event_partners.first %}
     <h4 class="partner-heading">event</h4>
     {% include partners/grid.html partners = page.event_partners %}
     {% endif %}
