@@ -20,23 +20,30 @@
 
   &__upcoming,
   &__past {
-    background-color: white;
+    background: white;
     padding: 4rem;
     margin: 0 1.8rem;
   }
 
   &__upcoming {
+    background: rgba(255, 255, 255, 0.8);
     border-right: 2px solid $brand-grey;
     padding-right: 3.6rem;
     text-transform: uppercase;
+    font-size: 3.5rem;
+    color: #131313;
   }
 
   &__past {
     text-transform: uppercase;
-    padding: 1rem;
+    padding: 1rem 0;
     font-size: 1.8rem;
     margin: 0 auto;
+    @include respond(phone) {
+      padding: 2rem 1rem;
+    }
   }
+  
   &__wrapper {
     display: flex;
     justify-content: space-around;
@@ -88,7 +95,36 @@
     color: lighten($brand-grey-darker, 40%);
   }
 }
+.event-upcoming {
+  display: flex;
+  flex-direction: row;
 
+  @include respond(phone) {
+    flex-direction: column;
+  }
+  &__content {
+    width: 75%;
+    padding-right: 4rem;
+    @include respond(phone) {
+      padding: 4rem;
+      width: 98%;
+    }
+  }
+  
+  &__cta {
+    width: 25%;
+    border: 0.2rem solid #c4c4c4;
+    padding: 3rem;
+    border-radius: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+    @include respond(phone) {
+      padding: 4rem;
+      width: 98%;
+    }
+  }
+}
 // .all-events {
 //   &__container {
 //     display: flex;

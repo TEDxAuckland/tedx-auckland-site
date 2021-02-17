@@ -22,11 +22,9 @@ events:
         <ul class="filter-tags__tags">
           {% for event_name in page.events %}
           {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
-
           <li class="filter-tags__tag">
             <a href="{{event.url}}">{{ event.short_title }}</a>
           </li>
-
           {% endfor %}
         </ul>
       </div>

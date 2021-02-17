@@ -27,16 +27,12 @@ events:
     {% assign upcoming_events_length = upcoming_events | size %}
     {% if upcoming_events_length > 0 %}
     <div class="events-list__upcoming">
-      <h4>upcoming <br> events</h4>
-
+      <h4>upcoming <br> event</h4>
       {% for event in upcoming_events %}
       <a href="{{ event.url }}" class="event-info__link">
         <div class="event-info">
           <div class="event-info__top">
             <h3>{{ event.short_title }}</h3>
-          </div>
-          <div class="event-info__bottom">
-            {{ event.start_date | date: "%-d %b %Y" }}
           </div>
         </div>
       </a>
@@ -50,11 +46,27 @@ events:
 <section>
   <div class="container">
     <h1 class="event-highlights__heading">{{ page.speaker_highlight_title }}</h1>
-
     {% include speakers.html speakers = page.people bg_white = true hide_names = true %}
   </div>
 </section>
 {% endif %}
+<section>
+  <div class="container event-upcoming">
+    {% assign upcoming_events_length = upcoming_events | size %}
+    {% if upcoming_events_length > 0 %}
+    {% for event in upcoming_events %}
+    <div class="event-upcoming__content">
+      {{ event.content }}
+      <a href="{{ event.url }}" class="button event-info__button">See More</a>
+    </div>
+    <div class="event-upcoming__cta">
+      <h2>{{ event.start_date | date: "%-d" }}<br/>{{ event.start_date | date: "%b" }}</h2>
+      <a href="{{ event.ticket_sales.application.link }}">Get Tickets</a>
+    </div>
+    {% endfor %}
+    {% endif %}
+  </div>
+</section>
 <section>
   <div class="container events-list__past">
     <h2>Recent Events</h2>
