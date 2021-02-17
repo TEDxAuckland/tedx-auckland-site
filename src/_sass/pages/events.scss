@@ -33,9 +33,25 @@
 
   &__past {
     text-transform: uppercase;
+    padding: 1rem;
+    font-size: 1.8rem;
+    margin: 0 auto;
+  }
+  &__wrapper {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    @include respond(phone) {
+      flex-direction: column;
+    }
+    .event-info {
+      &__link {
+        border-left: 0.5rem solid #ed3624;
+        padding: 1rem;
+      }
+    }
   }
 }
-
 
 .event-info {
   text-transform: none;
@@ -51,6 +67,7 @@
 
   &__link {
     color: inherit;
+    flex-grow: 1;
   }
 
   &__top {

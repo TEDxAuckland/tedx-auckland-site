@@ -22,7 +22,7 @@ events:
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
 
-<header class="thin-hero events-list-hero" style="background-image: url({{ page.image }})">
+<header class="thin-hero events-list-hero" style="background-image: url('{{ page.image }}')">
   <div class="container events-list">
     {% assign upcoming_events_length = upcoming_events | size %}
     {% if upcoming_events_length > 0 %}
@@ -43,51 +43,8 @@ events:
       {% endfor %}
     </div>
     {% endif %}
-
-    <div class="events-list__past">
-      <h4>recent <br> events</h4>
-
-      {% for event in past_events limit: 3 %}
-
-      <a href="{{ event.url }}" class="event-info__link">
-        <div class="event-info">
-          <div class="event-info__top">
-            {{ event.short_title }}
-          </div>
-          <div class="event-info__bottom">
-            {{ event.start_date | date: "%b %Y" }}
-          </div>
-        </div>
-      </a>
-      {% endfor %}
-    </div>
   </div>
 </header>
-
-<!--section id="filter-tags">
-  <div class="container talks-filter-container">
-
-    <div class="talks-filter">
-      <h1 class="talks-filter__title">events</h1>
-
-      <div class="filter-tags">
-        <h4 class="filter-tags__title" >select year</h4>
-
-        <ul class="filter-tags__tags">
-          {% for event_name in page.events %}
-          {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
-
-          <li class="filter-tags__tag">
-            <a href="{{event.url}}">{{ event.short_title }}: {{ event.tagline }}</a>
-          </li>
-
-          {% endfor %}
-
-        </ul>
-      </div>
-    </div>
-  </div>
-</section-->
 
 {% if page.show_speaker_highlights %}
 <section>
@@ -98,3 +55,22 @@ events:
   </div>
 </section>
 {% endif %}
+<section>
+  <div class="container events-list__past">
+    <h2>Recent Events</h2>
+    <div class="events-list__wrapper">
+    {% for event in past_events limit: 3 %}
+      <a href="{{ event.url }}" class="event-info__link">
+        <div class="event-info">
+          <div class="event-info__top">
+            {{ event.short_title }}
+          </div>
+          <div class="event-info__bottom">
+            {{ event.start_date | date: "%b %Y" }}
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+    </div>
+  </div>
+</section>
