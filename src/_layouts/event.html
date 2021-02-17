@@ -1,7 +1,38 @@
 ---
 layout: default
+events:
+  - dining-in-the-dark
+  - tedxauckland-2019-05
+  - tedxauckland-2018
+  - tedxauckland-2017
+  - tedxauckland-2016
+  - tedxauckland-2015
+  - tedxauckland-2014
+  - tedxauckland-2013
+  - tedxauckland-2012
+  - tedxauckland-2010
+  - tedxauckland-2009
 ---
+<section id="filter-tags">
+  <div class="container talks-filter-container">
+    <div class="talks-filter">
+      <h1 class="talks-filter__title">events</h1>
+      <div class="filter-tags">
+        <h4 class="filter-tags__title" >select year</h4>
+        <ul class="filter-tags__tags">
+          {% for event_name in page.events %}
+          {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
+          <li class="filter-tags__tag">
+            <a href="{{event.url}}">{{ event.short_title }}</a>
+          </li>
+
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
 {% if page.image %}
 <header class="event-hero container">
   {% assign image = page.image | remove_first: "/" %}
@@ -12,7 +43,6 @@ layout: default
   %}
 </header>
 {% endif %}
-
 {% assign page_content = page.content | strip_newlines %}
 {% if page_content != "" %}
 <section id="more" class="section">

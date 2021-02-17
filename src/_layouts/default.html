@@ -9,7 +9,6 @@ layout: default-base
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	{% endif %}
-
 	<nav id="top" class="nav-bar">
 		<div class="container nav-bar__container">
 			<a class="nav-bar__brand" href="/">
@@ -37,7 +36,6 @@ layout: default-base
 
 				</ul>
 			</div>
-
 			{% assign ticket_button = site.data.site_settings.buy_ticket_button  %}
 			{% if ticket_button.active %}
 			<div class="nav-bar__buy-tickets">
@@ -53,7 +51,28 @@ layout: default-base
 
 		</div>
 	</nav>
+	{% if page.events or page.event %}
+	<section id="filter-tags">
+		<div class="container talks-filter-container">
+			<div class="talks-filter">
+				<h1 class="talks-filter__title">events</h1>
+				<div class="filter-tags">
+					<h4 class="filter-tags__title" >select year</h4>
+					<ul class="filter-tags__tags">
+						{% for event_name in page.events %}
+						{% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
+						<li class="filter-tags__tag">
+							<a href="{{event.url}}">{{ event.short_title }}</a>
+						</li>
+
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	{% endif %}
 	{{ content }}
 
 	{% include back-to-top.html %}
