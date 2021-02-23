@@ -1,6 +1,6 @@
 ---
 title: 'tūmanako: to hope for a better future - Nov 2019'
-short_title: tūmanako
+short_title: Nov 2019
 layout: event-tumanako
 upcoming: false
 ticket_sales:

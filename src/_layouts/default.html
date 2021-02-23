@@ -14,10 +14,8 @@ layout: default-base
 			<a class="nav-bar__brand" href="/">
 				<img class="nav-bar__image" src="/assets/images/tedx-auckland-logo-black.svg" alt="Tedx Auckland" />
 			</a>
-
 			<div class="nav-bar__links">
 				<ul class="nav-links" id="nav-links">
-
 					{% for nav in site.data.site_settings.navigation %}
 
 					{% assign active = nil %}
@@ -48,31 +46,12 @@ layout: default-base
 			<a href="javascript:void(0);" class="nav-bar__hamburger-icon" onclick="hamburger_menu()">
 				<i class="fa fa-bars"></i>
 			</a>
-
 		</div>
+		{% if page.url contains "events" %}
+			{% include event-timeline.html %}
+		{% endif %}
 	</nav>
-	{% if page.events or page.event %}
-	<section id="filter-tags">
-		<div class="container talks-filter-container">
-			<div class="talks-filter">
-				<h1 class="talks-filter__title">events</h1>
-				<div class="filter-tags">
-					<h4 class="filter-tags__title" >select year</h4>
-					<ul class="filter-tags__tags">
-						{% for event_name in page.events %}
-						{% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
-
-						<li class="filter-tags__tag">
-							<a href="{{event.url}}">{{ event.short_title }}</a>
-						</li>
-
-						{% endfor %}
-					</ul>
-				</div>
-			</div>
-		</div>
-	</section>
-	{% endif %}
+	
 	{{ content }}
 
 	{% include back-to-top.html %}

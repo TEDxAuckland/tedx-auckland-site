@@ -1,6 +1,6 @@
 ---
 title: November 2020
-short_title: Nov-2020
+short_title: Nov 2020
 layout: event-nov-2020
 upcoming: false
 ticket_sales:
