@@ -62,10 +62,13 @@ events:
       {{ event.content }}
       <a href="{{ event.url }}" class="button event-info__button">See More</a>
     </div>
-    <div class="event-upcoming__cta">
-      <h2>{{ event.start_date | date: "%-d" }}<br/>{{ event.start_date | date: "%b" }}</h2>
-      <a href="{{ event.ticket_sales.application.link }}">Get Tickets</a>
-    </div>
+      <div class="event-upcoming__cta">
+        <h2>{{ event.start_date | date: "%-d" }}<br/>{{ event.start_date | date: "%b" }}</h2>
+          {% assign ticket_button = site.data.site_settings.buy_ticket_button  %}
+          {% if ticket_button.active %}
+            <a href="{{ event.ticket_sales.application.link }}">Get Tickets</a>
+          {% endif %}
+        </div>
     {% endfor %}
     {% endif %}
   </div>
