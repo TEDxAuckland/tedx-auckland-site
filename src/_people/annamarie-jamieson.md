@@ -9,7 +9,7 @@ description_markdown: >-
 
 
   In her position as the People & Culture Director
-  for&nbsp;[Stuff.co.nz](http://stuff.co.nz/){: target="_blank"}, she launched
+  for&nbsp;[Stuff.co.nz](http://stuff.co.nz/), she launched
   and implemented the award-winning&nbsp;*Creative Spirit programme*, which
   gives young adults with intellectual disabilities a chance to contribute to
   society in a meaningful way.
