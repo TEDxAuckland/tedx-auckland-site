@@ -94,6 +94,10 @@
 
   &__button {
     float: right;
+
+    &--left {
+      float: left;
+    }
   }
 
   &__ticket-embed {
