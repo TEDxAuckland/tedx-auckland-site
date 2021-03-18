@@ -94,10 +94,12 @@
 
   &__button {
     float: right;
+    font-weight: bold;
 
     &--left {
       float: left;
-    }
+      font-weight: bold;
+  }
   }
 
   &__ticket-embed {
