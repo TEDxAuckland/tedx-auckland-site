@@ -4,6 +4,10 @@ tagline: ...
 layout: default
 description: Home of TEDxAuckland
 image: /assets/images/bg-upcoming-events.jpg
+banner:
+  image: /uploads/may-2021-banner.svg
+  alt: Upcoming Event
+  visible: true
 videos:
   - we-need-to-reset-democracy
   - poetry-on-toe-hair-birds-and-the-fetishization-of-modesty
@@ -21,6 +25,14 @@ videos:
 ---
 
 {% include upcoming-event-bar.html %}
+
+{% if page.banner.visible %}
+<header>
+  <div class="container container-wider">
+    <img src="{{ page.banner.image }}" alt="{{ page.banner.alt }}">
+  </div>
+</header>
+{% endif %}
 
 <section id="talks" class="section">
   <div class="container">
