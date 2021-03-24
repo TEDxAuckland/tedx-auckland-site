@@ -3,11 +3,11 @@ title: Homepage
 tagline: ...
 layout: default
 description: Home of TEDxAuckland
-image: /assets/images/bg-upcoming-events.jpg
 banner:
   image: /uploads/twitter-banner-for-website.svg
   alt: Upcoming Event
   visible: true
+  link: /events/may-2021/
 videos:
   - we-need-to-reset-democracy
   - poetry-on-toe-hair-birds-and-the-fetishization-of-modesty
@@ -29,7 +29,9 @@ videos:
 {% if page.banner.visible %}
 <header>
   <div class="container container-wider">
-    <img src="{{ page.banner.image }}" alt="{{ page.banner.alt }}" />
+    <a href="{{ page.banner.link }}">
+      <img src="{{ page.banner.image }}" alt="{{ page.banner.alt }}" />
+    </a>
   </div>
 </header>
 {% endif %}
