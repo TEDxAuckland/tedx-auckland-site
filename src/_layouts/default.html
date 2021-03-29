@@ -9,16 +9,13 @@ layout: default-base
 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<!-- End Google Tag Manager (noscript) -->
 	{% endif %}
-
 	<nav id="top" class="nav-bar">
 		<div class="container nav-bar__container">
 			<a class="nav-bar__brand" href="/">
 				<img class="nav-bar__image" src="/assets/images/tedx-auckland-logo-black.svg" alt="Tedx Auckland" />
 			</a>
-
 			<div class="nav-bar__links">
 				<ul class="nav-links" id="nav-links">
-
 					{% for nav in site.data.site_settings.navigation %}
 
 					{% assign active = nil %}
@@ -37,7 +34,6 @@ layout: default-base
 
 				</ul>
 			</div>
-
 			{% assign ticket_button = site.data.site_settings.buy_ticket_button  %}
 			{% if ticket_button.active %}
 			<div class="nav-bar__buy-tickets">
@@ -50,7 +46,6 @@ layout: default-base
 			<a href="javascript:void(0);" class="nav-bar__hamburger-icon" onclick="hamburger_menu()">
 				<i class="fa fa-bars"></i>
 			</a>
-
 		</div>
 	</nav>
 

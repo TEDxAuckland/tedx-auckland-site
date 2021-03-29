@@ -17,11 +17,11 @@
 .talks-filter {
   display: flex;
   justify-content: flex-start;
-  margin: 4rem 0;
+  margin: 1rem 0 2rem;
 
   @include respond(phone) {
     flex-wrap: wrap;
-    margin: 3rem;
+    margin: 1rem 3rem;
   }
 
   &__title {
@@ -30,6 +30,7 @@
     padding-right: 5.4rem;
     margin-bottom: 3.5rem;
     font-weight: 400;
+    display: none;
 
     @include respond(phone) {
       margin: 0;
@@ -58,6 +59,7 @@
     font-weight: 400;
     margin: 0;
     margin-bottom: 1rem;
+    display: none;
   }
 
   &__tags {

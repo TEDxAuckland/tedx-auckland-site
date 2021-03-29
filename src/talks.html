@@ -33,7 +33,8 @@ other_playlists:
           {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
 
           <li class="filter-tags__tag">
-            <a href="#{{event.short_title}}">{{ event.short_title }} {{ event.tagline | prepend: ": " }}</a>
+            <!--a href="#{{event.short_title}}">{{ event.short_title }} {{ event.tagline | prepend: ": " }}</a-->
+            <a href="#{{event.short_title}}">{{ event.short_title }}</a>
           </li>
 
           {% endfor %}
