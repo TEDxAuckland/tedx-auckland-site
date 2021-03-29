@@ -47,11 +47,8 @@ layout: default-base
 				<i class="fa fa-bars"></i>
 			</a>
 		</div>
-		{% if page.url contains "events" %}
-			{% include event-timeline.html %}
-		{% endif %}
 	</nav>
-	
+
 	{{ content }}
 
 	{% include back-to-top.html %}
