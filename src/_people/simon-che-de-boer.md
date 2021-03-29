@@ -6,14 +6,14 @@ description_markdown: >-
   Simon Che de Boer is a virtual reality content creator, renowned
   photogrammetrist, and founder of realityvirtual.co - a visual effects
   technology company streamlining real-world encapsulation - allowing them to
-  deliver a true sense of ‘being there’.&nbsp;
+  deliver a true sense of ‘being there’.
 
 
   His work has received international recognition for the level of quality, and
   is commonly cited as the gold standard for photo-realistic digital-twin
   experiences. Forbes, NVIDIA, Autodesk and Epic Games have all featured the
   work of realityvirtual.co to demonstrate the potential of this new immersive
-  medium.&nbsp;
+  medium.
 
 
   Simon’s real-world digitisation of sites of cultural significance span the
@@ -30,10 +30,8 @@ website_url: 'http://www.realityvirtual.co/'
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: M1zhwWcAYvU
 github_username:
 instagram_url:
 linkedin_url: 'https://www.linkedin.com/in/simon-che-de-boer-2a49386a/'
----
-
-Enter your description here...
+---Enter your description here...

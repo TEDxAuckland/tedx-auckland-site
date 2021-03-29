@@ -1,11 +1,11 @@
 upcoming_event_bar:
-  active: false
-  event_short_title: Nov-2020
-  left: BUY TICKETS
-  right: 'TEDxAuckland: Whoa! Studios | Saturday November 14th, 2020'
+  active: true
+  event_short_title: May 2021
+  left: UPCOMING
+  right: 'TEDxAuckland 2021, MAY 22nd #bethere'
 buy_ticket_button:
-  active: false
-  url: '/events/november-2020#buyTickets'
+  active: true
+  url: 'https://tedxauckland.com/community/events#/may-2021/tickets/purchase'
 navigation:
   - title: Talks/
     sub_title: Ideas
