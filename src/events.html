@@ -45,6 +45,13 @@ events:
   </div>
 </header>
 
+<section>
+  <div class="container">
+    <h1 class="event-highlights__heading">Events</h1>
+    {% include event-timeline.html %}
+  </div>
+</section>
+
 {% if page.show_speaker_highlights %}
 <section>
   <div class="container">
@@ -53,6 +60,7 @@ events:
   </div>
 </section>
 {% endif %}
+
 <section>
   <div class="container event-upcoming">
     {% assign upcoming_events_length = upcoming_events | size %}
@@ -73,6 +81,7 @@ events:
     {% endif %}
   </div>
 </section>
+
 <section>
   <div class="container events-list__past">
     <h2>Recent Events</h2>
