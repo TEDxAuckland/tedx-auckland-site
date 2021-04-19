@@ -1,5 +1,5 @@
 ---
-name: Getrude Matshe-Kanicki
+name: Getrude Matshe
 email:
 image: /uploads/getrude1080x1080.jpg
 description_markdown: >-
@@ -26,6 +26,4 @@ youtube_video_id:
 github_username:
 instagram_url:
 linkedin_url:
----
-
-Enter your description here...
+---Enter your description here...
