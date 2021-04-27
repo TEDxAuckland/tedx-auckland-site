@@ -1,0 +1,42 @@
+.video-banner {
+  position: relative;
+
+  &__video {
+    object-fit: cover !important;
+  }
+
+  &__content {
+    position: absolute;
+    top: 34%;
+    left: 27vw;
+
+    @include respond(section-overflow) {
+      left: 15vw;
+    }
+
+    @include respond(phone) {
+      top: 37%;
+      left: 0;
+      right: 0;
+      text-align: center;
+    }
+
+    & h3 {
+      font-size: 6rem;
+      color: white;
+      text-shadow: 0 0 1px black;
+      font-weight: 600;
+
+      @include respond(section-overflow) {
+        font-size: 5.5rem;
+      }
+
+      @include respond(tab-small) {
+        font-size: 4rem;
+      }
+
+      @include respond(phone) {
+      }
+    }
+  }
+}

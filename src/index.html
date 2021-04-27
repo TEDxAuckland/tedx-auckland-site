@@ -8,6 +8,13 @@ banner:
   alt: Upcoming Event
   visible: true
   link: /events/may-2021/
+video_banner:
+  video: /assets/video/2021-theme-video-banner.webm
+  poster: /uploads/twitter-banner-for-website.svg
+  visible: true
+  link: /events/may-2021/
+  show_content: false
+  content: SATURDAY 22 MAY
 videos:
   - we-need-to-reset-democracy
   - poetry-on-toe-hair-birds-and-the-fetishization-of-modesty
@@ -25,6 +32,21 @@ videos:
 ---
 
 {% include upcoming-event-bar.html %}
+
+{% if page.video_banner.visible %}
+<header class="video-banner">
+    <a href="{{ page.video_banner.link }}">
+      <video class="video-banner__video" playsinline autoplay muted loop poster="{{ page.video_banner.poster }}" id="bgvid">
+        <source src="{{ page.video_banner.video }}">
+      </video>
+      {% if page.video_banner.show_content %}
+      <div class="video-banner__content">
+        <h3>{{ page.video_banner.content }}</h3>
+      </div>
+      {% endif %}
+    </a>
+</header>
+{% endif %}
 
 {% if page.banner.visible %}
 <header>
