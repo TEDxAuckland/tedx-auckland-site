@@ -9,7 +9,7 @@ banner:
   visible: true
   link: /events/may-2021/
 video_banner:
-  video: /assets/video/2021-theme-video-banner.webm
+  video_src: /assets/video/2021-theme-video-banner.webm
   poster: /uploads/twitter-banner-for-website.svg
   visible: true
   link: /events/may-2021/
@@ -37,7 +37,7 @@ videos:
 <header class="video-banner">
     <a href="{{ page.video_banner.link }}">
       <video class="video-banner__video" playsinline autoplay muted loop poster="{{ page.video_banner.poster }}" id="bgvid">
-        <source src="{{ page.video_banner.video }}">
+        <source src="{{ page.video_banner.video_src }}">
       </video>
       {% if page.video_banner.show_content %}
       <div class="video-banner__content">
