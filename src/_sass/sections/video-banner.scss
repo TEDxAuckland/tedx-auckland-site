@@ -1,4 +1,4 @@
-.video-banner {
+.video-banner-full {
   position: relative;
 
   &__video {
@@ -34,9 +34,57 @@
       @include respond(tab-small) {
         font-size: 4rem;
       }
+    }
+  }
+}
 
-      @include respond(phone) {
-      }
+.video-banner {
+  margin-top: 3rem;
+
+  &__video {
+    height: 60rem;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  &__row {
+    display: flex;
+    @include respond(tab-land) {
+      flex-wrap: wrap;
+    }
+  }
+
+  &__left {
+    flex: 1 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    margin: 16rem 0;
+    padding-left: 4rem;
+
+    @include respond(tab-land) {
+      flex: 1 100%;
+      padding-left: 0;
+    }
+
+    img {
+      max-width: 26rem;
+      margin-top: 2rem;
+    }
+
+    h3 {
+      font-size: 4rem;
+      font-weight: 600;
+    }
+  }
+
+  &__right {
+    flex: 1 60%;
+
+    @include respond(tab-land) {
+      flex: 1 100%;
     }
   }
 }

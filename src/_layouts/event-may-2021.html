@@ -1,0 +1,128 @@
+---
+layout: default
+---
+{% if page.image %}
+<header class="video-banner-full">
+  <video class="video-banner-full__video" playsinline autoplay muted loop poster="/uploads/twitter-banner-for-website.svg" id="bgvid">
+    <source src="/assets/video/2021-theme-video-banner.webm">
+  </video>
+</header>
+{% endif %}
+{% assign page_content = page.content | strip_newlines %}
+{% if page_content != "" %}
+<section id="more" class="section">
+
+  <div class="container event-info__container">
+
+    {% if page.ticket_sales.embed.active %}
+    <div id="buyTickets" class="event-info__content event-info__content-full-width">
+      <h1 class="event-info__ticket-embed-title">Buy Tickets</h1>
+      {{ page.ticket_sales.embed.code }}
+    </div>
+    {% endif %}
+
+		<div class="event-info__content content">
+			{{ page.content }}
+      {% if page.ticket_sales.link.active %}
+      <a href="{{ page.ticket_sales.link.src }}" class="button event-info__button--left">Get Tickets Here</a>
+      {% endif %}
+      {% if page.ticket_sales.application.active %}
+      <a href="{{ page.ticket_sales.application.link }}" class="button event-info__button">Apply for Ticket</a>
+      {% endif %}
+    </div>
+
+	</div>
+</section>
+{% endif %}
+
+{% if page.highlight_video_id %}
+<section class="section">
+  <div class="container">
+
+    <h3 class="section-heading">highlight reel</h3>
+    <div class="talks-expanded-preview__iframe-wrapper">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ page.highlight_video_id }}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+{% endif %}
+
+{% include playlist_videos_data.html %}
+{% if page.youtube_playlist %}
+<section id="talks" class="section">
+  <div class="container">
+
+    <h3 class="section-heading">talks</h3>
+    {% include playlist_videos.html playlist_id = page.youtube_playlist unique_id = "talks" %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.people.first %}
+<section id="speakers" class="section">
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">speakers</h3>
+
+    {% include speakers.html speakers = page.people hide_names = page.hide_speaker_names bg_white = true %}
+  </div>
+</section>
+{% endif %}
+
+{% if page.carousel_images.first %}
+<section id="themeShowcase" class="section">
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">theme</h3>
+
+    {% include carousel.html images = page.carousel_images bg_white = true %}
+  </div>
+</section>
+{% endif %}
+
+{% if page.other_youtube_playlist %}
+<section id="extraPlaylist" class="section">
+  <div class="container">
+
+    <h3 class="section-heading">{{ page.other_youtube_playlist_title }}</h3>
+    {% include playlist_videos.html playlist_id = page.other_youtube_playlist unique_id = "extra" %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.major_partners.first or page.supporting_partners.first or page.event_partners.first %}
+<section id="partners" class="section">
+  <div class="container">
+
+    <h3 class="section-heading section-heading--dark">
+      partners
+    </h3>
+
+    {% if page.major_partners.first %}
+    <h4 class="partner-heading">principle</h4>
+    {% include partners/full-width-blurb-logo-center.html partners = page.major_partners %}
+    {% endif %}
+
+    {% if page.supporting_partners.first %}
+    <h4 class="partner-heading">significant</h4>
+    {% include partners/full-width-blurb.html partners = page.supporting_partners %}
+    {% endif %}
+
+    {% if page.event_partners.first %}
+    <h4 class="partner-heading">event</h4>
+    {% include partners/grid.html partners = page.event_partners %}
+    {% endif %}
+
+  </div>
+</section>
+{% endif %}
+
+{% if page.flikr_galleries.first %}
+<section class="section">
+  <div class="container">
+    <h3 class="section-heading">flickr</h3>
+
+    {% include flickr.html galleries = page.flikr_galleries %}
+  </div>
+</section>
+{% endif %}
