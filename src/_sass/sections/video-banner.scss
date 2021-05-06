@@ -3,6 +3,8 @@
 
   &__video {
     object-fit: cover !important;
+    width: 100%;
+    max-height: 52vh;
   }
 
   &__content {
