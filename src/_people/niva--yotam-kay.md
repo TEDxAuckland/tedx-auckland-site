@@ -1,7 +1,7 @@
 ---
 name: Niva & Yotam Kay
 email:
-image: /uploads/niva--yotam-kay-2-x2400.jpg
+image: /uploads/niva--yotam-kay-3-x2400.jpg
 description_markdown: >-
   Niva and Yotam Kay of Pakaraka Permaculture on the Coromandel Peninsula
   established and operate an organic market garden and education centre for
