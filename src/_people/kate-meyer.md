@@ -1,7 +1,7 @@
 ---
 name: Kate Meyer
 email:
-image: /uploads/kate-meyer-1-x2400.jpg
+image: /uploads/kate-meyer-bw-x2400.jpg
 description_markdown: >-
   Kate is a sustainability scientist, an engineer, and an author with a vision
   for a world where people flourish within the planet’s limits. During her early
