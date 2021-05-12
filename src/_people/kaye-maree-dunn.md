@@ -1,7 +1,7 @@
 ---
 name: Kaye-Maree Dunn
 email:
-image: /uploads/kaye-maree-dunn-1-x2400.jpg
+image: /uploads/kaye-maree-dunn-1-bw-x2400.jpg
 description_markdown: >-
   Kaye-Maree Director of Making Everything Achievable is a social impact and
   technology entrepreneur&nbsp; from Te Rarawa, Ngā Puhi, Ngāi Te
