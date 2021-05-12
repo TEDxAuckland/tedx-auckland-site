@@ -1,7 +1,7 @@
 ---
 name: Greg Hart
 email:
-image: /uploads/greg-hart-1-x2400.jpg
+image: /uploads/greg-hart-bw-x2400.jpg
 description_markdown: >-
   Greg grew up on a family farm near Methven, Mid-Canterbury. After gaining a
   Bachelor of Agriculture from Massey University and working in the agriculture
