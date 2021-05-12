@@ -1,7 +1,7 @@
 ---
 name: Matt Liggins
 email:
-image: /uploads/matt-liggins-1-x2400.jpg
+image: /uploads/matt-liggins-bw-x2400.jpg
 description_markdown: >-
   Matt Liggins (Ngati Ruanui) is a Professional Teaching Fellow at the
   University of Auckland School of Planning and Architecture. He is the director
