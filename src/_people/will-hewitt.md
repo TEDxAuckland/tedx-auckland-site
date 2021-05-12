@@ -1,7 +1,7 @@
 ---
 name: Will Hewitt
 email:
-image: /uploads/will-hewitt-1-x2400.jpg
+image: /uploads/will-hewitt-2-bw-x2400.jpg
 description_markdown: >-
   Will is the Founder & CEO of HeartLab, a medical device company building an
   AI-powered platform for cardiologists to view echocardiograms. He is also an
