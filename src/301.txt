@@ -39,3 +39,4 @@
 /talks/yes/ /talks/yes-the-word-that-built-an-orphanage/
 /talks/young-ocean-explorers/ /talks/young-ocean-explorers-using-kids-to-connect-with-kids/
 /events/11-2019/ /events/tumanako/
+/talks/how-to-build-diversity-into-everyday/ /talks/how-to-build-inclusion-into-the-everyday/
