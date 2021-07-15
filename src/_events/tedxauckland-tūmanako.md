@@ -72,9 +72,7 @@ The event is fully catered so just bring your lovely self and maybe someone else
 
 Find the growing list of speakers below.
 
-~~Early Bird tickets $99<br>General Release tickets $129~~
-
-~~Late Bird $159~~
+~~Early Bird tickets $99<br>General Release tickets $129~~<br>~~Late Bird $159~~
 
 **When:** Saturday 16 November 2019, midday - 5:30pm
 
