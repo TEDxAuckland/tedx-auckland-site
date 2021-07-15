@@ -1,6 +1,6 @@
 ---
-title: 'tūmanako: to hope for a better future - Nov 2019'
-short_title: Nov 2019
+title: 'tūmanako: Nov 2019'
+short_title: 'tūmanako: Nov 2019'
 layout: event-tumanako
 upcoming: false
 ticket_sales:
@@ -12,13 +12,13 @@ ticket_sales:
     code:
   application:
     active: false
-    link: 'https://tedxauckland.com/community/events#/tumanako/buy-tickets'
+    link: https://tedxauckland.com/community/events#/tumanako/buy-tickets
 image: /uploads/tumanako-theme.svg
 badge_image:
 tagline:
 start_date: 2019-11-16 00:00:00 +1300
 end_date: 2019-11-16 00:00:00 +1300
-address: '138 Halsey St, Auckland CBD, Auckland'
+address: 138 Halsey St, Auckland CBD, Auckland
 people:
   - brianna-fruean
   - thomas-owen
@@ -64,13 +64,17 @@ seo:
 
 # TEDxAuckland November 2019
 
+*tūmanako*\: to hope for a better future
+
 TEDxAuckland is taking over 'ASB Waterfront Theatre' for a full day of talks, performances, inspiration, and new connections.
 
 The event is fully catered so just bring your lovely self and maybe someone else\!
 
 Find the growing list of speakers below.
 
-~~Early Bird tickets $99<br>General Release tickets $129~~<br>Late Bird tickets $159
+~~Early Bird tickets $99<br>General Release tickets $129~~
+
+~~Late Bird $159~~
 
 **When:** Saturday 16 November 2019, midday - 5:30pm
 
