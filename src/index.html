@@ -18,7 +18,7 @@ video_banner_full:
 video_banner:
   video_src: /assets/video/2021-theme-video-banner.webm
   poster: /uploads/twitter-banner-for-website.svg
-  visible: true
+  visible: false
   link: /events/may-2021/
   show_content: false
   content: SATURDAY 22 MAY
@@ -44,7 +44,7 @@ videos:
 <header class="video-banner-full">
     <a href="{{ page.video_banner_full.link }}">
       <video class="video-banner-full__video" playsinline autoplay muted loop poster="{{ page.video_banner_full.poster }}" id="bgvid">
-        <source src="{{ page.video_banner_full.video_src }}">
+        <source src="{{ page.video_banner_full.video_src }}" />
       </video>
       {% if page.video_banner_full.show_content %}
       <div class="video-banner-full__content">
@@ -61,12 +61,12 @@ videos:
     <div class="video-banner__row">
       <div class="video-banner__left">
         <h3>{{ page.video_banner.content }}</h3>
-        <img src="/assets/images/vodafone-logo-rgb-red.svg" alt="Vodafone Logo">
+        <img src="/assets/images/vodafone-logo-rgb-red.svg" alt="Vodafone Logo" />
       </div>
       <div class="video-banner__right">
         <video class="video-banner__video" playsinline autoplay muted loop poster="{{ page.video_banner.poster }}" id="bgvid">
-          <source src="{{ page.video_banner.video_src }}">
-          <source src="/assets/video/2021-theme-video-banner.mp4">
+          <source src="{{ page.video_banner.video_src }}" />
+          <source src="/assets/video/2021-theme-video-banner.mp4" />
         </video>
       </div>
     </div>
