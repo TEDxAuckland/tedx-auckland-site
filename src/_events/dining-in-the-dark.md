@@ -12,7 +12,7 @@ ticket_sales:
     code:
   application:
     active: false
-    link: 'https://tedxauckland.com/community/events#/dark-2019/apply'
+    link: https://tedxauckland.com/community/events#/dark-2019/apply
 image: /uploads/dining-in-the-dark.png
 badge_image:
 tagline: hear you there ...
@@ -34,7 +34,7 @@ event_partners:
   - white-studios
   - dans-le-noir-
   - fuzed-printing
-highlight_video_id:
+highlight_video_id: mmHQJRe5AU
 youtube_playlist: PLcm2pIIAwlDtyjdpbf6_poIqv8w-fEbxc
 other_youtube_playlist_title:
 other_youtube_playlist:
@@ -54,11 +54,11 @@ Hosted by Dans le Noir ? Rydges Auckland and shared with you by Vodafone NZ - th
 
 #### TEDxAuckland and Dans le Noir ? are combining to provide you with a unique sensory, social and human experience.
 
-**A Sensory Journey:&nbsp;**Dining in absolute darkness is a sensory experience that awakens senses and enables guests to completely re-evaluate their perception of taste and smell.
+**A Sensory Journey:** Dining in absolute darkness is a sensory experience that awakens senses and enables guests to completely re-evaluate their perception of taste and smell.
 
-**A Place to Socialise:&nbsp;**Darkness eradicates shyness & erases preconceptions. Communication becomes more intense, authentic and spontaneous. Both with the people you sit with, and the TEDxAuckland speakers.
+**A Place to Socialise:** Darkness eradicates shyness & erases preconceptions. Communication becomes more intense, authentic and spontaneous. Both with the people you sit with, and the TEDxAuckland speakers.
 
-**A Unique Human Experience:&nbsp;**Blind people work not only as waitstaff but also as guides during this experience. Reversing roles, the guide becomes patrons’ eyes for the time of the dinner\!
+**A Unique Human Experience:** Blind people work not only as waitstaff but also as guides during this experience. Reversing roles, the guide becomes patrons’ eyes for the time of the dinner\!
 
 #### Event Information:
 
