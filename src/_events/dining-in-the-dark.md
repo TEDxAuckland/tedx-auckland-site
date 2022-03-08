@@ -34,7 +34,7 @@ event_partners:
   - white-studios
   - dans-le-noir-
   - fuzed-printing
-highlight_video_id: mmHQJRe5AU
+highlight_video_id: '-mmHQJRe5AU'
 youtube_playlist: PLcm2pIIAwlDtyjdpbf6_poIqv8w-fEbxc
 other_youtube_playlist_title:
 other_youtube_playlist:
