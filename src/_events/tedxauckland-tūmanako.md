@@ -14,7 +14,6 @@ ticket_sales:
     active: false
     link: https://tedxauckland.com/community/events#/tumanako/buy-tickets
 image: /uploads/tumanako-theme.svg
-badge_image:
 tagline:
 start_date: 2019-11-16 00:00:00 +1300
 end_date: 2019-11-16 00:00:00 +1300

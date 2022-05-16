@@ -13,7 +13,6 @@ ticket_sales:
     active: false
     link:
 image: /uploads/2015banner2.png
-badge_image:
 tagline:
 start_date: 2015-05-02 00:00:00 +1200
 end_date: 2015-05-02 00:00:00 +1200

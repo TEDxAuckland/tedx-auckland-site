@@ -17,7 +17,6 @@ ticket_sales:
     active: false
     link:
 image: /uploads/page-banner-3-x3200.png
-badge_image:
 tagline:
 start_date: 2020-11-14 00:00:00 +1300
 end_date: 2020-11-14 00:00:00 +1300

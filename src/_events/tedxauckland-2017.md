@@ -14,7 +14,6 @@ ticket_sales:
     link:
 layout: event
 image: /uploads/tedxakl-2017-banner-fw.png
-badge_image:
 tagline:
 start_date: 2017-12-01 00:00:00 +1300
 end_date: 2017-12-02 00:00:00 +1300

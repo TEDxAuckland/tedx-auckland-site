@@ -14,7 +14,6 @@ ticket_sales:
     link:
 tagline: flipside
 image: /uploads/flipside-banner.jpg
-badge_image:
 start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
 address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'

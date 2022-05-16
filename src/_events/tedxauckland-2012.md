@@ -13,7 +13,6 @@ ticket_sales:
     active: false
     link:
 image:
-badge_image:
 tagline:
 start_date: 2012-10-06 00:00:00 +1300
 end_date: 2012-10-06 00:00:00 +1300

@@ -14,7 +14,6 @@ ticket_sales:
     active: false
     link:
 image:
-badge_image:
 tagline:
 start_date:
 end_date:

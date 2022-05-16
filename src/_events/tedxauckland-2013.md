@@ -13,7 +13,6 @@ ticket_sales:
     active: false
     link:
 image: /uploads/20130803-tedx-georgias-high-77.jpg
-badge_image:
 tagline: convergemerge
 start_date: 2013-08-03 00:00:00 +1200
 end_date: 2013-08-03 00:00:00 +1200

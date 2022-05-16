@@ -13,7 +13,6 @@ ticket_sales:
     active: false
     link:
 image:
-badge_image:
 tagline: Ascending
 start_date: 2014-08-16 00:00:00 +1200
 end_date: 2014-08-16 00:00:00 +1200
