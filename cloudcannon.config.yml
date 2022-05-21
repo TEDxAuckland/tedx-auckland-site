@@ -2,6 +2,8 @@ collections_config:
   events:
     name: Events
     output: true
+    icon: celebration
+    image_key: image
     schemas:
       default:
         path: schemas/events.md
@@ -20,7 +22,11 @@ collections_config:
 
 # data_config:
 
+source: src
 
+timezone: Pacific/Auckland
 
-# paths:
-#   uploads: src/uploads
+paths:
+  collections: collections
+  # uploads: uploads
+
