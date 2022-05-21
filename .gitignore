@@ -6,3 +6,5 @@ reports
 node_modules
 vendor
 .jekyll-cache
+.envrc
+

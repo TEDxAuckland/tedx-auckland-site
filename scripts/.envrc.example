@@ -1,0 +1,8 @@
+# .envrc is used by https://direnv.net/ to load environment variables.
+# To use it copy paste .envrc.example to .envrc and add the keys.
+# They can be found on the settings of the Live site on CloudCannon.
+
+export YOUTUBE_API_KEY=
+export FLICKR_KEY=
+export FLICKER_SECRET=
+
