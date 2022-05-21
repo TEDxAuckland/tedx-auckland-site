@@ -3,6 +3,7 @@ title: TedX Auckland
 short_title:
 layout: event
 upcoming: true
+test_filed: is it here?
 ticket_sales:
   link:
     active: false

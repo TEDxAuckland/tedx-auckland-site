@@ -1,0 +1,26 @@
+collections_config:
+  events:
+    name: Events
+    output: true
+    schemas:
+      default:
+        path: schemas/events.md
+  partners:
+    name: Partners
+  people:
+    name: People
+    _hide_content: true
+    output: true
+  videos:
+    name: Videos
+    output: true
+  # posts:
+  #   name: Posts
+
+
+# data_config:
+
+
+
+# paths:
+#   uploads: src/uploads
