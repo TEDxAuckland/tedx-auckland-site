@@ -17,12 +17,8 @@
     "url": "https://github.com/TEDxAuckland/tedx-auckland-site/issues"
   },
   "homepage": "https://github.com/TEDxAuckland/tedx-auckland-site#readme",
-  "devDependencies": {
-    "cloudcannon-suite": "git+ssh://git@github.com/CloudCannon/cloudcannon-suite.git",
-    "gulp": "^3.9.1"
-  },
   "dependencies": {
-    "@cloudcannon/suite": "git+ssh://git@github.com/CloudCannon/cloudcannon-suite.git",
+    "@cloudcannon/suite": "^2.0.3-rc1",
     "@hapi/cryptiles": "^4.2.1",
     "deep-extend": "^0.6.0",
     "randomatic": "^3.1.1",

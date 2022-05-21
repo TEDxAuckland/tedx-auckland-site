@@ -1,15 +1,5 @@
-const gulp = require("gulp");
-const suite = require("cloudcannon-suite");
+const gulp = require('gulp');
+const suite = require('@cloudcannon/suite');
 
-suite.jekyllDev(gulp);
+suite.dev(gulp);
 
-suite.screenshots(gulp, {
-  dest: "reports/screenshots",
-  sites: {
-    dev: {"src": "dist/site"}
-  }
-});
-
-suite.help(gulp);
-
-gulp.task("default", ["help"]);
