@@ -1,23 +1,41 @@
 collections_config:
   events:
     name: Events
-    output: true
     icon: celebration
     image_key: image
+    output: true
     schemas:
       default:
         path: schemas/events.md
-  partners:
-    name: Partners
   people:
     name: People
+    icon: directions_walk
+    image_key: image
     _hide_content: true
     output: true
+    schemas:
+      default:
+        path: schemas/people.md
+  partners:
+    name: Partners
+    icon: volunteer_activism
+    image_key: partner_logo_image
+    schemas:
+      default:
+        path: schemas/partners.md
   videos:
     name: Videos
     output: true
-  # posts:
-  #   name: Posts
+    icon: slideshow
+    image_key: images.first.image
+    schemas:
+      default:
+        path: schemas/videos.md
+  posts:
+    name: Posts
+    schemas:
+      default:
+        path: schemas/posts.md
 
 
 # data_config:

@@ -1,5 +1,5 @@
 ---
-title: TedX Auckland
+title: TEDx Auckland
 short_title:
 layout: event
 upcoming: true
