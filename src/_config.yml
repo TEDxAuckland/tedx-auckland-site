@@ -62,6 +62,8 @@ exclude:
   - vendor
   - _posts/their news/
 
+collections_dir: collections
+
 collections:
   events:
     name: Events
