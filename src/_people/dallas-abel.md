@@ -1,7 +1,7 @@
 ---
 name: Dallas Abel
 email:
-image: /uploads/dallas-a-fw1-x2400-6.jpg
+image: /uploads/dallas-a-fw2-x2400-6.jpg
 description_markdown: >-
   Dallas Abel is the Project Manager of The Kai Ika Project, a non-profit
   initiative that recovers previously unwanted fish parts and shares them with
