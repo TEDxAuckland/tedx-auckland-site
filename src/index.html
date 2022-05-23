@@ -4,10 +4,10 @@ tagline: ...
 layout: default
 description: Home of TEDxAuckland
 banner:
-  image: /uploads/twitter-banner-for-website.svg
+  image: /uploads/fb-page-2-x3200.png
   alt: Upcoming Event
-  visible: false
-  link: /events/may-2021/
+  visible: true
+  link: /events/jun-2022/
 video_banner_full:
   video_src: /assets/video/2021-theme-video-banner.webm
   poster: /uploads/twitter-banner-for-website.svg
@@ -76,12 +76,15 @@ videos:
 {% endif %}
 
 {% if page.banner.visible %}
-<header>
-  <div class="container container-wider">
-    <a href="{{ page.banner.link }}">
-      <img src="{{ page.banner.image }}" alt="{{ page.banner.alt }}" />
-    </a>
-  </div>
+<header class="event-hero container">
+  <a href="{{ page.banner.link }}">
+    {% assign image = page.banner.image | remove_first: "/" %}
+    {% responsive_image path: image
+                        class: "event-hero__img"
+                        widths: "400, 600, 900, 1200, 1800, 2700, 3800"
+                        sizes: "100vw"
+    %}
+  </a>
 </header>
 {% endif %}
 
