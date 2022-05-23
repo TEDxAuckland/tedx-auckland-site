@@ -2,7 +2,7 @@ upcoming_event_bar:
   active: true
   event_short_title: JUN 2022
   left: UPCOMING
-  right: 'TEDxAuckland 2022, June 8th #bethere'
+  right: 'TEDxAuckland together, June 8th 2022 #bethere'
 buy_ticket_button:
   active: true
   url: https://tedxauckland.com/community/events#/june-2022/tickets/purchase
