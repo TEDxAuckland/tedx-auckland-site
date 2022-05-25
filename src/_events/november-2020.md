@@ -20,7 +20,7 @@ image: /uploads/page-banner-3-x3200.png
 tagline:
 start_date: 2020-11-14 00:00:00 +1300
 end_date: 2020-11-14 00:00:00 +1300
-address: '8 Henderson Valley Rd, Henderson, Auckland'
+address: 8 Henderson Valley Rd, Henderson, Auckland
 people:
   - peter-gluckman
   - belinda-mckenzie
@@ -63,7 +63,7 @@ carousel_images:
   - image: /uploads/9-FINAL150.png
     alt: theme slideshow image
 highlight_video_id:
-youtube_playlist:
+youtube_playlist: PLcm2pIIAwlDsrmFhE9IJKd02YFGgYqsZv
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink:

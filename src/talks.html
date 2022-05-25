@@ -54,15 +54,16 @@ other_playlists:
 
 {% for event_name in page.events %}
 {% assign event = site.events | where_exp: "e", "e.id contains event_name" | first %}
+ {% if event.youtube_playlist %}
+    <section id="{{ event.short_title }}" class="section">
+      <div class="container">
 
-  <section id="{{ event.short_title }}" class="section">
-  	<div class="container">
+        <h3 class="section-heading">{{ event.short_title }}</h3>
+        {% include playlist_videos.html playlist_id = event.youtube_playlist unique_id = forloop.index %}
 
-  		<h3 class="section-heading">{{ event.short_title }}</h3>
-      {% include playlist_videos.html playlist_id = event.youtube_playlist unique_id = forloop.index %}
-
-    </div>
-  </section>
+      </div>
+    </section>
+  {% endif %}
 {% endfor %}
 
 
