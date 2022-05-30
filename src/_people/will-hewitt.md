@@ -1,7 +1,7 @@
 ---
 name: Will Hewitt
 email:
-image: /uploads/will-hewitt-2-bw-x2400.jpg
+image: /uploads/will-h-fw-x2400-6.jpg
 description_markdown: >-
   Will is the CEO & Founder of HeartLab, a company that builds cloud software
   that makes cardiologists more efficient. Will grew up in Nelson, and was
