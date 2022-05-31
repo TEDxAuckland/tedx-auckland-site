@@ -5,9 +5,8 @@ image: /uploads/eric-r-fw2-x2400-6.jpg
 description_markdown: >-
   Originally from Indiana, Eric is currently the Auckland Philharmonia
   Orchestra’s Principal Percussionist. A regular collaborator with cross-genre
-  musicians as well as film scoring Eric participated in digital media
-  collaborations and other worldwide symphonies, philharmonic and orchestras
-  where among them the New Zealand symphonies and New Zealand Chamber Orchestra.
+  musicians as well as film scoring Eric has participated in digital media
+  collaborations and performed in orchestras worldwide.
 
 
   In 2007 Eric was awarded a Fellowship with the New World Symphony (NWS) where
