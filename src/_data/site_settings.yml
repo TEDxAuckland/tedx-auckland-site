@@ -18,10 +18,10 @@ navigation:
     url: /partners/
   - title: Blog/
     sub_title: News
-    url: /news/
+    url: /blog/
   - title: About/
     sub_title: Mission
     url: /about/
   - title: Subscribe/
     sub_title: Join Us
-    url: /mailing-list/
+    url: /join-us/
