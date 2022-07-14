@@ -6,6 +6,9 @@ image: /assets/images/bg-upcoming-events.jpg
 
 {% include upcoming-event-bar.html %}
 
+<header class="hero hero__talks" style="background-image: url({{ page.image }})">
+</header>
+
 <section id="about" class="section">
 	<div class="container">
 		<h3 class="section-heading">join us</h3>
@@ -17,13 +20,8 @@ image: /assets/images/bg-upcoming-events.jpg
 				<p>Stay up to date with TEDxAuckland by subscribing to our mailing list. This way, you&rsquo;ll hear the latest about our upcoming events as well as get notified when we share new content.</p>
 			</div>
 
-
-<header class="hero hero__talks" style="background-image: url({{ page.image }})">
-</header>
-
 <section id="join">
 	<div class="container">
-		<h3 class="section-heading">join our community</h3>
 		<div class="center-form">
 			{% include embed/extended-mailchimp-form.html %}
 		</div>
