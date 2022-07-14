@@ -14,14 +14,14 @@ navigation:
     sub_title: Experiences
     url: /events/
   - title: Partnerships/
-    sub_title: Support
+    sub_title: Sponsors
     url: /partners/
   - title: Blog/
     sub_title: News
     url: /news/
   - title: About/
-    sub_title: Contact
+    sub_title: Mission
     url: /about/
-  - title: Join Us/
-    sub_title: /Mailing List
+  - title: Subscribe/
+    sub_title: Join Us
     url: /mailing-list/
