@@ -49,51 +49,10 @@ textarea {
 	}
 }
 
-.extended-mailchimp {
+#mc_embed_signup {
 
 	.required-field {
 		color: $brand-color;
-	}
-
-	.label-btn {
-		list-style-type: none;
-		padding-bottom: 5px;
-		flex: 1 0 21%;
-
-		label {
-			color: $brand-white;
-			background-color: $brand-color;
-			text-align:center;
-			padding-right: 10px;
-			display:block;
-			cursor: pointer;
-			list-style-type: none;
-			border-radius: 25px;
-			padding: .7rem;
-			margin: .5rem;
-		}
-
-		input {
-			margin:4px;
-			background-color:#EFEFEF;
-			border-radius:4px;
-			border:1px solid #D0D0D0;
-			overflow:auto;
-			opacity: 0;
-			text-decoration: underline;
-		}
-
-		:hover {
-			color: red;
-		}
-
-		:checked + label {
-			color: red;
-			background-color: $brand-white;
-			font-weight: bold;
-			font-size: 1em;
-			border: 1px solid red;
-		}
 	}
 
 	.input-button-group {
@@ -101,7 +60,7 @@ textarea {
 		flex-wrap: wrap;
 	}
 
-	.input-form-field {
+	input {
 		display: block;
 		padding: 15px;
 		width: 100%;
