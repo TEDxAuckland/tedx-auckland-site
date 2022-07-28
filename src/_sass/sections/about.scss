@@ -7,8 +7,16 @@
 		flex: 1 1 400px;
 		margin: 20px;
 	}
+
 }
 
+// TODO remove join
+.about-details, .join-container {
+	p {
+		max-width: 75%;
+		margin-bottom: 1rem !important;
+	}
+}
 
 .about-social {
 
