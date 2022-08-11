@@ -47,16 +47,24 @@ events:
   </div>
 </header>
 
-<div id="events-snake-grid" class="past-events__container">
-  <events-snake-grid
-    :items="items"
-    line-color="#ed3624"
-    :cell-size="150"
-    v-slot="{ item }"
-  >
-    <event-card :item="item" />
-  </events-snake-grid>
-</div>
+<section>
+  <div class="container">
+    <h1 class="event-highlights__heading">Past Events</h1>
+    <!-- TODO: make this work for max-width < 1200 -->
+    <div id="events-snake-grid" class="past-events__container">
+      <events-snake-grid
+        :items="items"
+        line-color="#ed3624"
+        :cell-size="(1200 - 110 * 3) / 4"
+        :gap="110"
+        v-slot="{ item }"
+      >
+        <event-card :item="item" />
+      </events-snake-grid>
+    </div>
+  </div>
+</section>
+
 <script>
   new Vue({
     data: {
