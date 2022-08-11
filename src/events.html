@@ -26,6 +26,7 @@ events:
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
 
+<!-- TODO: what's this? -->
 <header class="thin-hero events-list-hero" style="background-image: url('{{ page.image }}')">
   <div class="container events-list">
     {% assign upcoming_events_length = upcoming_events | size %}
