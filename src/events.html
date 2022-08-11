@@ -46,6 +46,39 @@ events:
   </div>
 </header>
 
+<div id="events-snake-grid">
+  <events-snake-grid
+    :items="items"
+    line-color="#ed3624"
+    :cell-size="150"
+    v-slot="{ item }"
+  >
+    <event-card :item="item" />
+  </events-snake-grid>
+</div>
+<script>
+  new Vue({
+    data: {
+      items: [
+        { id: 1, title: "1", isBig: true },
+        { id: 2, title: "2", isBig: false },
+        { id: 3, title: "3", isBig: false },
+        { id: 4, title: "4", isBig: false },
+        { id: 5, title: "5", isBig: false },
+        { id: 6, title: "6", isBig: true },
+        { id: 7, title: "7", isBig: false },
+        { id: 8, title: "8", isBig: false },
+        { id: 9, title: "9", isBig: false },
+        { id: 10, title: "10", isBig: false },
+        { id: 11, title: "11", isBig: false },
+        { id: 12, title: "12", isBig: false },
+        { id: 13, title: "13", isBig: true },
+        { id: 14, title: "14", isBig: false },
+        { id: 15, title: "15", isBig: false },
+      ]
+    }
+  }).$mount('#events-snake-grid')
+</script>
 <section>
   <div class="container">
     <h1 class="event-highlights__heading">Events</h1>
