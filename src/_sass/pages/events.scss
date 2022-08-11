@@ -125,6 +125,31 @@
     }
   }
 }
+
+.events-snake-grid {
+  &__container {
+    display: flex;
+  }
+
+  // copy-pasted from EventSnakeGrid.vue
+  &__grid {
+    color: black;
+  }
+  &__item {
+    background-color: lightGrey;
+    &--big {
+      background-color: grey;
+    }
+  }
+}
+
+.past-events {
+  &__container {
+    display: flex;
+    justify-content: center;  
+  }
+}
+
 // .all-events {
 //   &__container {
 //     display: flex;
