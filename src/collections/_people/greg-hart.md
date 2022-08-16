@@ -18,12 +18,12 @@ description_markdown: >-
   farming systems, restoring ecosystems through tree planting, sequestering
   carbon from the atmosphere and building healthy soil using holistic grazing
   techniques. The ethos for the farm is “Optimising Life.”
-website_url: 'https://www.mangarara.co.nz/'
+website_url: https://www.mangarara.co.nz/
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: scRgGbjqoi0
 github_username:
 instagram_url:
-linkedin_url: 'https://www.linkedin.com/in/greg-hart-71400227/'
+linkedin_url: https://www.linkedin.com/in/greg-hart-71400227/
 ---
