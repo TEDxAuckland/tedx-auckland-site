@@ -67,6 +67,7 @@ youtube_playlist: PLcm2pIIAwlDsrmFhE9IJKd02YFGgYqsZv
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink:
+is_highlighted: false
 seo:
   name: TEDxAuckland
   type: Event
