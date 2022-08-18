@@ -54,6 +54,7 @@ youtube_playlist: PLcm2pIIAwlDtVUwKpkWM0Fwl7GNNVkSpA
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/tumanako/
+is_highlighted: true
 seo:
   name: TEDxAuckland
   type: Event

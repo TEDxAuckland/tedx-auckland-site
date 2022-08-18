@@ -183,6 +183,7 @@ youtube_playlist: PLcm2pIIAwlDutXJI4AWeUPpEmBZCIF2ry
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2018/
+is_highlighted: false
 seo:
   name: TEDxAuckland 2018 - Off Piste
   type: Event

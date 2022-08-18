@@ -48,6 +48,7 @@ youtube_playlist: PLcm2pIIAwlDuTR1f_L4RvqDinFjibiqDc
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2014/
+is_highlighted: true
 seo:
   name: TEDxAuckland 2014
   type: Event
