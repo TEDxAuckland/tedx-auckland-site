@@ -10,7 +10,7 @@ end
 
 class YoutubeVideoInfo
   JSON_FOLDER = '../src/_data/youtube_playlists'
-  VIDEOS_FOLDER = "../src/_videos"
+  VIDEOS_FOLDER = "../src/collections/_videos"
 
   def initialize
     @playlist_paths = Dir["../src/_events/*"] - ["../src/_events/_defaults.md"] + Dir["../src/talks.html"]
