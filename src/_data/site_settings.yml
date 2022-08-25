@@ -4,7 +4,7 @@ upcoming_event_bar:
   left: UPCOMING
   right: 'TEDxAuckland 2021, MAY 22nd #bethere'
 buy_ticket_button:
-  active: false
+  active: true
   url: https://tedxauckland.com/community/events#/may-2021/tickets/purchase
 navigation:
   - title: Talks/
