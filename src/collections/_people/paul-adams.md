@@ -17,13 +17,13 @@ description_markdown: >-
   premier IP industry magazine. In 2012 he was awarded the Global IP Leader
   Prize at the Intellectual Property Focus Forum in Shanghai, China. He is a
   frequent speaker on commercialisation and innovation internationally.
-website_url: 'https://www.everedgeglobal.com/'
+website_url: https://www.everedgeglobal.com/
 medium_url:
 twitter_url:
 facebook_url:
-youtube_video_id:
+youtube_video_id: b2phdK9lmsQ
 github_username:
 instagram_url:
-linkedin_url: 'https://www.linkedin.com/in/paul-adams-78769b41/'
+linkedin_url: https://www.linkedin.com/in/paul-adams-78769b41/
 ---
 Enter your description here…
