@@ -41,5 +41,11 @@ permalink: /events/2009/
 seo:
   name: TEDxAuckland 2009
   type: Event
+  links:
+    -
+event_listing:
+  is_highlighted: false
+  description:
+  image: /uploads/default-speaker-photo.jpg
 ---
 

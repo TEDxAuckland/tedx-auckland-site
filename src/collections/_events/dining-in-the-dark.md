@@ -1,8 +1,8 @@
 ---
 title: IN THE DARK
 short_title: AUG 2019 IN THE DARK
-upcoming: false
 layout: event-dark
+upcoming: false
 ticket_sales:
   link:
     active: false
@@ -43,6 +43,10 @@ seo:
   type: Event
   links:
     -
+event_listing:
+  is_highlighted: false
+  description:
+  image: /uploads/default-speaker-photo.jpg
 ---
 
 # Introducing A World First

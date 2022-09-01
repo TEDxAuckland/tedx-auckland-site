@@ -46,6 +46,10 @@ seo:
   type: Event
   links:
     -
+event_listing:
+  is_highlighted: false
+  description:
+  image: /uploads/default-speaker-photo.jpg
 ---
 
 # TEDxAuckland May 2019

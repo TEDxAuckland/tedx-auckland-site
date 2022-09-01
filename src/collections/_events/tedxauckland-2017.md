@@ -97,6 +97,12 @@ permalink: /events/2017/
 seo:
   name: TEDxAuckland 2017
   type: Event
+  links:
+    -
+event_listing:
+  is_highlighted: false
+  description:
+  image: /uploads/default-speaker-photo.jpg
 ---
 
 # TEDxAuckland 2017

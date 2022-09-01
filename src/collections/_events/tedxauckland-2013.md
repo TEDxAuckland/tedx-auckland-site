@@ -48,4 +48,10 @@ permalink: /events/2013/
 seo:
   name: TEDxAuckland 2013
   type: Event
+  links:
+    -
+event_listing:
+  is_highlighted: false
+  description:
+  image: /uploads/default-speaker-photo.jpg
 ---

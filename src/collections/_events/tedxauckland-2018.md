@@ -189,6 +189,10 @@ seo:
   links:
     - 'https://www.facebook.com/events/629283860774532'
     - 'https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018'
+event_listing:
+  is_highlighted: false
+  description:
+  image: /uploads/default-speaker-photo.jpg
 ---
 
 # TEDxAuckland 2018
