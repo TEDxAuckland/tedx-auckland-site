@@ -10,11 +10,10 @@ end
 
 class YoutubeVideoInfo
   JSON_FOLDER = '../src/_data/youtube_playlists'
-  VIDEOS_FOLDER = "../src/collections/_videos"
 
   def initialize
-    @playlist_paths = Dir["../src/_events/*"] - ["../src/_events/_defaults.md"] + Dir["../src/talks.html"]
-    @video_paths = Dir["#{VIDEOS_FOLDER}/*.md"] - ["../src/_events/_defaults.md"]
+    @playlist_paths = Dir["../src/collections/_events/*"] + Dir["../src/talks.html"]
+    @video_paths = Dir["../src/collections/_videos/*.md"]
     @all_video_ids = videos_collection_ids
   end
 
