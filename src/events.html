@@ -102,18 +102,10 @@ var events = [
 <section>
   <div class="container">
     <h1 class="event-highlights__heading">Past Events</h1>
-    <!-- TODO: make this work for max-width < 1200 -->
-    <!-- TODO: use Element.getBoundingClientRect() to get container width -->
     <div id="events-snake-grid" class="past-events__container">
-      <events-snake-grid
+      <events-snake-grid-responsive
         :items="items"
-        line-color="#ed3624"
-        :cell-size="(1200 - 110 * 3) / 4"
-        :gap="110"
-        v-slot="{ item, cellSize, gap }"
-      >
-        <event-card :item="item" :cell-size="cellSize" :gap="gap" />
-      </events-snake-grid>
+      />
     </div>
   </div>
 </section>
