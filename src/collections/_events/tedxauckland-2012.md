@@ -52,7 +52,7 @@ seo:
   links:
     -
 event_listing:
-  is_highlighted: false
-  description:
+  is_highlighted: true
+  description: "Lorem ipsum dolor sit amet"
   image: /uploads/default-speaker-photo.jpg
 ---

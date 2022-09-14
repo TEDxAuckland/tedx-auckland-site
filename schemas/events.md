@@ -45,7 +45,7 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
+  description: "Description for the event card"
   image: /uploads/default-speaker-photo.jpg
 ---
 

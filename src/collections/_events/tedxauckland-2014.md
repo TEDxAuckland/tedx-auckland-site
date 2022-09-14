@@ -55,8 +55,8 @@ seo:
   links:
     -
 event_listing:
-  is_highlighted: false
-  description:
+  is_highlighted: true
+  description: "Lorem ipsum dolor sit amet"
   image: /uploads/default-speaker-photo.jpg
 ---
 TEDxAuckland 2014 took place at the Aotea Centre on Saturday 16th August. *Ascending* was the overriding theme for TEDxAuckland 2014. The day was packed with over 16 speakers, musical acts and an after party.

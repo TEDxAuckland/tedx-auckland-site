@@ -191,8 +191,8 @@ seo:
     - https://www.facebook.com/events/629283860774532
     - https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018
 event_listing:
-  is_highlighted: false
-  description:
+  is_highlighted: true
+  description: "Lorem ipsum dolor sit amet"
   image: /uploads/default-speaker-photo.jpg
 ---
 # TEDxAuckland 2018
