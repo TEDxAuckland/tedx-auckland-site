@@ -3,7 +3,7 @@ _schema: default
 title: >-
   A conversation with Hēmi Kelly - Growing a Platform, Teaching and Language
   Revitalisation
-image: /uploads/hemi-k-05.jpg
+image: /uploads/hemi-k-05-1x1.jpeg
 image_caption: Hēmi Kelly
 image_caption_link:
 author:
@@ -91,7 +91,7 @@ Recently, I was driving back from Rotorua with one of my mentors who’s in her 
 
 Essentially she made it clear to me that there’s a bigger picture that I’m a part of. There are people who have gone before us and paved the way and we owe it to the next generation to carry on. So I’m just going to keep on going while I’m here and while I can. I know I’m always going to have that yearning inside to carry on.
 
-**You started this conversation with the fact that your*****mahi *****is tied to your identity. That must be a powerful connector.**
+**You started this conversation with the fact that your*****mahi \*\****is tied to your identity. That must be a powerful connector.\*\*
 
 Yeah. It’s my calling.
 
