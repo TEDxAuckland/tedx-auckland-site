@@ -7,9 +7,9 @@ image: /uploads/hemi-k-05-1x1.jpeg
 image_caption: Hēmi Kelly
 image_caption_link:
 author:
-  name:
+  name: Jaydan Salzke
   tagline:
-  link:
+  link: jaydansalzke.com
 categories:
   - our-news
 ---
