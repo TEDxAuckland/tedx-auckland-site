@@ -13,7 +13,7 @@ author:
 categories:
   - our-news
 ---
-Only four years ago, Hēmi Kelly (Ngāti Maniapoto, Ngāti Tahu, Ngāti Whāoa) stood upon the TEDxAuckland carpet and delivered his talk ‘Te Reo Māori: A new era for the language.’ Yet much has changed in those four years. He’s published a third book (*A Māori Phrase A Day*) as well as translated another (*Te Ruanuku -* &nbsp;Paul Coeho’s *The Alchemist*). Hēmi’s also now bringing Te Reo to our eyes and ears through his social media and podcast platform, Everyday Māori.
+Only four years ago, Hēmi Kelly (Ngāti Maniapoto, Ngāti Tahu, Ngāti Whāoa) stood upon the TEDxAuckland carpet and delivered his talk ‘Te Reo Māori: A new era for the language.’ Yet much has changed in those four years. He’s published a third book (*A Māori Phrase A Day*) as well as translated another (*Te Ruanuku -* &nbsp;Paul Coeho’s *The Alchemist*). Hēmi’s also now bringing te reo to our eyes and ears through his social media and podcast platform, Everyday Māori.
 
 Recently, TEDxAuckland caught up with Hēmi to learn more about his *mahi* since our 2018 Off-Piste event. In celebration of the fiftieth anniversary of the Māori Language Petition and *Te Wiki o te Reo Māori* (Māori Language Week), here’s that conversation.
 
@@ -41,17 +41,17 @@ Really, it’s all just evolved in the right way in the right time with the righ
 
 **Often you’ll hear the pandemic causing people to slow down. It sounds like you’ve sped up?**
 
-I slowed down in many other ways. But I also saw it as an opportunity. We’d been confined - restricted in our movement and in who we could see - but I knew there was an opportunity to provide another avenue for people to access Te Reo Māori when they might not have had that in their immediate bubble. For some, their classes had been cancelled or they weren’t able to be around their whānau who speak Te Reo, so it was an opportunity to create access.
+I slowed down in many other ways. But I also saw it as an opportunity. We’d been confined - restricted in our movement and in who we could see - but I knew there was an opportunity to provide another avenue for people to access te reo Māori when they might not have had that in their immediate bubble. For some, their classes had been cancelled or they weren’t able to be around their whānau who speak te reo, so it was an opportunity to create access.
 
 **Education, too, is very much community-based. Is that how you see it?**
 
-Definitely. It’s a place where people can share resources, where people can ask questions. A place where people can come and seek knowledge from others. That’s a community. People tell me they appreciate the content because it helps with their own teaching or learning, or maybe even to come back to the language after having been away from it for a while. Sometimes I hear from people who live overseas who don’t have direct access to Te Reo like we do.
+Definitely. It’s a place where people can share resources, where people can ask questions. A place where people can come and seek knowledge from others. That’s a community. People tell me they appreciate the content because it helps with their own teaching or learning, or maybe even to come back to the language after having been away from it for a while. Sometimes I hear from people who live overseas who don’t have direct access to te reo like we do.
 
-**Here in Aotearoa, there has been a significant increase in the use of Te Reo since 2018. Where do you see this normalisation coming from?**
+**Here in Aotearoa, there has been a significant increase in the use of te reo since 2018. Where do you see this normalisation coming from?**
 
-I don’t think it can be attributed to any one organisation or person. It’s been a movement since 1972 and the petition for Te Reo to be included in school curriculum. From there, there’s been more lobbying and more petitions and eventually the claim that went through which gave Te Reo its status as an official language of Aotearoa through The Māori Language Act 1987. We’re just now reaching that point of being more mainstream. It’s because an official language requires education and media to make sure people can speak it. And those are the two sectors that are creating that change, alongside policy of course.
+I don’t think it can be attributed to any one organisation or person. It’s been a movement since 1972 and the petition for te reo to be included in school curriculum. From there, there’s been more lobbying and more petitions and eventually the claim that went through which gave te reo its status as an official language of Aotearoa through The Māori Language Act 1987. We’re just now reaching that point of being more mainstream. It’s because an official language requires education and media to make sure people can speak it. And those are the two sectors that are creating that change, alongside policy of course.
 
-When I was in primary school, it was maybe a couple of songs or numbers, whereas now children are exposed to Te Reo because of young teachers who are better trained and more willing to bring it in. Media, too, is a significant source of normalisation. From simple acts of saying Kia Ora to hearing Te Reo on RNZ or seeing it spoken on The Breakfast Show - that’s all important to recognise.
+When I was in primary school, it was maybe a couple of songs or numbers, whereas now children are exposed to te reo because of young teachers who are better trained and more willing to bring it in. Media, too, is a significant source of normalisation. From simple acts of saying Kia Ora to hearing te reo on RNZ or seeing it spoken on The Breakfast Show - that’s all important to recognise.
 
 And we’ve seen there be complaints, especially on mainstream news, sometimes every night. But over time we’ve moved further into this space, as a collective, to where it’s normal. To where the Broadcasting Standards Authority no longer accept complaints in relation to the language use. That’s how important it is now. We’re moving towards this critical mass of people who value the language, who are speaking the language, learning the language, caring about the language, maybe even just using *Kia Ora*. It’s normal. And that shows it’s just going to grow.
 
@@ -77,9 +77,9 @@ And it’s been *hui ā-ataata* that has won out because it makes the most sense
 
 That’s an interesting problem, from the perspective of a teacher.
 
-In classes now, you have both Māori students - people who are of Māori descent, but might not have had the opportunity to learn Te Reo - and non-Māori students. They’re sitting in the same classroom and while they might look like me and you, they have Māori heritage or Māori *whakapapa* and so have a different connection to the language. It’s a part of their identity; a part of who they are. Maybe their grandmother spoke it but never passed it down because she was strapped when she was a child at school. That’s a deep-rooted, complex connection and often there’s *whakamā* (embarrassment) in not knowing the language.
+In classes now, you have both Māori students - people who are of Māori descent, but might not have had the opportunity to learn te reo - and non-Māori students. They’re sitting in the same classroom and while they might look like me and you, they have Māori heritage or Māori *whakapapa* and so have a different connection to the language. It’s a part of their identity; a part of who they are. Maybe their grandmother spoke it but never passed it down because she was strapped when she was a child at school. That’s a deep-rooted, complex connection and often there’s *whakamā* (embarrassment) in not knowing the language.
 
-Then you have non-Māori students who don’t have that same connection. They might have a connection to this place, and Te Reo belongs to this place, but that’s very different. I don’t think they feel that same embarrassment because there’s this distance. It’s brand new; like any language. Sometimes, because of this, you see non-Māori progressing more because they’re ready to give it their all and don’t care if they get it wrong.
+Then you have non-Māori students who don’t have that same connection. They might have a connection to this place, and te reo belongs to this place, but that’s very different. I don’t think they feel that same embarrassment because there’s this distance. It’s brand new; like any language. Sometimes, because of this, you see non-Māori progressing more because they’re ready to give it their all and don’t care if they get it wrong.
 
 This is a dynamic that’s evolving and that we need to talk about. Educators need to be aware of this because it’s not something we’ve seen before. It used to be a Māori majority in classrooms, but now we’re starting to see a non-Māori majority.
 
