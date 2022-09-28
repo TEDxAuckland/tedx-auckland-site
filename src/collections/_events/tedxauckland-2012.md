@@ -16,7 +16,7 @@ image:
 tagline:
 start_date: 2012-10-06 00:00:00 +1300
 end_date: 2012-10-06 00:00:00 +1300
-address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
+address: Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010
 people:
   - michelle-dickinson
   - andrew-patterson
@@ -41,7 +41,7 @@ flikr_galleries:
 major_partners:
 supporting_partners:
 event_partners:
-youtube_playlist: 'PLcm2pIIAwlDtgZg-UX4afZg-Y5z_9Yk3h'
+youtube_playlist: PLcm2pIIAwlDtgZg-UX4afZg-Y5z_9Yk3h
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2012/
@@ -53,6 +53,6 @@ seo:
     -
 event_listing:
   is_highlighted: true
-  description: "Lorem ipsum dolor sit amet"
+  description: TEDxAkl 2012
   image: /uploads/default-speaker-photo.jpg
 ---
