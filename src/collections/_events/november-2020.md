@@ -75,10 +75,9 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  description: 'TEDxAkl NOV 2020: Whoa! Studios'
+  image: /uploads/tr-770.jpg
 ---
-
 # TEDxAuckland November 2020
 
 **TEDxAuckland** is back at Whoa\! Studios and The Grounds. Get ready for an exceptional confluence of ideas, networking, and culinary experience (and of course the famous after-party).
@@ -87,17 +86,17 @@ Every year typically has a few defining moments, but 2020 has outdone itself. It
 
 Join the conversation, as we make history - and make sense of it. We’ll be one of the very few, live in person TEDx events taking place in the world and we’d love you to be part of it.
 
-We’ll be hosted by Whoa\! Studios in Henderson with an exceptional dining experience by multi-award winning Kiwi chef&nbsp;[Ben Bayly](https://benbayly.co.nz) of [The Grounds](https://thegrounds.co.nz) and [Ahi Restaurant](https://www.ahirestaurant.co.nz).
+We’ll be hosted by Whoa\! Studios in Henderson with an exceptional dining experience by multi-award winning Kiwi chef [Ben Bayly](https://benbayly.co.nz) of [The Grounds](https://thegrounds.co.nz) and [Ahi Restaurant](https://www.ahirestaurant.co.nz).
 
 We have an incredible line up of 5 speakers and a 4 course dinner. With only 150 places available, get in quick to be a part of it.
 
 Join us at Whoa\! Studios on Saturday 14th November 2020 for a night you’ll never forget in a year you’d like to forget.
 
-**Timetable**<br>4:30pm - Guests to arrive at Whoa\! Studios greeted with drinks<br>5:30pm - 6:45pm TEDxAuckland 2020<br>Anderson Rocio -&nbsp;*Performance*<br>Shalsee Vigeant<br>Sir Peter Gluckman<br>Belinda McKenzie<br>A meditation in blackness -&nbsp;*Performance*
+**Timetable**<br>4:30pm - Guests to arrive at Whoa\! Studios greeted with drinks<br>5:30pm - 6:45pm TEDxAuckland 2020<br>Anderson Rocio - *Performance*<br>Shalsee Vigeant<br>Sir Peter Gluckman<br>Belinda McKenzie<br>A meditation in blackness - *Performance*
 
 7pm - 10pm: Dinner & Drinks
 
-Whoa\! Studios + The Grounds location:&nbsp;[https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9)
+Whoa\! Studios + The Grounds location: [https://goo.gl/maps/b6FZcC2mN6D2E3iW9](https://goo.gl/maps/b6FZcC2mN6D2E3iW9)
 
 **Menu matched with Wine or Beer**<br>*Round 1*<br>Dairy Flat goats fromage frais<br>Organic asparagus w fennel jam & cropper tomatoes
 
