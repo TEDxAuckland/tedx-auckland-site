@@ -27,20 +27,23 @@ links:
     <h3 class="section-heading">TEDxAuckland Links</h3>
     <div class="links-container">
       <h4 class="has-red-stripe">#TEDxAkl together 2022 #bethere</h4>
-      <!-- <p>#TEDxAkl together 2022 #bethere</p> -->
     </div>
   </div>
 </section>
 
 <section>
   <div class="container links-list">
-    {% for link in page.links %}
+    {% for link in site.posts %}
     <div class="link-block anim--lift-up">
       <div class="link-img">
-        <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo">
+        {% if link.image %}
+          <img class="link-img" src="{{ link.image }}" alt="default-talk-photo">
+        {% else %}
+          <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo">
+        {% endif %}
       </div>
-      <a class="link-button" href="{{ link.url }}">
-        {{ link.title }} | {{ link.speaker }}
+      <a class="link-button" href="{{ link.author.link }}">
+        {{ link.title }} | {{ link.author.name }}
       </a>
     </div>
     {% endfor %}
