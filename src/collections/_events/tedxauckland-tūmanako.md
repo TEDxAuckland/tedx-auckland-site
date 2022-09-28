@@ -62,8 +62,8 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  description: 'TEDxAkl NOV 2019: ASB Waterfront Theatre'
+  image: /uploads/georgia-s-wft-206.jpg
 ---
 # TEDxAuckland November 2019
 
