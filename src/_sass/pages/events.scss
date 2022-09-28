@@ -60,6 +60,15 @@
   }
 }
 
+@media screen and (max-width: 600px) {
+  .event-highlights {
+    &__heading {
+      padding: 0 calc(32px - 1vw);
+      margin: 0;
+      margin-top: 10px;
+    }
+  }
+}
 .event-info {
   text-transform: none;
   font-family: $secondary-font;
@@ -151,6 +160,21 @@
     justify-content: center;  
   }
 }
+@media screen and (max-width: 600px) {
+  .past-events {
+    &__container {
+      margin-top: 32px;
+    }
+  }
+}
+@media screen and (max-width: 1200px) {
+  .past-events {
+    &__container {
+      margin-top: 5vw;
+    }
+  }
+}
+
 
 // .all-events {
 //   &__container {
