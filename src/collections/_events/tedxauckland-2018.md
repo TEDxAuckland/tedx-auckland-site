@@ -191,9 +191,9 @@ seo:
     - https://www.facebook.com/events/629283860774532
     - https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018
 event_listing:
-  is_highlighted: true
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  is_highlighted: false
+  description: 'TEDxAkl OCT 2018: Shed 10'
+  image: /uploads/ishan-kokulan-tedx18-fl-135.jpg
 ---
 # TEDxAuckland 2018
 
