@@ -17,7 +17,7 @@ image: /uploads/tedxakl-2017-banner-fw.png
 tagline:
 start_date: 2017-12-01 00:00:00 +1300
 end_date: 2017-12-02 00:00:00 +1300
-address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
+address: Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010
 hide_speaker_names: true
 people:
   - andy-crowe--rui-peng
@@ -102,10 +102,9 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  description: 'TEDxAkl DEC 2017: Aotea Centre'
+  image: /uploads/irra-lee-2593.jpg
 ---
-
 # TEDxAuckland 2017
 
 This year we’re back at the Aotea Centre for our 2nd multi-day festival. Join us for 21 talks from local and international speakers, food, fun and partner activations.
@@ -125,5 +124,3 @@ On Saturday the Festival opens at 9.30am with the first talks beginning at 10am.
 The talks will conclude around 5pm on Saturday. Those attending the sold out VIP SocialDinner will jump on a bus (provided) for a 5 course dinner produced by some amazing local chefs. Matched with local beer and wine.
 
 Those keen to kick on are invited to join TEDx crew, speakers and friends at Sweat Shop Brew Kitchen, Sale St, Freemans Bay after 9pm.
-
-&nbsp;
