@@ -1,0 +1,51 @@
+---
+layout: default
+title: Links
+links: 
+  - title: A conversation with Hēmi Kelly
+    speaker: Blog Interview
+    url: https://tedxauckland.com/a-conversation-with-h%C4%93mi-kelly-growing-a-platform-teaching-and-language-revitalisation/
+  - title: Pollinating pathways to a better future
+    speaker: Andrea Reid
+    url: https://tedxauckland.com/talks/pollinating-pathways-to-a-better-future
+  - title: What if the way we value businesses is wrong?
+    speaker: Paul Adams
+    url: https://tedxauckland.com/talks/what-if-the-way-we-value-businesses-is-wrong/
+  - title: Reimagining paradise with regenerative agriculture
+    speaker: Greg Hart
+    url: https://tedxauckland.com/talks/reimagining-paradise-with-regenerative-agriculture/
+  - title: Planetary Accounting - Carbon emissions and beyond
+    speaker: Kate Meyer
+    url: https://tedxauckland.com/talks/planetary-accounting-carbon-emissions-and-beyond/
+  - title: How to grow 10,000 kg of food on a 1/4 acre
+    speaker: Niva & Yotam Kay
+    url: https://tedxauckland.com/talks/how-to-grow-10000-kg-of-food-on-a-acre/
+---
+
+<section id="links" class="section">
+  <div class="container">
+    <h3 class="section-heading">TEDxAuckland Links</h3>
+    <div class="links-container">
+      <h4 class="has-red-stripe">#TEDxAkl together 2022 #bethere</h4>
+      <!-- <p>#TEDxAkl together 2022 #bethere</p> -->
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container links-list">
+    {% for link in page.links %}
+    <div class="link-block anim--lift-up">
+      <div class="link-img">
+        <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo">
+      </div>
+      <a class="link-button" href="{{ link.url }}">
+        {{ link.title }} | {{ link.speaker }}
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+
+

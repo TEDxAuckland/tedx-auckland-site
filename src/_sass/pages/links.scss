@@ -1,0 +1,37 @@
+.link-block {
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+	background: $brand-color;
+	border: 2px solid $brand-color;
+	border-radius: 4px;
+	margin: 10px 0px;
+}
+
+.links-list {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+.link-img {
+	width: 60px;
+	height: 60px;
+	float: left;
+}
+
+.link-button {
+	padding-top: 12px;
+	text-decoration: none;
+	font-size: 2rem;
+	font-weight: 400;
+	cursor: pointer;
+	text-align: center;
+	color: $brand-white;
+	flex-grow: 2;
+}
+
+.links-container {
+	display: flex;
+	flex-wrap: wrap;
+}
