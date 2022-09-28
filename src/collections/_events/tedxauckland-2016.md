@@ -61,8 +61,8 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  description: 'TEDxAkl MAY 2016: Shed 10'
+  image: /uploads/camerontedxauckland-171.jpg
 ---
 # TEDxAuckland 2016
 
