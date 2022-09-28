@@ -52,7 +52,7 @@ seo:
   links:
     -
 event_listing:
-  is_highlighted: false
+  is_highlighted: true
   description: 'TEDxAkl AUG 2013: Aotea Centre'
   image: /uploads/georgia-s-77.jpg
 ---
