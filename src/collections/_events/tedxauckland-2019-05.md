@@ -49,8 +49,8 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  description: 'TEDxAkl MAY 2019: Whoa! Studios'
+  image: /uploads/georgia-s-94-37988.jpg
 ---
 # TEDxAuckland May 2019
 
