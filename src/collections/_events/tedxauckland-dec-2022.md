@@ -25,12 +25,12 @@ people:
 flikr_galleries:
   -
 major_partners:
-  - /partners/vodafone
+  - vodafone
 supporting_partners:
-  - /partners/generator
+  - generator
 event_partners:
-  - /partners/cloudcannon
-  - /partners/jw-legal
+  - cloudcannon
+  - jw-legal
 carousel_images:
   - image: /uploads/square-copyx2800.png
     alt: Planets, Earth, Sun!
