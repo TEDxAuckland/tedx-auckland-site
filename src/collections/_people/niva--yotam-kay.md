@@ -7,7 +7,7 @@ description_markdown: >-
   From self-proclaimed “young and naive” environmental science students to
   farmers and co-founders of Pakaraka Permaculture, Niva and Yotam Kay are
   revolutionising food-growing practices worldwide. From their ¼ acre farm on
-  the Coromandel Peninsula, they produce over 10 000kgs of fresh vegetables to
+  the Coromandel Peninsula, they produce over 10,000kgs of fresh vegetables to
   be sold at local markets, shops and cafes as well as through made to order
   veggie boxes. Pakaraka Permaculture also operates as an education centre to
   advocate for and share sustainable farming practices. In addition, Niva and
