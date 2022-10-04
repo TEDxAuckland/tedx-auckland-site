@@ -1,3 +1,23 @@
+.links-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: stretch;
+}
+
+.link-card {
+	position: relative;
+	background-color: $brand-white;
+	width: 31.33%;
+	margin: 0 1%;
+	margin-bottom: 2rem;
+
+	@include respond(tab-port) {
+		width: 46%;
+		margin: 2rem 2%;
+	  }
+}
+
 .link-block {
 	display: flex;
 	flex-direction: row;
@@ -8,32 +28,22 @@
 	margin: 10px 0px;
 }
 
-.links-list {
-	display: flex;
-	flex-direction: column;
-	width: 100%;
-}
-
 .link-img {
-	width: 60px;
-	height: 60px;
+	width: 70px;
+	height: 70px;
 	float: left;
+	margin: 10px;
 }
 
 .link-button {
-	padding-top: 12px;
+	padding: 12px;
 	text-decoration: none;
-	font-size: 2rem;
+	font-size: 1.5rem;
 	font-weight: 400;
 	cursor: pointer;
 	text-align: center;
 	color: $brand-white;
 	flex-grow: 2;
-}
-
-.links-container {
-	display: flex;
-	flex-wrap: wrap;
 }
 
 #links {

@@ -33,19 +33,21 @@ links:
 
 <section>
   <div class="container links-list">
-    {% for link in site.posts %}
-    <div class="link-block anim--lift-up">
-      <div class="link-img">
-        {% if link.image %}
-          <img class="link-img" src="{{ link.image }}" alt="default-talk-photo">
-        {% else %}
-          <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo">
-        {% endif %}
+    {% for link in site.posts limit: 18 %}
+      <div class="link-card">
+        <div class="link-block anim--lift-up">
+          <div class="link-img">
+            {% if link.image %}
+              <img class="link-img" src="{{ link.image }}" alt="default-talk-photo">
+            {% else %}
+              <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo">
+            {% endif %}
+          </div>
+          <a class="link-button" href="{{ link.url }}">
+            {{ link.title }} | {{ link.author.name }}
+          </a>
+        </div>
       </div>
-      <a class="link-button" href="{{ link.author.link }}">
-        {{ link.title }} | {{ link.author.name }}
-      </a>
-    </div>
     {% endfor %}
   </div>
 </section>
