@@ -35,12 +35,12 @@ description_markdown: >-
   for&nbsp; the past 6 years in the Ka Eke Poutama programme and loves being
   involved in lifting the transformative capability of Whanau, hapu and iwi to
   actively contribute to the growth of NZ’s economic potential.
-website_url: 'https://www.ahau.io/'
+website_url: https://www.ahau.io/
 medium_url:
 twitter_url:
 facebook_url:
 youtube_video_id:
 github_username:
 instagram_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/kayemareedunn/
 ---
