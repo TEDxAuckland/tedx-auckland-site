@@ -49,19 +49,17 @@ events:
 
 
 <script>
-
 var events = [
-	{% for event in past_events %}
-	{
+  {% for event in past_events %}
+  {
     "id": {{ event.id | jsonify }},
     "url": {{ event.url | jsonify }},
     "event_listing": {{ event.event_listing | jsonify }},
     "title": {{ event.title | jsonify }},
     "start_date": {{ event.start_date | jsonify }}
-	}{% if forloop.last != true %},{% endif %}
-	{% endfor %}
-]
-
+  }{% if forloop.last != true %},{% endif %}
+  {% endfor %}
+];
 </script>
 
 <section>
