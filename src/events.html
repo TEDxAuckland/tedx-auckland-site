@@ -51,6 +51,13 @@ events:
 <script>
 var events = [
   {% for event in past_events %}
+
+  {% assign event_image = event.event_listing.image | remove_first: "/"  %}
+  {% responsive_image template: "_includes/responsive-image.trigger"
+										path: event_image
+										widths: "200, 300, 600, 900"
+  %}
+
   {
     "id": {{ event.id | jsonify }},
     "url": {{ event.url | jsonify }},
