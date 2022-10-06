@@ -32,8 +32,8 @@ event_partners:
   - /partners/cloudcannon
   - /partners/jw-legal
 carousel_images:
-  - image:
-    alt:
+  - image: /uploads/square-copyx2800.png
+    alt: Planets, Earth, Sun!
 highlight_video_id:
 youtube_playlist:
 other_youtube_playlist_title:
