@@ -169,6 +169,7 @@
   }
   &__header-container {
     background-image: url('/assets/images/bg-upcoming-events.jpg');
+    box-shadow: inset 0 1000px 8px 0 #00000033;
     display: flex;
   }
   &__header-text {
