@@ -159,6 +159,43 @@
     display: flex;
     justify-content: center;  
   }
+  &__header {
+    gap: calc(56px/2);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: calc(100px/2) auto;
+    width: 1200px;
+  }
+  &__header-container {
+    background-image: url('/assets/images/bg-upcoming-events.jpg');
+    display: flex;
+  }
+  &__header-text {
+    gap: calc(14px/2);
+    display: flex;
+    flex-direction: column;
+  }
+  &__header-title {
+    color: white;
+    font-size: calc(49.44px/2);
+    font-weight: 700;
+  }
+  &__header-lead {
+    color: white;
+    font-size: calc(42.38px/2);
+  }
+  &__header-cta {
+    background-color: white;
+    color: black;
+    padding: calc(38px/2) calc(56px/2);
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: calc(42.38px/2);
+    font-weight: 500;
+    border-radius: calc(42.38px/2);
+    line-height: 1.2;
+  }
 }
 @media screen and (max-width: 600px) {
   .past-events {
