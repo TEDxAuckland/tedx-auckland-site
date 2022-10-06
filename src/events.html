@@ -48,6 +48,16 @@ events:
 </header>
 
 
+<div style="background-image: url('/assets/images/bg-upcoming-events.jpg');display: flex;">
+  <div style="gap: calc(56px/2);display: flex;flex-direction: column;align-items: flex-start;margin: calc(100px /2 ) calc(50px / 2);">
+    <div style="gap:calc(14px/2);display:flex;flex-direction:column;">
+      <div style="color: white;font-size: calc(49.44px/2);font-weight: 700;">Latest / upcoming event</div>
+      <div style="color: white;font-size: calc(42.38px/2);">Description. Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do.</div>
+    </div>
+    <a style="background-color: white;color: black;padding: calc(38px/2) calc(56px/2);box-sizing: border-box;display: inline-block;font-size: calc(42.38px/2);font-weight: 500;border-radius: calc(42.38px/2); line-height: 1.2;" href="/events/jun-2022/">Learn More</a>
+  </div>
+</div>
+
 <script>
 var events = [
   {% for event in past_events %}
