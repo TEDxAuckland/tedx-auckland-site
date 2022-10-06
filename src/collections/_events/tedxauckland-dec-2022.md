@@ -14,7 +14,7 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/web-page-banner-copy-3x3200.png
+image:
 tagline: Down To Earth
 start_date: 2022-12-03 00:00:00 +1300
 end_date: 2022-12-03 00:00:00 +1300
@@ -50,7 +50,5 @@ event_listing:
   image: /uploads/default-speaker-photo.jpg
 ---
 Jay description
-
-&nbsp;
 
 &nbsp;
