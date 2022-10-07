@@ -32,7 +32,7 @@ event_partners:
   - cloudcannon
   - jw-legal
 carousel_images:
-  - image: /uploads/square-copyx2800.png
+  - image:
     alt: Planets, Earth, Sun!
 highlight_video_id:
 youtube_playlist:
