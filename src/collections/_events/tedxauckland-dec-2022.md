@@ -14,7 +14,7 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/web-page-banner-copy-3x3200.png
+image: /uploads/web-page-banner-2-x3200.png
 tagline: Down to Earth
 start_date: 2022-12-03 00:00:00 +1300
 end_date: 2022-12-03 00:00:00 +1300
@@ -49,8 +49,14 @@ event_listing:
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-As the earth comes up for air following the COVID-19 pandemic, much of our attention has turned to space. From watching on as billionaire’s reignite the space race of the 20th Century to being captivated by the first images retrieved from the James Webb Space Telescope, we continue to look outward and onward.
+As the earth comes up for air following the COVID-19 pandemic, much of our attention has turned to space. From seeing the space race of the 20th Century reignite to being captivated by the first images retrieved from the James Webb Space Telescope, we continue to look outward and onward.
 
 Yet the most pressing issues of our time; global issues such as those involving the climate, social justice and human rights, demand a global focus.
 
-It’s time to refocus down to earth.
+It’s time to come back *Down to Earth*.
+
+Come December 3rd, TEDxAuckland returns to the ASB Waterfront Theatre to share ideas shaping our view of the world and of ourselves. Join us for an inspiring afternoon of new perspectives and discussion, as well as our nearby after party, the perfect opportunity to reconnect and meet new people.
+
+Let’s gather together and look to the future of our people and planet.
+
+We’ll see you at \#TEDxAkl \#downtoearth
