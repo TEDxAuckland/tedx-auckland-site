@@ -49,6 +49,8 @@ event_listing:
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-Jay description
+As the earth comes up for air following the COVID-19 pandemic, much of our attention has turned to space. From watching on as billionaire’s reignite the space race of the 20th Century to being captivated by the first images retrieved from the James Webb Space Telescope, we continue to look outward and onward.
 
-&nbsp;
+Yet the most pressing issues of our time; global issues such as those involving the climate, social justice and human rights, demand a global focus.
+
+It’s time to refocus down to earth.
