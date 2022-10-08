@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: TEDxAuckland DEC 2022
+title: 'DEC 2022: Down to Earth'
 short_title: Down To Earth
 layout: event
 upcoming: true
