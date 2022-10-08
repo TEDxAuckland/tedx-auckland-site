@@ -15,7 +15,7 @@ ticket_sales:
     active: false
     link:
 image: /uploads/web-page-banner-copy-3x3200.png
-tagline: Down To Earth
+tagline: Down to Earth
 start_date: 2022-12-03 00:00:00 +1300
 end_date: 2022-12-03 00:00:00 +1300
 address: ASB Waterfront Theatre, 138 Halsey Street, Auckland 1010
