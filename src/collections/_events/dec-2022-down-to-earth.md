@@ -14,7 +14,7 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/web-page-banner-2-x3200.png
+image: /uploads/web-page-banner-3-x3200.png
 tagline: Down to Earth
 start_date: 2022-12-03 00:00:00 +1300
 end_date: 2022-12-03 00:00:00 +1300
