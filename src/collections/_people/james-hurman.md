@@ -24,9 +24,9 @@ description_markdown: >-
   strategy planner. His 2011 book *The Case for Creativity* proved the link
   between imaginative marketing and commercial success and has been republished
   several times in multiple languages.
-website_url: 'https://www.previously.co/'
-medium_url: 'https://www.storyte.ch/'
-twitter_url: 'https://twitter.com/jameshurman'
+website_url: https://www.previously.co/
+medium_url:
+twitter_url: https://twitter.com/jameshurman
 facebook_url:
 youtube_video_id: 4mAptTGzXlo
 github_username:
