@@ -31,7 +31,7 @@ supporting_partners:
 event_partners:
   - cloudcannon
   - jw-legal
-  - /partners/jaydan-salzke
+  - jaydan-salzke
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
