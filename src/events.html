@@ -51,10 +51,17 @@ events:
 
 {% if upcoming_events_length > 0 %}
 {% assign event = upcoming_events[0] %}
+{% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture eventtime %}{{event.start_date | date: '%s'}}{% endcapture %}
+
 <div class="past-events__header-container" style="background-image: url('{{ page.image }}')">
   <div class="past-events__header">
     <div class="past-events__header-text">
+      {% if nowtime < eventtime %}
       <div class="past-events__header-title">Upcoming event</div>
+      {% else %}
+      <div class="past-events__header-title">Latest event</div>
+      {% endif %}
       <div class="past-events__header-lead">{{ event.title }}</div>
     </div>
     <a class="past-events__header-cta" href="{{ event.url }}">Learn More</a>
