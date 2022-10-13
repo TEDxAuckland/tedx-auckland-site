@@ -25,6 +25,7 @@ events:
 ---
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
+{% assign upcoming_events_length = upcoming_events | size %}
 
 <!-- FYI: this is the old upcoming events (plural) -->
 <!-- <header class="thin-hero events-list-hero" style="background-image: url('{{ page.image }}')">
@@ -48,15 +49,18 @@ events:
 </header> -->
 
 
+{% if upcoming_events_length > 0 %}
+{% assign event = upcoming_events[0] %}
 <div class="past-events__header-container">
   <div class="past-events__header">
     <div class="past-events__header-text">
-      <div class="past-events__header-title">Latest / upcoming event</div>
-      <div class="past-events__header-lead">Description. Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do.</div>
+      <div class="past-events__header-title">{{ event.title }}</div>
+      <div class="past-events__header-lead">{{ event.description }}</div>
     </div>
-    <a class="past-events__header-cta" href="/events/jun-2022/">Learn More</a>
+    <a class="past-events__header-cta" href="{{ event.url }}">Learn More</a>
   </div>
 </div>
+{% endif %}
 
 <script>
 var events = [
