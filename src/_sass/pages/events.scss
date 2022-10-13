@@ -60,6 +60,11 @@
   }
 }
 
+.event-highlights {
+  &__heading {
+    color: white;
+  }
+}
 @media screen and (max-width: 600px) {
   .event-highlights {
     &__heading {
@@ -157,6 +162,9 @@
 }
 
 .past-events {
+  &__section-container {
+    background: #202020;
+  }
   &__container {
     margin-top: 60px;
     display: flex;
