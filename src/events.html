@@ -51,11 +51,11 @@ events:
 
 {% if upcoming_events_length > 0 %}
 {% assign event = upcoming_events[0] %}
-<div class="past-events__header-container">
+<div class="past-events__header-container" style="background-image: url('{{ page.image }}')">
   <div class="past-events__header">
     <div class="past-events__header-text">
-      <div class="past-events__header-title">{{ event.title }}</div>
-      <div class="past-events__header-lead">{{ event.description }}</div>
+      <div class="past-events__header-title">Upcoming event</div>
+      <div class="past-events__header-lead">{{ event.title }}</div>
     </div>
     <a class="past-events__header-cta" href="{{ event.url }}">Learn More</a>
   </div>
