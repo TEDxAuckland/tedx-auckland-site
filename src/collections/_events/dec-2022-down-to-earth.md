@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'DEC 2022: Down to Earth'
-short_title: 'DEC 2022: Down To Earth'
+short_title: DEC '22 - Down To Earth
 layout: event
 upcoming: true
 ticket_sales:
