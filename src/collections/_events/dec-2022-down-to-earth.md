@@ -6,8 +6,9 @@ layout: event
 upcoming: true
 ticket_sales:
   link:
-    active: false
-    src:
+    active: true
+    src: >-
+      https://tedxauckland.com/community/events#/down-to-earth-2022/tickets/purchase
   embed:
     active: false
     code:
