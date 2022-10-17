@@ -6,6 +6,7 @@ show_speaker_highlights: false
 speaker_highlight_title: Speaker Highlights
 people:
 events:
+  - /events/dec-2022-down-to-earth
   - jun-2022
   - may-2021
   - november-2020
@@ -22,7 +23,6 @@ events:
   - tedxauckland-2010
   - tedxauckland-2009
 ---
-
 {% assign upcoming_events = site.events | where_exp: "e", "e.upcoming == true" | sort: 'start_date' | reverse %}
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
 
@@ -31,7 +31,7 @@ events:
     {% assign upcoming_events_length = upcoming_events | size %}
     {% if upcoming_events_length > 0 %}
     <div class="events-list__upcoming">
-      <h4>upcoming <br> event</h4>
+      <h4>upcoming <br /> event</h4>
       {% for event in upcoming_events %}
       <a href="{{ event.url }}" class="event-info__link">
         <div class="event-info">
@@ -72,7 +72,7 @@ events:
       <a href="{{ event.url }}" class="button event-info__button">See More</a>
     </div>
       <div class="event-upcoming__cta">
-        <h2>{{ event.start_date | date: "%-d" }}<br/>{{ event.start_date | date: "%b" }}</h2>
+        <h2>{{ event.start_date | date: "%-d" }}<br />{{ event.start_date | date: "%b" }}</h2>
           {% if event.ticket_sales.link.active %}
             <a href="{{ event.ticket_sales.link.src }}">Get Tickets</a>
           {% endif %}
