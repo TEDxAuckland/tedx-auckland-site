@@ -1,6 +1,6 @@
 ---
 title: 'tūmanako: Nov 2019'
-short_title: 'tūmanako: Nov 2019'
+short_title: Nov '19 | tūmanako
 layout: event-tumanako
 upcoming: false
 ticket_sales:
@@ -64,7 +64,6 @@ event_listing:
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-
 # TEDxAuckland November 2019
 
 *tūmanako*\: to hope for a better future
