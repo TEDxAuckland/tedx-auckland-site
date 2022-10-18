@@ -1,6 +1,6 @@
 ---
 title: May 2019 event
-short_title: May 2019
+short_title: MAY 2019
 layout: event
 upcoming: false
 ticket_sales:
@@ -17,7 +17,7 @@ image: /uploads/tedx-whoa-banner-2-3600x.png
 tagline:
 start_date: 2019-05-01 00:00:00 +1200
 end_date: 2019-05-01 00:00:00 +1200
-address: '8-14 Henderson Valley Rd, Henderson, Auckland'
+address: 8-14 Henderson Valley Rd, Henderson, Auckland
 people:
   - james-hurman
   - rashina-hoda
@@ -51,7 +51,6 @@ event_listing:
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-
 # TEDxAuckland May 2019
 
 In 2019, TEDxAuckland reaches its 10th year of celebrating ideas, innovation and inspiration. So to celebrate we’re holding not one but multiple events around Auckland\!
