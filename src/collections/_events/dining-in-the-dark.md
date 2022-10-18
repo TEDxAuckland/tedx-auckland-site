@@ -1,6 +1,6 @@
 ---
 title: IN THE DARK
-short_title: AUG '19 - IN THE DARK
+short_title: Aug '19 - In The Dark
 layout: event-dark
 upcoming: false
 ticket_sales:
