@@ -62,3 +62,7 @@ Come December 3rd, TEDxAuckland returns to the ASB Waterfront Theatre to share i
 Let’s gather together and look to the future of our people and planet.
 
 We’ll see you at \#TEDxAkl \#downtoearth
+
+EARLY BIRD&nbsp; $139.00
+
+LATE BIRD&nbsp; &nbsp; &nbsp;$189.00
