@@ -1,6 +1,6 @@
 ---
 title: IN THE DARK
-short_title: AUG 2019 IN THE DARK
+short_title: AUG '19 - IN THE DARK
 layout: event-dark
 upcoming: false
 ticket_sales:
@@ -48,7 +48,6 @@ event_listing:
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-
 # Introducing A World First
 
 On August 31st, TEDxAuckland is hosting a Salon event which will be the first TEDx event in the world to be held in **complete darkness**.
