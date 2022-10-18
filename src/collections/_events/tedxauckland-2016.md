@@ -1,6 +1,6 @@
 ---
 title: 2016 event
-short_title: '2016'
+short_title: May '16 | flipside
 upcoming: false
 ticket_sales:
   link:
@@ -16,7 +16,7 @@ tagline: flipside
 image: /uploads/flipside-banner.jpg
 start_date: 2016-05-05 00:00:00 +1200
 end_date: 2016-05-06 00:00:00 +1200
-address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
+address: Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010
 people:
   - barbara-breen
   - ian-mccrae
@@ -63,10 +63,9 @@ event_listing:
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-
 # TEDxAuckland 2016
 
-2016 TEDxAuckland was a little different. We curated ideas for a global audience; global in their diversity, expertise and residence. Say hello to TEDxAuckland 2016!
+2016 TEDxAuckland was a little different. We curated ideas for a global audience; global in their diversity, expertise and residence. Say hello to TEDxAuckland 2016\!
 
 #### Our Theme this year is: *flipside*
 
@@ -75,7 +74,7 @@ event_listing:
 * Sidestepping power structures, gender, race and geography.
 * Stepping outside your workplace, your country and even your hemisphere to connect with a community of speakers, delegates and partners united by a healthy disrespect for business as usual.
 
-The event featured ideas and talks from amazing people changing the world. We’ll be matching the diversity of ideas with an equally diverse audience, you!
+The event featured ideas and talks from amazing people changing the world. We’ll be matching the diversity of ideas with an equally diverse audience, you\!
 
 TEDxAuckland 2016: *flipside* featured talks over two days, events, activities and social time. Shed 10 the venue provided the perfect space for hosting, break out spaces and food and beverage side you deserve.
 
