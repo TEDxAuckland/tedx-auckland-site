@@ -1,6 +1,6 @@
 ---
 title: 2014 event
-short_title: '2014'
+short_title: Aug '14 | Ascending
 upcoming: false
 ticket_sales:
   link:
@@ -16,7 +16,7 @@ image:
 tagline: Ascending
 start_date: 2014-08-16 00:00:00 +1200
 end_date: 2014-08-16 00:00:00 +1200
-address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
+address: Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010
 people:
   - luke-nola
   - muskan-devta
@@ -58,7 +58,6 @@ event_listing:
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-
 TEDxAuckland 2014 took place at the Aotea Centre on Saturday 16th August. *Ascending* was the overriding theme for TEDxAuckland 2014. The day was packed with over 16 speakers, musical acts and an after party.
 
 Theme<br>*Ascending* is about individuals and society rising to a higher level of consciousness.
