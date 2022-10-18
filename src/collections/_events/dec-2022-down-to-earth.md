@@ -63,6 +63,6 @@ Let’s gather together and look to the future of our people and planet.
 
 We’ll see you at \#TEDxAkl \#downtoearth
 
-EARLY BIRD&nbsp; $139.00
+**EARLY BIRD&nbsp; $139.00**
 
-LATE BIRD&nbsp; &nbsp; &nbsp;$189.00
+**LATE BIRD&nbsp; &nbsp; &nbsp;$189.00**
