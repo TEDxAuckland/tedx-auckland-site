@@ -53,7 +53,7 @@ seo:
     -
 event_listing:
   is_highlighted: true
-  subtitle: "Hello world!"
+  subtitle: "Event subtitle"
   description: 'TEDxAkl AUG 2013: Aotea Centre'
   image: /uploads/georgia-s-77.jpg
 ---
