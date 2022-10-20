@@ -53,6 +53,7 @@ seo:
     -
 event_listing:
   is_highlighted: true
+  subtitle: "Hello world!"
   description: TEDxAkl 2012
   image: /uploads/default-speaker-photo.jpg
 ---
