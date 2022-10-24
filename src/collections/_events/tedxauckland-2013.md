@@ -53,7 +53,7 @@ seo:
     -
 event_listing:
   is_highlighted: true
-  subtitle: "Event subtitle"
+  subtitle: convergemerge
   description: 'TEDxAkl AUG 2013: Aotea Centre'
-  image: /uploads/georgia-s-77.jpg
+  image: /uploads/georgia-s-crop-13-91-77.jpg
 ---
