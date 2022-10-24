@@ -53,5 +53,5 @@ seo:
 event_listing:
   is_highlighted: false
   description: 'TEDxAkl MAY 2015: Victory Convention Centre'
-  image: /uploads/tom-powell-f90-58.jpg
+  image: /uploads/tom-powell-crop-15-100-9636.jpg
 ---
