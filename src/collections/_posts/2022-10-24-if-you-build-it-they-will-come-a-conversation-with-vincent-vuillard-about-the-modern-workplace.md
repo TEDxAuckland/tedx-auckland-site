@@ -35,6 +35,8 @@ Despite having confidence in the likely success of more entrepreneurial and flex
 
 'It was the speed at which it changed that we didn't predict. For years, we were analysing trends, looking at how **a revised way of working offers a greater sense of purpose and fulfilment from life overall** and not just in work. And then it seemed to literally happen overnight.’
 
+![Fluidity is key to the modern workplace](/uploads/adobestock-243327126.jpeg "Fluidity is key to the modern workplace"){: width="7302" height="3651"}
+
 Recruiters now relay to Vuillard that one of the first questions employees ask is in relation to **how** they work, not what they work on. Additionally, there’s an increasing demand in wanting to understand what an employer’s long-term purpose is.
 
 'We see that our customers are able to create an environment where their employees can find more fulfilment in their work life and feel more valued. Productivity, engagement and retention all increase: **it’s a win for everyone**.’
@@ -58,3 +60,5 @@ One insight Vuillard offers comes from observing the power of using 'and' instea
 ‘At the end of the day,’ he says, ‘you’ll organically figure out if the idea will work or not. It’s so important for the future of work to involve environments where sharing is welcomed and where new ideas spark new ways of doing things. We’re now seeing what a workplace can look like when we are open to new ideas - it’s what we know makes TEDxAuckland such a great catalyst for innovation.’&nbsp;
 
 Watch Vincent’s talk [here](https://tedxauckland.com/talks/a-new-model-for-the-future-of-work/){: target="_blank" rel="noopener"}.
+
+![Vincent Vuillard's 2019 TEDxAkl Talk | IN THE DARK](/uploads/vincent-vuillard-quote-1.jpg "Vincent Vuillard's 2019 TEDxAkl Talk | IN THE DARK"){: width="2400" height="2400"}
