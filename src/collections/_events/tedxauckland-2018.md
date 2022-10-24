@@ -193,7 +193,7 @@ seo:
 event_listing:
   is_highlighted: false
   description: 'TEDxAkl OCT 2018: Shed 10'
-  image: /uploads/ishan-kokulan-tedx18-fl-135.jpg
+  image: /uploads/ali-taheri-crop-18-91-69.jpg
 ---
 # TEDxAuckland 2018
 
