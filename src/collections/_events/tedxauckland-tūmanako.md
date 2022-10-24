@@ -63,7 +63,7 @@ seo:
 event_listing:
   is_highlighted: false
   description: 'TEDxAkl NOV 2019: ASB Waterfront Theatre'
-  image: /uploads/georgia-s-wft-206.jpg
+  image: /uploads/georgia-s-crop-19-91-39525.jpg
 ---
 # TEDxAuckland November 2019
 
