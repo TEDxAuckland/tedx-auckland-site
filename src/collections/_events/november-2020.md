@@ -76,7 +76,7 @@ seo:
 event_listing:
   is_highlighted: false
   description: 'TEDxAkl NOV 2020: Whoa! Studios'
-  image: /uploads/tr-770.jpg
+  image: /uploads/tara-r-crop-20-91-770.jpg
 ---
 # TEDxAuckland November 2020
 
