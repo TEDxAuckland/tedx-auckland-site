@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'If you build it, they will come: Vincent Vuillard on the modern workplace'
+title: 'If You Build It, They Will Come: Vincent Vuillard on the modern workplace'
 image: /uploads/vincent-vuillard-91-9819.jpg
 image_caption: Vincent Vuillard
 image_caption_link: https://tedxauckland.com/people/vincent-vuillard/
@@ -59,4 +59,4 @@ One insight Vuillard offers comes from observing the power of using 'and' instea
 
 Watch Vincent’s talk [here](https://tedxauckland.com/talks/a-new-model-for-the-future-of-work/){: target="_blank" rel="noopener"}.
 
-![Vincent Vuillard's 2019 TEDxAkl Talk | IN THE DARK](/uploads/vincent-vuillard-quote-1.jpg "Vincent Vuillard's 2019 TEDxAkl Talk | IN THE DARK"){: width="2400" height="2400"}
+![Vincent Vuillard’s TEDxAkl Talk IN THE DARK](/uploads/vincent-vuillard-quote-4.png "Vincent Vuillard’s TEDxAkl Talk IN THE DARK"){: width="810" height="809"}
