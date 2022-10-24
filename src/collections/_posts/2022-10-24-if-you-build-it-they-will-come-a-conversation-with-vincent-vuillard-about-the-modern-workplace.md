@@ -1,8 +1,6 @@
 ---
 _schema: default
-title: >-
-  If you build it, they will come: A conversation with Vincent Vuillard about
-  the modern workplace
+title: 'If you build it, they will come: Vincent Vuillard on the modern workplace'
 image: /uploads/vincent-vuillard-91-9819.jpg
 image_caption: Vincent Vuillard
 image_caption_link: https://tedxauckland.com/people/vincent-vuillard/
