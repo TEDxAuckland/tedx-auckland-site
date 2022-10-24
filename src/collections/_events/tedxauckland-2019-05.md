@@ -50,7 +50,7 @@ seo:
 event_listing:
   is_highlighted: false
   description: 'TEDxAkl MAY 2019: Whoa! Studios'
-  image: /uploads/georgia-s-94-37988.jpg
+  image: /uploads/georgia-s-crop-91-38003.jpg
 ---
 # TEDxAuckland May 2019
 
@@ -60,7 +60,7 @@ Our first event on **May 1st** will host 5 amazing speakers at **Whoa\! Studios*
 
 After the event, all attendees will socialise with our speakers at the inclusive dinner in The Grounds Eatery. This four-course shared dinner, accompanied with wine and drinks, will be orchestrated by the acclaimed and multi-award winning Kiwi chef, Ben Bayly, conjuring it up with local produce from West Auckland.
 
-There are only 160 seats available for this more intimate experience, so make sure to register your interest quickly. Tickets are $139. **Update**\: **Sold out\!**
+There are only 160 seats available for this more intimate experience, so make sure to register your interest quickly.&nbsp;**Update**\: **Sold out\!**
 
 **Timetable for the event:**
 
