@@ -1,6 +1,6 @@
 ---
 title: 2010 event
-short_title: '2010'
+short_title: What if?
 upcoming: false
 ticket_sales:
   link:
@@ -43,6 +43,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: Lorem ipsum dolor sit amet
+  description: 'TEDxAuckland 2010: What if?'
   image: /uploads/2010-crop-100.jpg
 ---
