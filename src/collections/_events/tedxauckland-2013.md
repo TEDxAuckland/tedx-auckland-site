@@ -1,5 +1,5 @@
 ---
-title: Aug '13 | convergemerge
+title: Aug 2013 | convergemerge
 short_title: Aug '13 | convergemerge
 upcoming: false
 ticket_sales:
