@@ -2,7 +2,7 @@ upcoming_event_bar:
   active: true
   event_short_title: 'DEC 2022: Down to Earth'
   left: UPCOMING
-  right: 'TEDxAuckland Down to Earth, Dec 3rd 2022 #bethere'
+  right: 'TEDxAuckland: Down to Earth, Sat Dec 3rd 2022 #bethere'
 buy_ticket_button:
   active: true
   url: >-
