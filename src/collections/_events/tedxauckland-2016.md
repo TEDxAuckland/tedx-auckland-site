@@ -59,7 +59,7 @@ seo:
   links:
     -
 event_listing:
-  is_highlighted: false
+  is_highlighted: true
   description: Shed 10
   image: /uploads/cameron-sims-crop-16-100-8304.jpg
 ---
