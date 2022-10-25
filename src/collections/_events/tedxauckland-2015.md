@@ -1,5 +1,5 @@
 ---
-title: May '15
+title: May 2015
 short_title: May '15
 upcoming: false
 ticket_sales:
