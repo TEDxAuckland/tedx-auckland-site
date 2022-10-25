@@ -1,6 +1,6 @@
 ---
-title: 'Oct ''12: Ideas To Action'
-short_title: 'Oct ''12: Ideas To Action'
+title: 'Oct 2012: Ideas To Action'
+short_title: '2012: Ideas To Action'
 upcoming: false
 ticket_sales:
   link:
