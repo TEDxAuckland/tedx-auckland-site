@@ -16,7 +16,7 @@ image:
 tagline: Ideas Worth Doing
 start_date: 2010-09-26 00:00:00 +1200
 end_date: 2010-09-26 00:00:00 +1200
-address: 'Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620'
+address: Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620
 people:
   - richard-loseby
   - one-beep
@@ -43,7 +43,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  description: Lorem ipsum dolor sit amet
+  image: /uploads/2010-crop-100.jpg
 ---
-
