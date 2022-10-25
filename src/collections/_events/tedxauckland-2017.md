@@ -1,6 +1,6 @@
 ---
-title: 2017 event
-short_title: '2017'
+title: Dec '17
+short_title: Dec '17
 upcoming: false
 ticket_sales:
   link:
@@ -101,7 +101,7 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: 'TEDxAkl DEC 2017: Aotea Centre'
+  description: Aotea Centre
   image: /uploads/irra-lee-crop-17-100-2593.jpg
 ---
 # TEDxAuckland 2017
