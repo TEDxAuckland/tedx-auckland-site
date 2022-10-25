@@ -16,7 +16,7 @@ image:
 tagline:
 start_date: 2009-11-05 00:00:00 +1300
 end_date: 2009-11-05 00:00:00 +1300
-address: 'Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620'
+address: Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620
 people:
   - michael-henderson
   - wendy-mcguinness
@@ -46,7 +46,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: "Lorem ipsum dolor sit amet"
-  image: /uploads/default-speaker-photo.jpg
+  description: Lorem ipsum dolor sit amet
+  image: /uploads/2009-crop-100.jpg
 ---
-
