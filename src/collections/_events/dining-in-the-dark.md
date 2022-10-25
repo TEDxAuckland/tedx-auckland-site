@@ -1,5 +1,5 @@
 ---
-title: Aug 2019 | IN THE DARK
+title: Aug 2019
 short_title: Aug '19 | In The Dark
 layout: event-dark
 upcoming: false
