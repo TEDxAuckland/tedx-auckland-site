@@ -1,5 +1,5 @@
 ---
-title: IN THE DARK
+title: Aug '19 | IN THE DARK
 short_title: Aug '19 | In The Dark
 layout: event-dark
 upcoming: false
@@ -45,8 +45,8 @@ seo:
     -
 event_listing:
   is_highlighted: true
-  subtitle: "Event subtitle"
-  description: "Lorem ipsum dolor sit amet"
+  subtitle: Dans le Noir ? Rydges Auckland
+  description:
   image: /uploads/default-speaker-photo.jpg
 ---
 # Introducing A World First
