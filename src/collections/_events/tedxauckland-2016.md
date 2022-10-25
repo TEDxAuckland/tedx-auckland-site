@@ -1,5 +1,5 @@
 ---
-title: May '16 | flipside
+title: May 2016 | flipside
 short_title: May '16 | flipside
 upcoming: false
 ticket_sales:
