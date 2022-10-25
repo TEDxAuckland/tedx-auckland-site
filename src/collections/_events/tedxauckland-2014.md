@@ -1,5 +1,5 @@
 ---
-title: Aug '14 | Ascending
+title: Aug 2014 | Ascending
 short_title: Aug '14 | Ascending
 upcoming: false
 ticket_sales:
