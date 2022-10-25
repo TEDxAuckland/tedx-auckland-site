@@ -1,6 +1,6 @@
 ---
-title: 2015 event
-short_title: '2015'
+title: May '15
+short_title: May '15
 upcoming: false
 ticket_sales:
   link:
@@ -51,6 +51,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: 'TEDxAkl MAY 2015: Victory Convention Centre'
+  description: Victory Convention Centre
   image: /uploads/tom-powell-crop-15-100-9636.jpg
 ---
