@@ -1,5 +1,5 @@
 ---
-title: Aug 2013 | convergemerge
+title: Aug 2013
 short_title: Aug '13 | convergemerge
 upcoming: false
 ticket_sales:
@@ -53,6 +53,6 @@ seo:
 event_listing:
   is_highlighted: true
   subtitle:
-  description: Aotea Centre
+  description: convergemerge | Aotea Centre
   image: /uploads/georgia-s-crop-13-91-77.jpg
 ---
