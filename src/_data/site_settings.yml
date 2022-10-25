@@ -4,8 +4,9 @@ upcoming_event_bar:
   left: UPCOMING
   right: 'TEDxAuckland together, June 8th 2022 #bethere'
 buy_ticket_button:
-  active: false
-  url: https://tedxauckland.com/community/events#/june-2022/tickets/purchase
+  active: true
+  url: >-
+    https://tedxauckland.com/community/events#/down-to-earth-2022/tickets/purchase
 navigation:
   - title: Talks/
     sub_title: Ideas
