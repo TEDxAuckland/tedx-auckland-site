@@ -1,5 +1,5 @@
 ---
-title: Dec '17
+title: Dec 2017
 short_title: Dec '17
 upcoming: false
 ticket_sales:
