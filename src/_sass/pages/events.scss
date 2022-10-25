@@ -135,23 +135,6 @@
   }
 }
 
-.events-snake-grid {
-  &__container {
-    display: flex;
-  }
-
-  // copy-pasted from EventSnakeGrid.vue
-  // TODO: is there a better way to transport across the CSS?
-  &__grid {
-    color: black;
-  }
-  &__item {
-    background-color: lightGrey;
-    &--big {
-      background-color: grey;
-    }
-  }
-}
 @function remify($number) {
   @return #{$number / 10px}rem;
 }
