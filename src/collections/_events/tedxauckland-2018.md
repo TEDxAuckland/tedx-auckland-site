@@ -192,7 +192,7 @@ seo:
     - https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018
 event_listing:
   is_highlighted: false
-  description: 'TEDxAkl OCT 2018: Shed 10'
+  description: Shed 10
   image: /uploads/ali-taheri-crop-18-91-69.jpg
 ---
 # TEDxAuckland 2018
