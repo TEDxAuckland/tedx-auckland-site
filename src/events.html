@@ -27,28 +27,6 @@ events:
 {% assign past_events = site.events | where_exp: "e", "e.upcoming == false" | sort: 'start_date' | reverse %}
 {% assign upcoming_events_length = upcoming_events | size %}
 
-<!-- FYI: this is the old upcoming events (plural) -->
-<!-- <header class="thin-hero events-list-hero" style="background-image: url('{{ page.image }}')">
-  <div class="container events-list">
-    {% assign upcoming_events_length = upcoming_events | size %}
-    {% if upcoming_events_length > 0 %}
-    <div class="events-list__upcoming">
-      <h4>upcoming <br /> event</h4>
-      {% for event in upcoming_events %}
-      <a href="{{ event.url }}" class="event-info__link">
-        <div class="event-info">
-          <div class="event-info__top">
-            <h3>{{ event.short_title }}</h3>
-          </div>
-        </div>
-      </a>
-      {% endfor %}
-    </div>
-    {% endif %}
-  </div>
-</header> -->
-
-
 {% if upcoming_events_length > 0 %}
 {% assign event = upcoming_events[0] %}
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
