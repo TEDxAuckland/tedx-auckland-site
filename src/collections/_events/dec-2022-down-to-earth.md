@@ -48,7 +48,7 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
+  description: ASB Waterfront Theatre
   image: /uploads/square-3-x2400.png
 ---
 As the earth comes up for air following the COVID-19 pandemic, much of our attention has turned to space. From seeing the space race of the 20th Century reignite to being captivated by the first images retrieved from the James Webb Space Telescope, we continue to look outward and onward.
