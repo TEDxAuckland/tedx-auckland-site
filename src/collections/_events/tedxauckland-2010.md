@@ -1,5 +1,5 @@
 ---
-title: Sep 2010 | What if?
+title: Sep 2010
 short_title: 2010 | What if?
 upcoming: false
 ticket_sales:
@@ -42,6 +42,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
+  description: What if?
   image: /uploads/2010-crop-100.jpg
 ---
