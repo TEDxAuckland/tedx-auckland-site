@@ -1,6 +1,6 @@
 ---
-title: May 2019 event
-short_title: MAY 2019
+title: May '19
+short_title: May '19
 layout: event
 upcoming: false
 ticket_sales:
@@ -48,7 +48,7 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: 'TEDxAkl MAY 2019: Whoa! Studios'
+  description: Whoa! Studios & The Grounds
   image: /uploads/georgia-s-crop-91-38003.jpg
 ---
 # TEDxAuckland May 2019
