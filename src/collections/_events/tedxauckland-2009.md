@@ -1,5 +1,5 @@
 ---
-title: 2009 event
+title: '2009'
 short_title: '2009'
 upcoming: false
 ticket_sales:
@@ -45,6 +45,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: Lorem ipsum dolor sit amet
+  description:
   image: /uploads/2009-crop-100.jpg
 ---
