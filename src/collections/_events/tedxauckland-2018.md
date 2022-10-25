@@ -1,5 +1,5 @@
 ---
-title: 2018 event
+title: Oct '18 | Off-Piste
 short_title: Oct '18 | Off-Piste
 upcoming: false
 ticket_sales:
