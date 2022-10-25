@@ -1,5 +1,5 @@
 ---
-title: May 2016 | flipside
+title: May 2016
 short_title: May '16 | flipside
 upcoming: false
 ticket_sales:
@@ -60,7 +60,7 @@ seo:
     -
 event_listing:
   is_highlighted: true
-  description: Shed 10
+  description: flipside | Shed 10
   image: /uploads/cameron-sims-crop-16-100-8304.jpg
 ---
 # TEDxAuckland 2016
