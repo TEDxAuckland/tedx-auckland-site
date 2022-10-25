@@ -1,5 +1,5 @@
 ---
-title: Nov 2020 | MMXX
+title: Nov 2020
 short_title: Nov 2020
 layout: event-nov-2020
 upcoming: false
@@ -74,7 +74,7 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: Whoa! Studios & The Grounds
+  description: MMXX | Whoa! Studios & The Grounds
   image: /uploads/tara-r-crop-20-91-770.jpg
 ---
 # TEDxAuckland November 2020
