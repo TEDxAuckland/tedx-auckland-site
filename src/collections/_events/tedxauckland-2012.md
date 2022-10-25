@@ -1,6 +1,6 @@
 ---
-title: 'TEDxAuckland 2012: Ideas To Action'
-short_title: Ideas To Action
+title: 'Oct ''12: Ideas To Action'
+short_title: 'Oct ''12: Ideas To Action'
 upcoming: false
 ticket_sales:
   link:
@@ -51,8 +51,8 @@ seo:
   links:
     -
 event_listing:
-  is_highlighted: true
-  subtitle: 'Oct ''12: Ideas To Action'
+  is_highlighted: false
+  subtitle:
   description: Aotea Centre
   image: /uploads/georgia-s-12-crop-100.jpg
 ---
