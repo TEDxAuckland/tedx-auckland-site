@@ -53,7 +53,7 @@ seo:
     -
 event_listing:
   is_highlighted: true
-  subtitle: "Event subtitle"
+  subtitle: TEDxAuckland 2012
   description: TEDxAkl 2012
-  image: /uploads/default-speaker-photo.jpg
+  image: /uploads/georgia-s-12-crop-100.jpg
 ---
