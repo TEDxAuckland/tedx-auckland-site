@@ -38,7 +38,6 @@ youtube_playlist: PLDA6216FD76A6083C
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2009/
-is_highlighted: true
 seo:
   name: TEDxAuckland 2009
   type: Event
