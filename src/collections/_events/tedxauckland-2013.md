@@ -45,7 +45,6 @@ youtube_playlist: PLcm2pIIAwlDsT31BlI19NifrQ9GDUwUuT
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2013/
-is_highlighted: false
 seo:
   name: TEDxAuckland 2013
   type: Event
