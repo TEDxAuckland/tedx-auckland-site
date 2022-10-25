@@ -61,7 +61,7 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description: 'TEDxAkl MAY 2016: Shed 10'
+  description: Shed 10
   image: /uploads/cameron-sims-crop-16-100-8304.jpg
 ---
 # TEDxAuckland 2016
