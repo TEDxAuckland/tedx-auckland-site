@@ -1,5 +1,5 @@
 ---
-title: May '19
+title: May 2019
 short_title: May '19
 layout: event
 upcoming: false
