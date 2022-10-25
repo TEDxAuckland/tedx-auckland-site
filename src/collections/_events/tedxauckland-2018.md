@@ -1,5 +1,5 @@
 ---
-title: Oct 2018 | Off-Piste
+title: Oct 2018
 short_title: Oct '18 | Off-Piste
 upcoming: false
 ticket_sales:
@@ -191,7 +191,7 @@ seo:
     - https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018
 event_listing:
   is_highlighted: false
-  description: Shed 10
+  description: Off-Piste | Shed 10
   image: /uploads/ali-taheri-crop-18-91-69.jpg
 ---
 # TEDxAuckland 2018
