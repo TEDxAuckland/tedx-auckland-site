@@ -88,14 +88,6 @@ var events = [
   }).$mount('#events-snake-grid')
 </script>
 
-<!-- 
-<section>
-  <div class="container">
-    <h1 class="event-highlights__heading">Events</h1>
-    {% include event-timeline.html %}
-  </div>
-</section>
- -->
 {% if page.show_speaker_highlights %}
 <section>
   <div class="container">
@@ -104,44 +96,3 @@ var events = [
   </div>
 </section>
 {% endif %}
-
-<!-- <section>
-  <div class="container event-upcoming">
-    {% assign upcoming_events_length = upcoming_events | size %}
-    {% if upcoming_events_length > 0 %}
-    {% for event in upcoming_events %}
-    <div class="event-upcoming__content">
-      {{ event.content }}
-      <a href="{{ event.url }}" class="button event-info__button">See More</a>
-    </div>
-      <div class="event-upcoming__cta">
-        <h2>{{ event.start_date | date: "%-d" }}<br />{{ event.start_date | date: "%b" }}</h2>
-          {% if event.ticket_sales.link.active %}
-            <a href="{{ event.ticket_sales.link.src }}">Get Tickets</a>
-          {% endif %}
-        </div>
-    {% endfor %}
-    {% endif %}
-  </div>
-</section> -->
-<!-- 
-<section>
-  <div class="container events-list__past">
-    <h2>Recent Events</h2>
-    <div class="events-list__wrapper">
-    {% for event in past_events limit: 3 %}
-      <a href="{{ event.url }}" class="event-info__link">
-        <div class="event-info">
-          <div class="event-info__top">
-            {{ event.short_title }}
-          </div>
-          <div class="event-info__bottom">
-            {{ event.start_date | date: "%b %Y" }}
-          </div>
-        </div>
-      </a>
-    {% endfor %}
-    </div>
-  </div>
-</section> 
--->
