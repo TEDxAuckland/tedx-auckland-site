@@ -6,7 +6,7 @@ image_caption: Vincent Vuillard
 image_caption_link: https://tedxauckland.com/people/vincent-vuillard/
 author:
   name: Hamish Williams
-  tagline: Edited by Jaydan Salzke
+  tagline:
   link:
 categories:
   - our-news
