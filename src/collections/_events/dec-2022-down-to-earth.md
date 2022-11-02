@@ -29,6 +29,7 @@ major_partners:
   - vodafone
 supporting_partners:
   - generator
+  - /partners/logitech--creative-technology-partner
 event_partners:
   - cloudcannon
   - jw-legal
