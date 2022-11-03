@@ -29,7 +29,7 @@ major_partners:
   - vodafone
 supporting_partners:
   - generator
-  - /partners/logitech--creative-technology-partner
+  - logitech--creative-technology-partner
 event_partners:
   - cloudcannon
   - jw-legal
@@ -64,6 +64,6 @@ Let’s gather together and look to the future of our people and planet.
 
 We’ll see you at \#TEDxAkl \#downtoearth
 
-**EARLY BIRD&nbsp; $139.00**
+**EARLY BIRD $139.00**
 
-**LATE BIRD&nbsp; &nbsp; &nbsp;$189.00**
+**LATE BIRD $189.00**
