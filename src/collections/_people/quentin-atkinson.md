@@ -11,9 +11,8 @@ description_markdown: >-
   cultural values, norms and institutions they represent shape our behaviour.
   Quentin’s research regularly features in international media outlets including
   the NY Times, the BBC, the Economist and New Scientist. In 2019, he co-founded
-  climate action group [Claxon](http://claxon.nz){: target="_blank"
-  rel="noopener"}, one of many outlets where he promotes understanding and
-  action around climate change.
+  climate action group [Claxon](http://claxon.nz), one of many outlets where he
+  promotes understanding and action around climate change.
 website_url: quentinatkinson.com
 medium_url:
 twitter_url: https://twitter.com/DrQueue
