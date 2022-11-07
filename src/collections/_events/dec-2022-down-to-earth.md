@@ -22,7 +22,7 @@ end_date: 2022-12-03 00:00:00 +1300
 address: ASB Waterfront Theatre, 138 Halsey Street, Auckland 1010
 hide_speaker_names: false
 people:
-  - /people/quentin-atkinson
+  - quentin-atkinson
 flikr_galleries:
   -
 major_partners:
