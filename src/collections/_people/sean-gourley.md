@@ -7,7 +7,7 @@ description_markdown: >-
   artificial intelligence company building mission-critical applications for
   those who protect our security and democracy. Before he was CTO of Quid, a
   data visualisation company he co-founded in 2009, Sean worked on
-  self-repairing nano circuits at NASA. He holds a PhD in physics for Oxford,
+  self-repairing nano circuits at NASA. He holds a PhD in physics from Oxford,
   where his research as a Rhodes Scholar focused on complex systems and the
   mathematical patterns underlying modern war. He has served as a political
   advisor, briefed USCENTCOM at the Pentagon and addressed the United Nations in
