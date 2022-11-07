@@ -14,7 +14,7 @@ description_markdown: >-
   climate action group [Claxon](http://claxon.nz){: target="_blank"
   rel="noopener"}, one of many outlets where he promotes understanding and
   action around climate change.
-website_url: https://www.quentinatkinson.com/
+website_url: quentinatkinson.com
 medium_url:
 twitter_url: https://twitter.com/DrQueue
 facebook_url:
