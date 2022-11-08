@@ -23,7 +23,7 @@ address: ASB Waterfront Theatre, 138 Halsey Street, Auckland 1010
 hide_speaker_names: false
 people:
   - quentin-atkinson
-  - /people/sean-gourley
+  - sean-gourley
 flikr_galleries:
   -
 major_partners:
