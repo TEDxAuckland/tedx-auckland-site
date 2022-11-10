@@ -150,12 +150,14 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin: remify(100px / 2) auto;
+    margin: remify(140px / 2) auto;
     width: 1200px;
   }
   &__header-container {
     box-shadow: inset 0 1000px 8px 0 #00000033;
     display: flex;
+    background-size: cover;
+    background-position: center;
   }
   &__header-text {
     gap: remify(14px / 2);
