@@ -24,7 +24,7 @@ hide_speaker_names: false
 people:
   - quentin-atkinson
   - sean-gourley
-  - /people/raj-nair
+  - raj-nair
 flikr_galleries:
   -
 major_partners:
