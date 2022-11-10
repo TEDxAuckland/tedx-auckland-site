@@ -24,7 +24,6 @@ hide_speaker_names: false
 people:
   - quentin-atkinson
   - sean-gourley
-  - raj-nair
 flikr_galleries:
   -
 major_partners:
@@ -68,4 +67,4 @@ We’ll see you at \#TEDxAkl \#downtoearth
 
 **EARLY BIRD $139.00**
 
-**LATE BIRD $189.00**
+**LATE BIRD $179.00**
