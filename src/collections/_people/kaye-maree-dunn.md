@@ -3,38 +3,20 @@ name: Kaye-Maree Dunn
 email:
 image: /uploads/kaye-maree-dunn-1-bw-x2400.jpg
 description_markdown: >-
-  Kaye-Maree Director of Making Everything Achievable is a social impact and
-  technology entrepreneur&nbsp; from Te Rarawa, Ngā Puhi, Ngāi Te
-  Rangikoianaake, Ngāti Mahanga me Ngāi Tāmanuhiri and resides in Wainuiomata
-  Wellington. She has been working in the realm of Maori and Community
-  development for over 20 years.
+  After the passing of her mother and the subsequent separation from her father
+  and brother, Kaye-Maree Dunn, as a child, found herself away from her whānau
+  (extended family), iwi (tribe) and, ultimately, her ahurea tuakiri (cultural
+  identity). Decades on, Kaye-Maree is not only dedicated to connecting the dots
+  of her own whakapapa (ancestry), but giving others the tools to do so too.
 
 
-  Kaye-Maree’s career has spanned Child Youth and Family, The Dept of Labour,
-  The Māori Land Court, NZ Maori Tourism and Community Housing and has recently
-  been involved in Social Enterprise Development, Governance Training,
-  E-Commerce Development and Whānau Ora Planning – particularly with hard to
-  reach families.
-
-
-  Kaye-Maree is the Managing Director of Ahau NZ Limited, Indigital Blockchain
-  Limited and a HIllfarrance Scout - a new Venture Capital Fund.
-
-
-  She previously served on the Board of NZ Tech, Te Paepae Arahi, a Māori mental
-  health provider in Lower Hutt, Hui E Community ,and one of the Wellington
-  Representatives on the New-Zealand Maori Counciland. She is currently on the
-  Interim Maori Spectrum Trust Board,&nbsp; North Hokianga Development Trust,
-  the Para Kore Trust and she is a Sir Edmond Hillary Fellow and an Atlantic
-  Fellow with the University of Melbourne.
-
-
-  Kaye-Maree wants to ensure individuals have the right tools and support to
-  govern their organisations with confidence and competence.&nbsp; She has been
-  working with a range of Rangatahi and Iwi groups with Te Whare Hukahuka
-  for&nbsp; the past 6 years in the Ka Eke Poutama programme and loves being
-  involved in lifting the transformative capability of Whanau, hapu and iwi to
-  actively contribute to the growth of NZ’s economic potential.
+  In 2018, Kaye-Maree started Āhau, a blockchain-based whānau data platform that
+  is reconnecting indigenous people and pākehā (people of non-Māori descent)
+  with their past and identities. She also serves within the C-suite of
+  Indigital Blockchain Limited and Making Everything Achievable Limited. For
+  Kaye-Maree, though, her extensive work within Māori-specific community and
+  economic development projects goes beyond connecting her with others by also
+  bridging the gap between her past, present and future.
 website_url: https://www.ahau.io/
 medium_url:
 twitter_url:
