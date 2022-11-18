@@ -1,9 +1,8 @@
 ---
 name: Unannounced Speaker
 email:
-image:
-description_markdown: >-
-  Speaker to be announced soon.
+image: /uploads/avatar-3-x2400.png
+description_markdown: Speaker to be announced soon.
 website_url:
 medium_url:
 twitter_url:
@@ -13,5 +12,4 @@ github_username:
 instagram_url:
 linkedin_url:
 ---
-
 Enter your description here...
