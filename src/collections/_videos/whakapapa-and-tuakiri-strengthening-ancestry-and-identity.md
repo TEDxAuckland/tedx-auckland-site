@@ -1,7 +1,7 @@
 ---
 _schema: default
 title: 'Whakapapa and Tuakiri: Strengthening ancestry and identity'
-youtube_video_id: ipj6d1qqlX0&t=25s
+youtube_video_id: ipj6d1qqlX0
 performance: false
 highlight: false
 images:
