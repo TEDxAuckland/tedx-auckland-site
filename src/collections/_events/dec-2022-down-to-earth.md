@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: 'DEC 2022: Down to Earth'
+title: "DEC 2022: Down to Earth"
 short_title: Dec '22 | Down To Earth
 layout: event
 upcoming: true
@@ -26,6 +26,10 @@ people:
   - sean-gourley
   - wendy-zhou
   - raj-nair
+  - z-unannounced-speaker-1
+  - z-unannounced-speaker-2
+  - z-unannounced-speaker-3
+  - z-unannounced-speaker-4
 flikr_galleries:
   -
 major_partners:
@@ -55,11 +59,12 @@ event_listing:
   description: ASB Waterfront Theatre
   image: /uploads/square-3-x2400.png
 ---
+
 As the earth comes up for air following the COVID-19 pandemic, much of our attention has turned to space. From seeing the space race of the 20th Century reignite to being captivated by the first images retrieved from the James Webb Space Telescope, we continue to look outward and onward.
 
 Yet the most pressing issues of our time; global issues such as those involving the climate, social justice and human rights, demand a global focus.
 
-It’s time to come back *Down to Earth*.
+It’s time to come back _Down to Earth_.
 
 Come December 3rd, TEDxAuckland returns to the ASB Waterfront Theatre to share ideas shaping our view of the world and of ourselves. Join us for an inspiring afternoon of new perspectives and discussion, as well as our nearby after party, the perfect opportunity to reconnect and meet new people.
 
