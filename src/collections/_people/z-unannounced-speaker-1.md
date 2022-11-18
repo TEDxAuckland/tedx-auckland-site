@@ -1,7 +1,7 @@
 ---
 name: Unannounced Speaker
 email:
-image: /uploads/avatar-3-x2400-1.png
+image: /uploads/avatar-3-x2400.png
 description_markdown: Speaker to be announced soon.
 website_url:
 medium_url:
