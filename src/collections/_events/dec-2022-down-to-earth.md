@@ -72,13 +72,10 @@ Let’s gather together and look to the future of our people and planet.
 We’ll see you at \#TEDxAkl \#downtoearth
 
 **SCHEDULE**
-
 2pm \| Doors Open
-
 3pm \| Event Starts
-
 6pm \| After Party\!
 
-**EARLY BIRD $99.00**
 
+**EARLY BIRD $99.00**
 **LATE BIRD $139.00**
