@@ -24,8 +24,8 @@ hide_speaker_names: false
 people:
   - quentin-atkinson
   - sean-gourley
-  - wendy-zhou
   - raj-nair
+  - wendy-zhou
   - z-unannounced-speaker-1
   - z-unannounced-speaker-2
   - z-unannounced-speaker-3
