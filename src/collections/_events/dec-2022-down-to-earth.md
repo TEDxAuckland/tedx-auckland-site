@@ -73,6 +73,6 @@ We’ll see you at \#TEDxAkl \#downtoearth
 
 **SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br>6pm \| After Party
 
-**EARLY BIRD $99.00**
+**TICKETS**
 
-**LATE BIRD $139.00**
+EARLY BIRD **$99.00**<br>LATE BIRD **$139.00**
