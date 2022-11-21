@@ -23,8 +23,8 @@ address: ASB Waterfront Theatre, 138 Halsey Street, Auckland 1010
 hide_speaker_names: false
 people:
   - quentin-atkinson
-  - sean-gourley
   - raj-nair
+  - sean-gourley
   - wendy-zhou
   - z-unannounced-speaker-1
   - z-unannounced-speaker-2
