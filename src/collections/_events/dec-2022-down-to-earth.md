@@ -27,8 +27,8 @@ people:
   - sean-gourley
   - wendy-zhou
   - z-unannounced-speaker-1
-  - z-unannounced-speaker-2
   - irina-miller
+  - /people/walter-lim
 flikr_galleries:
   -
 major_partners:
