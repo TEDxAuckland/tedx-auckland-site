@@ -28,7 +28,7 @@ people:
   - wendy-zhou
   - z-unannounced-speaker-1
   - irina-miller
-  - /people/walter-lim
+  - walter-lim
 flikr_galleries:
   -
 major_partners:
