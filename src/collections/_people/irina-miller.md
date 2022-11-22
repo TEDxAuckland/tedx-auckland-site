@@ -4,13 +4,13 @@ name: Irina Miller
 email:
 image: /uploads/irina-m-x2400-7.jpg
 description_markdown: >-
-  Irina is a business consultant turned deep-tech start-up founder. She was
-  deeply concerned with the impact our dairy industry has on our environment and
-  our animals and thought there was a better way of creating valuable dairy
-  ingredients other than grazing, impregnating and milking millions of cows.
-  Having little initial technical knowledge but a lot of passion and drive she
-  embarked on the journey of personal and professional change to ultimately
-  change the entire industry.
+  Irina Miller is a business consultant turned deep-tech startup founder. Deeply
+  concerned with the severe impacts the dairy industry has on our environment,
+  she launched Daisy Labs, a precision fermentation company that produces
+  identical dairy proteins without the associated harm to our land, rivers and
+  animals. Though initially lacking in technical knowledge, Irina’s passion for
+  reimagining the sourcing of valuable dairy ingredients has seen her embark on
+  a personal and professional journey to ultimately change the entire industry.
 website_url: https://www.daisylab.co.nz/
 medium_url:
 twitter_url:
