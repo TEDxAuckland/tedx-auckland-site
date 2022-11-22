@@ -28,8 +28,7 @@ people:
   - wendy-zhou
   - z-unannounced-speaker-1
   - z-unannounced-speaker-2
-  - z-unannounced-speaker-3
-  - z-unannounced-speaker-4
+  - /people/irina-miller
 flikr_galleries:
   -
 major_partners:
