@@ -36,12 +36,12 @@ major_partners:
 supporting_partners:
   - generator
   - logitech--creative-technology-partner
-  - /partners/mevo
+  - mevo
 event_partners:
   - cloudcannon
   - jw-legal
   - jaydan-salzke
-  - /partners/opel
+  - opel
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
