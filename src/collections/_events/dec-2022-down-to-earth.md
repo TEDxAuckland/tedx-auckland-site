@@ -37,11 +37,11 @@ supporting_partners:
   - generator
   - logitech--creative-technology-partner
   - mevo
+  - /partners/opel
 event_partners:
   - cloudcannon
   - jw-legal
   - jaydan-salzke
-  - opel
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
