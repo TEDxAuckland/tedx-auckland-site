@@ -37,7 +37,7 @@ supporting_partners:
   - generator
   - logitech--creative-technology-partner
   - mevo
-  - /partners/opel
+  - opel
 event_partners:
   - cloudcannon
   - jw-legal
