@@ -42,6 +42,7 @@ event_partners:
   - cloudcannon
   - jw-legal
   - jaydan-salzke
+  - /partners/halcyon-digital
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
@@ -74,4 +75,4 @@ We’ll see you at \#TEDxAkl \#downtoearth
 
 **SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br>6pm \| After Party
 
-**TICKETS**<br><s>EARLY BIRD $99.00</s><br>**LATE BIRD $139.00**
+**TICKETS**<br>~~EARLY BIRD $99.00~~<br>**LATE BIRD $139.00**
