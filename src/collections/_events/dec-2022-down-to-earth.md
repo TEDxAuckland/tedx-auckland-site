@@ -43,6 +43,7 @@ event_partners:
   - jw-legal
   - jaydan-salzke
   - /partners/halcyon-digital
+  - /partners/qt-auckland
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
