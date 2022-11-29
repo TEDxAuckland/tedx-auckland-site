@@ -41,8 +41,8 @@ event_partners:
   - cloudcannon
   - jw-legal
   - jaydan-salzke
-  - /partners/halcyon-digital
-  - /partners/qt-auckland
+  - halcyon-digital
+  - qt-auckland
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
