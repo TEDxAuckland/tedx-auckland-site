@@ -26,7 +26,6 @@ people:
   - raj-nair
   - sean-gourley
   - wendy-zhou
-  - z-unannounced-speaker-1
   - irina-miller
   - walter-lim
 flikr_galleries:
