@@ -43,6 +43,7 @@ event_partners:
   - jaydan-salzke
   - halcyon-digital
   - qt-auckland
+  - /partners/the-rolling-pin
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
