@@ -74,6 +74,6 @@ Let’s gather together and look to the future of our people and planet.
 
 We’ll see you at \#TEDxAkl \#downtoearth
 
-**SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Session 1<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Break - Afternoon tea by The Rolling Pin*<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Session 2<br>6pm \| *After Party - Wynyard Pavilion*
+**SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Session 1<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Break - Afternoon tea by The Rolling Pin*<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Session 2<br>6pm \| After Party*,&nbsp;*Wynyard Pavilion
 
 **TICKETS**<br>~~EARLY BIRD $99.00~~<br>**LATE BIRD $139.00**
