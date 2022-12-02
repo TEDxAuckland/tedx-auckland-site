@@ -44,7 +44,7 @@ event_partners:
   - halcyon-digital
   - qt-auckland
   - the-rolling-pin
-  - /partners/omnigraphics
+  - omnigraphics
 carousel_images:
   - image:
     alt: Planets, Earth, Sun!
