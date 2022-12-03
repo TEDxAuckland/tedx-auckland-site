@@ -3,10 +3,10 @@ _schema: default
 title: 'DEC 2022: Down to Earth'
 short_title: Dec '22 | Down To Earth
 layout: event
-upcoming: true
+upcoming: false
 ticket_sales:
   link:
-    active: true
+    active: false
     src: >-
       https://tedxauckland.com/community/events#/down-to-earth-2022/tickets/purchase
   embed:
@@ -75,6 +75,6 @@ Let’s gather together and look to the future of our people and planet.
 
 We’ll see you at \#TEDxAkl \#downtoearth
 
-**SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Session 1<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Break - Afternoon tea by The Rolling Pin*<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Session 2<br>6pm \| After Party*&nbsp;- \*\*Wynyard Pavilion*
+**SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br> Session 1<br> *Break - Afternoon tea by The Rolling Pin*<br> Session 2<br>6pm \| After Party *- \*\*Wynyard Pavilion*
 
 **TICKETS**<br>~~EARLY BIRD $99.00~~<br>**LATE BIRD $139.00**
