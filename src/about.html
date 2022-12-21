@@ -1,6 +1,31 @@
 ---
 layout: default
 title: About
+team:
+- name: Elliot Blade
+  role: Producer
+  linkedin: https://www.linkedin.com/company/tedxauckland/
+- name: Member 2
+  role: Recruitment Manager
+  linkedin: https://www.linkedin.com/company/tedxauckland/
+- name: Member 3
+  role: Lead Software Developer
+  linkedin: https://www.linkedin.com/company/tedxauckland/
+- name: Member 4
+  role: Copywriter
+  linkedin: https://www.linkedin.com/company/tedxauckland/
+- name: Member 5
+  role: Graphic Designer
+  linkedin: https://www.linkedin.com/company/tedxauckland/
+- name: Member 6
+  role: UI/UX Designer
+  linkedin: https://www.linkedin.com/company/tedxauckland/
+- name: Member 7
+  role: Marketing Manager
+  linkedin: https://www.linkedin.com/company/tedxauckland/
+- name: Member 8
+  role: Software Developer
+  linkedin: https://www.linkedin.com/company/tedxauckland/
 ---
 
 {% include upcoming-event-bar.html %}
@@ -13,6 +38,7 @@ title: About
 			<div class="about-details editable">
 				<h4 class="has-red-stripe">Our Mission</h4>
 				<p>Our mission at TEDxAuckland is to <b></b>celebrate new ideas, innovation and diversity with a global audience, aiming to inspire individuals and communities to create a positive impact.</p>
+				<img class="about-img" src="/assets/images/speakers/speaker-1-expanded.png">
 				<h4 class="has-red-stripe">About TEDx</h4>
 				<p>In the spirit of ideas worth spreading, TEDx is a program of local, self-organised events that bring people together to share a TED-like experience. At a TEDx event, TED Talks video and live speakers combine to spark deep discussion and connection. These local, self-organised events are branded TEDx, where x = independently organised TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organised. (Subject to certain rules and regulations.)</p>
 				<h4 class="has-red-stripe">About TED</h4>
@@ -23,6 +49,34 @@ title: About
 		</div>
 	</div>
 </section>
+
+<div class="container">
+	<div class="about-container">
+		<div class="team-container">
+			<h4 class="has-red-stripe">The Team</h4>
+			<div class="row">
+				{% for member in page.team %}
+				<div class="about-column">
+					<div class="about-card">
+						<img src="/assets/images/default-talk-photo.jpg" alt="Member" class="person-img">
+						<div class="about-member-desc">
+							<h3>{{ member.name }}</h2>
+							<p class="member-role">{{ member.role }}</p>
+							<a href="{{ member.linkedin }}" target="_blank">
+								{% include embed/social-icon.html icon="LinkedIn" %}
+							</a>
+							<a href="https://www.facebook.com/TEDxAuckland/" target="_blank">
+								{% include embed/social-icon.html icon="Facebook" %}
+							</a>
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+			
+	</div>
+</div>
 
 <section id="mailingList" class="section">
 	<div class="container">

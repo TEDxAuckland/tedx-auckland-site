@@ -59,3 +59,40 @@
 .highlight {
 	color: red;
 }
+
+.person-img {
+	width: 20rem;
+	height: 20rem;
+}
+
+.about-column {
+	float: left;
+	position: relative;
+	margin: 1rem 2rem 1rem 0rem;
+}
+
+.about-card {
+	min-width: 0;
+	min-height: 15rem;
+}
+
+.about-member-desc {
+	width: 100%;
+}
+
+.about-img {
+	width: 100rem;
+	height: 70rem;
+}
+
+.member-role {
+	color: lighten($brand-grey, 20);
+	font-size: 1.3rem;
+	font-weight: 500;
+	max-width: 100%;
+}
+
+.team-container {
+	flex: 1 1 400px;
+	margin: 20px;
+}
