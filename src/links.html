@@ -2,13 +2,16 @@
 layout: default
 title: Links
 links:
-  - title: TEDxAuckland - Down To Earth
-    subtitle: [EVENT TICKETS & INFO]
-    url: https://tedxauckland.com/community/events#/down-to-earth-2022/tickets/purchase
-    image:
   - title: A conversation with Hēmi Kelly
     subtitle: Blog Interview
-    url: https://tedxauckland.com/a-conversation-with-h%C4%93mi-kelly-growing-a-platform-teaching-and-language-revitalisation/
+    url: >-
+      https://tedxauckland.com/a-conversation-with-h%C4%93mi-kelly-growing-a-platform-teaching-and-language-revitalisation/
+    image:
+  - title: TEDxAuckland - Down To Earth
+    subtitle:
+      - EVENT TICKETS & INFO
+    url: >-
+      https://tedxauckland.com/community/events#/down-to-earth-2022/tickets/purchase
     image:
   - title: Pollinating pathways to a better future
     subtitle: Andrea Reid
@@ -16,27 +19,25 @@ links:
     image:
   - title: What if the way we value businesses is wrong?
     subtitle: Paul Adams
-    url: https://tedxauckland.com/talks/what-if-the-way-we-value-businesses-is-wrong/
+    url: >-
+      https://tedxauckland.com/talks/what-if-the-way-we-value-businesses-is-wrong/
     image:
   - title: Reimagining paradise with regenerative agriculture
     subtitle: Greg Hart
-    url: https://tedxauckland.com/talks/reimagining-paradise-with-regenerative-agriculture/
+    url: >-
+      https://tedxauckland.com/talks/reimagining-paradise-with-regenerative-agriculture/
     image:
   - title: Planetary Accounting - Carbon emissions and beyond
     subtitle: Kate Meyer
-    url: https://tedxauckland.com/talks/planetary-accounting-carbon-emissions-and-beyond/
-    image:
-  - title: Test
-    subtitle: Test
-    url: google.co.nz
+    url: >-
+      https://tedxauckland.com/talks/planetary-accounting-carbon-emissions-and-beyond/
     image:
 ---
-
 <section id="links-header" class="section">
   <div class="container">
     <h3 class="section-heading">TEDxAuckland Links</h3>
     <div class="links-container">
-      <h4 class="has-red-stripe">#TEDxAkl together 2022 #bethere</h4>
+      <h4 class="has-red-stripe">#TEDxAkl 2023 #bethere</h4>
     </div>
   </div>
 </section>
@@ -49,11 +50,11 @@ links:
         <div class="link-img">
           {% if link.image %}
           <a href="{{ link.url }}">
-            <img class="link-img" src="{{ link.image }}" alt="default-talk-photo">
+            <img class="link-img" src="{{ link.image }}" alt="default-talk-photo" />
           </a>
           {% else %}
           <a href="{{ link.url }}">
-            <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo">
+            <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo" />
           </a>
           {% endif %}
         </div>
@@ -61,7 +62,7 @@ links:
           <a class="link-font-1" href="{{ link.url }}">{{ link.subtitle }}</a>
           <a class="link-font-2" href="{{ link.url }}"> | {{ link.title }}</a>
         </div>
-        </a>
+        
       </div>
     </div>
     {% endfor %}
