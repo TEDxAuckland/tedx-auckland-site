@@ -61,7 +61,8 @@ seo:
 event_listing:
   is_highlighted: false
   description: ASB Waterfront Theatre
-  image: /uploads/square-3-x2400.png
+  image: /uploads/tara-r-94-8866.jpg
+  subtitle: Theme or subtitle
 ---
 As the earth comes up for air following the COVID-19 pandemic, much of our attention has turned to space. From seeing the space race of the 20th Century reignite to being captivated by the first images retrieved from the James Webb Space Telescope, we continue to look outward and onward.
 
@@ -75,6 +76,6 @@ Let’s gather together and look to the future of our people and planet.
 
 We’ll see you at \#TEDxAkl \#downtoearth
 
-**SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br> Session 1<br> *Break - Afternoon tea by The Rolling Pin*<br> Session 2<br>6pm \| After Party *- \*\*Wynyard Pavilion*
+**SCHEDULE**<br>2pm \| Doors Open<br>3pm \| Event Starts<br>Session 1<br>*Break - Afternoon tea by The Rolling Pin*<br>Session 2<br>6pm \| After Party *\- \*\*Wynyard Pavilion*
 
 **TICKETS**<br>~~EARLY BIRD $99.00~~<br>**LATE BIRD $139.00**
