@@ -12,12 +12,12 @@ description_markdown: >-
   online stores. Most often, Walter’s time is spent between research, design,
   code and experimentation with tech in order to ship products and create
   services that help people.
-website_url:
+website_url: Https://Walt.online
 medium_url:
 twitter_url: https://twitter.com/iwaltzaround
 facebook_url:
 youtube_video_id:
-github_username:
+github_username: Waltzaround
 instagram_url:
 linkedin_url:
 ---
