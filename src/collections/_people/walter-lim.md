@@ -8,7 +8,7 @@ description_markdown: >-
   Infinity. Walter spends his time between research, design, code and
   experimentation with new technologies in order to ship products and create
   services that help people.
-website_url: Https://Walt.online
+website_url: https://walt.online
 medium_url:
 twitter_url: https://twitter.com/iwaltzaround
 facebook_url:
