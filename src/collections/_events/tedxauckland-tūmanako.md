@@ -1,6 +1,6 @@
 ---
-title: 'tūmanako: Nov 2019'
-short_title: 'tūmanako: Nov 2019'
+title: Nov 2019
+short_title: Nov '19 | tūmanako
 layout: event-tumanako
 upcoming: false
 ticket_sales:
@@ -61,10 +61,9 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
-  image: /uploads/default-speaker-photo.jpg
+  description: tūmanako | ASB Waterfront Theatre
+  image: /uploads/georgia-s-crop-19-91-39525.jpg
 ---
-
 # TEDxAuckland November 2019
 
 *tūmanako*\: to hope for a better future

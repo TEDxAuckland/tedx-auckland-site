@@ -1,6 +1,6 @@
 ---
-title: 2018 event
-short_title: '2018'
+title: Oct 2018
+short_title: Oct '18 | Off-Piste
 upcoming: false
 ticket_sales:
   link:
@@ -17,7 +17,7 @@ image: /uploads/tedx-auckland-2018-banner-3.1.jpg
 tagline: Off Piste
 start_date: 2018-10-13 00:00:00 +1300
 end_date: 2018-10-13 00:00:00 +1300
-address: 'Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010'
+address: Shed 10, 89 Quay Street, Queens Wharf, Auckland 1010
 people:
   - hemi-kelly
   - fraser-mcconnell
@@ -42,9 +42,9 @@ people:
 event_schedule:
   part1:
     - session: Doors Open
-      time: '8:30 am'
+      time: 8:30 am
     - session: Event Start
-      time: '9:30 am'
+      time: 9:30 am
       announcer:
       speakers:
         - name: hemi-kelly
@@ -60,7 +60,7 @@ event_schedule:
     - session: Break 1
       time:
     - session: Session 2
-      time: '11:45 am'
+      time: 11:45 am
       announcer:
       speakers:
         - name: andrew-barnes
@@ -78,7 +78,7 @@ event_schedule:
     - session: Break 2
       time:
     - session: Session 3
-      time: '2:15 pm'
+      time: 2:15 pm
       announcer:
       speakers:
         - name: eliot-witters
@@ -95,7 +95,7 @@ event_schedule:
     - session: Break 3
       time:
     - session: Session 4
-      time: '4:15 pm'
+      time: 4:15 pm
       announcer:
       speakers:
         - name: zeshan-qureshi
@@ -115,52 +115,52 @@ flikr_galleries:
   -
 food_vendors:
   - name: Allpress
-    vendor_link: 'https://allpressespresso.com/'
+    vendor_link: https://allpressespresso.com/
     vendor_image: /uploads/content_allpress-logo-high-res.jpg
   - name: Good Buzz Kombucha
-    vendor_link: 'https://goodbuzz.nz/'
+    vendor_link: https://goodbuzz.nz/
     vendor_image: /uploads/good-buzz-logo.jpg
   - name: Monsoon Ginger Beer
-    vendor_link: 'http://www.monsoonginger.co.nz/'
+    vendor_link: http://www.monsoonginger.co.nz/
     vendor_image: /uploads/monsoon-ginger-beer.jpg
   - name: Illuminatea
-    vendor_link: 'https://www.instagram.com/illuminatea_nz/'
+    vendor_link: https://www.instagram.com/illuminatea_nz/
     vendor_image: /uploads/illuminatea.jpg
   - name: Dumplings with Wings
-    vendor_link: 'https://www.facebook.com/dumplingswithwings/'
+    vendor_link: https://www.facebook.com/dumplingswithwings/
     vendor_image: /uploads/dumpwings1.jpg
   - name: Angel Food
-    vendor_link: 'https://www.angelfood.co.nz/'
+    vendor_link: https://www.angelfood.co.nz/
     vendor_image: /uploads/angel-food-logo.jpeg
   - name: Stumpys Pizza
-    vendor_link: 'https://www.stumpys.nz/'
+    vendor_link: https://www.stumpys.nz/
     vendor_image: /uploads/stumpys-pizza-logo.jpg
   - name: Real Rad Food
-    vendor_link: 'https://realradfood.co.nz/'
+    vendor_link: https://realradfood.co.nz/
     vendor_image: /uploads/realradlogo.jpeg
   - name: Collective Dairy
-    vendor_link: 'http://www.thecollective.kiwi/'
+    vendor_link: http://www.thecollective.kiwi/
     vendor_image: /uploads/collective-dairy-logo.jpeg
   - name: Healtheries
-    vendor_link: 'http://www.healtheries.co.nz/'
+    vendor_link: http://www.healtheries.co.nz/
     vendor_image: /uploads/healtheries.jpg
   - name: Judge Bao
-    vendor_link: 'https://judgebao.co.nz/'
+    vendor_link: https://judgebao.co.nz/
     vendor_image: /uploads/judge-bao.png
   - name: Urbanaut
-    vendor_link: 'https://www.urbanautbeer.com/'
+    vendor_link: https://www.urbanautbeer.com/
     vendor_image: /uploads/urbanaut-logo.jpg
   - name: Deep Creek
-    vendor_link: 'http://www.dcbrewing.co.nz/'
+    vendor_link: http://www.dcbrewing.co.nz/
     vendor_image: /uploads/deepcreek-logo-01.png
   - name: Yealands
-    vendor_link: 'https://www.yealands.co.nz/'
+    vendor_link: https://www.yealands.co.nz/
     vendor_image: /uploads/yealands-logo.png
   - name: Part Time Rangers
-    vendor_link: 'https://parttimerangers.co.nz/'
+    vendor_link: https://parttimerangers.co.nz/
     vendor_image: /uploads/part-time-rangers.jpg
   - name: Maarte Catering
-    vendor_link: 'https://www.maartecatering.nz/'
+    vendor_link: https://www.maartecatering.nz/
     vendor_image: /uploads/maarte.png
 major_partners:
   - vodafone
@@ -187,14 +187,13 @@ seo:
   name: TEDxAuckland 2018 - Off Piste
   type: Event
   links:
-    - 'https://www.facebook.com/events/629283860774532'
-    - 'https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018'
+    - https://www.facebook.com/events/629283860774532
+    - https://www.iticket.co.nz/events/2018/oct/tedxauckland-2018
 event_listing:
   is_highlighted: false
-  description:
-  image: /uploads/default-speaker-photo.jpg
+  description: Off-Piste | Shed 10
+  image: /uploads/ali-taheri-crop-18-91-69.jpg
 ---
-
 # TEDxAuckland 2018
 
 In 2018, TEDxAuckland's annual festival of ideas is returning to **Shed 10** on **October 13th**. This year will see speakers from New Zealand and around the globe come together for a day of inspiration and connection in the heart of Auckland City.

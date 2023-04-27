@@ -1,6 +1,6 @@
 ---
-title: May 2019 event
-short_title: May 2019
+title: May 2019
+short_title: May '19
 layout: event
 upcoming: false
 ticket_sales:
@@ -17,7 +17,7 @@ image: /uploads/tedx-whoa-banner-2-3600x.png
 tagline:
 start_date: 2019-05-01 00:00:00 +1200
 end_date: 2019-05-01 00:00:00 +1200
-address: '8-14 Henderson Valley Rd, Henderson, Auckland'
+address: 8-14 Henderson Valley Rd, Henderson, Auckland
 people:
   - james-hurman
   - rashina-hoda
@@ -48,10 +48,9 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
-  image: /uploads/default-speaker-photo.jpg
+  description: Whoa! Studios & The Grounds
+  image: /uploads/georgia-s-crop-91-38003.jpg
 ---
-
 # TEDxAuckland May 2019
 
 In 2019, TEDxAuckland reaches its 10th year of celebrating ideas, innovation and inspiration. So to celebrate we’re holding not one but multiple events around Auckland\!
@@ -60,7 +59,7 @@ Our first event on **May 1st** will host 5 amazing speakers at **Whoa\! Studios*
 
 After the event, all attendees will socialise with our speakers at the inclusive dinner in The Grounds Eatery. This four-course shared dinner, accompanied with wine and drinks, will be orchestrated by the acclaimed and multi-award winning Kiwi chef, Ben Bayly, conjuring it up with local produce from West Auckland.
 
-There are only 160 seats available for this more intimate experience, so make sure to register your interest quickly. Tickets are $139. **Update**\: **Sold out\!**
+There are only 160 seats available for this more intimate experience, so make sure to register your interest quickly.&nbsp;**Update**\: **Sold out\!**
 
 **Timetable for the event:**
 

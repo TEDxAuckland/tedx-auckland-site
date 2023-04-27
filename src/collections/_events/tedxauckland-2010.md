@@ -1,6 +1,6 @@
 ---
-title: 2010 event
-short_title: '2010'
+title: Sep 2010
+short_title: 2010 | What if?
 upcoming: false
 ticket_sales:
   link:
@@ -16,7 +16,7 @@ image:
 tagline: Ideas Worth Doing
 start_date: 2010-09-26 00:00:00 +1200
 end_date: 2010-09-26 00:00:00 +1200
-address: 'Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620'
+address: Westlake Boys High School, 30 Forrest Hill Road, Forrest Hill, Auckland 0620
 people:
   - richard-loseby
   - one-beep
@@ -42,7 +42,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
-  image: /uploads/default-speaker-photo.jpg
+  description: What if?
+  image: /uploads/2010-crop-100.jpg
 ---
-

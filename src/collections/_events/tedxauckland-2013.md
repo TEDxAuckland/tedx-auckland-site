@@ -1,6 +1,6 @@
 ---
-title: 2013 event
-short_title: '2013'
+title: Aug 2013
+short_title: Aug '13 | convergemerge
 upcoming: false
 ticket_sales:
   link:
@@ -16,7 +16,7 @@ image: /uploads/20130803-tedx-georgias-high-77.jpg
 tagline: convergemerge
 start_date: 2013-08-03 00:00:00 +1200
 end_date: 2013-08-03 00:00:00 +1200
-address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
+address: Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010
 people:
   - jimi-hunt
   - lillian-grace
@@ -41,7 +41,7 @@ flikr_galleries:
 major_partners:
 supporting_partners:
 event_partners:
-youtube_playlist: 'PLcm2pIIAwlDsT31BlI19NifrQ9GDUwUuT'
+youtube_playlist: PLcm2pIIAwlDsT31BlI19NifrQ9GDUwUuT
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2013/
@@ -51,7 +51,8 @@ seo:
   links:
     -
 event_listing:
-  is_highlighted: false
-  description:
-  image: /uploads/default-speaker-photo.jpg
+  is_highlighted: true
+  subtitle:
+  description: convergemerge | Aotea Centre
+  image: /uploads/georgia-s-crop-13-91-77.jpg
 ---

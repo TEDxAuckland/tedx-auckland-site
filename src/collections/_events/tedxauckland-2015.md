@@ -1,6 +1,6 @@
 ---
-title: 2015 event
-short_title: '2015'
+title: May 2015
+short_title: May '15
 upcoming: false
 ticket_sales:
   link:
@@ -16,7 +16,7 @@ image: /uploads/2015banner2.png
 tagline:
 start_date: 2015-05-02 00:00:00 +1200
 end_date: 2015-05-02 00:00:00 +1200
-address: 'Victory Convention Centre, 98 Beaumont Street, Auckland Central, Auckland 1010'
+address: Victory Convention Centre, 98 Beaumont Street, Auckland Central, Auckland 1010
 people:
   - siouxsie-wiles
   - grant-schofield
@@ -40,7 +40,7 @@ flikr_galleries:
 major_partners:
 supporting_partners:
 event_partners:
-youtube_playlist: 'PLcm2pIIAwlDvRoXJiHdo6KFJXMHPWzzrd'
+youtube_playlist: PLcm2pIIAwlDvRoXJiHdo6KFJXMHPWzzrd
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2015/
@@ -51,6 +51,6 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
-  image: /uploads/default-speaker-photo.jpg
+  description: Victory Convention Centre
+  image: /uploads/tom-powell-crop-15-100-9636.jpg
 ---

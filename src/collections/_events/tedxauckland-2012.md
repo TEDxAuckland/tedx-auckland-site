@@ -1,6 +1,6 @@
 ---
-title: 2012 event
-short_title: '2012'
+title: 'Oct 2012: Ideas To Action'
+short_title: '2012: Ideas To Action'
 upcoming: false
 ticket_sales:
   link:
@@ -16,7 +16,7 @@ image:
 tagline:
 start_date: 2012-10-06 00:00:00 +1300
 end_date: 2012-10-06 00:00:00 +1300
-address: 'Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010'
+address: Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010
 people:
   - michelle-dickinson
   - andrew-patterson
@@ -41,7 +41,7 @@ flikr_galleries:
 major_partners:
 supporting_partners:
 event_partners:
-youtube_playlist: 'PLcm2pIIAwlDtgZg-UX4afZg-Y5z_9Yk3h'
+youtube_playlist: PLcm2pIIAwlDtgZg-UX4afZg-Y5z_9Yk3h
 other_youtube_playlist_title:
 other_youtube_playlist:
 permalink: /events/2012/
@@ -52,6 +52,7 @@ seo:
     -
 event_listing:
   is_highlighted: false
-  description:
-  image: /uploads/default-speaker-photo.jpg
+  subtitle:
+  description: Aotea Centre
+  image: /uploads/georgia-s-12-crop-100.jpg
 ---

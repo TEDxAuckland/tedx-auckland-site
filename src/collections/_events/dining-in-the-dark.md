@@ -1,6 +1,6 @@
 ---
-title: IN THE DARK
-short_title: AUG 2019 IN THE DARK
+title: Aug 2019
+short_title: Aug '19 | In The Dark
 layout: event-dark
 upcoming: false
 ticket_sales:
@@ -44,11 +44,11 @@ seo:
   links:
     -
 event_listing:
-  is_highlighted: false
+  is_highlighted: true
+  subtitle: Dans le Noir ? Rydges Auckland
   description:
   image: /uploads/default-speaker-photo.jpg
 ---
-
 # Introducing A World First
 
 On August 31st, TEDxAuckland is hosting a Salon event which will be the first TEDx event in the world to be held in **complete darkness**.

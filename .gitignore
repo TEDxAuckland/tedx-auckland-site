@@ -7,4 +7,5 @@ node_modules
 vendor
 .jekyll-cache
 .envrc
+**/*Zone.Identifier
 

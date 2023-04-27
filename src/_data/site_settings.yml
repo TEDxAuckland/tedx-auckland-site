@@ -1,11 +1,12 @@
 upcoming_event_bar:
   active: false
-  event_short_title: JUN 2022
+  event_short_title: Dec '22 | Down To Earth
   left: UPCOMING
-  right: 'TEDxAuckland together, June 8th 2022 #bethere'
+  right: 'TEDxAuckland: Down to Earth, Sat Dec 3rd 2022 #bethere'
 buy_ticket_button:
   active: false
-  url: https://tedxauckland.com/community/events#/june-2022/tickets/purchase
+  url: >-
+    https://tedxauckland.com/community/events#/down-to-earth-2022/tickets/purchase
 navigation:
   - title: Talks/
     sub_title: Ideas
