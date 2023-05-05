@@ -1,0 +1,83 @@
+---
+layout: default
+title: Links
+links:
+  - title: How to grow 10,000 kg of food on a ¼ acre
+    subtitle: Niva & Yotam Kay
+    url: https://tedxauckland.com/talks/how-to-grow-10000-kg-of-food-on-a-acre/
+    image: /uploads/51328527087-d8b8295102-5k.jpg
+  - title: Alex MacDonald
+    subtitle: The Narrative Origins of Spaceflight
+    url: https://tedxauckland.com/talks/the-narrative-origins-of-spaceflight/
+    image: /uploads/42964157562-fea0eef1e2-o.jpg
+  - title: A conversation with Hēmi Kelly
+    subtitle: Blog Interview
+    url: >-
+      https://tedxauckland.com/a-conversation-with-h%C4%93mi-kelly-growing-a-platform-teaching-and-language-revitalisation/
+    image: /uploads/hemi-k-3x2.jpeg
+  - title: TEDxAuckland - Down To Earth
+    subtitle:
+      - EVENT TICKETS & INFO
+    url: >-
+      https://tedxauckland.com/community/events#/down-to-earth-2022/tickets/purchase
+    image: /uploads/juan-square-1-x2160.png
+  - title: Pollinating pathways to a better future
+    subtitle: Andrea Reid
+    url: https://tedxauckland.com/talks/pollinating-pathways-to-a-better-future
+    image: /uploads/andrea-reid-quote-1.jpg
+  - title: What if the way we value businesses is wrong?
+    subtitle: Paul Adams
+    url: >-
+      https://tedxauckland.com/talks/what-if-the-way-we-value-businesses-is-wrong/
+    image: /uploads/pauls-quote.png
+  - title: Reimagining paradise with regenerative agriculture
+    subtitle: Greg Hart
+    url: >-
+      https://tedxauckland.com/talks/reimagining-paradise-with-regenerative-agriculture/
+    image: /uploads/greg-hart-fw-x3200.jpg
+  - title: Planetary Accounting - Carbon emissions and beyond
+    subtitle: Kate Meyer
+    url: >-
+      https://tedxauckland.com/talks/planetary-accounting-carbon-emissions-and-beyond/
+    image: /uploads/quote-1-kate-m.jpg
+  - title: A conversation with Vincent Vuillard
+    subtitle: TEDxAkl Alumni Interview
+    url: >-
+      https://tedxauckland.com/if-you-build-it-they-will-come-a-conversation-with-vincent-vuillard-about-the-modern-workplace/
+    image: /uploads/vincent-pic-2400-9819.jpg
+---
+<section id="links-header" class="section">
+  <div class="container">
+    <h3 class="section-heading">TEDxAuckland Links</h3>
+    <div class="links-container">
+      <h4 class="has-red-stripe">#TEDxAkl 2023 #bethere</h4>
+    </div>
+  </div>
+</section>
+
+<section id="links-section">
+  <div class="container links-list">
+    {% for link in page.links limit: 18 %}
+    <div class="link-card">
+      <div class="link-block anim--lift-up">
+        <div class="link-img">
+          {% if link.image %}
+          <a href="{{ link.url }}">
+            <img class="link-img" src="{{ link.image }}" alt="default-talk-photo" />
+          </a>
+          {% else %}
+          <a href="{{ link.url }}">
+            <img class="link-img" src="/assets/images/default-talk-photo.jpg" alt="default-talk-photo" />
+          </a>
+          {% endif %}
+        </div>
+        <div class="link-button">
+          <a class="link-font-1" href="{{ link.url }}">{{ link.subtitle }}</a>
+          <a class="link-font-2" href="{{ link.url }}"> | {{ link.title }}</a>
+        </div>
+        
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

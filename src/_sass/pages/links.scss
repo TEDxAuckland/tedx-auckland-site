@@ -1,0 +1,91 @@
+#links-header {
+	min-height: 20rem;
+	padding-bottom: 0.5rem;
+}
+
+#links-section {
+	padding-top: 0.5rem;
+}
+
+.links-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: stretch;
+}
+
+.link-card {
+	position: relative;
+	background-color: $brand-white;
+	width: calc(30%);
+	margin: 1rem 1rem;
+
+	@include respond(tab-port) {
+		width: calc(46%);
+		margin: 1rem 1rem;
+	  }
+	
+	@include respond(tab-small) {
+		width: calc(100%);
+		margin: 1rem 1rem;
+	  }
+}
+
+
+.link-block {
+	display: flex;
+	flex-direction: row;
+	padding: 1rem;
+	background: $brand-color;
+	border: 0.02rem solid $brand-color;
+	border-radius: 2rem;
+	align-items: center;
+	min-width: 0;
+	min-height: 15rem;
+	gap: 1.2rem;
+
+	@include respond(tab-small) {
+		min-height: 3rem;
+	  }
+}
+
+.link-img {
+	width: 7rem;
+	height: 7rem;
+	float: left;
+	margin-left: 0.25rem;
+	object-fit: cover;
+	cursor: pointer;
+}
+
+.link-button {
+	font-size: 1.5rem;
+	color: $brand-white;
+	cursor: pointer;
+	text-align: center;
+	flex-grow: 2;
+
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+	@include respond(tab-small) {
+		font-size: 1.7rem;
+	  }
+
+	@include respond(tab-land) {
+		font-size: 1.7rem;
+	  }
+}
+
+.link-font-1 {
+	font-weight: 600;
+	color: $brand-white;
+}
+
+.link-font-2 {
+	font-weight: 400;
+	color: $brand-white;
+}
