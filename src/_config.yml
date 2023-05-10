@@ -111,3 +111,7 @@ _comments:
   people: To add more options add people in explore.
   flikr_gallery: The url to the flikr gallery. Leave blank if N/A.
   youtube_playlist: The url to the youtube playlist. Leave blank if N/A.
+
+sass:
+  sass_dir: _sass
+  style: compressed
