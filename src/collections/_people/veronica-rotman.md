@@ -16,6 +16,6 @@ facebook_url:
 youtube_video_id:
 github_username:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/veronica-rotman-3a2040165/
+linkedin_url: 'https://www.linkedin.com/in/veronica-rotman-3a2040165/'
 ---
 Enter your description here...
