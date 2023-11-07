@@ -1,4 +1,5 @@
 ---
+_schema: default
 name: Veronica Rotman
 email:
 image: /uploads/veronica-r-x2400.jpg
