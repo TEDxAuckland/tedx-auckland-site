@@ -150,40 +150,42 @@
     justify-content: center;  
   }
   &__header {
-    gap: remify(28px);
+    gap: remify(28);
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin: remify(70px) auto;
+    margin: remify(210) auto;
     width: 1200px;
   }
   &__header-container {
     box-shadow: inset 0 1000px 8px 0 #00000033;
     display: flex;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
   }
   &__header-text {
-    gap: remify(7px);
+    gap: remify(7);
     display: flex;
     flex-direction: column;
   }
   &__header-title {
     color: white;
-    font-size: remify(24.72px);
+    font-size: remify(24.72);
     font-weight: 700;
   }
   &__header-lead {
     color: white;
-    font-size: remify(21.19px);
+    font-size: remify(21.19);
   }
   &__header-cta {
     background-color: $brand-color;
     color: white;
-    padding: remify(19px) remify(28px);
+    padding: remify(19) remify(28);
     box-sizing: border-box;
     display: inline-block;
-    font-size: remify(21.19px);
+    font-size: remify(21.19);
     font-weight: 500;
     line-height: 1.2;
   }
