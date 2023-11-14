@@ -1,5 +1,5 @@
 $width: 5.4rem;
-$translate-x-distance: $site-width / 2;
+$translate-x-distance: calc($site-width / 2);
 
 .back-to-top {
 	height: 6rem;

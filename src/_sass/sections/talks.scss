@@ -74,8 +74,8 @@
     background-color: $brand-color;
     position: absolute;
     width: $triangle-width;
-    height: $triangle-width / 2;
-    transform: translateX(-($triangle-width / 2));
+    height: calc($triangle-width / 2);
+    transform: translateX(-(calc($triangle-width / 2)));
     left: 50%;
     bottom: -5.7rem;
     clip-path: polygon(0% 0%, 100% 0%, 50% 100%);

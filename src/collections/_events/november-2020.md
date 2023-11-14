@@ -1,4 +1,5 @@
 ---
+_schema: default
 title: Nov 2020
 short_title: Nov 2020
 layout: event-nov-2020
@@ -21,6 +22,7 @@ tagline:
 start_date: 2020-11-14 00:00:00 +1300
 end_date: 2020-11-14 00:00:00 +1300
 address: 8 Henderson Valley Rd, Henderson, Auckland
+hide_speaker_names: false
 people:
   - peter-gluckman
   - belinda-mckenzie
@@ -37,7 +39,6 @@ event_partners:
   - whoa-studios
   - halcyon-digital
   - sound_techniques
-  - brothers-beer
   - babich
   - good-herb-soda
   - qt-auckland
@@ -75,6 +76,7 @@ seo:
 event_listing:
   is_highlighted: false
   description: MMXX | Whoa! Studios & The Grounds
+  subtitle: Theme or subtitle
   image: /uploads/tara-r-crop-20-91-770.jpg
 ---
 # TEDxAuckland November 2020

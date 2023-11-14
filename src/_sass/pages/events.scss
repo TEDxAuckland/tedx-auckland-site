@@ -135,8 +135,12 @@
   }
 }
 
+// @function remify($number) {
+//   @return #{$number / 10px}rem;
+// }
+
 @function remify($number) {
-  @return #{$number / 10px}rem;
+  @return calc(#{$number} / 10 * 1rem);
 }
 
 .past-events {
@@ -146,11 +150,11 @@
     justify-content: center;  
   }
   &__header {
-    gap: remify(56px / 2);
+    gap: remify(28px);
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin: remify(140px / 2) auto;
+    margin: remify(70px) auto;
     width: 1200px;
   }
   &__header-container {
@@ -160,26 +164,26 @@
     background-position: center;
   }
   &__header-text {
-    gap: remify(14px / 2);
+    gap: remify(7px);
     display: flex;
     flex-direction: column;
   }
   &__header-title {
     color: white;
-    font-size: remify(49.44px / 2);
+    font-size: remify(24.72px);
     font-weight: 700;
   }
   &__header-lead {
     color: white;
-    font-size: remify(42.38px / 2);
+    font-size: remify(21.19px);
   }
   &__header-cta {
     background-color: $brand-color;
     color: white;
-    padding: remify(38px / 2) remify(56px / 2);
+    padding: remify(19px) remify(28px);
     box-sizing: border-box;
     display: inline-block;
-    font-size: remify(42.38px / 2);
+    font-size: remify(21.19px);
     font-weight: 500;
     line-height: 1.2;
   }
