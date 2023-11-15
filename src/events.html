@@ -31,7 +31,11 @@ events:
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture eventtime %}{{event.start_date | date: '%s'}}{% endcapture %}
 
-<div class="past-events__header-container" style="background-image: url('{{ page.image }}');height: 56rem;" href="{{ event.url }}">
+<a href="{{ event.url }}">
+  <div class="past-events__header-container" style="background-image: url('{{ page.image }}');height: 56rem;"></div>
+</a>
+
+<!--<div class="past-events__header-container" style="background-image: url('{{ page.image }}');height: 56rem;" href="{{ event.url }}">-->
   <!--<div class="past-events__header">-->
   <!--  <div class="past-events__header-text">-->
   <!--    {% if nowtime < eventtime %}-->
@@ -43,7 +47,7 @@ events:
   <!--  </div>-->
   <!--  <a class="past-events__header-cta" href="{{ event.url }}">Learn More</a>-->
   <!--</div>-->
-</div>
+<!--</div>-->
 {% endif %}
 
 <script>
