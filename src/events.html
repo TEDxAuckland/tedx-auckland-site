@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All Events
-image: /uploads/web-page-banner-copy-9.png
+image: /uploads/web-page-banner-3.png
 show_speaker_highlights: false
 speaker_highlight_title: Speaker Highlights
 events:
@@ -31,19 +31,23 @@ events:
 {% capture nowtime %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture eventtime %}{{event.start_date | date: '%s'}}{% endcapture %}
 
-<div class="past-events__header-container" style="background-image: url('{{ page.image }}')">
-  <div class="past-events__header">
-    <div class="past-events__header-text">
-      {% if nowtime < eventtime %}
-      <div class="past-events__header-title">Upcoming event</div>
-      {% else %}
-      <div class="past-events__header-title">Latest event</div>
-      {% endif %}
-      <div class="past-events__header-lead">{{ event.title }}</div>
-    </div>
-    <a class="past-events__header-cta" href="{{ event.url }}">Learn More</a>
-  </div>
-</div>
+<a href="{{ event.url }}">
+  <div class="past-events__header-container" style="background-image: url('{{ page.image }}');height: 56rem;"></div>
+</a>
+
+<!--<div class="past-events__header-container" style="background-image: url('{{ page.image }}');height: 56rem;" href="{{ event.url }}">-->
+  <!--<div class="past-events__header">-->
+  <!--  <div class="past-events__header-text">-->
+  <!--    {% if nowtime < eventtime %}-->
+  <!--    <div class="past-events__header-title">Upcoming event</div>-->
+  <!--    {% else %}-->
+  <!--    <div class="past-events__header-title">Latest event</div>-->
+  <!--    {% endif %}-->
+  <!--    <div class="past-events__header-lead">{{ event.title }}</div>-->
+  <!--  </div>-->
+  <!--  <a class="past-events__header-cta" href="{{ event.url }}">Learn More</a>-->
+  <!--</div>-->
+<!--</div>-->
 {% endif %}
 
 <script>
