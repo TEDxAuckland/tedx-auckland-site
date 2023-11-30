@@ -39,7 +39,7 @@ hero_image: /assets/images/bg-upcoming-events.jpg
 
 		<div class="person__right">
 			<div class="content person-content">
-				{{ page.description_markdown | markdownify }}
+				{{ page.content | markdownify }}
 
 				{% if page.youtube_video_id %}
 					<h3 class="person-content__title">Talk</h3>

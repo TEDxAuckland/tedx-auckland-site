@@ -1,18 +1,15 @@
 ---
 name: Privahini Bradoo
-email:
-image:
-description_markdown: >-
-  Specialties: Water Treatment, Cleantech, Biofuels, Biotechnology, Drug
-  Discovery, Not-for-Profits, Entrepreneurship.
-website_url: 'http://blueoakresources.com/'
-medium_url:
-twitter_url: 'https://twitter.com/privahini'
-facebook_url:
+email: 
+image: 
+website_url: http://blueoakresources.com/
+medium_url: 
+twitter_url: https://twitter.com/privahini
+facebook_url: 
 youtube_video_id: MkngOJvs2AI
-github_username:
-instagram_url:
-linkedin_url: 'https://www.linkedin.com/in/privahini-bradoo-455b491/'
+github_username: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/privahini-bradoo-455b491/
 ---
 
-Enter your description here...
+Specialties: Water Treatment, Cleantech, Biofuels, Biotechnology, Drug Discovery, Not-for-Profits, Entrepreneurship.

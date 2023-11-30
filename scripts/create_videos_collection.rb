@@ -1,9 +1,10 @@
 require 'json'
 require 'fileutils'
 require 'yaml'
+require './markdown_tools'
 
 class CreateVideosCollection
-  NO_OVERWRITE = false
+  OVERWRITE = true
   JSON_FOLDER = '../src/_data/youtube_playlists'
   VIDEOS_FOLDER = "../src/_videos"
   PEOPLE_FOLDER = "../src/_people"
@@ -28,7 +29,7 @@ class CreateVideosCollection
       video_hash = video_schema(video, person)
       person.delete("youtube_video_id")
       content = video["description"]
-      write_md_file("#{VIDEOS_FOLDER}/#{video_filename(video)}", video_hash, content)
+      write_md_file("#{VIDEOS_FOLDER}/#{video_filename(video)}", video_hash, content, OVERWRITE)
     end
   end
 
@@ -68,20 +69,6 @@ class CreateVideosCollection
       .yield_self { |title| title.gsub(" ", "-") }
       .yield_self { |title| title.downcase }
       .yield_self { |title| "#{title}.md" }
-  end
-
-  def write_md_file(path, yaml, content)
-    if File.exist?(path) && NO_OVERWRITE
-      puts "> #{path} already exists, not updating"
-    else
-      puts "> creating #{path}"
-      File.open(path, 'w') do |f|
-        f << yaml.to_yaml
-        f << "---\n\n"
-        f << content
-        f << "\n"
-      end
-    end
   end
 
   def json_path

@@ -1,16 +1,15 @@
 ---
 name: One Beep
-email:
-image:
-description_markdown:
-website_url: 'http://onebeep.org/'
-medium_url:
-twitter_url: 'https://twitter.com/VinnyLohan'
-facebook_url:
+email: 
+image: 
+website_url: http://onebeep.org/
+medium_url: 
+twitter_url: https://twitter.com/VinnyLohan
+facebook_url: 
 youtube_video_id: zYICH2IBB6Y
-github_username:
-instagram_url:
-linkedin_url:
+github_username: 
+instagram_url: 
+linkedin_url: 
 ---
 
-Enter your description here...
+

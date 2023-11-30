@@ -6,7 +6,7 @@
 		"image": "{{ person.image }}",
 		"name": "{{ person.name }}",
 		"youtube_video_id": "{{ person.youtube_video_id }}",
-		"description_markdown": {{ person.description_markdown | jsonify }},
+		"description_markdown": {{ person.content | jsonify }},
 		"website_url": "{{ person.website_url }}",
 		"medium_url": "{{ person.medium_url }}",
 		"twitter_url": "{{ person.twitter_url }}",

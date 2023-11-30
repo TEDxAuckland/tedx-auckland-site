@@ -2,7 +2,6 @@
 name:
 email:
 image:
-description_markdown:
 website_url:
 medium_url:
 twitter_url:
@@ -13,4 +12,4 @@ instagram_url:
 linkedin_url:
 ---
 
-Enter your description here...
+Enter person bio here...
