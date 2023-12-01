@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-{% if page.image %}
-<header class="video-banner-full">
-  <video class="video-banner-full__video" playsinline autoplay muted loop poster="/uploads/twitter-banner-for-website.svg" id="bgvid">
-    <source src="/assets/video/2021-theme-video-banner.webm">
-    <source src="/assets/video/2021-theme-video-banner.mp4">
+{% if page.hero.webp_video %}
+  {% assign image = page.hero.image | remove_first: "/" %}
+  <header class="video-banner-full">
+  <video class="video-banner-full__video" playsinline autoplay muted loop poster="{{ image }}" id="bgvid">
+    <source src="{{ page.hero.webp_video }}">
+    <source src="{{ page.hero.mp4_video }}">
   </video>
 </header>
 {% endif %}

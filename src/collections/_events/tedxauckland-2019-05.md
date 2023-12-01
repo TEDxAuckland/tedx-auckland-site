@@ -13,7 +13,10 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/tedx-whoa-banner-2-3600x.png
+hero:
+  image: /uploads/tedx-whoa-banner-2-3600x.png
+  webp_video:
+  mp4_video:
 tagline:
 start_date: 2019-05-01 00:00:00 +1200
 end_date: 2019-05-01 00:00:00 +1200

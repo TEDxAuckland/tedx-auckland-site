@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% if page.image %}
+{% if page.hero.image %}
 <header class="event-hero">
-  {% assign image = page.image | remove_first: "/" %}
+  {% assign image = page.hero.image | remove_first: "/" %}
   {% responsive_image path: image
                       class: "event-hero__img"
                       widths: "400, 600, 900, 1200, 1800, 2700, 3800"

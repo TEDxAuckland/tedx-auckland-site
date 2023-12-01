@@ -17,7 +17,10 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/page-banner-3-x3200.png
+hero:
+  image: /uploads/page-banner-3-x3200.png
+  webp_video:
+  mp4_video:
 tagline:
 start_date: 2020-11-14 00:00:00 +1300
 end_date: 2020-11-14 00:00:00 +1300

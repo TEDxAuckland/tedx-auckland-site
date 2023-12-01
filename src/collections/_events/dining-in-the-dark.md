@@ -13,7 +13,10 @@ ticket_sales:
   application:
     active: false
     link: https://tedxauckland.com/community/events#/dark-2019/apply
-image: /uploads/dining-in-the-dark.png
+hero:
+  image: /uploads/dining-in-the-dark.png
+  webp_video:
+  mp4_video:
 tagline: hear you there ...
 start_date: 2019-08-31 00:00:00 +1200
 end_date: 2019-08-31 00:00:00 +1200

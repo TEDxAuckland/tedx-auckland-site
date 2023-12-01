@@ -12,7 +12,10 @@ ticket_sales:
   application:
     active: false
     link:
-image:
+hero:
+  image:
+  webp_video:
+  mp4_video:
 tagline:
 start_date: 2012-10-06 00:00:00 +1300
 end_date: 2012-10-06 00:00:00 +1300

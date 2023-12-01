@@ -12,7 +12,10 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/0h2a1392.jpg
+hero:
+  image: /uploads/0h2a1392.jpg
+  webp_video:
+  mp4_video:
 tagline: Ascending
 start_date: 2014-08-16 00:00:00 +1200
 end_date: 2014-08-16 00:00:00 +1200

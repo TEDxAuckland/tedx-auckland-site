@@ -12,7 +12,10 @@ ticket_sales:
   application:
     active: false
     link:
-image:
+hero:
+  image:
+  webp_video:
+  mp4_video:
 tagline: Ideas Worth Doing
 start_date: 2010-09-26 00:00:00 +1200
 end_date: 2010-09-26 00:00:00 +1200

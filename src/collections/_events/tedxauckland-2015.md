@@ -12,7 +12,10 @@ ticket_sales:
   application:
     active: false
     link:
-image: /uploads/2015banner2.png
+hero:
+  image: /uploads/2015banner2.png
+  webp_video:
+  mp4_video:
 tagline:
 start_date: 2015-05-02 00:00:00 +1200
 end_date: 2015-05-02 00:00:00 +1200

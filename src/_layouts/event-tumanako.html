@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.image %}
+{% if page.hero.image %}
 <header class="event-hero event-hero__tumanako container">
   <div class="tumanako__left content">
     <h1>
@@ -12,7 +12,7 @@ layout: default
       TEDxAuckland tūmanako is about ideas of hope, sources of inspiration and actionable ideas to make the world a better place.
     </p>
   </div>
-  <img src="{{ page.image }}" class="event-hero__img tumanako__img" alt="tumanako theme">
+  <img src="{{ page.hero.image }}" class="event-hero__img tumanako__img" alt="tumanako theme">
 </header>
 {% endif %}
 

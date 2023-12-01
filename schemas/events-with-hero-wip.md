@@ -13,6 +13,7 @@ ticket_sales:
   application:
     active: false
     link:
+image:
 hero:
   image:
   webp_video:

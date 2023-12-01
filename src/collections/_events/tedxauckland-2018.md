@@ -13,7 +13,10 @@ ticket_sales:
     active: false
     link:
 layout: event-2018
-image: /uploads/tedx-auckland-2018-banner-3.1.jpg
+hero:
+  image: /uploads/tedx-auckland-2018-banner-3.1.jpg
+  webp_video:
+  mp4_video:
 tagline: Off Piste
 start_date: 2018-10-13 00:00:00 +1300
 end_date: 2018-10-13 00:00:00 +1300

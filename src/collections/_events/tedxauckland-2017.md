@@ -13,7 +13,10 @@ ticket_sales:
     active: false
     link:
 layout: event
-image: /uploads/tedxakl-2017-banner-fw.png
+hero:
+  image: /uploads/tedxakl-2017-banner-fw.png
+  webp_video:
+  mp4_video:
 tagline:
 start_date: 2017-12-01 00:00:00 +1300
 end_date: 2017-12-02 00:00:00 +1300
