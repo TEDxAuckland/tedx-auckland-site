@@ -1,10 +1,10 @@
 upcoming_event_bar:
-  active: true
+  active: false
   event_short_title: TEDxAkl 2023
   left: UPCOMING
   right: TEDxAuckland 2023, Sun 3rd Dec
 buy_ticket_button:
-  active: true
+  active: false
   url: https://tedxauckland.com/community/events#/2023/tickets/purchase
 navigation:
   - title: Talks/
