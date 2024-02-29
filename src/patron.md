@@ -1,4 +1,4 @@
-**TEDxAuckland Patron Programme&nbsp; \|** ***Driving Regular Fundraising and Impact***
+**TEDxAuckland Patron Programme&nbsp; \|** ***Driving Regular Impact***
 
 **WHY A PATRON PROGRAMME?**
 
@@ -14,7 +14,7 @@
   * Digital badges for their websites and social media profiles, highlighting their patronage.<br>​​​​​
 * **Exclusive Access**
   * Discount codes for event tickets, providing patrons with special access to our thought-provoking events.
-  * Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.<br>
+  * Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.
 * **Networking Opportunities**
   * Invitations to exclusive patron-only events, facilitating connections with like-minded individuals and speakers.
   * Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.
