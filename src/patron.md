@@ -9,22 +9,16 @@
 
 **BENEFITS FOR PATRONS**
 
-**Recognition & Visibility**
-
-* Inclusion in the TEDxAuckland Patron Club on our website, showcasing their commitment to ideas and innovation.
-* Digital badges for their websites and social media profiles, highlighting their patronage.<br>​​​​
-
-**Exclusive Access**
-
-*
-* Discount codes for event tickets, providing patrons with special access to our thought-provoking events.
-* Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.
-
-**Networking Opportunities**
-
-* Invitations to exclusive patron-only events, facilitating connections with like-minded individuals and speakers.
-* Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.
-* Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.
+* **Recognition & Visibility**
+  * Inclusion in the TEDxAuckland Patron Club on our website, showcasing their commitment to ideas and innovation.
+  * Digital badges for their websites and social media profiles, highlighting their patronage.<br>​​​​​
+* **Exclusive Access**
+  * Discount codes for event tickets, providing patrons with special access to our thought-provoking events.
+  * Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.
+* **Networking Opportunities**
+  * Invitations to exclusive patron-only events, facilitating connections with like-minded individuals and speakers.
+  * Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.
+  * Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.
 
 **Brand Exposure**
 
@@ -33,7 +27,3 @@
 
 * **Corporate Partners**: Companies aligned with TEDxAuckland's values of innovation, diversity, social impact and new ideas.
 * **Individuals & Family Trusts**: Passionate individuals and families seeking to support local ideas and initiatives.
-
-**Join us and BECOME A PATRON! $5,000**
-
-Email thomas@tedxauckland.com&nbsp;
