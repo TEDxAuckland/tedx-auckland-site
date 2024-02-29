@@ -19,7 +19,7 @@ TEDxAuckland Patron Programme
 **BENEFITS FOR PATRONS**
 
 * **Recognition & Visibility**:
-  * Inclusion in the TEDxAuckland Patron Hall of Fame on our website, showcasing their commitment to ideas and innovation.
+  * Inclusion in the TEDxAuckland Patron Club on our website, showcasing their commitment to ideas and innovation.
   * Digital badges for their websites and social media profiles, highlighting their patronage.
 * **Exclusive Access**:
   * Discount codes for event tickets, providing patrons with special access to our thought-provoking events.
@@ -36,8 +36,7 @@ TEDxAuckland Patron Programme
 
 **TARGET AUDIENCE**
 
-* **Corporate Partners**: Companies aligned with TEDxAuckland's values of innovation, diversity, and social impact.
-  * Example companies in: Xero, Air New Zealand, Fisher & Paykel Healthcare, PWC, MC, Beca etc.
+* **Corporate Partners**: Companies aligned with TEDxAuckland's values of innovation, diversity, social impact and new ideas.
 * **Individuals & Family Trusts**: Passionate individuals and families seeking to support local ideas and initiatives.
 
 **PATRON OUTREACH STRATEGY**
