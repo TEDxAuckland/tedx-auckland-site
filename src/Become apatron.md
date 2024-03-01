@@ -13,7 +13,6 @@ permalink: /Become a Patron/
 
 Join the conversation and community of creating a safe space to share great ideas that solve the problems we face.
 
-
 **BENEFITS FOR PATRONS**
 
 **Recognition & Visibility**
@@ -35,7 +34,6 @@ Join the conversation and community of creating a safe space to share great idea
 
 * **Corporate Partners**: Companies aligned with TEDxAuckland's values of innovation, diversity, social impact and new ideas.
 * **Individuals & Family Trusts**: Passionate individuals and families seeking to support local ideas and initiatives.
-
 
 **Join us and BECOME A PATRON! $5,000**
 
