@@ -1,3 +1,7 @@
+---
+layout: default
+title: Patron
+---
 **TEDxAuckland Patron Programme&nbsp; \|** ***Driving Regular Impact***
 
 **WHY A PATRON PROGRAMME?**
