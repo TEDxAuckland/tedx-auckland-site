@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Become a Patron
+permalink: /patron/
 ---
 **TEDxAuckland Patron Programme&nbsp; \|** ***Driving Regular Impact***
 
