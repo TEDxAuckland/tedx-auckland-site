@@ -6,6 +6,7 @@ permalink: /Become a Patron/
 **TEDxAuckland Patron Programme&nbsp; \|** ***Driving Regular Impact***
 
 **WHY A PATRON PROGRAMME?**
+
 * **Sustainable Funding**: Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.
 * **Community Engagement**: Foster deeper connections with our audience by involving them in our mission.
 * **Amplified Impact**: Empower speakers and ideas to reach a wider audience and drive positive change.
