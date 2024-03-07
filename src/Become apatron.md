@@ -11,7 +11,7 @@ seo:
   links:
 ---
 <style>
-  .header-section {
+  .header-section, .carousel {
     max-width: 1200px;
     width: 100%;
     background-color: #d9d9d9;
@@ -165,7 +165,11 @@ seo:
   </div>
 </section>
 
-{% include carousel.html %}
+<section class="section">
+  <div class="container carousel">
+    {% include carousel.html %}
+  </div>
+</section>
 
 <section class="section">
   <div class="container">
