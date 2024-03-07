@@ -4,7 +4,7 @@ _schema: default
 title: Become a Patron
 short_title: Patron
 permalink: /Become a Patron/
-carousel_images:
+carousel_images: 0h2a1392-900.jpg
 seo:
   name: TEDxAuckland
   type: Patron
@@ -30,7 +30,7 @@ seo:
   }
   .left-column img {
     max-width: 400px; /* or your preferred size */
-    width 100%;
+    width: 100%;
     height: auto;
   }
   .left-column p {
@@ -57,7 +57,7 @@ seo:
     height: auto;
     position: relative;
     z-index: 2;
-    box-shadow: 7px 7px 0 0 #be0000
+    box-shadow: 7px 7px 0 0 #be0000;
   }
   .patron-subheader {
     font-style: italic;
@@ -75,29 +75,29 @@ seo:
   .snip {
     width: 25%;
   }
-  
-  h3 {
+
+  .section h3 {
     margin: 30px 0 10px;
     text-transform: capitalize;
     font-size: 20px;
     font-weight: 400;
   }
-  
-  h4 {
+
+  .section h4 {
     margin: 2rem 0 0rem;
     padding-bottom: 0.3rem;
     font-size: 15px;
     font-weight: 600;
   }
-  
+
   li {
     margin-left: 26px;
   }
-  
+
   ul {
     padding-top: 10px;
   }
-  
+
   section {
     min-height: 0;
   }
@@ -117,7 +117,7 @@ seo:
 
 <section class="section">
   <div class="container">
-    <h3>WHY A PATRON PROGRAMME?</h3>
+    <h3>Why a patron programme?</h3>
     <div class="columns">
       <div class="snip">
         <h4> Sustainable Funding </h4>
@@ -138,30 +138,29 @@ seo:
   </div>
 </section>
 
-
 <section class="section">
   <div class="container">
-    <h3>BENEFITS FOR PATRONS</h3>
-    
-    <h4>Recognition & Visibility </h4>
+    <h3>Benefits for patrons</h3>
+
+    <h4>Recognition &amp; Visibility </h4>
     <ul>
       <li>Inclusion in the TEDxAuckland Patron Club on our website, showcasing their commitment to ideas and innovation.</li>
       <li>Digital badges for their websites and social media profiles, highlighting their patronage.</li>
     </ul>
-    
+
     <h4>Exclusive Access </h4>
     <ul>
       <li>Discount codes for event tickets, providing patrons with special access to our thought-provoking events.</li>
       <li>Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.</li>
     </ul>
-    
+
     <h4>Networking Opportunities</h4>
     <ul>
       <li>Invitations to exclusive patron-only events, facilitating connections with like-minded individuals and speakers.</li>
       <li>Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.</li>
-      <li>Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.</li>      
+      <li>Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.</li>
     </ul>
-    
+
     <h4>Brand Exposure</h4>
     <ul>
       <li>Feature on our website's patron page, including your logo and link to website or page.</li>
