@@ -2,12 +2,12 @@
 layout: default
 _schema: default
 title: Become a Patron
-short_title: Dec '22 | Down To Earth
+short_title: Patron
 permalink: /Become a Patron/
 carousel_images:
 seo:
   name: TEDxAuckland
-  type: Event
+  type: Patron
   links:
 ---
 <style>
