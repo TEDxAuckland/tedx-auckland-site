@@ -165,6 +165,14 @@ seo:
   </div>
 </section>
 
+{% include carousel.html %}
+
+<section class="section">
+  <div class="container">
+    <p> Email thomas@tedxauckland.com</p>
+  </div>
+</section>
+
 **TEDxAuckland Patron Programme  \|** ***Driving Regular Impact***
 
 **WHY A PATRON PROGRAMME?**
