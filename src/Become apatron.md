@@ -4,7 +4,8 @@ _schema: default
 title: Become a Patron
 short_title: Patron
 permalink: /Become a Patron/
-carousel_images: 0h2a1392-900.jpg
+carousel_images: 
+  -image: 0h2a1392-900.jpg
 seo:
   name: TEDxAuckland
   type: Patron
