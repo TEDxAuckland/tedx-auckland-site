@@ -75,6 +75,32 @@ seo:
   .snip {
     width: 25%;
   }
+  
+  h3 {
+    margin: 30px 0 10px;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  h4 {
+    margin: 2rem 0 0rem;
+    padding-bottom: 0.3rem;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  
+  li {
+    margin-left: 26px;
+  }
+  
+  ul {
+    padding-top: 10px;
+  }
+  
+  section {
+    min-height: 0;
+  }
 </style>
 
 <section class="header-section container">
