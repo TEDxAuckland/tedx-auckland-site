@@ -76,6 +76,28 @@ permalink: /Become a Patron/
   </div>
 </section>
 
+<section class="section">
+  <div class="container">
+    <h3>WHY A PATRON PROGRAMME?</h3>
+    <div class="columns">
+      <div class="snip">
+        <h4> Sustainable Funding </h4>
+        <div class="snip-content">  Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.
+        </div>
+      </div>
+      <div class="snip">
+        <h4> Community Engagement </h4>
+        <div class="snip-content"> Foster deeper connections with our audience by involving them in our mission.
+        </div>
+      </div>
+      <div class="snip">
+        <h4> Amplified Impact </h4>
+        <div class="snip-content"> Empower speakers and ideas to reach a wider audience and drive positive change.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
 **TEDxAuckland Patron Programme  \|** ***Driving Regular Impact***
 
