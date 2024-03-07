@@ -141,26 +141,22 @@ seo:
 <section class="section">
   <div class="container">
     <h3>Benefits for patrons</h3>
-
     <h4>Recognition &amp; Visibility </h4>
     <ul>
       <li>Inclusion in the TEDxAuckland Patron Club on our website, showcasing their commitment to ideas and innovation.</li>
       <li>Digital badges for their websites and social media profiles, highlighting their patronage.</li>
     </ul>
-
     <h4>Exclusive Access </h4>
     <ul>
       <li>Discount codes for event tickets, providing patrons with special access to our thought-provoking events.</li>
       <li>Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.</li>
     </ul>
-
     <h4>Networking Opportunities</h4>
     <ul>
       <li>Invitations to exclusive patron-only events, facilitating connections with like-minded individuals and speakers.</li>
       <li>Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.</li>
       <li>Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.</li>
     </ul>
-
     <h4>Brand Exposure</h4>
     <ul>
       <li>Feature on our website's patron page, including your logo and link to website or page.</li>
