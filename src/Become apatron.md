@@ -3,8 +3,6 @@ layout: default
 title: Become a Patron
 permalink: /Become a Patron/
 ---
-
-
 <style>
   .header-section {
     max-width: 1200px;
@@ -60,26 +58,23 @@ permalink: /Become a Patron/
     font-weight: 300;
     margin-top: 0px;
     margin-bottom: 10px;
-    
-    
+
+
   }
 
 </style>
 
-
-<section class="header-section">
+<section class="header-section container">
   <div class="left-column">
-    <img src="https://tedxauckland.com/assets/images/tedx-auckland-logo-black.svg?_cchid=dbdda665d8799d2ad3bb47d127b94945" alt="Logo">
+    <img src="https://tedxauckland.com/assets/images/tedx-auckland-logo-black.svg" alt="Logo" />
     <h2 class="patron-subheader">Kaitiaki Programme</h2>
     <p>Join the conversation and community of creating a safe space to share great ideas that solve the problems we face.</p>
     <button>Find Out More</button>
   </div>
   <div class="right-column">
-    <img src="https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4" alt="Main Image">
+    <img src="https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4" alt="Main Image" />
   </div>
 </section>
-
-
 
 
 **TEDxAuckland Patron Programme  \|** ***Driving Regular Impact***
