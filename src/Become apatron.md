@@ -4,7 +4,7 @@ _schema: default
 title: Become a Patron
 short_title: Patron
 permalink: /Become a Patron/
-images:
+carousel_images:
   - image: /uploads/0h2a1392-1.jpg
   - image: /uploads/1-THEME DESC - COVER150.png
   - image: /uploads/1.png
