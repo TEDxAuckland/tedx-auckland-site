@@ -6,15 +6,9 @@ short_title: Patron
 permalink: /Become a Patron/
 carousel_images:
   - image: /uploads/1.png
-    alt:
   - image: /uploads/2.png
-    alt:
   - image: /uploads/3.png
-    alt:
   - image: /uploads/4.png
-    alt:
-  - image: /uploads/5.png
-    alt:
 seo:
   name: TEDxAuckland
   type: Patron
