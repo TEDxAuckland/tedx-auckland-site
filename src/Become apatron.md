@@ -175,6 +175,17 @@ seo:
   </div>
 </section>
 
+
+
+{% if page.carousel_images.first.image %}
+<section id="themeShowcase" class="section">
+  <div class="container">
+    <h3 class="section-heading section-heading--speakers">theme</h3>
+    {% include carousel.html images = page.carousel_images bg_white = true %}
+  </div>
+</section>
+{% endif %}
+
 <section class="section">
   <div class="container">
     <strong>Join our Kaitiaki Programme </strong>
