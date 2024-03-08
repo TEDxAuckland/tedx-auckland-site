@@ -1,6 +1,5 @@
 ---
 layout: default
-_schema: default
 title: Become a Patron
 short_title: Patron
 permalink: /Become a Patron/
@@ -174,35 +173,6 @@ seo:
     {% include carousel.html images = page.carousel_images %}
   </div>
 </section>
-
-{% raw %}
-<div id="carousel">
-    <Carousel :images="page.carousel_images">
-</div>
-{% endraw %}
-
-<script>
-var images = {{ include.images | jsonify }}
-var bgWhite = false
-{% if include.bg_white %}
-var bgWhite = {{ include.bg_white }}
-{% endif %}
-new Vue({
-	data: {
-		images: images,
-	}
-}).$mount('#carousel')
-</script>
-
-
-{% if page.carousel_images.first.image %}
-<section id="themeShowcase" class="section">
-  <div class="container">
-    <h3 class="section-heading section-heading--speakers">theme</h3>
-    {% include carousel.html images = page.carousel_images bg_white = true %}
-  </div>
-</section>
-{% endif %}
 
 <section class="section">
   <div class="container">
