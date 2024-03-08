@@ -14,7 +14,7 @@ images:
   - image: /uploads/4.png
     alt:
   - image: /uploads/5.png
-    alt:  
+    alt:
 seo:
   name: TEDxAuckland
   type: Patron
@@ -177,7 +177,7 @@ seo:
 
 <section class="section">
   <div class="container carousel">
-    {% include carousel.html %}
+    {% include carousel.html images = page.images %}
   </div>
 </section>
 
