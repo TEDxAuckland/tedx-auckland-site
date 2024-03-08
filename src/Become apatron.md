@@ -175,6 +175,24 @@ seo:
   </div>
 </section>
 
+{% raw %}
+<div id="carousel">
+    <Carousel :images="page.carousel_images">
+</div>
+{% endraw %}
+
+<script>
+var images = {{ include.images | jsonify }}
+var bgWhite = false
+{% if include.bg_white %}
+var bgWhite = {{ include.bg_white }}
+{% endif %}
+new Vue({
+	data: {
+		images: images,
+	}
+}).$mount('#carousel')
+</script>
 
 
 {% if page.carousel_images.first.image %}
