@@ -4,7 +4,7 @@ _schema: default
 title: Become a Patron
 short_title: Patron
 permalink: /Become a Patron/
-images:
+carousel_images:
   - image: /uploads/1.png
     alt:
   - image: /uploads/2.png
@@ -177,7 +177,7 @@ seo:
 
 <section class="section">
   <div class="container carousel">
-    {% include carousel.html images = page.images %}
+    {% include carousel.html images = page.carousel_images %}
   </div>
 </section>
 
@@ -188,7 +188,7 @@ seo:
   </div>
 </section>
 
-**TEDxAuckland Patron Programme  \|** ***Driving Regular Impact***
+**TEDxAuckland Patron Programme \|** ***Driving Regular Impact***
 
 **WHY A PATRON PROGRAMME?**
 
