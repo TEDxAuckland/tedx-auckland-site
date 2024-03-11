@@ -109,6 +109,15 @@ seo:
     padding: 0;
     flex: 1 1 auto;
   }
+  
+  .content ul {
+    list-style: disc;
+  }
+  
+  .content img {
+    max-width: 100%;
+    margin: 0;
+  }
 </style>
 
 <section class="header-section container">
