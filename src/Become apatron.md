@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: event
 title: Become a Patron
 short_title: Patron
 permalink: /Become a Patron/
