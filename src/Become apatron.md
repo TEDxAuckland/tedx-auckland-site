@@ -104,6 +104,9 @@ seo:
   section {
     min-height: 0;
   }
+  .event-info__content {
+    padding: 0;
+  }
 </style>
 
 <section class="header-section container">
