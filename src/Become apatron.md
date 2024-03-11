@@ -118,6 +118,11 @@ seo:
     max-width: 100%;
     margin: 0;
   }
+  
+  .section-heading--speakers {
+    display: none;
+  }
+  
 </style>
 
 <section class="header-section container">
