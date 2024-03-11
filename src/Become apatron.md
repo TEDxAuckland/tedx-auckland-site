@@ -106,6 +106,7 @@ seo:
   }
   .event-info__content {
     padding: 0;
+    flex: 1 1 auto;
   }
 </style>
 
