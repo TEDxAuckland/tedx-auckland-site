@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Become a Patron
-short_title: Patron
-permalink: /Become a Patron/
+short_title: Become-a-Patron
+permalink: /Become-a-Patron/
 carousel_images:
   - image: /uploads/georgia-s-77.jpg
   - image: /uploads/2017-42111492075-70aedb245e-o.jpg
