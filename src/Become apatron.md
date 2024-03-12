@@ -137,6 +137,8 @@ seo:
   </div>
 </section>
 
+<strong> A Kaitiaki is a guardian, trustee or patron of an area or resource. Being a Kaitiaki of TEDxAuckland would mean you would be supporting the programme and mission. </strong>
+
 <section class="section">
   <div class="container">
     <h3>Why a patron programme?</h3>
@@ -159,8 +161,6 @@ seo:
     </div>
   </div>
 </section>
-
-<strong> A Kaitiaki is a guardian, trustee or patron of an area or resource. Being a Kaitiaki of TEDxAuckland would mean you would be supporting the programme and mission. </strong>
 
 <section class="section">
   <div class="container">
