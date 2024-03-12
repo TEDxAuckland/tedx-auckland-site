@@ -9,6 +9,8 @@ carousel_images:
   - image: /uploads/2017-42111732935-743a8fb06e-o.jpg
   - image: /uploads/whoa-2019-48165344212-812ec6f14e-o.jpg
   - image: /uploads/tr-770.jpg
+hero:
+  image: /uploads/web-page-banner-3.png
 seo:
   name: TEDxAuckland
   type: Patron
