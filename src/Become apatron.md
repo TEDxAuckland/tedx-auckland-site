@@ -202,8 +202,7 @@ seo:
 
 <section class="section">
   <div class="container">
-    <strong>Join our Kaitiaki Programme </strong>
-    <p> Email kaitiaki@tedxauckland.com</p>
+    <strong>Join our Kaitiaki Programme </strong> <p> Email kaitiaki@tedxauckland.com</p>
   </div>
 </section>
 
