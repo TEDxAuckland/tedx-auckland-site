@@ -136,9 +136,8 @@ seo:
 
   <!--<div class="container">-->
     <h3>Why a patron programme?</h3>
-    
     <div class="columns">
-     <div>
+    
       <!--<div class="snip">
         <b> Sustainable Funding </b>
         <div class="snip-content">  Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events. </div>
@@ -168,7 +167,6 @@ seo:
         Empower speakers and ideas to reach a wider audience and drive positive change.
       </div>
       
-    </div>
     </div>
   <!--</div>-->
     
