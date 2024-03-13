@@ -127,18 +127,17 @@ seo:
 
 </style>
 
+<!--<section class="header-section container">--> <!--  <div class="left-column">-->
 
-
-<!--<section class="header-section container">-->
-
-<!--  <div class="left-column">--> <!--    <img src="https://tedxauckland.com/assets/images/tedx-auckland-logo-black.svg" alt="Logo" />--> <!--    <h2 class="patron-subheader">Kaitiaki Programme</h2>--> <!--    <p>Join the conversation and community of creating a safe space to share great ideas that solve the problems we face.</p>--> <!--    <button>Find Out More</button>--> <!--  </div>--> <!--  <div class="right-column">--> <!--    <img src="https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4" alt="Main Image" />--> <!--  </div>--> <!--</section>-->
+<!--    <img src="https://tedxauckland.com/assets/images/tedx-auckland-logo-black.svg" alt="Logo" />--> <!--    <h2 class="patron-subheader">Kaitiaki Programme</h2>--> <!--    <p>Join the conversation and community of creating a safe space to share great ideas that solve the problems we face.</p>--> <!--    <button>Find Out More</button>--> <!--  </div>--> <!--  <div class="right-column">--> <!--    <img src="https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4" alt="Main Image" />--> <!--  </div>--> <!--</section>-->
 
 <section class="section">
     <b>A Kaitiaki is a guardian, trustee or patron of an area or resource. Being a Kaitiaki of TEDxAuckland would mean you would be supporting the programme and mission.</b>
 
-  <div class="container">
+  <!--<div class="container">-->
     <h3>Why a patron programme?</h3>
     <div class="columns">
+    
       <div class="snip">
         <b> Sustainable Funding </b>
         <div class="snip-content">  Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events. </div>
@@ -155,29 +154,32 @@ seo:
       </div>
       
     </div>
-    
-  </div>
+  <!--</div>-->
 
   <!--<div class="container">-->
     <h3>Benefits for patrons</h3>
-    <h4>Recognition &amp; Visibility </h4>
+    
+    <b>Recognition &amp; Visibility </b>
     <ul>
       <li>Inclusion in the TEDxAuckland Kaitiaki Programme on our website, showcasing their commitment to ideas and innovation.</li>
       <li>Digital badges for their websites and social media profiles, highlighting their patronage.</li>
     </ul>
-    <h4>Exclusive Access </h4>
+    
+    <b>Exclusive Access </b>
     <ul>
       <li>Discount codes for event tickets, providing patrons with special access to our thought-provoking events.</li>
       <li>Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.</li>
     </ul>
-    <h4>Networking Opportunities</h4>
+    
+    <b>Networking Opportunities</b>
     <ul>
       <li>Invitations to exclusive kaitiaki-only events, facilitating connections with like-minded individuals and speakers.</li>
       <li>Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.</li>
       <li>Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.</li>
       <li>Invitation to the special TEDxAuckland Dinner Series</li>
     </ul>
-    <h4>Brand Exposure</h4>
+    
+    <b>Brand Exposure</b>
     <ul>
       <li>Feature on our website's Kaitiaki page, including your logo and link to website or page.</li>
       <li>Opportunity to showcase your commitment to social impact and innovation to our diverse audience.</li>
@@ -185,17 +187,29 @@ seo:
     
     <p> <b>Join our Kaitiaki Programme</b>,  EMAIL kaitiaki @tedxauckland .com </p>
     
-    
   <!--</div>-->
 </section>
 
 
 
-<!--{% if page.carousel_images.first.image %}--> <!--<section id="themeShowcase" class="section">--> <!--  <div class="container">--> <!--    <h3 class="section-heading section-heading--speakers">theme</h3>-->
+<!--{% if page.carousel_images.first.image %}-->
 
-<!--    {% include carousel.html images = page.carousel_images bg_white = true %}--> <!--  </div>--> <!--</section>--> <!--{% endif %}--> <!--<section class="section">--> <!--  <div class="container carousel">--> <!--    {% include carousel.html images = page.carousel_images %}--> <!--  </div>--> <!--</section>-->
+<!--<section id="themeShowcase" class="section">--> <!--  <div class="container">--> <!--    <h3 class="section-heading section-heading--speakers">theme</h3>-->
 
 
-<!--**TEDxAuckland Patron Programme \|** ***Driving Regular Impact***--> <!--**WHY A PATRON PROGRAMME?**--> <!--* **Sustainable Funding**: Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.--> <!--* **Community Engagement**: Foster deeper connections with our audience by involving them in our mission.-->
 
-<!--* **Amplified Impact**: Empower speakers and ideas to reach a wider audience and drive positive change.--> <!--Join the conversation and community of creating a safe space to share great ideas that solve the problems we face.--> <!--**BENEFITS FOR PATRONS**--> <!--**Recognition & Visibility**--> <!--* Inclusion in the TEDxAuckland Patron Club on our website, showcasing their commitment to ideas and innovation.--> <!--* Digital badges for their websites and social media profiles, highlighting their patronage.--> <!--**Exclusive Access**--> <!--* Discount codes for event tickets, providing patrons with special access to our thought-provoking events.--> <!--* Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.--> <!--**Networking Opportunities**--> <!--* Invitations to exclusive patron-only events, facilitating connections with like-minded individuals and speakers.--> <!--* Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.--> <!--* Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.--> <!--**Brand Exposure**--> <!--* Feature on our website's patron page, including your logo and link to website or page.--> <!--* Opportunity to showcase your commitment to social impact and innovation to our diverse audience.--> <!--**Join us and BECOME A PATRON! $5,000**--> <!--Email thomas@tedxauckland.com-->
+<!--    {% include carousel.html images = page.carousel_images bg_white = true %}-->
+
+<!--  </div>--> <!--</section>--> <!--{% endif %}--> <!--<section class="section">--> <!--  <div class="container carousel">--> <!--    {% include carousel.html images = page.carousel_images %}--> <!--  </div>--> <!--</section>-->
+
+
+
+<!--**TEDxAuckland Patron Programme \|** ***Driving Regular Impact***-->
+
+<!--**WHY A PATRON PROGRAMME?**--> <!--* **Sustainable Funding**: Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.--> <!--* **Community Engagement**: Foster deeper connections with our audience by involving them in our mission.-->
+
+
+
+<!--* **Amplified Impact**: Empower speakers and ideas to reach a wider audience and drive positive change.-->
+
+<!--Join the conversation and community of creating a safe space to share great ideas that solve the problems we face.--> <!--**BENEFITS FOR PATRONS**--> <!--**Recognition & Visibility**--> <!--* Inclusion in the TEDxAuckland Patron Club on our website, showcasing their commitment to ideas and innovation.--> <!--* Digital badges for their websites and social media profiles, highlighting their patronage.--> <!--**Exclusive Access**--> <!--* Discount codes for event tickets, providing patrons with special access to our thought-provoking events.--> <!--* Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.--> <!--**Networking Opportunities**--> <!--* Invitations to exclusive patron-only events, facilitating connections with like-minded individuals and speakers.--> <!--* Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.--> <!--* Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.--> <!--**Brand Exposure**--> <!--* Feature on our website's patron page, including your logo and link to website or page.--> <!--* Opportunity to showcase your commitment to social impact and innovation to our diverse audience.--> <!--**Join us and BECOME A PATRON! $5,000**--> <!--Email thomas@tedxauckland.com-->
