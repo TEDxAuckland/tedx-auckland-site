@@ -138,33 +138,19 @@ seo:
     <h3>Why a patron programme?</h3>
     <div class="columns">
     
-      <!--<div class="snip">
-        <b> Sustainable Funding </b>
-        <div class="snip-content">  Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events. </div>
-      </div>-->
-      
-      <div>
-        <b> Sustainable Funding </b> <br />
-        Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.
-      </div>
-      
-      <!-- <div class="snip">
+      <div class="snip">
         <b> Community Engagement </b>
-        <div class="snip-content"> Foster deeper connections with our audience by involving them in our mission. </div>
-      </div> -->
-      
-      <div>
-        <b> Community Engagement </b> <br />
-        Foster deeper connections with our audience by involving them in our mission.
+        <div class="snip-content"> Foster deeper connections with our Community by having more Community events and involving them in our mission. </div>
       </div>
-      
-      <!-- <div class="snip">
+    
+      <div class="snip">
         <b> Amplified Impact </b>
         <div class="snip-content"> Empower speakers and ideas to reach a wider audience and drive positive change. </div>
-      </div> -->
-      <div>
-        <b> Amplified Impact </b> <br />
-        Empower speakers and ideas to reach a wider audience and drive positive change.
+      </div>
+    
+      <div class="snip">
+        <b> Sustainable Funding </b>
+        <div class="snip-content">  Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events. </div>
       </div>
       
     </div>
