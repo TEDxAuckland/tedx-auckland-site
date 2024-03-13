@@ -134,35 +134,29 @@ seo:
 <!--  <div class="left-column">--> <!--    <img src="https://tedxauckland.com/assets/images/tedx-auckland-logo-black.svg" alt="Logo" />--> <!--    <h2 class="patron-subheader">Kaitiaki Programme</h2>--> <!--    <p>Join the conversation and community of creating a safe space to share great ideas that solve the problems we face.</p>--> <!--    <button>Find Out More</button>--> <!--  </div>--> <!--  <div class="right-column">--> <!--    <img src="https://fastly.picsum.photos/id/1/5000/3333.jpg?hmac=Asv2DU3rA_5D1xSe22xZK47WEAN0wjWeFOhzd13ujW4" alt="Main Image" />--> <!--  </div>--> <!--</section>-->
 
 <section class="section">
-  <div class="container">
-    <strong>A Kaitiaki is a guardian, trustee or patron of an area or resource. Being a Kaitiaki of TEDxAuckland would mean you would be supporting the programme and mission. </strong>
-  </div>
-</section>
+    <b>A Kaitiaki is a guardian, trustee or patron of an area or resource. Being a Kaitiaki of TEDxAuckland would mean you would be supporting the programme and mission.</b>
 
-<section class="section">
   <div class="container">
     <h3>Why a patron programme?</h3>
     <div class="columns">
       <div class="snip">
-        <h4> Sustainable Funding </h4>
+        <b> Sustainable Funding </b>
         <div class="snip-content">  Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.
         </div>
       </div>
       <div class="snip">
-        <h4> Community Engagement </h4>
+        <b> Community Engagement </b>
         <div class="snip-content"> Foster deeper connections with our audience by involving them in our mission.
         </div>
       </div>
       <div class="snip">
-        <h4> Amplified Impact </h4>
+        <b> Amplified Impact </b>
         <div class="snip-content"> Empower speakers and ideas to reach a wider audience and drive positive change.
         </div>
       </div>
     </div>
   </div>
-</section>
 
-<section class="section">
   <div class="container">
     <h3>Benefits for patrons</h3>
     <h4>Recognition &amp; Visibility </h4>
@@ -187,9 +181,10 @@ seo:
       <li>Feature on our website's Kaitiaki page, including your logo and link to website or page.</li>
       <li>Opportunity to showcase your commitment to social impact and innovation to our diverse audience.</li>
     </ul>
-
-
-
+    
+    <p> <b>Join our Kaitiaki Programme</b>,  Email kaitiaki@tedxauckland.com </p>
+    
+    
   </div>
 </section>
 
@@ -198,13 +193,6 @@ seo:
 <!--{% if page.carousel_images.first.image %}--> <!--<section id="themeShowcase" class="section">--> <!--  <div class="container">--> <!--    <h3 class="section-heading section-heading--speakers">theme</h3>-->
 
 <!--    {% include carousel.html images = page.carousel_images bg_white = true %}--> <!--  </div>--> <!--</section>--> <!--{% endif %}--> <!--<section class="section">--> <!--  <div class="container carousel">--> <!--    {% include carousel.html images = page.carousel_images %}--> <!--  </div>--> <!--</section>-->
-
-<section class="section">
-  <div class="container">
-    <strong>Join our Kaitiaki Programme </strong> <p> Email kaitiaki@tedxauckland.com</p>
-  </div>
-</section>
-
 
 
 <!--**TEDxAuckland Patron Programme \|** ***Driving Regular Impact***--> <!--**WHY A PATRON PROGRAMME?**--> <!--* **Sustainable Funding**: Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.--> <!--* **Community Engagement**: Foster deeper connections with our audience by involving them in our mission.-->
