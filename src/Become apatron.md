@@ -155,39 +155,39 @@ seo:
       
     </div>
   <!--</div>-->
-
-  <!--<div class="container">-->
+    
+    
     <h3>Benefits for patrons</h3>
+    <div class="container">
+      <b>Recognition &amp; Visibility </b>
+      <ul>
+        <li>Inclusion in the TEDxAuckland Kaitiaki Programme on our website, showcasing their commitment to ideas and innovation.</li>
+        <li>Digital badges for their websites and social media profiles, highlighting their patronage.</li>
+      </ul>
     
-    <b>Recognition &amp; Visibility </b>
-    <ul>
-      <li>Inclusion in the TEDxAuckland Kaitiaki Programme on our website, showcasing their commitment to ideas and innovation.</li>
-      <li>Digital badges for their websites and social media profiles, highlighting their patronage.</li>
-    </ul>
+      <b>Exclusive Access </b>
+      <ul>
+        <li>Discount codes for event tickets, providing patrons with special access to our thought-provoking events.</li>
+        <li>Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.</li>
+      </ul>
     
-    <b>Exclusive Access </b>
-    <ul>
-      <li>Discount codes for event tickets, providing patrons with special access to our thought-provoking events.</li>
-      <li>Complimentary tickets to select TEDxAuckland events, offering unique experiences to our patrons.</li>
-    </ul>
+      <b>Networking Opportunities</b>
+      <ul>
+        <li>Invitations to exclusive kaitiaki-only events, facilitating connections with like-minded individuals and speakers.</li>
+        <li>Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.</li>
+        <li>Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.</li>
+        <li>Invitation to the special TEDxAuckland Dinner Series</li>
+      </ul>
     
-    <b>Networking Opportunities</b>
-    <ul>
-      <li>Invitations to exclusive kaitiaki-only events, facilitating connections with like-minded individuals and speakers.</li>
-      <li>Access to a dedicated online community, fostering discussions and collaborations around TEDxAuckland's themes and ideas.</li>
-      <li>Invitations to the TEDxAuckland Community events. These gatherings started off with Speakers wanting to catch up with each other and the crew after the event. For Speakers, Crew, Sponsors and Patrons to reconnect or connect and to be around a diverse group of forward thinking doers.</li>
-      <li>Invitation to the special TEDxAuckland Dinner Series</li>
-    </ul>
-    
-    <b>Brand Exposure</b>
-    <ul>
-      <li>Feature on our website's Kaitiaki page, including your logo and link to website or page.</li>
-      <li>Opportunity to showcase your commitment to social impact and innovation to our diverse audience.</li>
-    </ul>
+      <b>Brand Exposure</b>
+      <ul>
+        <li>Feature on our website's Kaitiaki page, including your logo and link to website or page.</li>
+        <li>Opportunity to showcase your commitment to social impact and innovation to our diverse audience.</li>
+      </ul>
+    </div>
     
     <b>Join our Kaitiaki Programme</b>,  EMAIL kaitiaki @tedxauckland .com
     
-  <!--</div>-->
 </section>
 
 
