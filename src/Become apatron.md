@@ -143,22 +143,28 @@ seo:
         <div class="snip-content">  Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events. </div>
       </div>-->
       
-      <b> Sustainable Funding </b> <br />
-      Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.
-      
       <div>
         <b> Sustainable Funding </b> <br />
         Establish a reliable source of income to ensure the continuity and growth of TEDxAuckland events.
       </div>
       
-      <div class="snip">
+      <!-- <div class="snip">
         <b> Community Engagement </b>
         <div class="snip-content"> Foster deeper connections with our audience by involving them in our mission. </div>
+      </div> -->
+      
+      <div>
+        <b> Community Engagement </b> <br />
+        Foster deeper connections with our audience by involving them in our mission.
       </div>
       
-      <div class="snip">
+      <!-- <div class="snip">
         <b> Amplified Impact </b>
         <div class="snip-content"> Empower speakers and ideas to reach a wider audience and drive positive change. </div>
+      </div> -->
+      <div>
+        <b> Amplified Impact </b> <br />
+        Empower speakers and ideas to reach a wider audience and drive positive change.
       </div>
       
     </div>
