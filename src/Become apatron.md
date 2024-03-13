@@ -194,22 +194,7 @@ seo:
       <li>Opportunity to showcase your commitment to social impact and innovation to our diverse audience.</li>
     </ul>
     
-    <b>Brand Exposure</b>
-    <ul>
-      <li>Feature on our website's Kaitiaki page, including your logo and link to website or page.</li>
-      <li>Opportunity to showcase your commitment to social impact and innovation to our diverse audience.</li>
-    </ul>
     
-    <p> <b>Join our Kaitiaki Programme</b>,  EMAIL kaitiaki @tedxauckland .com </p>
-    
-    
-    <h4>H4 Heading</h4>
-    <h3>H3 Heading</h3>
-    <h5>H5 Heading</h5>
-    
-    <p> < p> normal paragraph <b> testing bold < b>  </b> <br>
-    testing line break.
-    </p>
     
   </div>
 </section>
