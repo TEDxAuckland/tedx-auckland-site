@@ -4,13 +4,10 @@ title: Become a Patron
 short_title: Become-a-Patron
 permalink: /Become-a-Patron/
 carousel_images:
-  - image: /uploads/georgia-s-77.jpg
-  - image: /uploads/2017-42111492075-70aedb245e-o.jpg
-  - image: /uploads/2017-42111732935-743a8fb06e-o.jpg
-  - image: /uploads/whoa-2019-48165344212-812ec6f14e-o.jpg
-  - image: /uploads/tr-770.jpg
+  - image: /uploads/Community-Carousel-1-x4800.jpg
+  - image: /uploads/Community-Carousel-2-x4800.jpg
 hero:
-  image: /uploads/BannerPatron3800x1800.jpg
+  image: /uploads/KaitiakiBanner-1-x3800.jpg
 seo:
   name: TEDxAuckland
   type: Patron
