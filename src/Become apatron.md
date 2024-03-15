@@ -187,8 +187,8 @@ seo:
       </ul>
     </div>
     
-    You are not just a Patron, you are part of the group that will help steer TEDxAuckland moving forward.
-
+    You are not just a Patron, you are part of the group that will help steer TEDxAuckland moving forward. <br/>
+    <br/>
     <b>Join our Kaitiaki Programme</b>,  EMAIL kaitiaki @tedxauckland .com
 
 </section>
