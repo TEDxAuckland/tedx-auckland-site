@@ -7,7 +7,7 @@ carousel_images:
   - image: /uploads/Community-Carousel-1-x4800.jpg
   - image: /uploads/Community-Carousel-2-x4800.jpg
 hero:
-  image: /uploads/KaitiakiBanner-1-x3800.jpg
+  image: /uploads/KaitiakiBanner-2-x3800.jpg
 seo:
   name: TEDxAuckland
   type: Patron
