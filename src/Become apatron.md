@@ -186,6 +186,8 @@ seo:
         <li> Opportunity to showcase your commitment to social impact and innovation to our diverse audience. </li>
       </ul>
     </div>
+    
+    You are not just a Patron, you are part of the group that will help steer TEDxAuckland moving forward.
 
     <b>Join our Kaitiaki Programme</b>,  EMAIL kaitiaki @tedxauckland .com
 
