@@ -17,51 +17,11 @@ seo:
   .header-section, .carousel {
     max-width: 1200px;
     width: 100%;
-    background-color: #d9d9d9;
     display: flex;
     justify-content: space-between;
     margin: 0 auto; /* Center the header */
   }
-  <!--.left-column {-->
-  <!--  width: 50%;-->
-  <!--  padding: 4em;-->
-  <!--  box-sizing: border-box;-->
-  <!--  align-content: center;-->
-  <!--  display: flex;-->
-  <!--  flex-direction: column;-->
-  <!--  justify-content: center;-->
-  <!--}-->
-  <!--.left-column img {-->
-  <!--  max-width: 400px; /* or your preferred size */-->
-  <!--  width: 100%;-->
-  <!--  height: auto;-->
-  <!--}-->
-  <!--.left-column p {-->
-  <!--  /* Styling for your paragraph */-->
-  <!--}-->
-  <!--.left-column button {-->
-  <!--  background-color: red;-->
-  <!--  color: white;-->
-  <!--  border: none;-->
-  <!--  padding: 10px 20px;-->
-  <!--  cursor: pointer;-->
-  <!--  text-transform: uppercase;-->
-  <!--  width: 170px;-->
-  <!--  /* Add any additional button styling here */-->
-  <!--}-->
-  <!--.right-column {-->
-  <!--  width: 50%;-->
-  <!--  position: relative;-->
-  <!--  padding: 4em;-->
-  <!--  box-sizing: border-box;-->
-  <!--}-->
-  <!--.right-column img {-->
-  <!--  width: 100%;-->
-  <!--  height: auto;-->
-  <!--  position: relative;-->
-  <!--  z-index: 2;-->
-  <!--  box-shadow: 7px 7px 0 0 #be0000;-->
-  <!--}-->
+
   .patron-subheader {
     font-style: italic;
     font-size: 42px;
@@ -122,6 +82,9 @@ seo:
     display: none;
   }
 
+  #carousel {
+    padding: 10px;
+  }
 </style>
 
 
