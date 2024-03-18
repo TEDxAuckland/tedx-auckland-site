@@ -21,6 +21,10 @@ seo:
     justify-content: space-between;
     margin: 0 auto; /* Center the header */
   }
+  
+  .carousel .hooper {
+    padding-top: 0;
+  }
 
   .patron-subheader {
     font-style: italic;
