@@ -93,6 +93,10 @@ other_youtube_playlist:
   #carousel {
     padding: 10px;
   }
+  
+  h3.section-heading {
+    display: none;
+  }
 </style>
 
 
