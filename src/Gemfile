@@ -4,6 +4,7 @@ gem 'jekyll'
 gem 'bigdecimal'
 gem 'webrick'
 gem 'execjs', '2.7.0'
+gem 'observer'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
