@@ -1,3 +1,6 @@
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .partner-heading {
   color: $brand-grey-darker;
   font-size: 3rem;

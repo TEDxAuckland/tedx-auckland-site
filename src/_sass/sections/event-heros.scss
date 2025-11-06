@@ -1,3 +1,6 @@
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .event-hero-2018 {
 	background-color: $brand-white;
 	color: #000;

@@ -1,3 +1,7 @@
+@use "sass:color";
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .post-hero {
 	margin: 0 auto;
 	max-width: 1800px;
@@ -61,14 +65,14 @@
     }
 
 		&-caption {
-			color: lighten($brand-grey, 20);
+			color: color.adjust($brand-grey, $lightness: 20%, $space: hsl);
 			font-size: 1.3rem;
 			font-weight: 500;
 			@include respond(tab-land) { text-align: center; }
 
 			a {
 				transition: all 200ms;
-				color: lighten($brand-grey, 20);
+				color: color.adjust($brand-grey, $lightness: 20%, $space: hsl);
 			}
 
 			a:hover {
@@ -91,7 +95,7 @@
 
 	a {
 		transition: all 200ms;
-		color: lighten($brand-grey, 20);
+		color: color.adjust($brand-grey, $lightness: 20%, $space: hsl);
 	}
 
 	a:hover {

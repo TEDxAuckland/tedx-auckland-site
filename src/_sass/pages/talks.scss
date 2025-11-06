@@ -1,3 +1,7 @@
+@use "sass:color";
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .hero__talks {
   background-position: top;
 }
@@ -79,13 +83,13 @@
 
   &__tag {
     a {
-      color: lighten($brand-grey, 70%);
+      color: color.adjust($brand-grey, $lightness: 70%, $space: hsl);
     }
     font-family: $secondary-font;
     padding: 0.5em 1em;
     margin: 0.5em .5em 0 0;
     border-radius: 0.5rem;
-    background-color: lighten($brand-grey, 20%);
+    background-color: color.adjust($brand-grey, $lightness: 20%, $space: hsl);
 
     transition: all 0.2s;
 

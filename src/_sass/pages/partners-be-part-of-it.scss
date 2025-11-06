@@ -1,3 +1,5 @@
+@use '../abstract/mixins' as *;
+
 .content-row {
   display: flex;
   flex-wrap: wrap;

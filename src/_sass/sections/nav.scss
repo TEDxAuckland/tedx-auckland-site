@@ -1,3 +1,7 @@
+@use "sass:color";
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .nav-bar {
 	background-color: $brand-white;
 	padding: 20px 0;
@@ -118,7 +122,7 @@
 		color: #000;
 
 		&--sub {
-			color: darken($brand-white, 40%);
+			color: color.adjust($brand-white, $lightness: -40%, $space: hsl);
 			font-size: 1.4rem;
 		}
 	}

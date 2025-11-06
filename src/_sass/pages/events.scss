@@ -1,3 +1,7 @@
+@use "sass:color";
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .events-list-hero {
   padding-top: 2rem;
 }
@@ -9,7 +13,7 @@
 .events-list {
   display: flex;
   justify-content: flex-end;
-  color: lighten($brand-grey-darker, 70%);
+  color: color.adjust($brand-grey-darker, $lightness: 70%, $space: hsl);
   line-height: 1.2;
   text-align: right;
   flex: 1 0 auto;
@@ -101,7 +105,7 @@
   }
 
   &__bottom {
-    color: lighten($brand-grey-darker, 40%);
+    color: color.adjust($brand-grey-darker, $lightness: 40%, $space: hsl);
   }
 }
 .event-upcoming {

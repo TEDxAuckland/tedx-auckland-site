@@ -1,3 +1,5 @@
+@use '../variables' as *;
+
 .countdown {
   &__text {
     color: $brand-color;

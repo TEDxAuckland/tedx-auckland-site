@@ -1,3 +1,6 @@
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .event-bar {
   background-color: $brand-white;
 

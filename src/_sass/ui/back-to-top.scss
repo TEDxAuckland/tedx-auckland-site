@@ -1,3 +1,6 @@
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 $width: 5.4rem;
 $translate-x-distance: calc($site-width / 2);
 

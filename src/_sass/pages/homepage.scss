@@ -1,3 +1,6 @@
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .homepage-hero {
   background-color: $brand-white;
 

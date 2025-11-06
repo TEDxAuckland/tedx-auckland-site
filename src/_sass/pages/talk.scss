@@ -1,3 +1,6 @@
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .talk-header {
   padding: 3rem 0;
   border-top: 1px dashed #000;

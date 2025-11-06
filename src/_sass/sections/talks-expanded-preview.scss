@@ -1,3 +1,5 @@
+@use '../abstract/mixins' as *;
+
 .talks-expanded-preview {
   &__header {
     display: flex;

@@ -1,3 +1,6 @@
+@use '../variables' as *;
+@use '../abstract/mixins' as *;
+
 .footer {
 	background: $brand-white;
 	color: #000;
