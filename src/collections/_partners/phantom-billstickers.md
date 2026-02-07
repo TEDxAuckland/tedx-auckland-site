@@ -1,5 +1,6 @@
 ---
-name: 'Phantom Billstickers'
-link: http://0800phantom.co.nz/
-partner_logo_image: "/uploads/Bulldog_classic-10.jpg"
+_schema: default
+name: Phantom Billstickers
+link: https://phantombillstickers.com/
+partner_logo_image: /uploads/phantom-billstickers-blacklogo-1.svg
 ---
