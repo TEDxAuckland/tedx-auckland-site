@@ -1,63 +1,200 @@
 source: src
-
 paths:
   uploads: uploads
-
 collections_config:
   events:
+    path: collections/_events
     name: Events
     icon: celebration
-    image_key: image
-    path: collections/_events
+    disable_url: false
+    preview:
+      text:
+        - text:
+        - key: title
+      subtext:
+      icon:
+      icon_color:
+      icon_background_color:
+      image:
+        - key: hero.image
+      metadata:
+      gallery:
+    _inputs:
+      people:
+        type: multichoice
+        options:
+          allow_create:
+          allow_empty: true
+          values:
+          value_key: filename_without_ext
+          preview:
+            text:
+              - key: name
+            subtext:
+            icon:
+            icon_color:
+            icon_background_color:
+            image:
+              - key: image
+            metadata:
+            gallery:
+          required:
+          required_message:
+          min_items:
+          min_items_message:
+          max_items:
+          max_items_message:
+          empty_type:
+        instance_value: NOW
+        cascade: true
+      event_partners:
+        type: multiselect
+        options:
+          allow_create:
+          allow_empty: true
+          values:
+          value_key: filename_without_ext
+          preview:
+          picker_preview:
+          view:
+          picker_view:
+          required:
+          required_message:
+          min_length:
+          min_length_message:
+          max_length:
+          max_length_message:
+          pattern:
+          pattern_message:
+          min_graphemes:
+          min_graphemes_message:
+          max_graphemes:
+          max_graphemes_message:
+          min_words:
+          min_words_message:
+          max_words:
+          max_words_message:
+          locale:
+          empty_type:
+          min_items:
+          min_items_message:
+          max_items:
+          max_items_message:
+        cascade: true
+    _select_data:
+    _structures:
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       default:
         path: schemas/events.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
+        _inputs:
   partners:
+    path: collections/_partners
     name: Partners
     icon: volunteer_activism
-    image_key: partner_logo_image
-    path: collections/_partners
     disable_url: true
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       default:
         path: schemas/partners.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
   people:
+    path: collections/_people
     name: People
     icon: directions_walk
-    image_key: image
-    _hide_content: true
-    path: collections/_people
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       default:
         path: schemas/people.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
   posts:
-    name: Posts
     path: collections/_posts
+    name: Posts
+    icon: notes
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       default:
         path: schemas/posts.md
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
   videos:
+    path: collections/_videos
     name: Videos
     icon: slideshow
-    image_key: images.first.image
-    path: collections/_videos
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
     schemas:
       default:
         path: schemas/videos.md
-
-
+        reorder_inputs: true
+        hide_extra_inputs: false
+        remove_empty_inputs: false
+        remove_extra_inputs: true
+  pages:
+    path: ''
+    icon: wysiwyg
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data:
+    path: _data
+    icon: data_usage
+    disable_url: true
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
+  partners_1:
+    path: partners
+    icon: filter_1
+    disable_url: true
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 data_config:
   site-settings:
-    path:  _data/site_settings.yml
-
+    path: _data/site_settings.yml
+timezone: Pacific/Auckland
 markdown:
   engine: kramdown
   options:
+    xhtml: false
+    breaks: false
+    linkify: false
+    typographer: false
+    spaced_lists: false
+    sentence_per_line: false
+    gfm: false
+    code_block_fences: '```'
+    escape_snippets_in_code_blocks: false
     treat_indentation_as_code: true
     table: true
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: false
     attributes: true
-
-
-timezone: Pacific/Auckland
-
-
