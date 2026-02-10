@@ -190,6 +190,7 @@ collections_config:
     disable_file_actions: true
   partners_1:
     path: partners
+    name: Partnership Pages
     icon: filter_1
     disable_url: true
     disable_add: false

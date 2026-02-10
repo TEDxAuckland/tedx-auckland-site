@@ -42,7 +42,6 @@ people:
   - vaughan-rowsell
   - vivien-maidaborn
   - waikare-komene
-  - zeshan-qureshi
 flikr_galleries:
   - '72157656140582479'
   - '72157656599694255'
