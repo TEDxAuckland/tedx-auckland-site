@@ -51,7 +51,13 @@ flikr_galleries:
 major_partners:
 supporting_partners:
 event_partners:
+  - the-goat-farm
+  - the-amazing-travelling-photobooth
+  - volvo
   - asahi
+  - augusto
+  - phantom-billstickers
+  - loop
 carousel_images:
   - image:
     alt:
