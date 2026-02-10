@@ -198,15 +198,17 @@ collections_config:
     disable_file_actions: false
 collection_groups:
   - heading: Collections
-    - events
-    - partners
-    - people
-    - posts
-    - videos
-    - data
+    collections:
+      - events
+      - partners
+      - people
+      - posts
+      - videos
+      - data
   - heading: Pages
-    - pages
-    - partnership_pages
+    collections:
+      - pages
+      - partnership_pages
 data_config:
   site-settings:
     path: _data/site_settings.yml
