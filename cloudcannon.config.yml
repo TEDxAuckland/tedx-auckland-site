@@ -21,7 +21,7 @@ collections_config:
       gallery:
     _inputs:
       people:
-        type: multichoice
+        type: multiselect
         options:
           allow_create:
           allow_empty: true
@@ -40,11 +40,11 @@ collections_config:
             gallery:
           required:
           required_message:
+          empty_type:
           min_items:
           min_items_message:
           max_items:
           max_items_message:
-          empty_type:
         instance_value: NOW
         cascade: true
       event_partners:
@@ -55,7 +55,27 @@ collections_config:
           values:
           value_key: filename_without_ext
           preview:
+            text:
+              - key: name
+            subtext:
+            icon:
+            icon_color:
+            icon_background_color:
+            image:
+              - key: partner_logo_image
+            metadata:
+            gallery:
           picker_preview:
+            text:
+              - key: name
+            subtext:
+            icon:
+            icon_color:
+            icon_background_color:
+            image:
+              - key: partner_logo_image
+            metadata:
+            gallery:
           view:
           picker_view:
           required:
