@@ -1,50 +1,63 @@
+source: src
+
+paths:
+  uploads: uploads
+
 collections_config:
   events:
     name: Events
     icon: celebration
     image_key: image
-    output: true
+    path: collections/_events
     schemas:
       default:
         path: schemas/events.md
+  partners:
+    name: Partners
+    icon: volunteer_activism
+    image_key: partner_logo_image
+    path: collections/_partners
+    disable_url: true
+    schemas:
+      default:
+        path: schemas/partners.md
   people:
     name: People
     icon: directions_walk
     image_key: image
     _hide_content: true
-    output: true
+    path: collections/_people
     schemas:
       default:
         path: schemas/people.md
-  partners:
-    name: Partners
-    icon: volunteer_activism
-    image_key: partner_logo_image
-    schemas:
-      default:
-        path: schemas/partners.md
-  videos:
-    name: Videos
-    output: true
-    icon: slideshow
-    image_key: images.first.image
-    schemas:
-      default:
-        path: schemas/videos.md
   posts:
     name: Posts
+    path: collections/_posts
     schemas:
       default:
         path: schemas/posts.md
+  videos:
+    name: Videos
+    icon: slideshow
+    image_key: images.first.image
+    path: collections/_videos
+    schemas:
+      default:
+        path: schemas/videos.md
 
 
-# data_config:
+data_config:
+  site-settings:
+    path:  _data/site_settings.yml
 
-source: src
+markdown:
+  engine: kramdown
+  options:
+    treat_indentation_as_code: true
+    table: true
+    attributes: true
+
 
 timezone: Pacific/Auckland
 
-paths:
-  collections: collections
-  # uploads: uploads
 
