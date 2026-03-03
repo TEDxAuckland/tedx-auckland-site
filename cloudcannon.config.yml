@@ -114,6 +114,50 @@ collections_config:
         remove_empty_inputs: false
         remove_extra_inputs: true
         _inputs:
+          $.supporting_partners:
+            type: multiselect
+            options:
+              allow_create:
+              allow_empty: true
+              values:
+              value_key: filename_without_ext
+              preview:
+                text:
+                  - key: name
+                subtext:
+                icon:
+                  - key: partner_logo_image
+                icon_color:
+                icon_background_color:
+                image:
+                metadata:
+                gallery:
+              picker_preview:
+              view:
+              picker_view:
+              required:
+              required_message:
+              min_length:
+              min_length_message:
+              max_length:
+              max_length_message:
+              pattern:
+              pattern_message:
+              min_graphemes:
+              min_graphemes_message:
+              max_graphemes:
+              max_graphemes_message:
+              min_words:
+              min_words_message:
+              max_words:
+              max_words_message:
+              locale:
+              empty_type:
+              min_items:
+              min_items_message:
+              max_items:
+              max_items_message:
+            cascade: true
   partners:
     path: collections/_partners
     name: Partners
