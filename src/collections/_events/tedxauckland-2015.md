@@ -45,8 +45,8 @@ flikr_galleries:
   - '72157651989131684'
 major_partners:
 supporting_partners:
-  - /collections/_partners/2degrees.md
-  - /collections/_partners/aut.md
+  - 2degrees
+  - aut
 event_partners:
 carousel_images:
   - image:

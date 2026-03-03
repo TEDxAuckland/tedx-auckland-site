@@ -119,7 +119,7 @@ collections_config:
             options:
               allow_create:
               allow_empty: true
-              values:
+              values: collections.partners
               value_key: filename_without_ext
               preview:
                 text:
