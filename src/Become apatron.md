@@ -158,7 +158,7 @@ other_youtube_playlist:
 
     You are not just a Patron, you are part of the group that will help steer TEDxAuckland moving forward. <br />
     <br />
-    <b>Join our Kaitiaki Programme</b>,  EMAIL thomas @tedxauckland .com
+    <b>Join our Kaitiaki Programme</b>,  EMAIL partnerships @tedxauckland .com
 
 </section>
 
