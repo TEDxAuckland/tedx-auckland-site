@@ -1,6 +1,8 @@
 ---
+_schema: default
 title: Dec 2017
 short_title: Dec '17
+layout: event
 upcoming: false
 ticket_sales:
   link:
@@ -12,14 +14,13 @@ ticket_sales:
   application:
     active: false
     link:
-layout: event
 hero:
   image: /uploads/tedxakl-2017-banner-fw.png
   webp_video:
   mp4_video:
 tagline:
-start_date: 2017-12-01 00:00:00 +1300
-end_date: 2017-12-02 00:00:00 +1300
+start_date: 2017-12-01T00:00:00+13:00
+end_date: 2017-12-02T00:00:00+13:00
 address: Aotea Centre, 50 Mayoral Drive Auckland Central Auckland 1010
 hide_speaker_names: true
 people:
@@ -93,6 +94,9 @@ event_partners:
   - little_bird
   - fairtrade
   - as-colour
+carousel_images:
+  - image:
+    alt:
 youtube_playlist: PLcm2pIIAwlDtn58jNUEqyRUgUuNJ8Qjdd
 other_youtube_playlist_title: EDxMini's
 other_youtube_playlist: PLcm2pIIAwlDv8TaGu92limqVEmJN6q7eb
@@ -105,13 +109,14 @@ seo:
 event_listing:
   is_highlighted: false
   description: Aotea Centre
+  subtitle: Theme or subtitle
   image: /uploads/irra-lee-crop-17-100-2593.jpg
 ---
 # TEDxAuckland 2017
 
 This year we’re back at the Aotea Centre for our 2nd multi-day festival. Join us for 21 talks from local and international speakers, food, fun and partner activations.
 
-TEDxAuckland is an Ideas Festival. Get ready to be inspired and challenged by local and international people changing the world with their unique ideas, and in the breaks get chatting to the equally incredible attendees around you\!
+TEDxAuckland is an Ideas Festival. Get ready to be inspired and challenged by local and international people changing the world with their unique ideas, and in the breaks get chatting to the equally incredible attendees around you!
 
 Food and drink during the event is included in your Multi-Day Pass and on Saturday evening, once the talks are done, another experience awaits VIP ticket holders.
 
