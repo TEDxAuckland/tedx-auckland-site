@@ -51,11 +51,14 @@
 
 		<script>
 		function hamburger_menu() {
-			var x = document.getElementById("nav-links");
-			if (x.className === "nav-links") {
-				x.className += " show-mobile-nav";
+			const navLinks = document.getElementById("nav-links");
+			const navBarLinks = document.querySelector(".nav-bar__links");
+			if (navLinks.className === "nav-links") {
+				navLinks.className += " show-mobile-nav";
+				navBarLinks.className += " nav-bar__links--open";
 			} else {
-				x.className = "nav-links";
+				navLinks.className = "nav-links";
+				navBarLinks.className = navBarLinks.className = "nav-bar__links";
 			}
 		}
 		</script>

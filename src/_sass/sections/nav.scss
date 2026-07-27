@@ -67,6 +67,15 @@
 
 		@include respond(phone) {
 			margin: 2rem 0;
+			display: none;
+		}
+
+		&--closed {
+			display: none;
+		}
+
+		&--open {
+			display: block;
 		}
 	}
 
