@@ -6,6 +6,7 @@
 /about/contact-us/ /about/
 /category/ /news/
 /category/* /news/
+/news/* /blog/
 /tedspeakers/ /people/
 /videos/ /talks/
 /videos/* /talks/
